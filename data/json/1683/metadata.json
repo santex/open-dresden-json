@@ -1,0 +1,66 @@
+{
+  "id": "UK/043/2012",
+  "description": "43. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2012-07-16T13:30:00Z",
+  "ended_at": "2012-07-16T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  Neues Rathaus, Eingang Ratskeller gegenüber Radisson Hotel - offizieller Start der Rundfahrt 16:00 Uhr Volksfestgelände/Busparkpl. Ostragehege - anschließend Fortsetzung der Beratung UK im Beratungsraum Volkshaus Laubegast, Rückfahrt gg. 20:30 Uhr",
+  "parts": [
+    {
+      "description": "Entscheidung über Widmung, Einziehung sowie Veränderungen an gewidmeten Grünanlagen gemäß § 2 der Satzung über Erlaubnisse und Gebühren für Sondernutzungen der öffentlichen Grünanlagen der Landeshauptstadt Dresden (Sondernutzung Grünanlagen)",
+      "template_id": "V1171/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1171/11_UK",
+          "file_name": "00105119.pdf"
+        },
+        {
+          "description": "V1171/11",
+          "file_name": "00101060.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00100417.pdf"
+        },
+        {
+          "description": "BK_V1171/11_Zwischeninfo vom 10.01.2013",
+          "file_name": "00120978.pdf"
+        },
+        {
+          "description": "Liste 1 Park- und Grünanlagen 31.05.11",
+          "file_name": "00099360.pdf"
+        },
+        {
+          "description": "Liste 2 Spielplätze 30.12.2011",
+          "file_name": "00099542.pdf"
+        },
+        {
+          "description": "Liste 3 Brunnen 31.05.11",
+          "file_name": "00099363.pdf"
+        },
+        {
+          "description": "V0092",
+          "file_name": "00069657.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00102853.pdf",
+      "description": "Einladung_UK_2012_07_16"
+    },
+    {
+      "file_name": "00105546.pdf",
+      "description": "Niederschrift öffentlich_UK_2012_07_16"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:03:32Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1683"
+}

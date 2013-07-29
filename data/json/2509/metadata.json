@@ -1,0 +1,261 @@
+{
+  "id": "SR/056/2013",
+  "description": "56. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2013-06-20T14:00:00Z",
+  "ended_at": "2013-06-20T20:05:00Z",
+  "location": "in der Messe Dresden, Saal Hamburg,Messering 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "3. Einwohnerinnen- und Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Hochwasser 2013",
+      "template_id": " EWA0100/13",
+      "documents": [
+        {
+          "description": "2013-07-03-EWA0100",
+          "file_name": "00137779.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 387/Reduzierung der Grünanlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Frühzeitige Einbeziehung der Einwohnerinnen und Einwohner",
+      "template_id": " EWA0111/13",
+      "documents": [
+        {
+          "description": "2013-06-28-EWA0111",
+          "file_name": "00137274.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2014 bis 2018",
+      "template_id": "V2174/13",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00128044.pdf"
+        }
+      ],
+      "decision": "erneute Beratung",
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Jugendhilfeausschuss",
+      "template_id": "V2340/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2340/13",
+          "file_name": "00136324.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00134858.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 63",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Konzept \"Heiraten in Dresden\" entwickeln - Standesamt stärken, Angebote und Kooperationen erweitern, Dresden als Hochzeitsstadt deutschlandweit profilieren",
+      "template_id": "A0697/13",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00123410.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0697/13",
+          "file_name": "00136332.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 36",
+        "contra": " 28",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Konzept einer Unterbringung von AsylbewerberInnen und geduldeten MigrantInnen für die Stadt Dresden",
+      "template_id": "A0689/13",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00120042.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0689/13",
+          "file_name": "00136340.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 30",
+        "contra": " 35",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Einwohnerversammlung zur geplanten Straßenbahnverbindung Tiergartenstraße - Oskarstraße und zur Umgestaltung der Oskarstraße/Wasaplatz",
+      "template_id": "A0711/13",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00127469.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0711/13",
+          "file_name": "00136344.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 62",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Regelungen für Straßenmusik im Rahmen der Sondernutzung",
+      "template_id": "A0742/13",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00134064.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0742/13",
+          "file_name": "00136352.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 62",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Integriertes Energie- und Klimaschutzkonzept Dresden 2030",
+      "template_id": "V2021/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2021/12",
+          "file_name": "00136479.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_V2021/12_Anlage",
+          "file_name": "00136480.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00124098.pdf"
+        },
+        {
+          "description": "Anlage 1 - Teil 1: IEuKK Dresden 2030 - Zusammenfassung",
+          "file_name": "00122676.pdf"
+        },
+        {
+          "description": "Anlage 1 - Teil 2: IEuKK Dresden 2030 - Endbericht",
+          "file_name": "00122710.pdf"
+        },
+        {
+          "description": "Anlage 1 - Teil 2: IEuKK Dresden 2030 - Endbericht Anlage 1",
+          "file_name": "00120231.pdf"
+        },
+        {
+          "description": "Anlage 1 - Teil 2: IEuKK Dresden 2030 - Endbericht Anlage 2",
+          "file_name": "00122677.pdf"
+        },
+        {
+          "description": "V0837-10 (UK-024-2011)",
+          "file_name": "00116721.pdf"
+        },
+        {
+          "description": "V1173-11 (WF-037-2011)",
+          "file_name": "00116722.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag Bündnis 90/Die Grünen",
+          "file_name": "00136308.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag FDP 1",
+          "file_name": "00136310.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag FDP 2",
+          "file_name": "00136311.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag FDP 3",
+          "file_name": "00136312.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag SPD",
+          "file_name": "00136309.pdf"
+        },
+        {
+          "description": "Ergänzungssantrag CDU",
+          "file_name": "00136307.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 54",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00135152.pdf",
+      "description": "Einladung_SR_2013_06_20"
+    },
+    {
+      "file_name": "00138227.pdf",
+      "description": "Niederschrift öffentlich_SR_2013_06_20"
+    },
+    {
+      "file_name": "00138235.pdf",
+      "description": "namentliche Abstimmungen"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:56:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2509"
+}

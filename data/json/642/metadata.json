@@ -1,0 +1,58 @@
+{
+  "id": "UK/018/2010",
+  "description": "18. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2010-09-13T14:30:00Z",
+  "ended_at": "2010-09-13T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "1. Änderung der Zweckvereinbarung über die Wahrnehmung von Aufgaben der Gewerbeabfallentsorgung",
+      "template_id": "V0701/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00039524.pdf"
+        },
+        {
+          "description": "Synopse zu ZAOE",
+          "file_name": "00037356.pdf"
+        },
+        {
+          "description": "1. Änderung Zweckvereinbarung ZAOE",
+          "file_name": "00037357.pdf"
+        },
+        {
+          "description": "V0948-UK-05",
+          "file_name": "00037358.pdf"
+        },
+        {
+          "description": "Zweckvereinbarung ZAOE",
+          "file_name": "00037361.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00040983.pdf",
+      "description": "Einladung_UK_2010_09_13"
+    },
+    {
+      "file_name": "00041269.pdf",
+      "description": "Beschlussausfertigung_V0701/10"
+    },
+    {
+      "file_name": "00041670.pdf",
+      "description": "Niederschrift öffentlich_UK_20010_09_13"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:11:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=642"
+}

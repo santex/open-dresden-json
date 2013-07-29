@@ -1,0 +1,49 @@
+{
+  "id": "OBR Pro/008/2010",
+  "description": "8. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2010-06-14T15:00:00Z",
+  "ended_at": "2010-06-14T17:02:00Z",
+  "location": "Ortsamt Prohlis, Prohliser Allee 10, 01239 Dresden, Bürgersaal",
+  "parts": [
+    {
+      "description": "Feststellung der Beschlussfähigkeit und Abstimmung über die Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Überarbeitung der Straßenreinigungsgebührensatzung 2011 - Mitwirkung des OBR",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00032586.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00034624.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:05:32Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=442"
+}

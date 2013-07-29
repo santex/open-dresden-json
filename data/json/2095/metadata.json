@@ -1,0 +1,81 @@
+{
+  "id": "OBR Bl/024/2012",
+  "description": "24. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2012-01-25T15:30:00Z",
+  "ended_at": "2012-01-25T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 23. Ortsbeiratssitzung am 14.12.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2012/2013",
+      "template_id": "V1389/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00085670.pdf"
+        },
+        {
+          "description": "Fachplan_gesamt",
+          "file_name": "00083758.pdf"
+        },
+        {
+          "description": "Beschluss V0938_11",
+          "file_name": "00080962.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE",
+          "file_name": "00094181.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - SPD",
+          "file_name": "00094183.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 19",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorstellung der Sanierungsmaßnahme zum Altstädter Abfangkanal",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Hinweise und Anfragen von Bürgern und Ortsbeiratsmitgliedern",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00085858.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00090149.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:25:24Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2095"
+}

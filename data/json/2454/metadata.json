@@ -1,0 +1,57 @@
+{
+  "id": "WF/069/2013",
+  "description": "69. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2013-03-28T14:00:00Z",
+  "ended_at": "2013-03-28T16:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Haus An der Kreuzkirche, 4. Etage, Raum 412,An der Kreuzkirche 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-652-00087 Neubau einer 4-Feld-Sporthalle, Gymnasium Dresden-CottaLos 440-1 Elektroinstallationen",
+      "template_id": "V2176/13",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Fortsetzung der Abstimmung zur Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00126577.pdf",
+      "description": "Einladung_WF_2013_03_28"
+    },
+    {
+      "file_name": "00127652.pdf",
+      "description": "Beschlussempfehlung_V1983_12_WF"
+    },
+    {
+      "file_name": "00128211.pdf",
+      "description": "Niederschrift öffentlich_WF_2013_03_28"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:45:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2454"
+}

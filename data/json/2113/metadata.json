@@ -1,0 +1,86 @@
+{
+  "id": "OSR WX/036/2012",
+  "description": "36. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2012-09-17T17:00:00Z",
+  "ended_at": "2012-09-17T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des Friedensrichters Herrn Dr. Wilhelm",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verordnung zur Festsetzung des Flächennaturdenkmals \"Feldweg- Marsdorf-Medingen\"hier: Abwägungsvorschlag der unteren NaturschutzbehördeBE: Herr Altmeyer, Frau Herrmann",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": " Ja: 6, Nein: 1, Enthaltungen: 1, Befangen: 0",
+      "vote_result": null
+    },
+    {
+      "description": "Weitere Anwendung der Gehölzschutzsatzung vom 16. Juni 1995 bei kommunalen Vorhaben",
+      "template_id": "A0628/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00100850.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0628/12",
+          "file_name": "00121603.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 0",
+        "contra": " 7",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Anfragen und Anregungen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00108835.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00108966.pdf",
+      "description": "Nachtrag_OSR WX"
+    },
+    {
+      "file_name": "00110193.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00110083.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:11:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2113"
+}

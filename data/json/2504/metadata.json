@@ -1,0 +1,27 @@
+{
+  "id": "AB/027/2013",
+  "description": "27. Sitzung des Ausländerbeirates",
+  "committee": "Ausländerbeirat",
+  "started_at": "2013-06-11T15:00:00Z",
+  "ended_at": null,
+  "location": "Sitzung fällt aus!!!",
+  "parts": [
+    {
+      "description": "Vorstellung eines ausländischen Vereins",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00133780.pdf",
+      "description": "Einladung_AB_2013_06_11"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:54:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2504"
+}

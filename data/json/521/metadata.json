@@ -1,0 +1,137 @@
+{
+  "id": "OSR SW/015/2010",
+  "description": "15. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2010-11-15T17:35:00Z",
+  "ended_at": "2010-11-15T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Straßenbaumaßnahme S177, Ortsumfahrung Wünschendorf-Eschdorf; Knotenpunkt nördlich EschdorfBE: Vertreter des Straßenbauamtes Meißen-Dresden",
+      "template_id": "V-SW0099/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Empfehlung des Ortschaftsrates Schönfeld-Weißig zur Klarstellung der Abgrenzung des im Zusammenhang bebauten Ortsteiles vom Außenbereich im Ortsteil Malschendorf",
+      "template_id": "V-SW0082/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Niederschriften der 13. Sitzung vom 13.09.2010 und 12. Sitzung vom 09.08.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Infovorlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Widerspruch der Landeshauptstadt Dresden gegen Verwendung personenbezogener Daten durch \"Google Streetview\"",
+      "template_id": "A0207/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0207_10",
+          "file_name": "00057363.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00033437.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00046870.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00048689.pdf",
+      "description": "Beschlussausfertigung SW0098-10"
+    },
+    {
+      "file_name": "00049883.pdf",
+      "description": "Beschlussausfertigung V-SW0082-10"
+    },
+    {
+      "file_name": "00048722.pdf",
+      "description": "Beschlussausfertigung V-SW0096-10"
+    },
+    {
+      "file_name": "00048721.pdf",
+      "description": "Beschlussausfertigung V-SW0096-10 komplett"
+    },
+    {
+      "file_name": "00051424.pdf",
+      "description": "Beschlussausfertigung V-SW0097-10"
+    },
+    {
+      "file_name": "00050087.pdf",
+      "description": "Beschlussausfertigung V-SW0099-10"
+    },
+    {
+      "file_name": "00049864.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:16:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=521"
+}

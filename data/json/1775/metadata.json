@@ -1,0 +1,126 @@
+{
+  "id": "WF/052/2012",
+  "description": "52. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-06-07T14:00:00Z",
+  "ended_at": "2012-06-07T15:55:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nichtöffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlussvorlagen zu VOF-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00023 Neubau Kindertageseinrichtung Waldparkstraße, 01309 DresdenLos 3 - Rohbauarbeiten",
+      "template_id": "V1700/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1700_12_WF",
+          "file_name": "00100835.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 5036/12 Zeitvertrag Instandsetzung Fahr,- Rad- und Gehbahnen 2012 - 2014",
+      "template_id": "V1702/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1702_12_WF",
+          "file_name": "00100837.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 5047/12Am Urnenfeld von Meißner Landstraße bis Flensburger Straße Straßenbau",
+      "template_id": "V1704/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1704_12_WF",
+          "file_name": "00100839.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-654-00013 Gymnasium Bürgerwiese, Parkstraße 4, 01069 Dresden, Los 01 - Rohbauarbeiten",
+      "template_id": "V1717/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1717_12_WF",
+          "file_name": "00100841.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Offene Beschlussvorlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00099716.pdf",
+      "description": "Einladung_WF_2012_06_07"
+    },
+    {
+      "file_name": "00100241.pdf",
+      "description": "Nachtrag_WF_2012_06_07"
+    },
+    {
+      "file_name": "00101455.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_06_07"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:51:35Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1775"
+}

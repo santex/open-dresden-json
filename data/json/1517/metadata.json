@@ -1,0 +1,87 @@
+{
+  "id": "OSR SB/021/2011",
+  "description": "21. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2011-04-13T17:30:00Z",
+  "ended_at": "2011-04-13T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im ehemaligen Gemeindehaus Schönborn, Beratungsraum,Seifersdorfer Straße 6, 01465 Dresden OT Schönborn",
+  "parts": [
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2011/2012",
+      "template_id": "V0938/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0938/11",
+          "file_name": "00069531.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00057939.pdf"
+        },
+        {
+          "description": "a_Deckblatt",
+          "file_name": "00057541.pdf"
+        },
+        {
+          "description": "b_Inhaltsverzeichnis",
+          "file_name": "00057542.pdf"
+        },
+        {
+          "description": "c_Teil A",
+          "file_name": "00057543.pdf"
+        },
+        {
+          "description": "d_Teil B",
+          "file_name": "00055817.pdf"
+        },
+        {
+          "description": "e_Teil C_1",
+          "file_name": "00055819.pdf"
+        },
+        {
+          "description": "f_Teil C_2",
+          "file_name": "00055820.pdf"
+        },
+        {
+          "description": "g_Teil D",
+          "file_name": "00055821.pdf"
+        },
+        {
+          "description": "h_Literaturverzeichnis",
+          "file_name": "00055822.pdf"
+        },
+        {
+          "description": "i_Beschluss V0413",
+          "file_name": "00055823.pdf"
+        },
+        {
+          "description": "V0938/11",
+          "file_name": "00058114.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Berichterstattung Abstimmung Nutzung Bürgerhaus Liegenschaftsamt",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00060115.pdf",
+      "description": "Einladung_OSR SB"
+    },
+    {
+      "file_name": "00062501.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:38:44Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1517"
+}

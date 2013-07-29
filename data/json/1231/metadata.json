@@ -1,0 +1,134 @@
+{
+  "id": "FL/050/2011",
+  "description": "50. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2011-12-05T14:00:00Z",
+  "ended_at": "2011-12-05T17:55:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Mehrbedarf Personalausgaben 2011",
+      "template_id": "V1312/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1312/11",
+          "file_name": "00082624.pdf"
+        },
+        {
+          "description": "V1312/11",
+          "file_name": "00078634.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00078577.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Veranschlagung überplanmäßiger Erträge und Aufwendungen im Ergebnishaushalt des Schulverwaltungsamtes",
+      "template_id": "V1342/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1342/11",
+          "file_name": "00082632.pdf"
+        },
+        {
+          "description": "V1342/11",
+          "file_name": "00080000.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00079667.pdf"
+        },
+        {
+          "description": "Anlage V1342/11",
+          "file_name": "00078917.pdf"
+        },
+        {
+          "description": "Beschluss",
+          "file_name": "00079617.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Mittelbereitstellung für den dringend notwendigen Abriss des ehemaligen Betonwerkes auf der Strehlener Straße, Gemarkung Altstadt IIRevitalisierung der Industriebrache - ehemaliges Betonwerk Strehlener Straße",
+      "template_id": "V1371/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1371/11",
+          "file_name": "00082646.pdf"
+        },
+        {
+          "description": "BK-V1371-11 (3. ZwB)",
+          "file_name": "00114346.pdf"
+        },
+        {
+          "description": "BK-V1371-11 (4. ZwB)",
+          "file_name": "00127074.pdf"
+        },
+        {
+          "description": "V1371/11",
+          "file_name": "00081399.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00081019.pdf"
+        },
+        {
+          "description": "Anlage 3 Teil I zur V1371 11",
+          "file_name": "00080453.pdf"
+        },
+        {
+          "description": "Anlage 3 Teil II zur V1371 11",
+          "file_name": "00080454.pdf"
+        },
+        {
+          "description": "Anlage 3 Teil III zur V1371 11",
+          "file_name": "00080455.pdf"
+        },
+        {
+          "description": "Anlage 3 Teil IV zur V1371 11",
+          "file_name": "00080456.pdf"
+        },
+        {
+          "description": "Anlagen 1, 2, 4, 5, 6 zur V1371 11",
+          "file_name": "00080348.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00081223.pdf",
+      "description": "Einladung_FL_2011_12_05"
+    },
+    {
+      "file_name": "00081751.pdf",
+      "description": "Nachtrag_FL_2011_12_05"
+    },
+    {
+      "file_name": "00083353.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:17:09Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1231"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "OBR Kl/033/2012",
+  "description": "33. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2012-12-10T17:00:00Z",
+  "ended_at": "2012-12-10T18:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Agenda 2013 - Ausblick auf die Zukunft des Fontane-Centers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00117120.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00118404.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:23:10Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2083"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "OSR AF/044/2013",
+  "description": "44. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2013-05-13T17:00:00Z",
+  "ended_at": "2013-05-13T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortschaftszentrum Altfranken, Sitzungssaal,Otto-Harzer-Straße 2 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Bildung von Wahlkreisen für die Stadtratswahl 2014",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ergebnisse und Konsequenzen der Eingemeindungen in die Landeshauptstadt Dresden",
+      "template_id": "A0714/13",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00127995.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anmietung von Räumen des Ortschaftszentrums zur Durchführung ärztlicher Sprechstunden",
+      "template_id": "V-AF0060/13",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beteiligung des Ortschaftsrates an den Planungskosten der Kindertageseinrichtung in der Ortschaft Altfranken",
+      "template_id": "V-AF0062/13",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00131830.pdf",
+      "description": "Einladung_OSR AF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:49:37Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2981"
+}

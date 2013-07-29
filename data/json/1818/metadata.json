@@ -1,0 +1,38 @@
+{
+  "id": "KK/040/2012",
+  "description": "40. Sitzung des Betriebsausschusses für Städtische Krankenhäuser und Kindertageseinrichtungen",
+  "committee": "Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen",
+  "started_at": "2012-10-10T14:30:00Z",
+  "ended_at": "2012-10-10T16:25:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Elternbeteiligung an Kita-Entwicklung sichern - Vielfalt pädagogischer Konzepte gewährleisten",
+      "template_id": "A0510/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00082795.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00111201.pdf",
+      "description": "Einladung_KK_2012_10_10"
+    },
+    {
+      "file_name": "00112267.pdf",
+      "description": "Beschlussempfehlung V1805/12 _KK"
+    },
+    {
+      "file_name": "00114114.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:15:11Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1818"
+}

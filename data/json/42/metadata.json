@@ -1,0 +1,131 @@
+{
+  "id": "OSR LB/002/2009",
+  "description": "2. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2009-09-15T16:30:00Z",
+  "ended_at": "2009-09-15T19:05:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Mietvertrag Gemarkung Langebrück, Flurstück 782/1, Dörnichtweg 2",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Errichtung einer Sportfreizeitfläche (u.a. Bolzplatz) in der Ortschaft Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Radweg- und Gehbahnführung in der Ortschaft Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verkehrsbaumaßnahme Knotenpunkt Klotzscher Straße/Lessingstraße in Langebrück",
+      "template_id": "V0102/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00003686.pdf"
+        },
+        {
+          "description": "V0102/09 (V2919)",
+          "file_name": "00003687.pdf"
+        },
+        {
+          "description": "V0102/09 (V2919)-Anlage 1",
+          "file_name": "00003688.pdf"
+        },
+        {
+          "description": "V0102/09 (V2919)-Anlage 2",
+          "file_name": "00003689.pdf"
+        },
+        {
+          "description": "V0102/09 (V2919)-Stellungnahme Gleichstellungsbeauftragte",
+          "file_name": "00003690.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlage der Oberbürgermeisterin der Landeshauptstadt Dresden V 2971 vom 18.03.2009",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00008550.pdf",
+      "description": "Einladung - OSR LB"
+    },
+    {
+      "file_name": "00012168.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:41:03Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=42"
+}

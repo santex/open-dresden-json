@@ -1,0 +1,53 @@
+{
+  "id": "OSR WX/009/2010",
+  "description": "9. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2010-05-31T17:00:00Z",
+  "ended_at": "2010-05-31T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des Bauvorhabens Ausbau Mittelschule BE: Schulverwaltungsamt, Hochbauamt",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsvorstehers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00031530.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00032465.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00032231.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:03:56Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=494"
+}

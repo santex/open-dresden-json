@@ -1,0 +1,146 @@
+{
+  "id": "OBR Alt/019/2011",
+  "description": "19. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2011-04-20T15:30:00Z",
+  "ended_at": "2011-04-20T19:55:00Z",
+  "location": "IBB, Institut für Bildung und Beratung GmbH, Könneritzstraße 33, 01067 Dresden, Schulungsraum 4. Etage/407",
+  "parts": [
+    {
+      "description": "Errichtung eines Kinder- und Jugendfreizeitparkes im Quartier 24 (Schweriner-/Löbtauer-/Roßthaler Straße)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des Institutes für Bildung und Beratung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Information zum Ausbau des Elbradweges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2011/2012",
+      "template_id": "V0938/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0938/11",
+          "file_name": "00069531.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00057939.pdf"
+        },
+        {
+          "description": "a_Deckblatt",
+          "file_name": "00057541.pdf"
+        },
+        {
+          "description": "b_Inhaltsverzeichnis",
+          "file_name": "00057542.pdf"
+        },
+        {
+          "description": "c_Teil A",
+          "file_name": "00057543.pdf"
+        },
+        {
+          "description": "d_Teil B",
+          "file_name": "00055817.pdf"
+        },
+        {
+          "description": "e_Teil C_1",
+          "file_name": "00055819.pdf"
+        },
+        {
+          "description": "f_Teil C_2",
+          "file_name": "00055820.pdf"
+        },
+        {
+          "description": "g_Teil D",
+          "file_name": "00055821.pdf"
+        },
+        {
+          "description": "h_Literaturverzeichnis",
+          "file_name": "00055822.pdf"
+        },
+        {
+          "description": "i_Beschluss V0413",
+          "file_name": "00055823.pdf"
+        },
+        {
+          "description": "V0938/11",
+          "file_name": "00058114.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen im Jahr 2011",
+      "template_id": "V1002/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1002/11",
+          "file_name": "00065652.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00059605.pdf"
+        },
+        {
+          "description": "VO stadtweit",
+          "file_name": "00058743.pdf"
+        },
+        {
+          "description": "V1002/11",
+          "file_name": "00059887.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 5",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00059938.pdf",
+      "description": "Einladung_OBR Alt_20.04.2011"
+    },
+    {
+      "file_name": "00062540.pdf",
+      "description": "Niederschrift öffentlich_OBR Alt_20.04.2011"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:42:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1255"
+}

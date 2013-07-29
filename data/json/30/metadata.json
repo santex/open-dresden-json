@@ -1,0 +1,49 @@
+{
+  "id": "OSR OW/001/2009",
+  "description": "1. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2009-08-20T16:30:00Z",
+  "ended_at": "2009-08-20T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Vereinsraum \"Alte Feuerwehr\" Oberwartha,Gustav-Voigt-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verpflichtung der Mitglieder des Ortschaftsrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bestätigung der Niederschrift der letzen öffentlichen Sitzung am 04.06.2009",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00004753.pdf",
+      "description": "Einladung"
+    },
+    {
+      "file_name": "00005584.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:40:23Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=30"
+}

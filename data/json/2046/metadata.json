@@ -1,0 +1,121 @@
+{
+  "id": "OSR CB/027/2012",
+  "description": "27. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2012-03-12T16:30:00Z",
+  "ended_at": "2012-03-12T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ehrenamtsarbeit in Dresden - Koordinierungsstelle Ehrenamt einrichten",
+      "template_id": "A0514/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Neuwahl einer Streitvertretung im Ortschaftsrat Cossebaude",
+      "template_id": "V-CB0036/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzzuschuss für Bibliothek Cossebaude",
+      "template_id": "A-CB0072/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzzuschuss zum Ausbau der Stellplätze am Bergfriedhof Cossebaude",
+      "template_id": "A-CB0074/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorschläge der Ortschaftsräte zur Verwendung der Finanzmittel 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00089610.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00091709.pdf",
+      "description": "Beschlussausfertigung - Änderung von Straßennamen"
+    },
+    {
+      "file_name": "00091714.pdf",
+      "description": "Beschlussausfertigung z.Streitvertretung"
+    },
+    {
+      "file_name": "00091727.pdf",
+      "description": "Beschlussausfertigung Zuschuss f.Stellplätze Friedhof"
+    },
+    {
+      "file_name": "00091718.pdf",
+      "description": "Beschlussausfertigung-Finanzzuschuss Bibo"
+    },
+    {
+      "file_name": "00091722.pdf",
+      "description": "Beschlussausfertigung-Verfügungsfonds OV"
+    },
+    {
+      "file_name": "00092059.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:28:59Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2046"
+}

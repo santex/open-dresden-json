@@ -1,0 +1,44 @@
+{
+  "id": "WF/004/2009",
+  "description": "4. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2009-10-15T15:00:00Z",
+  "ended_at": "2009-10-15T16:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13, Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Beschlussvorlagen zu VOF-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00009141.pdf",
+      "description": "Einladung - WF_2009_10_15"
+    },
+    {
+      "file_name": "00010989.pdf",
+      "description": "Beschlussausfertigung_V0218_09_WF"
+    },
+    {
+      "file_name": "00011173.pdf",
+      "description": "Niederschrift öffentlich_WF_2009_10_15"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:43:09Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=115"
+}

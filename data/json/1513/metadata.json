@@ -1,0 +1,85 @@
+{
+  "id": "OSR SW/028/2011",
+  "description": "28. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2011-12-05T16:06:00Z",
+  "ended_at": "2011-12-05T17:45:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Planfeststellungsverfahren S177",
+      "template_id": "A-SW0014/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwendungen zur Niederschrift der 27. Sitzung vom 14.11.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Mittelschulen, Gymnasien, berufsbildende Schulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler TrägerschaftBE: Vertreter Schulverwaltungsamt",
+      "template_id": "V1282/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Antrag zur Vorstellung eines Konzeptes für kommunale Dienste in Schönfeld-Weißig im OrtschaftsratBE: Antragsteller",
+      "template_id": "A-SW0013/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlagen zur Kenntnisnahme",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00081176.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00084795.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:17:27Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1513"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "WF/057/2012",
+  "description": "57. Sitzung des Ausschusses für Wirtschaftsförderung (Sondersitzung)",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-08-30T14:00:00Z",
+  "ended_at": "2012-08-30T14:20:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00085Temporäre Kita Standorte (TKS) - Paket 05, Los 04 - Freianlagen Jessener Str. 40, 01257 Dresden",
+      "template_id": "V1845/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1845/12",
+          "file_name": "00108213.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00090 Temporäre Kita Standorte (TKS) - Paket 02Los 04 - Freianlagen Vetschauer Str. 39/39a, 01239 Dresden",
+      "template_id": "V1848/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1848/12",
+          "file_name": "00108221.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer:655-00099 Temporäre Kita Standorte (TKS) - Paket 06 Los 05 - Freianlagen Fabricestraße, 01099 Dresden",
+      "template_id": "V1850/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1850/12",
+          "file_name": "00108225.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-52Pl-00017 Komplexe Sanierung des Freibades Cotta, 01157 DresdenBadewassertechnik für ein Freibad",
+      "template_id": "V1852/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1852/12",
+          "file_name": "00108233.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00107401.pdf",
+      "description": "Einladung_WF_2012_08_30"
+    },
+    {
+      "file_name": "00108513.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_08_30"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:07:21Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2704"
+}

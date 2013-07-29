@@ -1,0 +1,36 @@
+{
+  "id": "OSR AF/016/2010",
+  "description": "16. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2010-12-06T17:00:00Z",
+  "ended_at": "2010-12-06T18:10:00Z",
+  "location": "im Ortschaftszentrum Altfranken, Sitzungssaal, Otto-Harzer-Straße 2 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Sanierung und Erweiterung Gehweg Otto-Harzer-Straße",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Optimierung Bürgerservice in der LH Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00050227.pdf",
+      "description": "Einladung_OSR AF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:18:47Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=478"
+}

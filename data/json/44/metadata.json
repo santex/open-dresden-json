@@ -1,0 +1,137 @@
+{
+  "id": "OSR SW/002/2009",
+  "description": "2. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2009-09-28T17:38:00Z",
+  "ended_at": "2009-09-28T20:47:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlich gefasster Beschlüsse der 1. Sitzung vom 17.08.2009",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl von sachkundigen Bürgern in den Ausschuss Ortschaftsentwicklung und Bauangelegenheiten",
+      "template_id": "V-SW0010/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Änderung der Geschäftsordnung des Ortschaftsrates Schönfeld-Weißig",
+      "template_id": "V-SW0012/09",
+      "documents": [
+
+      ],
+      "decision": "erneute Beratung",
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Landeshauptstadt Dresden aus dem Jahr 2003",
+      "template_id": "V0055/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00004632.pdf"
+        },
+        {
+          "description": "Anlage 1 S. 1-5",
+          "file_name": "00003108.pdf"
+        },
+        {
+          "description": "Anlage 1 S. 11-16",
+          "file_name": "00003110.pdf"
+        },
+        {
+          "description": "Anlage 1 S. 6-10",
+          "file_name": "00003109.pdf"
+        },
+        {
+          "description": "Anlage 2 - komplett",
+          "file_name": "00002830.pdf"
+        },
+        {
+          "description": "Anlage 3 - komplett",
+          "file_name": "00002831.pdf"
+        },
+        {
+          "description": "Anlage4",
+          "file_name": "00002763.pdf"
+        },
+        {
+          "description": "Anlage5 - komplett",
+          "file_name": "00002853.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorschlag von verkaufsoffenen Sonntagen und verlängertes Offenhalten von Verkaufsstellen an Werktagen in der Ortschaft Schönfeld-Weißig im Jahr 2010",
+      "template_id": "V-SW0014/09",
+      "documents": [
+
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 10",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00007956.pdf",
+      "description": "Einladung - OSR SW"
+    },
+    {
+      "file_name": "00008744.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:41:30Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=44"
+}

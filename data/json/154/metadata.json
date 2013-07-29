@@ -1,0 +1,142 @@
+{
+  "id": "FL/006/2009",
+  "description": "6. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2009-11-30T14:00:00Z",
+  "ended_at": "2009-11-30T17:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Dringende Felssicherung Hoher Stein, Plauenscher Grund",
+      "template_id": "V0160/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00012185.pdf"
+        },
+        {
+          "description": "Anlage Auszug Gtachten",
+          "file_name": "00007280.pdf"
+        },
+        {
+          "description": "Finanzielle Auswirkungen neu",
+          "file_name": "00011894.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Überplanmäßige Mittelbereitstellung für den Verwaltungshaushalt 2009 des Schulverwaltungsamtes",
+      "template_id": "V0275/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00014004.pdf"
+        },
+        {
+          "description": "Anlage 1 V0275/09",
+          "file_name": "00011398.pdf"
+        },
+        {
+          "description": "Anlage 2 V0275/09",
+          "file_name": "00011382.pdf"
+        },
+        {
+          "description": "Anlage 3 V0275/09",
+          "file_name": "00011383.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Personalkostenseitige Umsetzung Haustarifverträge Staatsoperette für 2009/2010 sowie Nachzahlungen an den Rentenversicherungsträger für 2006/2007",
+      "template_id": "V0258/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00013605.pdf"
+        },
+        {
+          "description": "Anlage 1 V0258/09",
+          "file_name": "00010645.pdf"
+        },
+        {
+          "description": "Anlage 2 V0258/09",
+          "file_name": "00010646.pdf"
+        },
+        {
+          "description": "Anlage 3 V0258/09",
+          "file_name": "00010647.pdf"
+        },
+        {
+          "description": "Anlage 4 V0258/09",
+          "file_name": "00010648.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bereitstellung zusätzlicher Mittel im Verwaltungs- und Vermögenshaushalt 2009 zur Erfüllung der Pflichtaufgaben des Straßen- und Tiefbauamtes",
+      "template_id": "V0253/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00013149.pdf"
+        },
+        {
+          "description": "Anlage neu_Änderung im VwHH 2009",
+          "file_name": "00011567.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_V0253",
+          "file_name": "00010263.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Weitere Umsetzung des Gesetzes zur Finanzierung des Ausbildungsverkehrs im öffentlichen Personennahverkehr in der Landeshauptstadt Dresden",
+      "template_id": "V0301/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00014080.pdf"
+        },
+        {
+          "description": "Anlage_V0301",
+          "file_name": "00012986.pdf"
+        },
+        {
+          "description": "bereits gefasster Beschluss_V0301",
+          "file_name": "00012987.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00014053.pdf",
+      "description": "Einladung - FL"
+    },
+    {
+      "file_name": "00014763.pdf",
+      "description": "2. Nachtrag_FL_2009_11_30"
+    },
+    {
+      "file_name": "00014617.pdf",
+      "description": "Nachtrag_FL_2009_11_30"
+    },
+    {
+      "file_name": "00016062.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:49:01Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=154"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "K/016/2010",
+  "description": "16. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2010-06-25T13:00:00Z",
+  "ended_at": "2010-06-25T13:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Jury zur Verleihung des Dresdner Lyrikpreises 2010",
+      "template_id": "V0517/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00029430.pdf"
+        },
+        {
+          "description": "a) Anlage 1 zu V0517-10 - Besetzungsvorschlag Fachjuroren zur V",
+          "file_name": "00026208.pdf"
+        },
+        {
+          "description": "b) Anlage 2 zu V0517-10 - Statut zur Verleihung Dresdner Lyrikp",
+          "file_name": "00026209.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0517",
+          "file_name": "00027227.pdf"
+        },
+        {
+          "description": "Stgn. GLB zu V0517-10 v. 21.04.2010",
+          "file_name": "00028505.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00033906.pdf",
+      "description": "Einladung_K_2010_06_25"
+    },
+    {
+      "file_name": "00034825.pdf",
+      "description": "Beschlussausfertigung_V0517/10"
+    },
+    {
+      "file_name": "00034867.pdf",
+      "description": "Niederschrift öffentlich_K_2010_06_25"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:07:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=947"
+}

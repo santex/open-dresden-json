@@ -1,0 +1,105 @@
+{
+  "id": "JHA/012/2010",
+  "description": "12. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2010-11-04T16:00:00Z",
+  "ended_at": "2010-11-04T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Festsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 16.09.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Auflösung kommunaler Streetworkbüros in Dresden",
+      "template_id": "A0094-01/09",
+      "documents": [
+        {
+          "description": "Antrag Mitglieder Jugendhilfeausschuss",
+          "file_name": "00045656.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 4",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Aufnahme der Kindertageseinrichtung Bernhardstraße 92 in 01187 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden",
+      "template_id": "V0720/10",
+      "documents": [
+
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": null
+    },
+    {
+      "description": "Musikalische Bildung",
+      "template_id": "A0204/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0204/10",
+          "file_name": "00063740.pdf"
+        },
+        {
+          "description": "Antrag SPD",
+          "file_name": "00033386.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00045202.pdf",
+      "description": "Einladung_JH_2010_11_04"
+    },
+    {
+      "file_name": "00047305.pdf",
+      "description": "Beschlussausfertigung_A0094-01/09"
+    },
+    {
+      "file_name": "00047314.pdf",
+      "description": "Beschlussausfertigung_V0696/10"
+    },
+    {
+      "file_name": "00048140.pdf",
+      "description": "Niederschrift öffentlich_JH_2010_11_04"
+    },
+    {
+      "file_name": "00048112.pdf",
+      "description": "Anlage 1 zur Niederschrift TOP 7"
+    },
+    {
+      "file_name": "00047310.pdf",
+      "description": "Beschlussausfertigung Vorlage_V0750/10_Anlage"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:15:58Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=717"
+}

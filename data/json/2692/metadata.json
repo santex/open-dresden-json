@@ -1,0 +1,52 @@
+{
+  "id": "OBR Pro/034/2013",
+  "description": "34. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2013-06-10T15:00:00Z",
+  "ended_at": null,
+  "location": "Stzung fällt aus!!!",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellung der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift zur 33. Sitzung des Ortsbeirates Prohlis am 13.05.2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Kommunale Liegenschaften für den Wohnungsbau mobilisieren - Baulandentwicklungskonzept erarbeiten - Wohnbaupotenziale am Olga Körner-Heim nutzen",
+      "template_id": "A0735/13",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00130386.pdf"
+        },
+        {
+          "description": "AF2124_Immobilien_Dresden",
+          "file_name": "00130295.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters zum Geschehen im Ortsamtsgebiet / Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00133858.pdf",
+      "description": "Einladung_OBR Pro"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:54:30Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2692"
+}

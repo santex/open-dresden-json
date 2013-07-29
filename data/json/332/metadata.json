@@ -1,0 +1,61 @@
+{
+  "id": "OBR Neu/2010",
+  "description": "Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2010-05-25T15:30:00Z",
+  "ended_at": null,
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Neustadt, Bürgersaal,Hoyerswerdaer Straße 3, 01099 Dresden",
+  "parts": [
+    {
+      "description": "Information zum Stand der Vorbereitungen der BRN 2010Teilnahme: Vertreter Ordnungsamt, Polizeirevier, Initiative BRN17:30 Uhr",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Weiterführung und Abschluss der Planungen zur Königsbrücker Straße18:30 Uhr",
+      "template_id": "A0152/10",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00023723.pdf"
+        },
+        {
+          "description": "152_0305_Königsbrücker_Anlage",
+          "file_name": "00023737.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat20:15 Uhr",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 8. Ortsbeiratssitzung am 22.04.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00030178.pdf",
+      "description": "Einladung_OBR Neu"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:03:01Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=332"
+}

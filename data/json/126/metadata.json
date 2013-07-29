@@ -1,0 +1,212 @@
+{
+  "id": "SR/005/2009",
+  "description": "5. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2009-10-29T14:00:00Z",
+  "ended_at": "2009-10-29T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Plenarsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bericht der Oberbürgermeisterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Änderung der Hauptsatzung zur Beschleunigung des Geschäftsganges",
+      "template_id": "V0178-1/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00008547.pdf"
+        },
+        {
+          "description": "GB 3_SR_hautsatz-anl1",
+          "file_name": "00011559.pdf"
+        },
+        {
+          "description": "GB3_SR_hauptsatz-anl2-synops",
+          "file_name": "00009039.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 45",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Besetzung des Seniorenbeirates - Stellvertreter/-innen",
+      "template_id": "V0164/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00005945.pdf"
+        },
+        {
+          "description": "Anlage 1 - Beschluss",
+          "file_name": "00005940.pdf"
+        },
+        {
+          "description": "Anlage 2 - Potenielle Vertreterinnen ...",
+          "file_name": "00005941.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 61",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Konzept \"Modellstadt für Erneuerbare Elektro-Mobilität\"",
+      "template_id": "A0018/09",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00003303.pdf"
+        },
+        {
+          "description": "BK A0018/09 Zwischenbericht v. 2013-02-20 jährlicher Bericht",
+          "file_name": "00124597.pdf"
+        },
+        {
+          "description": "A0018/09 (A0803)",
+          "file_name": "00003307.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Begrünung des Wiener Platzes",
+      "template_id": "A0046/09",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00004015.pdf"
+        },
+        {
+          "description": "BK A0046/09 Abschlussbericht v. 2012-12-20",
+          "file_name": "00120993.pdf"
+        },
+        {
+          "description": "A0046/09 (A0795)",
+          "file_name": "00004019.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Zeitkartenzuschuss für Dresden Pass-Inhaber",
+      "template_id": "A0060/09",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00008863.pdf"
+        }
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": null
+    },
+    {
+      "description": "Mietvertragsverhältnis Technisches Rathaus",
+      "template_id": null,
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 66",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00010726.pdf",
+      "description": "Einladung_SR_2009_10_29"
+    },
+    {
+      "file_name": "00011045.pdf",
+      "description": "Nachtrag_SR_2009_10_29"
+    },
+    {
+      "file_name": "00011791.pdf",
+      "description": "Beschlussausfertigung_A0018/09"
+    },
+    {
+      "file_name": "00011702.pdf",
+      "description": "Beschlussausfertigung_A0031/09"
+    },
+    {
+      "file_name": "00011685.pdf",
+      "description": "Beschlussausfertigung_A0069/09"
+    },
+    {
+      "file_name": "00011784.pdf",
+      "description": "Beschlussausfertigung_V0148/09"
+    },
+    {
+      "file_name": "00011783.pdf",
+      "description": "Beschlussausfertigung_V0164/09"
+    },
+    {
+      "file_name": "00011735.pdf",
+      "description": "Beschlussausfertigung_V0170/09"
+    },
+    {
+      "file_name": "00012179.pdf",
+      "description": "Beschlussausfertigung_V0178-1/09"
+    },
+    {
+      "file_name": "00011785.pdf",
+      "description": "Beschlussausfertigung_V0190/09"
+    },
+    {
+      "file_name": "00011691.pdf",
+      "description": "Beschlussausfertigung_V0210/09"
+    },
+    {
+      "file_name": "00011789.pdf",
+      "description": "Beschlussausfertigung_V0232/09"
+    },
+    {
+      "file_name": "00011782.pdf",
+      "description": "Beschlussausfertigung_V0243/09"
+    },
+    {
+      "file_name": "00011682.pdf",
+      "description": "Beschlussausfertigung_V0263/09"
+    },
+    {
+      "file_name": "00013381.pdf",
+      "description": "Niederschrift öffentlich_SR_2009_10_29"
+    },
+    {
+      "file_name": "00013954.pdf",
+      "description": "NS öffentl. Anlage Aktuelle Stunde Blümel"
+    },
+    {
+      "file_name": "00014014.pdf",
+      "description": "NS öffentl. Anlage Aktuelle Stunde TöberichPraesentation"
+    },
+    {
+      "file_name": "00013955.pdf",
+      "description": "NS öffentl. TOP 17, V0263 namentl. Abstimmung"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:43:39Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=126"
+}

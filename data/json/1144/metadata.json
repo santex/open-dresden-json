@@ -1,0 +1,135 @@
+{
+  "id": "JHA/021/2011",
+  "description": "21. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2011-06-30T16:00:00Z",
+  "ended_at": "2011-06-30T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 19.05.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2011/2012",
+      "template_id": "V0938/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0938/11",
+          "file_name": "00069531.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00057939.pdf"
+        },
+        {
+          "description": "a_Deckblatt",
+          "file_name": "00057541.pdf"
+        },
+        {
+          "description": "b_Inhaltsverzeichnis",
+          "file_name": "00057542.pdf"
+        },
+        {
+          "description": "c_Teil A",
+          "file_name": "00057543.pdf"
+        },
+        {
+          "description": "d_Teil B",
+          "file_name": "00055817.pdf"
+        },
+        {
+          "description": "e_Teil C_1",
+          "file_name": "00055819.pdf"
+        },
+        {
+          "description": "f_Teil C_2",
+          "file_name": "00055820.pdf"
+        },
+        {
+          "description": "g_Teil D",
+          "file_name": "00055821.pdf"
+        },
+        {
+          "description": "h_Literaturverzeichnis",
+          "file_name": "00055822.pdf"
+        },
+        {
+          "description": "i_Beschluss V0413",
+          "file_name": "00055823.pdf"
+        },
+        {
+          "description": "V0938/11",
+          "file_name": "00058114.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Aufnahme des Hortes der Natur- und Umweltschule, Manfred-von-Ardenne-Ring 20 in 01099 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden",
+      "template_id": "V1065/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1065/11",
+          "file_name": "00069661.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00065157.pdf"
+        },
+        {
+          "description": "f_Anlage 2_finanzielle Auswirkungen",
+          "file_name": "00062854.pdf"
+        },
+        {
+          "description": "a_Anlage 1_Vereinbarung",
+          "file_name": "00062853.pdf"
+        },
+        {
+          "description": "b_Anlage 1.1_Haushaltplan",
+          "file_name": "00062848.pdf"
+        },
+        {
+          "description": "c_Anlage 1.2_Konzeption",
+          "file_name": "00062849.pdf"
+        },
+        {
+          "description": "d_Anlage 1.3_Qualitätsentwicklung",
+          "file_name": "00062851.pdf"
+        },
+        {
+          "description": "e_Anlage 1.4_Mietvertrag",
+          "file_name": "00062852.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00066568.pdf",
+      "description": "Einladung_JH_2011_06_30"
+    },
+    {
+      "file_name": "00070400.pdf",
+      "description": "Niederschrift öffentlich_2011_06_30"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:57:25Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1144"
+}

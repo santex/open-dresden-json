@@ -1,0 +1,91 @@
+{
+  "id": "OSR SW/044/2013",
+  "description": "44. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2013-05-13T17:33:00Z",
+  "ended_at": "2013-05-13T18:57:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Berichterstattung von Vereinen über die Investitionen aus Fördermitteln der Ortschaft Schönfeld-Weißig",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Änderung der Wahlwerbesatzung",
+      "template_id": "A0712/13",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00127963.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig zur Traditions- und Heimatpflege",
+      "template_id": "V-SW0176/13",
+      "documents": [
+
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Bildung von Wahlkreisen für die Stadtratswahl 2014 - Vorlage V2183/13",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00131020.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00132145.pdf",
+      "description": "Beschlussausfertigung V-SW0176/13"
+    },
+    {
+      "file_name": "00132128.pdf",
+      "description": "Beschlussausfertigung V-SW0177/13"
+    },
+    {
+      "file_name": "00135710.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:49:46Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3014"
+}

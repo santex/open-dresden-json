@@ -1,0 +1,69 @@
+{
+  "id": "OBR Pro/028/2012",
+  "description": "28. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2012-10-08T15:00:00Z",
+  "ended_at": "2012-10-08T17:25:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Prohlis, Bürgersaal,Prohliser Allee 10, 01239 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellung der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift zur 27. Ortsbeiratssitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Weitere Anwendung der Gehölzschutzsatzung vom 16. Juni 1995 bei kommunalen Vorhaben",
+      "template_id": "A0628/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00100850.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0628/12",
+          "file_name": "00121603.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 10",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sonstige Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen der Ortsbeiräte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00110901.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00113009.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:14:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1976"
+}

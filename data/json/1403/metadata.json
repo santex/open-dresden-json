@@ -1,0 +1,94 @@
+{
+  "id": "OBR Bl/023/2011",
+  "description": "23. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2011-12-14T15:30:00Z",
+  "ended_at": "2011-12-14T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 21. Ortsbeiratssitzung am 09. November 2011, Kontrolle der Niederschrift zur 22. Ortsbeiratssitzung am 23. November 2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung Baumaßnahme Haenel-Clauß-Straße zwischen Mansfelder Straße und Prossener Straße aus Bebauungsplan Nr. 90 K",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Rahmenplanung Nr. 787 \"Seidnitz/Tolkewitz\" hier: Aufgabenstellung zur Vorbereitung eines Werkstattverfahrens",
+      "template_id": "V1296/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1296/11",
+          "file_name": "00085001.pdf"
+        },
+        {
+          "description": "V1296/11",
+          "file_name": "00081404.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00081082.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Grenze Wettbewerbsgebiet",
+          "file_name": "00075848.pdf"
+        },
+        {
+          "description": "b) Anlage 2 NEU",
+          "file_name": "00081035.pdf"
+        },
+        {
+          "description": "V1296-11 - Stellungnahmen BMB",
+          "file_name": "00077011.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 19",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen der Ortsamtsleiterin / Verwaltung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe von Dienstleistungskonzession zur Bewirtschaftung des Wochenmarktes Schillerplatz an die Deutsche Marktgilde e.G.",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00082618.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00085524.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:18:20Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1403"
+}

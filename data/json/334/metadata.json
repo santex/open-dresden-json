@@ -1,0 +1,108 @@
+{
+  "id": "OBR Neu/012/2010",
+  "description": "12. Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2010-09-07T15:30:00Z",
+  "ended_at": "2010-09-07T21:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Neustadt, Bürgersaal,Hoyerswerdaer Straße 3, 01099 Dresden",
+  "parts": [
+    {
+      "description": "Information an den Ortsbeirat zur Planung der Kita Flächen Kamenzer Straße/Bischofsweg im AlaunparkTeilnahme: Vertreter Amt f. Stadtgrün u. Abfallw.",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Geschäftsordnung für die Ortsbeiräte der Landeshauptstadt Dresden (GO-Ortsbeirat); Änderung der Geschäftsordnung des Stadtrates",
+      "template_id": "V0577/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00035729.pdf"
+        },
+        {
+          "description": "Anlage 1_GO-OBR",
+          "file_name": "00035532.pdf"
+        },
+        {
+          "description": "Anlage 2_Synopse",
+          "file_name": "00035531.pdf"
+        },
+        {
+          "description": "Beschluss_V0155_09",
+          "file_name": "00031723.pdf"
+        },
+        {
+          "description": "V2131-57-1997 (GO-Ortsbeirat)",
+          "file_name": "00031715.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Lichtmasterplan Dresden Innenstadt",
+      "template_id": "V0188/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00038078.pdf"
+        },
+        {
+          "description": "Beschlussausfertigungen_V0188.pdf",
+          "file_name": "00007186.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Prioritätenliste zum Bau fehlender und zur Sanierung stark instandsetzungsbedürftiger Fußwege",
+      "template_id": "A0195/10",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00033382.pdf"
+        },
+        {
+          "description": "BK A0195/12 Zw.-Bericht 31.01.2013",
+          "file_name": "00123277.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 9. Ortsbeiratssitzung am 08.06.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00038381.pdf",
+      "description": "Einladung_OBR Neu_12/10_07.09.10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:10:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=334"
+}

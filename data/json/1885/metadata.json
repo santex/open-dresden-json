@@ -1,0 +1,733 @@
+{
+  "id": "SR/042/2012",
+  "description": "42. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2012-06-21T11:00:00Z",
+  "ended_at": "2012-06-21T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Kulturrathaus, Clara-Schumann-Saal, 2. Etage,Königstraße 15, 01097 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerinnen- und Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bevorzugung des öffentlichen Bus- und Stadtbahnverkehrs",
+      "template_id": " EWA0003/12",
+      "documents": [
+        {
+          "description": "EWA0003/12",
+          "file_name": "00106264.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Interessenten \"Wiener Loch\"",
+      "template_id": " EWA0005/12",
+      "documents": [
+        {
+          "description": "EWA0005/12",
+          "file_name": "00105991.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "baulicher Zustand Schulen - Schulnetzplan",
+      "template_id": " EWA0007/12",
+      "documents": [
+        {
+          "description": "EWA0007/12",
+          "file_name": "00105993.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Straßenausbau im Denkmalschutzgebiet Striesen und Blasewitz/Nordost",
+      "template_id": " EWA0009/12",
+      "documents": [
+        {
+          "description": "EWA0009/12",
+          "file_name": "00105994.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im VVO-Hauptausschuss",
+      "template_id": "A0619/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00098172.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0619/12",
+          "file_name": "00102934.pdf"
+        }
+      ],
+      "decision": "gewählt",
+      "vote_result": null
+    },
+    {
+      "description": "Tagesordnungspunkte ohne Debatte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortsetzung Sanierungsprozess Neues Rathaus Dresden, Dr.-Külz-Ring 19, Komplexsanierung in 6 Bauabschnittenhier: Entscheidung über die Erhöhung des Projektbudgets für den 1. Realisierungsabschnitt",
+      "template_id": "V1534/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1534/12",
+          "file_name": "00102539.pdf"
+        },
+        {
+          "description": "BK V1534/12 Zwischenbericht v. 2012-10-23 (GB 2)",
+          "file_name": "00114242.pdf"
+        },
+        {
+          "description": "BK V1534/12 Zwischenbericht v. 2013-01-15 (GB 2)",
+          "file_name": "00121266.pdf"
+        },
+        {
+          "description": "BK V1534/12 Zwischenbericht v. 2013-03-14 (RPA; Abschlussbericht zu Pkt. 7) Anschreiben",
+          "file_name": "00126867.pdf"
+        },
+        {
+          "description": "BK V1534/12 Zwischenbericht v. 2013-03-14 (RPA; Abschlussbericht zu Pkt. 7); Anlage 1",
+          "file_name": "00126383.pdf"
+        },
+        {
+          "description": "BK V1534/12 Zwischenbericht v. 2013-04-04 (GB 2)",
+          "file_name": "00128617.pdf"
+        },
+        {
+          "description": "V1534/12",
+          "file_name": "00093102.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00092803.pdf"
+        },
+        {
+          "description": "Anlage 1 zur V1534 12 n",
+          "file_name": "00091442.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1534 12 1. OG 1000-001_4_A_GR11 1O-01",
+          "file_name": "00092327.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1534 12 2. OG 1000-001_4_A_GR12 1O-01",
+          "file_name": "00092328.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1534 12 3. OG 1000-001_4_A_GR13 1O-01",
+          "file_name": "00092329.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1534 12 4. OG 1000-001_4_A_GR14 1O-01",
+          "file_name": "00092330.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1534 12 EG 1000-001_4_A_GR10 1O-01",
+          "file_name": "00092326.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1534 12 KG 1000-001_4_A_GR09 1O-02",
+          "file_name": "00092325.pdf"
+        },
+        {
+          "description": "Beschlüsse zur V1534 12",
+          "file_name": "00089730.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE.",
+          "file_name": "00099399.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - FDP-Fraktion",
+          "file_name": "00099407.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Schulleitungen in die Schulnetzplanung einbeziehen",
+      "template_id": "A0538/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00087424.pdf"
+        }
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": null
+    },
+    {
+      "description": "Gerechte Kosten der Unterkunft und Heizung - jetzt richtiges schlüssiges Konzept für Dresden",
+      "template_id": "A0545/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00087324.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0545/12",
+          "file_name": "00102591.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE.",
+          "file_name": "00091948.pdf"
+        },
+        {
+          "description": "Ersetzungssantrag - SPD-Fraktion",
+          "file_name": "00099403.pdf"
+        },
+        {
+          "description": "Änderungsantrag - DIE LINKE.",
+          "file_name": "00102321.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 31",
+        "contra": " 38",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Änderung der Hauptsatzunghier: Einrichtung eines Beirates Tourismusförderung",
+      "template_id": "A0528/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00085220.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0528/12",
+          "file_name": "00102668.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 28",
+        "contra": " 36",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kommunale Sozialpolitik zur Bekämpfung von Armut im Alter",
+      "template_id": "A0522/12",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00085208.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0522/12",
+          "file_name": "00102675.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 25",
+        "contra": " 33",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Gleichstellung eingetragener Lebenspartnerschaften bei der Zweitwohnungssteuer",
+      "template_id": "A0567/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00090988.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0567/12",
+          "file_name": "00102704.pdf"
+        },
+        {
+          "description": "BK A0567/12 Abschlussbericht v. 2013-02-11",
+          "file_name": "00123357.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 35",
+        "contra": " 26",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beitritt der Landeshauptstadt Dresden zur \"Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene\"",
+      "template_id": "V1567/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_1567/12",
+          "file_name": "00102945.pdf"
+        },
+        {
+          "description": "V1567/12",
+          "file_name": "00094171.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00093878.pdf"
+        },
+        {
+          "description": "Anlage 1 zu V1567-12",
+          "file_name": "00091333.pdf"
+        },
+        {
+          "description": "Anlage 2 zu V1567-12",
+          "file_name": "00091334.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 56",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Umsetzung der 8. Änderung des Stasi-Unterlagen-Gesetzes vom 22.12.2011",
+      "template_id": "V1589/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1589/12",
+          "file_name": "00102947.pdf"
+        },
+        {
+          "description": "BK V1589/12 Abschlussbericht v. 2012-12-20",
+          "file_name": "00121008.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00096300.pdf"
+        },
+        {
+          "description": "Anlage V1589/12",
+          "file_name": "00092567.pdf"
+        },
+        {
+          "description": "SR-Beschluss V0193-SR07-04",
+          "file_name": "00092568.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 41",
+        "contra": " 10",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Umgang mit Altersarmut in Dresden",
+      "template_id": "A0515/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00084249.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0515/11",
+          "file_name": "00102679.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 25",
+        "contra": " 33",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Heim-TÜV des Sächsischen Ausländerbeauftragten - Anregungen umsetzen",
+      "template_id": "A0574/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00090376.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0574/12",
+          "file_name": "00102728.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag - BürgerBündnis / Freie Bürger",
+          "file_name": "00099402.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 26",
+        "contra": " 33",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Rudolf Harbig nicht vergessen - Ehrung eines bedeutenden Dresdner Sportlers",
+      "template_id": "A0509/11",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00082363.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0509/11",
+          "file_name": "00102755.pdf"
+        },
+        {
+          "description": "BK A0509/11 Zwischenbericht v. 2012-10-19",
+          "file_name": "00114243.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 50",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Satzung zur Regelung des Zugangs zu Informationen des eigenen Wirkungskreises der Landeshauptstadt Dresden (Informationsfreiheitssatzung)",
+      "template_id": "V1595/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1595/12",
+          "file_name": "00102972.pdf"
+        },
+        {
+          "description": "V1595/12",
+          "file_name": "00100923.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00097932.pdf"
+        },
+        {
+          "description": "Anlage 1",
+          "file_name": "00096063.pdf"
+        },
+        {
+          "description": "Anlage 2",
+          "file_name": "00093567.pdf"
+        },
+        {
+          "description": "Anlage 3",
+          "file_name": "00093570.pdf"
+        },
+        {
+          "description": "Anlage 4",
+          "file_name": "00097888.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0475_11",
+          "file_name": "00093572.pdf"
+        },
+        {
+          "description": "V1595-12 - Stellungnahme BMB",
+          "file_name": "00094075.pdf"
+        },
+        {
+          "description": "Änderungsantrag - Bündnis 90/Die Grünen",
+          "file_name": "00103590.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 12",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Zweite Stufe des Maßnahmeplan II zur Schaffung zusätzlicher Kindertagesbetreuungsplätze im Zeitraum 2012 bis 2013 auf Basis der aktuellen Bevölkerungsprognose",
+      "template_id": "V1587/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1587/12",
+          "file_name": "00102950.pdf"
+        },
+        {
+          "description": "BK V1587/12 Zwischenbericht v. 2012-12-10",
+          "file_name": "00120533.pdf"
+        },
+        {
+          "description": "V1587/12",
+          "file_name": "00097919.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00097587.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00098635.pdf"
+        },
+        {
+          "description": "Anlage 1_Maßnahmeplan II_zweite Stufe",
+          "file_name": "00094309.pdf"
+        },
+        {
+          "description": "Anlage 2_Finanzielle Auswirkungen MPII-II",
+          "file_name": "00097056.pdf"
+        },
+        {
+          "description": "Beschluss A0019/09",
+          "file_name": "00092477.pdf"
+        },
+        {
+          "description": "Beschluss V1040/11",
+          "file_name": "00092478.pdf"
+        },
+        {
+          "description": "Beschluss V1388/11",
+          "file_name": "00092479.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 60",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kostensatzveränderung in Folge der Neuausrichtung und Instandsetzung des Übergangswohnheimes Emerich-Ambros-Ufer 59 zum Übergangswohnheim mit 32 Betten für Wohnungslose",
+      "template_id": "V1643/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1643/12",
+          "file_name": "00105178.pdf"
+        },
+        {
+          "description": "BK V1643/12 Abschlussbericht v. 2013-04-11",
+          "file_name": "00129005.pdf"
+        },
+        {
+          "description": "BK V1643/12 Zwischenbericht v. 2012-12-07",
+          "file_name": "00119326.pdf"
+        },
+        {
+          "description": "V1643/12",
+          "file_name": "00098765.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098516.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00102771.pdf"
+        },
+        {
+          "description": "Anlage_Kosten- und Finanzierungsübersicht",
+          "file_name": "00098166.pdf"
+        },
+        {
+          "description": "Beschluss V3029-SR81-09",
+          "file_name": "00095807.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 187, Dresden-Cossebaude Nr. 4, Wohngebiet Weinbergstraßehier:\t1. Abwägungsbeschluss2. Satzungsbeschluss sowie Billigung der Begründung",
+      "template_id": "V1604/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1604/12",
+          "file_name": "00102784.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00094129.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Abwägung",
+          "file_name": "00093696.pdf"
+        },
+        {
+          "description": "d) Anlage 2_rechtsplan Blatt 1_A3",
+          "file_name": "00093699.pdf"
+        },
+        {
+          "description": "e) Anlage 2_rechtsplan Blatt 2_A3",
+          "file_name": "00093700.pdf"
+        },
+        {
+          "description": "f) Anlage 3_Begründung",
+          "file_name": "00093701.pdf"
+        },
+        {
+          "description": "g) bereits gefasste Beschlüsse",
+          "file_name": "00093702.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 61",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Mitgliedschaft der Landeshauptstadt Dresden im Verein \"forum vergabe e.V.\"",
+      "template_id": "V1539/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1539/12",
+          "file_name": "00102799.pdf"
+        },
+        {
+          "description": "BK V1539/12 Abschlussbericht v. 2012-11-15",
+          "file_name": "00117362.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00094995.pdf"
+        },
+        {
+          "description": "Anlage 1 zur V1539 12",
+          "file_name": "00090897.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1539 12, Teil I",
+          "file_name": "00097160.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1539 12, Teil II",
+          "file_name": "00097161.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1539 12, Teil III",
+          "file_name": "00090904.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Schulkapazitäten effektiver nutzen",
+      "template_id": "A0224/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00038604.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Maßnahmen zur weiteren Planung und zur Umsetzung von Stadtratsbeschlüssen zur Sanierung und zum Ausbau des Schwimmkomplexes Freiberger Straße",
+      "template_id": "A0438/11",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00072551.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0438/11",
+          "file_name": "00102804.pdf"
+        },
+        {
+          "description": "BK A0438/11 Zwischenbericht v. 2013-04-05",
+          "file_name": "00128448.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 54",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Entwicklung von Instrumentarien zur frühzeitigen Beteiligung von Bürgern an Bauvorhaben",
+      "template_id": "A0503/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00082335.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0503/11",
+          "file_name": "00104969.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Ausschreibung \"Kinderbüro Dresden\"",
+      "template_id": "A0584/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092644.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0584/12",
+          "file_name": "00102654.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 28",
+        "contra": " 33",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00101099.pdf",
+      "description": "Einladung_SR_2012_06_21"
+    },
+    {
+      "file_name": "00104569.pdf",
+      "description": "Niederschrift öffentlich_2012_06_21"
+    },
+    {
+      "file_name": "00105016.pdf",
+      "description": "Niederschrift öffentlich komplett_2012_06_21"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:57:16Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1885"
+}

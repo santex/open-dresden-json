@@ -1,0 +1,56 @@
+{
+  "id": "OSR WX/033/2012",
+  "description": "33. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2012-05-21T17:00:00Z",
+  "ended_at": "2012-05-21T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerinformation zu Baumfällungen und Ersatzpflanzungen",
+      "template_id": "A0586/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092885.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0586/12",
+          "file_name": "00108805.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsvorstehers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00099989.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00099168.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:46:27Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2110"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ISF/032/2013",
+  "description": "32. Sitzung des Betriebsausschusses für IT-Dienstleistungen, Stadtentwässerung und Friedhofswesen",
+  "committee": "Betriebsausschuss für IT-Dienstleistungen, Stadtentwässerung und Friedhofswesen",
+  "started_at": "2013-04-10T14:30:00Z",
+  "ended_at": "2013-04-10T15:25:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nichtöffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00127125.pdf",
+      "description": "Einladung_ISF_2013_04_10"
+    },
+    {
+      "file_name": "00128443.pdf",
+      "description": "Niederschrift öffentlich_ISF_2013_04_10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:46:25Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2458"
+}

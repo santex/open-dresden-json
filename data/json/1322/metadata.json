@@ -1,0 +1,48 @@
+{
+  "id": "OSR OW/021/2011",
+  "description": "21. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2011-04-21T16:30:00Z",
+  "ended_at": "2011-04-21T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel für Bank am Friedensplatz",
+      "template_id": "V-OW0015/11",
+      "documents": [
+        {
+          "description": "Vorlage Oberwartha",
+          "file_name": "00060562.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Stellungnahme zur Weiterentwicklung B-Plan Nr. 186 \"Am Osterberg\"",
+      "template_id": "V-OW0016/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00059811.pdf",
+      "description": "Einladung_OSR OW"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:43:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1322"
+}

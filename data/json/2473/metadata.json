@@ -1,0 +1,46 @@
+{
+  "id": "KK/046/2013",
+  "description": "46. Sitzung des Betriebsausschusses für Städtische Krankenhäuser und Kindertageseinrichtungen",
+  "committee": "Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen",
+  "started_at": "2013-05-02T14:30:00Z",
+  "ended_at": "2013-05-02T15:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Einberufung eines \"Runden Tisches Kita-Satzung\" zur Neugestaltung der Rechtsverhältnisse zu Kindertageseinrichtungen in der Landeshauptstadt",
+      "template_id": "A0710/13",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00127160.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0710/13_KK",
+          "file_name": "00131028.pdf"
+        },
+        {
+          "description": "BK_A0710_13_Zwischenbericht_2013_06_28",
+          "file_name": "00137988.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00129708.pdf",
+      "description": "Einladung_KK_2013_05_02"
+    },
+    {
+      "file_name": "00131363.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:48:40Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2473"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "OSR SB/006/2010",
+  "description": "6. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2010-01-20T16:30:00Z",
+  "ended_at": "2010-01-20T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im ehemaligen Gemeindehaus Schönborn, Beratungsraum,Seifersdorfer Straße 6, 01465 Dresden",
+  "parts": [
+    {
+      "description": "Berichterstattung Flächennutzungsplan",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 7",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00018701.pdf",
+      "description": "Einladung - OSR SB"
+    },
+    {
+      "file_name": "00128285.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:53:14Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=394"
+}

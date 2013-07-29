@@ -1,0 +1,96 @@
+{
+  "id": "OSR SW/027/2011",
+  "description": "27. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2011-11-14T17:33:00Z",
+  "ended_at": "2011-11-14T19:55:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Berichterstattung zur Umsetzung des Buslinienkonzeptes Schönfelder HochlandBE: GB Stadtentwicklung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verwendung von Haushaltsmitteln aus der Investitionspauschale gemäß Beschluss FL/037/2011 zu V0913/11 vom 14.03.2011",
+      "template_id": "V-SW0132/11",
+      "documents": [
+
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zu Abwassergebührenbescheiden",
+      "template_id": "A-SW0012/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig zur Traditions- und Heimatpflege",
+      "template_id": "V-SW0131/11",
+      "documents": [
+
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00079019.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00080840.pdf",
+      "description": "Beschlussausfertigung A-SW0012/11"
+    },
+    {
+      "file_name": "00080819.pdf",
+      "description": "Beschlussausfertigung V-SW0131/11"
+    },
+    {
+      "file_name": "00080809.pdf",
+      "description": "Beschlussausfertigung V-SW0132/11"
+    },
+    {
+      "file_name": "00080822.pdf",
+      "description": "Beschlussausfertigung V-SW0133/11"
+    },
+    {
+      "file_name": "00085517.pdf",
+      "description": "Beschlussausfertigung V-SW0134/11"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:15:10Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1512"
+}

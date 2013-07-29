@@ -1,0 +1,38 @@
+{
+  "id": "K/027/2011",
+  "description": "27. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2011-04-19T14:00:00Z",
+  "ended_at": "2011-04-19T15:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Gewährung von mindestens zweijähriger institutioneller Förderung",
+      "template_id": "A0279/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung A0279/10",
+          "file_name": "00064012.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00043040.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00060014.pdf",
+      "description": "Einladung_K_2011_04_19"
+    },
+    {
+      "file_name": "00062025.pdf",
+      "description": "Niederschrift öffentlich_K_2011_04_19"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:41:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1094"
+}

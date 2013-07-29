@@ -1,0 +1,96 @@
+{
+  "id": "OBR Alt/022/2011",
+  "description": "22. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2011-06-27T15:30:00Z",
+  "ended_at": "2011-06-27T17:05:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadthaus, Ortsamt Altstadt, 1. Etage, Raum 100,Theaterstraße 11, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 379, Dresden-Altstadt I Nr. 39, ehemaliges Pumpenhaus Devrientstraße hier: \t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplans \t3. Billigung des Entwurfs zum Bebauungsplan \t4. Billigung der Begründung zum B ebauungsplan-Entwurf\t5. Durchführung des Beteiligungsverfahrens zum Bebauungsplan-Entwurf",
+      "template_id": "V1118/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1118/11_SB",
+          "file_name": "00068903.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00066077.pdf"
+        },
+        {
+          "description": "a) Anlage1",
+          "file_name": "00065575.pdf"
+        },
+        {
+          "description": "b) Anlage2",
+          "file_name": "00065576.pdf"
+        },
+        {
+          "description": "c) Anlage3",
+          "file_name": "00065577.pdf"
+        },
+        {
+          "description": "d) Anlage4",
+          "file_name": "00065852.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Information an den OrtsbeiratBebauungsplan Nr. 124, Dresden-Pillnitz Nr.1, Parkplatz Lohmener Straße,hier: Billigung des Entwurfs und der Begründung des Bebauungsplanes, Beschluss zur öffentlichen Auslegung des Entwurfs und der Begründung, Vorstellung der externen Ersatzmaßnahme im Bereich des Ortsamtes Altstadt, Flurstücke 419/2,423 und 480, Gemarkung Friedrichstadt (Flutrinne)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beitritt der Landeshauptstadt Dresden zum \"Bündnis für eine soziale Stadt\"",
+      "template_id": "A0388/11",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00062318.pdf"
+        },
+        {
+          "description": "Anlage zu A0388-11",
+          "file_name": "00062183.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 7",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00066924.pdf",
+      "description": "Einladung_OBR Alt"
+    },
+    {
+      "file_name": "00069028.pdf",
+      "description": "Niederschrift öffentlich_OBR Alt_27.06.2011"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:55:04Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1257"
+}

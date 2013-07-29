@@ -1,0 +1,156 @@
+{
+  "id": "JHA/042/2013",
+  "description": "42. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2013-05-16T16:00:00Z",
+  "ended_at": "2013-05-16T17:50:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 28. März 2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aktionsplan der Landeshauptstadt Dresden zur Umsetzung der UN-Behindertenrechtskonvention",
+      "template_id": "V2103/13",
+      "documents": [
+        {
+          "description": "V2103/13",
+          "file_name": "00125809.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00123524.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00128286.pdf"
+        },
+        {
+          "description": "Anlage 1_Bericht zur Situation von Menschen mit Behinderung in der LH Dresden",
+          "file_name": "00122583.pdf"
+        },
+        {
+          "description": "Anlage 2_Aktionsplan UN-BRK",
+          "file_name": "00122584.pdf"
+        },
+        {
+          "description": "Anlage 3_Stellungnahmen aus dem Beteiligungsverfahren",
+          "file_name": "00122585.pdf"
+        },
+        {
+          "description": "Anlage 4_Wertung der Stellungnahmen aus dem Beteiligungsverfahren",
+          "file_name": "00122586.pdf"
+        },
+        {
+          "description": "Beschluss V1387-35-1996",
+          "file_name": "00121020.pdf"
+        },
+        {
+          "description": "Beschluss V3954-SR76-04",
+          "file_name": "00121021.pdf"
+        },
+        {
+          "description": "Beschluss A0383-11",
+          "file_name": "00121022.pdf"
+        },
+        {
+          "description": "Stellungnahme GLB",
+          "file_name": "00121651.pdf"
+        },
+        {
+          "description": "V2103-13 - Stellungnahme BMB",
+          "file_name": "00121531.pdf"
+        },
+        {
+          "description": "Aktionsplan UN BRK",
+          "file_name": "00121562.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Betreibung der Kindertageseinrichtungen Hauptstraße 4 in 01328 Dresden-Weißig unter der Trägerschaft des Trägers Malwina e. V.",
+      "template_id": "V2086/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2086/13",
+          "file_name": "00134363.pdf"
+        },
+        {
+          "description": "V2086/13",
+          "file_name": "00127395.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00127168.pdf"
+        },
+        {
+          "description": "Anlage 1_Vereinbarung",
+          "file_name": "00120715.pdf"
+        },
+        {
+          "description": "Anlage 1.1_Haushaltsplan",
+          "file_name": "00125076.pdf"
+        },
+        {
+          "description": "Anlage 1.2_Konzept",
+          "file_name": "00120716.pdf"
+        },
+        {
+          "description": "Anlage 2_Finanzielle Auswirkungen",
+          "file_name": "00120718.pdf"
+        },
+        {
+          "description": "Beschluss V1436/11",
+          "file_name": "00120719.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00130897.pdf",
+      "description": "Einladung_JH_2013_05_16"
+    },
+    {
+      "file_name": "00132636.pdf",
+      "description": "Beschlussempfehlung Vorlage_JHA_V2086/13"
+    },
+    {
+      "file_name": "00132869.pdf",
+      "description": "Niederschrift öffentlich"
+    },
+    {
+      "file_name": "00132662.pdf",
+      "description": "Festlegungen und Aufträge ö"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:51:26Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2483"
+}

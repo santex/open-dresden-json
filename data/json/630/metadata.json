@@ -1,0 +1,126 @@
+{
+  "id": "SB/016/2010",
+  "description": "16. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2010-08-18T14:00:00Z",
+  "ended_at": "2010-08-18T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 655, Dresden-Neustadt, Einkaufszentrum und Bürgerhaus am Albertplatzhier: 1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan 2. Grenzen des vorhabenbezogenen Bebauungsplanes 3. Billigung des Entwurfes zum vorhabenbezogenen Bebauungsplan4. Billigung der Begründung zum vorhabenbezogenen Bebauungsplan-Entwurf5. Durchführung des Beteiligungsverfahrens zum vorhabenbezogenen Bebauungsplan-  Entwurf",
+      "template_id": "V0697/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00038375.pdf"
+        },
+        {
+          "description": "a)_Anlage 1 VB655_Geltungsbereich",
+          "file_name": "00037115.pdf"
+        },
+        {
+          "description": "b)_Anlage 2 VB655_Geltungsbereich",
+          "file_name": "00037117.pdf"
+        },
+        {
+          "description": "c)_Anlage 3_VB655_Rechtsplan_Blatt 1 von 5_A3",
+          "file_name": "00037120.pdf"
+        },
+        {
+          "description": "d)_Anlage 3_VB655_rechtsplan_txt_Blatt 2 von 5_A2",
+          "file_name": "00037121.pdf"
+        },
+        {
+          "description": "e)_Anlage 3_VB655_Vorhabenplan_Blatt 3 von 5_A3",
+          "file_name": "00037122.pdf"
+        },
+        {
+          "description": "f)_Anlage 3_VB655_Vorhabenplan_Blatt 4 von 5_A3",
+          "file_name": "00037123.pdf"
+        },
+        {
+          "description": "g)_Anlage 3_VB655_Erschließungsplan_Blatt 5 von 5_A3",
+          "file_name": "00037124.pdf"
+        },
+        {
+          "description": "h)_Anlage 4_VB655_Begründung",
+          "file_name": "00037125.pdf"
+        },
+        {
+          "description": "i)_Anlage 1 zur Begründung_Baumbestandsplan_A3",
+          "file_name": "00037126.pdf"
+        },
+        {
+          "description": "j)_Anlage 1 zur Begründung_baumfaellung",
+          "file_name": "00037127.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 172.8, Dresden-Altfranken Nr. 2, Gewerbegebiet Kesselsdorfer Straßehier: 1. Aufstellungsbeschluss zur 8. Änderung 2. Grenze des Bebauungsplanes 3. Billigung des Entwurfes zum Bebauungsplan 4. Billigung der Begründung zum Bebauungsplan-Entwurf5. Durchführung des Beteiligungsverfahrens zum Bebauungsplan-Entwurf",
+      "template_id": "V0675/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00036409.pdf"
+        },
+        {
+          "description": "a)_b172.8 anlage 1a_§13a",
+          "file_name": "00036227.pdf"
+        },
+        {
+          "description": "b)_b172-8_anlage 2_rechtsplan",
+          "file_name": "00036228.pdf"
+        },
+        {
+          "description": "c)_b172-8_anlage 3_begründung",
+          "file_name": "00036229.pdf"
+        },
+        {
+          "description": "d)_b172-8_gestaltplan_anlage zur begründung",
+          "file_name": "00036230.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00037277.pdf",
+      "description": "Einladung_SB_2010_08_18"
+    },
+    {
+      "file_name": "00037810.pdf",
+      "description": "Nachtrag_SB_2010_08_18"
+    },
+    {
+      "file_name": "00038403.pdf",
+      "description": "Beschlussausfertigung_A0222/10"
+    },
+    {
+      "file_name": "00038398.pdf",
+      "description": "Beschlussausfertigung_V0670/10"
+    },
+    {
+      "file_name": "00038399.pdf",
+      "description": "Beschlussausfertigung_V0675/10"
+    },
+    {
+      "file_name": "00039227.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:08:36Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=630"
+}

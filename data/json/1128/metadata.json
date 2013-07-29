@@ -1,0 +1,97 @@
+{
+  "id": "JHA/020/2011",
+  "description": "20. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2011-06-09T16:00:00Z",
+  "ended_at": "2011-06-09T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 21.04.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fachthema: \"Der Aufbau standardisierter Kooperationsbeziehungen innerhalb des Netzwerkes Kinderschutz\" (Zwischenbericht)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aufnahme der Kindertageseinrichtung Am Lehmberg 28 in 01157 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden",
+      "template_id": "V1018/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1018/11",
+          "file_name": "00067749.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00063073.pdf"
+        },
+        {
+          "description": "f_Anlage 2",
+          "file_name": "00060003.pdf"
+        },
+        {
+          "description": "a_Anlage 1",
+          "file_name": "00060006.pdf"
+        },
+        {
+          "description": "b_Anlage 1.1",
+          "file_name": "00060007.pdf"
+        },
+        {
+          "description": "c_Anlage 1.2",
+          "file_name": "00059999.pdf"
+        },
+        {
+          "description": "d_Anlage 1.3",
+          "file_name": "00060000.pdf"
+        },
+        {
+          "description": "e_Anlage 1.4",
+          "file_name": "00060008.pdf"
+        },
+        {
+          "description": "V1018/11",
+          "file_name": "00066326.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00064744.pdf",
+      "description": "Einladung_JH_2011_06_09"
+    },
+    {
+      "file_name": "00067189.pdf",
+      "description": "Niederschrift öffentlich_JH_2011_06_09"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:51:42Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1128"
+}

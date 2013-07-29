@@ -1,0 +1,200 @@
+{
+  "id": "OBR Pro/025/2012",
+  "description": "25. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2012-06-18T15:00:00Z",
+  "ended_at": "2012-06-18T18:43:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Prohlis, Bürgersaal,Prohliser Allee 10, 01239 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellung der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift zur 24.Ortsbeiratssitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorplanung Straßenbahnverbindung Tiergartenstraße - Oskarstraße",
+      "template_id": "V1541/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1541/12",
+          "file_name": "00105204.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098821.pdf"
+        },
+        {
+          "description": "a) Anlage 1 - Übersichtsplan",
+          "file_name": "00090211.pdf"
+        },
+        {
+          "description": "b) Anlage 2 Blatt 1",
+          "file_name": "00090212.pdf"
+        },
+        {
+          "description": "c) Anlage 2 Blatt 2",
+          "file_name": "00090213.pdf"
+        },
+        {
+          "description": "d) Anlage 2 Blatt 3",
+          "file_name": "00090214.pdf"
+        },
+        {
+          "description": "e) Anlage 3 Blatt 1",
+          "file_name": "00090215.pdf"
+        },
+        {
+          "description": "f) Anlage 3 Blatt 2",
+          "file_name": "00090216.pdf"
+        },
+        {
+          "description": "g) Anlage 3 Blatt 3",
+          "file_name": "00090217.pdf"
+        },
+        {
+          "description": "h) Anlage 4 - Variantenvergleich mit Änderungen Stand 17.04.2012",
+          "file_name": "00096275.pdf"
+        },
+        {
+          "description": "i) Beschluss Prioritätenliste Strab",
+          "file_name": "00090220.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00091075.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 698, Dresden-Nickern, Umnutzung eines Bestandsgebäudeshier: 1. Abwägungsbeschluss 2. Satzungsbeschluss sowie Billigung der Begründung und der zusammenfassenden Erklä-rung nach § 10 Abs. 4 BauGB zum vorhabenbezogenen Bebauungsplan",
+      "template_id": "V1684/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1684/12",
+          "file_name": "00105205.pdf"
+        },
+        {
+          "description": "V1684/12 ö",
+          "file_name": "00100185.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00099780.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Abwägung",
+          "file_name": "00098963.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Rechtsplan_Blatt 1",
+          "file_name": "00098966.pdf"
+        },
+        {
+          "description": "e) Anlage 2_Entwurf zum Satzungsbeschluss_Blatt 2",
+          "file_name": "00098967.pdf"
+        },
+        {
+          "description": "f) Anlage 2_Gestaltungsplan_Blatt 3",
+          "file_name": "00098968.pdf"
+        },
+        {
+          "description": "g) Anlage 2_Ansichten_Blatt 4",
+          "file_name": "00098969.pdf"
+        },
+        {
+          "description": "h) Anlage 3_Begründung Satzungsbeschluss",
+          "file_name": "00098970.pdf"
+        },
+        {
+          "description": "i) Anlage 4_Zusammenfassende Erklärung",
+          "file_name": "00098971.pdf"
+        },
+        {
+          "description": "k) bereits gefasste Beschlüsse",
+          "file_name": "00098973.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verkehrsentwicklungsplan 2025plus - Szenario für die weitere Bearbeitung",
+      "template_id": "V1630/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00109499.pdf"
+        },
+        {
+          "description": "V1630/12",
+          "file_name": "00098766.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098520.pdf"
+        },
+        {
+          "description": "a) Anlage 1_NEU",
+          "file_name": "00097741.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Runder Tisch",
+          "file_name": "00094805.pdf"
+        },
+        {
+          "description": "c) bereits gefasster Beschluss",
+          "file_name": "00094788.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00096202.pdf"
+        },
+        {
+          "description": "BK V1630/12",
+          "file_name": "00122053.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Geschehen im Ortsamtsgebiet / Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00100230.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00100713.pdf",
+      "description": "Nachtrag_OBR Pro"
+    },
+    {
+      "file_name": "00102386.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:53:06Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1973"
+}

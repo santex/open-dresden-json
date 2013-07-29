@@ -1,0 +1,126 @@
+{
+  "id": "OSR MB/024/2011",
+  "description": "24. Sitzung des Ortschaftsrates Mobschatz",
+  "committee": "Ortschaftsrat Mobschatz",
+  "started_at": "2011-06-16T17:30:00Z",
+  "ended_at": "2011-06-16T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im \"Dorfklub Mobschatz\", Sitzungssaal,Am Tummelsgrund 7 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 259.3, Dresden-Brabschütz Nr. 1, Gewerbegebiet Merbitzhier: 1. Abwägungsbeschluss    2. Satzungsbeschluss sowie Billigung der Begründung",
+      "template_id": "V1096/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1096/11",
+          "file_name": "00069670.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00064944.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00064776.pdf"
+        },
+        {
+          "description": "b) Anlage 1_Satzungstext",
+          "file_name": "00064777.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Begründung_März11",
+          "file_name": "00064778.pdf"
+        },
+        {
+          "description": "d) Anlage 3_alter Plan B259",
+          "file_name": "00064779.pdf"
+        },
+        {
+          "description": "e) Anlage 4_Abwägung-Text",
+          "file_name": "00064780.pdf"
+        },
+        {
+          "description": "g) bereits gefasster Beschluss",
+          "file_name": "00064941.pdf"
+        },
+        {
+          "description": "V1096/11",
+          "file_name": "00065600.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschluss zur Förderung der Vereine in der Ortschaft Mobschatz im Jahr 2011",
+      "template_id": "V-MB0040/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschluss zur Mittelfreigabe aus dem Verfügungsfonds des Ortschaftsrates für die Durchführung von Bürgerarbeit in der Ortschaft Mobschatz",
+      "template_id": "V-MB0042/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Aktuelle Informationen der Ortschaft Mobschatz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00066241.pdf",
+      "description": "Einladung_OSR MB"
+    },
+    {
+      "file_name": "00067631.pdf",
+      "description": "Beschlussausfertigung V-MB0040_11"
+    },
+    {
+      "file_name": "00067709.pdf",
+      "description": "Beschlussausfertigung V-MB0041_11"
+    },
+    {
+      "file_name": "00067715.pdf",
+      "description": "Beschlussausfertigung V-MB0042_11"
+    },
+    {
+      "file_name": "00068131.pdf",
+      "description": "Beschlussausfertigung V-MB0043_11"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:52:19Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1497"
+}

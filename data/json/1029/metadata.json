@@ -1,0 +1,82 @@
+{
+  "id": "SB/024/2011",
+  "description": "24. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2011-01-12T14:00:00Z",
+  "ended_at": "2011-01-12T19:10:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Stellungnahme der Stadt zum Vorentwurf der Fortschreibung der Teilfortschreibung Wind des Regionalplanes Oberes Elbtal/Osterzgebirge (09/2010)",
+      "template_id": "V0847/10",
+      "documents": [
+        {
+          "description": "a) Anlage 1_Stellungnahme_neu",
+          "file_name": "00048728.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Beschluss SW",
+          "file_name": "00047648.pdf"
+        },
+        {
+          "description": "d) Anlage 4_TFS_Wind_2010VE_Offenla",
+          "file_name": "00047650.zip"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 6000, Dresden-Strehlen, Villa Elsa-Brändström-Straßehier:\t1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan\t2. Grenzen des vorhabenbezogenen Bebauungsplanes",
+      "template_id": "V0879/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00051172.pdf"
+        },
+        {
+          "description": "a) Anlage 1-Geltungsbereich",
+          "file_name": "00050798.pdf"
+        },
+        {
+          "description": "b) Anlage 2-Übersichtsplan",
+          "file_name": "00050799.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00051907.pdf",
+      "description": "Einladung_SB"
+    },
+    {
+      "file_name": "00052653.pdf",
+      "description": "Beschlussausfertigung_V0847/10"
+    },
+    {
+      "file_name": "00052655.pdf",
+      "description": "Beschlussausfertigung_V0871/10"
+    },
+    {
+      "file_name": "00052675.pdf",
+      "description": "Beschlussausfertigung_V0879/10"
+    },
+    {
+      "file_name": "00052842.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:23:08Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1029"
+}

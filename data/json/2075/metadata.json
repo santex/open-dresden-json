@@ -1,0 +1,53 @@
+{
+  "id": "OBR Kl/025/2012",
+  "description": "25. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2012-02-06T17:00:00Z",
+  "ended_at": "2012-02-06T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ehrenamtsarbeit in Dresden - Koordinierungsstelle Ehrenamt einrichten",
+      "template_id": "A0514/11",
+      "documents": [
+
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 1",
+        "contra": " 8",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Anfragen und Anregungen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00087099.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00088912.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:25:41Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2075"
+}

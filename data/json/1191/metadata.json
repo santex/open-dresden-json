@@ -1,0 +1,46 @@
+{
+  "id": "SG/032/2011",
+  "description": "32. Sitzung des Ausschusses für Soziales, Gesundheit und Wohnen",
+  "committee": "Ausschuss für Soziales, Gesundheit und Wohnen",
+  "started_at": "2011-10-06T14:00:00Z",
+  "ended_at": "2011-10-06T15:15:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geriatrie-Konzept für die Stadt Dresden",
+      "template_id": "A0185/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE. - Änderung",
+          "file_name": "00076872.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0185/10",
+          "file_name": "00079109.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 6",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00075414.pdf",
+      "description": "Einladung_SG"
+    },
+    {
+      "file_name": "00075550.pdf",
+      "description": "Nachtrag_SG_2011_10_06"
+    },
+    {
+      "file_name": "00077479.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:10:00Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1191"
+}

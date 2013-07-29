@@ -1,0 +1,63 @@
+{
+  "id": "SR/004/2009",
+  "description": "4. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2009-10-22T14:00:00Z",
+  "ended_at": "2009-10-22T15:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Plenarsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Besetzung des Jugendhilfeausschusses; Wahl der acht Mitglieder bzw. der persönlichen stellvertretenden Mitglieder entsprechend den von den Mitgliedern des Stadtrates unterbreiteten Vorschlägen nach § 42 Abs. 2 SächsGemO",
+      "template_id": "V0199-01/09",
+      "documents": [
+
+      ],
+      "decision": "gewählt",
+      "vote_result": null
+    },
+    {
+      "description": "Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden",
+      "template_id": "V0070/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00005521.pdf"
+        },
+        {
+          "description": "Anlage 1 zur Vorlage V0070",
+          "file_name": "00003069.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00009223.pdf",
+      "description": "Einladung_SR_2009_10_22"
+    },
+    {
+      "file_name": "00011144.pdf",
+      "description": "Beschlussausfertigung_V0056-01/09"
+    },
+    {
+      "file_name": "00011152.pdf",
+      "description": "Beschlussausfertigung_V0070/09"
+    },
+    {
+      "file_name": "00011136.pdf",
+      "description": "Beschlussausfertigung_V0199-01/09"
+    },
+    {
+      "file_name": "00011230.pdf",
+      "description": "Niederschrift öffentlich_SR_2009_10_22"
+    },
+    {
+      "file_name": "00011541.pdf",
+      "description": "Widerspruch V0199-01"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:43:26Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=246"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "OBR Pi/004/2010",
+  "description": "4. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2010-02-16T16:00:00Z",
+  "ended_at": "2010-02-16T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Präsentation des \"neuen Elbe Parks\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des Projektes der Landeshauptstadt DresdenDresdner Bildungsbahnen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anfragen/Anregungen aus dem Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00020357.pdf",
+      "description": "Einladung_OBR Pi"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:55:06Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=407"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "OBR Kl/027/2012",
+  "description": "27. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2012-04-16T17:00:00Z",
+  "ended_at": "2012-04-16T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung der aktuellen Entwicklung des Institutes für Arbeit und Gesundheit der Deutschen Gesetzlichen Unfallversicherung (IAG)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 358, Dresden-Hellerau Nr.12, Wohnbebauung Am Pfarrlehnhier:1. Billigung des Entwurfs zum Bebauungsplan 2. Billigung der Begründung zum Bebauungsplan-Entwurf 3. Durchführung des Beteiligungsverfahrens zum Bebauungsplan-Entwurf",
+      "template_id": "V1578/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1578/12_SB",
+          "file_name": "00095729.pdf"
+        },
+        {
+          "description": "V1578/12",
+          "file_name": "00092897.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00092685.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Blatt 1_Entwurf zum Bebauungsplan",
+          "file_name": "00091886.pdf"
+        },
+        {
+          "description": "b) Anlage 1_Blatt 2",
+          "file_name": "00092027.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Begründung zum Bebauungsplan",
+          "file_name": "00091888.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Anlage 1 zur Begründung zum Bebauungsplan",
+          "file_name": "00091889.pdf"
+        },
+        {
+          "description": "e) Anlage 2_Anlage 2 zur Begründung zum Bebauungsplan",
+          "file_name": "00091890.pdf"
+        },
+        {
+          "description": "f) bereits gef. Beschluss",
+          "file_name": "00092028.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Folgende Unterlagen wurden ausgereicht:",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00094162.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00096066.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:39:22Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2077"
+}

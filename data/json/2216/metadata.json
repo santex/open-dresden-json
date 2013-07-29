@@ -1,0 +1,83 @@
+{
+  "id": "OSR SW/036/2012",
+  "description": "36. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2012-09-24T17:35:00Z",
+  "ended_at": "2012-09-24T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlich gefasster Beschlüsse der 35. Sitzung vom 16.07.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sitzungstermine des Ortschaftsrates Schönfeld-Weißig im Jahr 2013",
+      "template_id": "V-SW0160/12",
+      "documents": [
+
+      ],
+      "decision": " Ja: 16, Nein: 0, Enthaltungen: 1, Befangen: 0",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00109550.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00110883.pdf",
+      "description": "Beschlussausfertigung V-SW0159/12"
+    },
+    {
+      "file_name": "00110881.pdf",
+      "description": "Beschlussausfertigung V-SW0159/12 komplett"
+    },
+    {
+      "file_name": "00110869.pdf",
+      "description": "Beschlussausfertigung V-SW0160/12"
+    },
+    {
+      "file_name": "00112641.pdf",
+      "description": "Beschlussausfertigung V-SW0161/12"
+    },
+    {
+      "file_name": "00111249.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:11:35Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2216"
+}

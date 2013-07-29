@@ -1,0 +1,54 @@
+{
+  "id": "SB/020/2010",
+  "description": "20. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2010-11-03T14:00:00Z",
+  "ended_at": "2010-11-03T19:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Ausweisung eines Standortes für Volksfeste",
+      "template_id": "A0148/10",
+      "documents": [
+        {
+          "description": "Antrag des Petitionsausschusses",
+          "file_name": "00023499.pdf"
+        },
+        {
+          "description": "BK A0148/10 - Zw.-Stand 12.12.12",
+          "file_name": "00119040.pdf"
+        },
+        {
+          "description": "BK A0148/10 Anlage - Zw.-Stand 12.12.12",
+          "file_name": "00119043.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00045671.pdf",
+      "description": "Einladung_2010_11_03_SB"
+    },
+    {
+      "file_name": "00045984.pdf",
+      "description": "Nachtrag_SB"
+    },
+    {
+      "file_name": "00047073.pdf",
+      "description": "Beschlussausfertigung_A0148/10"
+    },
+    {
+      "file_name": "00047241.pdf",
+      "description": "öffentl. Niederschrift_2010_11_03_SB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:15:54Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=674"
+}

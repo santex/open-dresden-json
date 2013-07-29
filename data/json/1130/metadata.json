@@ -1,0 +1,92 @@
+{
+  "id": "WF/033/2011",
+  "description": "33. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2011-06-09T14:00:00Z",
+  "ended_at": "2011-06-09T17:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr.: 10/11, Sanierung Neues Rathaus Dresden, Dr.-Külz-Ring 19, 01067 Dresden, BA 1 und 2a, Los: 1.06 - Abbruch und Gefahrstoffsanierung",
+      "template_id": "V1101/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1101_11_WF",
+          "file_name": "00066374.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 5028/11, Dörnichtweg von Boltenhagener Straße bis Am Trobischberg (Nord), Los: 1 - Straßenbau, Stützwände, Straßenbegleitgrün, Tiefbau",
+      "template_id": "V1104/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1104_11_WF",
+          "file_name": "00066387.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 5046/11, Zeitvertrag Sanierung von Rissen und Nähten im Stadtgebiet Dresden 2011 - 2013",
+      "template_id": "V1106/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1106_11_WF",
+          "file_name": "00066418.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen des Geschäftsbereiches Wirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00065180.pdf",
+      "description": "Einladung_WF_2011_06_09"
+    },
+    {
+      "file_name": "00065378.pdf",
+      "description": "Nachtrag_WF_2011_06_09"
+    },
+    {
+      "file_name": "00066619.pdf",
+      "description": "Niederschrift öffentlich_WF_2011_06_09"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:51:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1130"
+}

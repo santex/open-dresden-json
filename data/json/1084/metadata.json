@@ -1,0 +1,46 @@
+{
+  "id": "FL/039/2011",
+  "description": "39. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2011-04-04T14:00:00Z",
+  "ended_at": "2011-04-04T14:50:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Verlagerung und Neubau Kindertagesstätte Kamenzer Straße - Freiflächengestaltung und Parkerweiterung Alaunpark",
+      "template_id": "V0962/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0962/11",
+          "file_name": "00059803.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00058601.pdf"
+        },
+        {
+          "description": "Anlage psp",
+          "file_name": "00058768.docx"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00058660.pdf",
+      "description": "Einladung_FL_2011_04_04"
+    },
+    {
+      "file_name": "00059884.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:31:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1084"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "OBR Bl/021/2011",
+  "description": "21. Sitzung des Ortsbeirates Blasewitz (Sondersitzung)",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2011-11-09T15:30:00Z",
+  "ended_at": "2011-11-09T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00078305.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00082730.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:14:41Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2070"
+}

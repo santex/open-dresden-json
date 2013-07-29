@@ -1,0 +1,70 @@
+{
+  "id": "FL/055/2012",
+  "description": "55. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2012-03-26T14:00:00Z",
+  "ended_at": "2012-03-26T17:15:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Verkauf eines Grundstückes Lauensteiner Straße, Flurstück 252 h der Gemarkung Striesen",
+      "template_id": "V1484/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1484/12",
+          "file_name": "00093255.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00090647.pdf"
+        },
+        {
+          "description": "Anlage zur V1484 12 Lageplan",
+          "file_name": "00090254.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "\"Kassensturz\"",
+      "template_id": "A0577/12",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00090641.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0577/12",
+          "file_name": "00093263.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00091878.pdf",
+      "description": "Einladung_FL_2012_03_26"
+    },
+    {
+      "file_name": "00092171.pdf",
+      "description": "Nachtrag_FL_2012_03_26"
+    },
+    {
+      "file_name": "00093581.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:33:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1798"
+}

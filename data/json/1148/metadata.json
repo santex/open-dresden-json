@@ -1,0 +1,82 @@
+{
+  "id": "FL/043/2011",
+  "description": "43. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2011-07-04T14:00:00Z",
+  "ended_at": "2011-07-04T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Verkauf eines Flurstückes Nr. 230/87 der Gemarkung Coschütz",
+      "template_id": "V1070/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1070/11",
+          "file_name": "00068603.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00065390.pdf"
+        },
+        {
+          "description": "Anlage zur V1070 11",
+          "file_name": "00062915.pdf"
+        },
+        {
+          "description": "V1070/11",
+          "file_name": "00065753.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Überleitung zweckgebundener Rücklagen in die Eröffnungsbilanz der Landeshauptstadt Dresden",
+      "template_id": "V1091/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1091/11",
+          "file_name": "00068668.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00066661.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Zahlung einer Unterstützungsleistung an die Mutter von Jorge Gomondai",
+      "template_id": "A0376/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00061001.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00067600.pdf",
+      "description": "Einladung_FL_2011_07_04"
+    },
+    {
+      "file_name": "00072242.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:57:30Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1148"
+}

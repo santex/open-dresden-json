@@ -1,0 +1,148 @@
+{
+  "id": "WF/055/2012",
+  "description": "55. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-07-19T14:00:00Z",
+  "ended_at": "2012-07-19T16:15:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/182/11 Lieferung von Einsatzjacken und Einsatzhosen nach EN 469 (DIN EN 469) für das Brand- und Katastrophenschutzamt der Landeshauptstadt Dresden",
+      "template_id": "V1769/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1769_12_WF",
+          "file_name": "00105528.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 5037/12 Fetscherstraße, 3. BA zwischen Stübelallee und Fetscherplatz",
+      "template_id": "V1772/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1772_12_WF",
+          "file_name": "00105525.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-654-00068 Fenstereinbau, 85. Grundschule Radeburger Straße 168, 01109 DresdenNeueinbau von 62 Kunststofffenstern inkl. Rückbau und Entsorgung Bestandsfenster und zugehörige AnpassungsarbeitenBereitstellung Gerüst",
+      "template_id": "V1774/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1774_12_WF",
+          "file_name": "00105522.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00047 Temporäre Kita Standorte (TKS) - Paket 06 -Leutewitzer Straße 19a, 01157 Dresden/Fabricestraße, 01099 Dresden",
+      "template_id": "V1776/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1776_12_WF",
+          "file_name": "00105520.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Förderung von Großveranstaltungen - 2. Halbjahr 2012",
+      "template_id": "V1753/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1753/12",
+          "file_name": "00108793.pdf"
+        },
+        {
+          "description": "BK V1753/12 Abschlussbericht v. 2013-01-15",
+          "file_name": "00121246.pdf"
+        },
+        {
+          "description": "V1753/12 ö",
+          "file_name": "00104105.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00103766.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00105553.pdf"
+        },
+        {
+          "description": "Anlage 1 Übersicht Antragsteller 2. Halbjahr 2012",
+          "file_name": "00102614.pdf"
+        },
+        {
+          "description": "V0445 (SR-024-2011)",
+          "file_name": "00102628.pdf"
+        },
+        {
+          "description": "V1129 (WF-037-2011)",
+          "file_name": "00102629.pdf"
+        },
+        {
+          "description": "V1625 (WF-050-2012)",
+          "file_name": "00102630.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00104064.pdf",
+      "description": "Einladung_WF_2012_07_19"
+    },
+    {
+      "file_name": "00105740.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_07_19"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:06:19Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1777"
+}

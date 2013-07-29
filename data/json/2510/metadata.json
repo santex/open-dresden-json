@@ -1,0 +1,46 @@
+{
+  "id": "UK/056/2013",
+  "description": "56. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2013-06-24T14:30:00Z",
+  "ended_at": "2013-06-24T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Aufwertung des Rosengartens in der Dresdner Neustadt - Pflegezustand verbessern, Schäden beseitigen, Sitzgelegenheiten umgehend reparieren",
+      "template_id": "A0733/13",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00130227.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0733_13_UK",
+          "file_name": "00136622.pdf"
+        }
+      ],
+      "decision": "Ersetzung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00135708.pdf",
+      "description": "Einladung_UK_2013_06_24"
+    },
+    {
+      "file_name": "00136136.pdf",
+      "description": "Nachtrag_UK_2013_06_24"
+    },
+    {
+      "file_name": "00137285.pdf",
+      "description": "Niederschrift öffentlich_UK_2013_06_24"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:57:00Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2510"
+}

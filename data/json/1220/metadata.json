@@ -1,0 +1,540 @@
+{
+  "id": "SR/034/2011",
+  "description": "34. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2011-11-24T14:30:00Z",
+  "ended_at": "2011-11-24T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Kulturpalast, Kongressetage Panorama,Eingang Galeriestraße",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragestunde der Stadträtinnen und Stadträte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verpflichtungen und vertragliche Regelungen Baugrube Prager Carré (vormals Wiener Loch) insbesondere hinsichtlich der Grundwasserabsenkung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sanierung Sanitärbereiche 103. Grundschule",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Grundstückseigentum der LH Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verkehrsführung am Barteldesplatz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bereich berufsbildender Schulen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Würdevolles Gedenken am 9. November",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "93. Grundschule",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung Ortsbeirat Leuben",
+      "template_id": "A0492/11",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00079973.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0492/11",
+          "file_name": "00081775.pdf"
+        }
+      ],
+      "decision": "gewählt",
+      "vote_result": {
+        "pro": " 61",
+        "contra": " 5",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Innovation statt Restriktion! Maßnahmen zur Verbesserung der Luftqualität",
+      "template_id": "A0401/11",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00063879.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0401/11",
+          "file_name": "00086395.pdf"
+        },
+        {
+          "description": "BK A0401/11 Zwischenbericht v. 2013-03-06",
+          "file_name": "00125886.pdf"
+        },
+        {
+          "description": "A0401 - Anlage 1",
+          "file_name": "00063326.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Alten- und behindertengerechtes Wohnen fördern",
+      "template_id": "A0430/11",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00068317.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0430/11",
+          "file_name": "00081718.pdf"
+        },
+        {
+          "description": "BK A0394/11, A0407/11, A0419/11, A0430/11 Zwischenbericht v. 2012-11-29",
+          "file_name": "00118059.pdf"
+        },
+        {
+          "description": "BK A0430/11, A0394/11, A0407/11, A0419/11 Zwischenbericht v. 2013-02-25",
+          "file_name": "00125232.pdf"
+        },
+        {
+          "description": "AF1048 Altengerechtes Wohnen",
+          "file_name": "00068310.pdf"
+        },
+        {
+          "description": "AnhangSaechsBauO",
+          "file_name": "00068311.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Änderung der Satzung Schülerbeförderungskosten-Erstattung vom 17.07.1997 auf Grund der Umsetzung des Bildungs- und Teilhabepaketes in der Landeshauptstadt Dresden",
+      "template_id": "V1146/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1146/11",
+          "file_name": "00081784.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00071835.pdf"
+        },
+        {
+          "description": "Stellungnahme FB",
+          "file_name": "00068725.pdf"
+        },
+        {
+          "description": "Anlage 1 V1146/11",
+          "file_name": "00070830.pdf"
+        },
+        {
+          "description": "Anlage 2 V1146/11",
+          "file_name": "00070832.pdf"
+        },
+        {
+          "description": "Beschluss V0911-SR26-06",
+          "file_name": "00067383.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00068597.pdf"
+        },
+        {
+          "description": "V1146/11",
+          "file_name": "00072071.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 52",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Wirtschaftsplanung 2012 der Eigenbetriebe der Landeshauptstadt Dresden",
+      "template_id": "V1275/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1275/11",
+          "file_name": "00081944.pdf"
+        },
+        {
+          "description": "V1275/11",
+          "file_name": "00076073.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00075539.pdf"
+        },
+        {
+          "description": "Anlage zur V1275 11",
+          "file_name": "00075359.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Haushaltsvollzug 2011 - Finanzzwischenbericht gem. § 75 Abs. 5 SächsGemO und Zwischenberichte der Eigenbetriebe 2011 gem. § 8 Abs. 3 SächsEigBVO",
+      "template_id": "V1306-01/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1306-01/11",
+          "file_name": "00081952.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00080153.pdf"
+        },
+        {
+          "description": "Anlage 1 zur V1306 11",
+          "file_name": "00080145.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1306 11",
+          "file_name": "00080146.pdf"
+        },
+        {
+          "description": "Anlage 3 zur V1306 11",
+          "file_name": "00080147.pdf"
+        },
+        {
+          "description": "Anlage 4 zur V1306 11",
+          "file_name": "00080149.pdf"
+        },
+        {
+          "description": "Anlage 5 zum Finanzzwischenbericht 2011",
+          "file_name": "00080151.pdf"
+        },
+        {
+          "description": "Anlage 6 zur V1306 11",
+          "file_name": "00080148.pdf"
+        },
+        {
+          "description": "Anlage 7 zur V1306 11 n",
+          "file_name": "00080150.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 44",
+        "contra": " 11",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Neues Verwaltungszentrum",
+      "template_id": "V1300/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1300/11",
+          "file_name": "00084344.pdf"
+        },
+        {
+          "description": "BK V1300/11 Zwischenbericht v. 2012-12-05",
+          "file_name": "00118575.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00077772.pdf"
+        },
+        {
+          "description": "Stadtratsbeschluss V1006 11 (SR 028 2011)",
+          "file_name": "00075576.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Umbau des Übergangswohnheimes Buchenstraße 15 b in Wohnungen zur Nutzung als Gewährleistungswohnungen für Wohnungslose",
+      "template_id": "V1272/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1272/11",
+          "file_name": "00081832.pdf"
+        },
+        {
+          "description": "BK V1272/11 Abschlussbericht v. 2012-02-11",
+          "file_name": "00116601.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00077698.pdf"
+        },
+        {
+          "description": "Anlage 1_Satzungsänderung",
+          "file_name": "00073627.pdf"
+        },
+        {
+          "description": "Beschluss V0834",
+          "file_name": "00073632.pdf"
+        },
+        {
+          "description": "Beschluss V1055",
+          "file_name": "00073628.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00074089.pdf"
+        },
+        {
+          "description": "Stellungnahme FB",
+          "file_name": "00074261.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 67",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Angemessene Leistungen für Unterkunft nach dem Zweiten und Zwölften Buch Sozialgesetzbuch (SGB II und SGB XII)",
+      "template_id": "V1307/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1307/11",
+          "file_name": "00081507.pdf"
+        },
+        {
+          "description": "BK V1307/11 Abschlussbericht v. 2013-04-17",
+          "file_name": "00129811.pdf"
+        },
+        {
+          "description": "V1307/11",
+          "file_name": "00078420.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00078159.pdf"
+        },
+        {
+          "description": "Anlage 1_ Schlüssiges Konzept des IWU Darmstadt",
+          "file_name": "00078112.pdf"
+        },
+        {
+          "description": "Anlage 2_Finanzielle Auswirkungen",
+          "file_name": "00078066.pdf"
+        },
+        {
+          "description": "Beschluss V0382-SR09-05",
+          "file_name": "00076334.pdf"
+        },
+        {
+          "description": "Beschluss V2198-SR62-08",
+          "file_name": "00076335.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 32",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Erweiterung des Zoos für eine artgerechte Elefantentierhaltung in Dresden",
+      "template_id": "A0216/10",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00036874.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0216/10",
+          "file_name": "00086492.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag von CDU-Fraktion",
+          "file_name": "00086226.pdf"
+        },
+        {
+          "description": "Änderungsantrag von FDP-Fraktion",
+          "file_name": "00086324.pdf"
+        },
+        {
+          "description": "Änderungsantrag von Herrn Krien",
+          "file_name": "00086216.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Errichtung einer Tiefgarage am Palaisplatz",
+      "template_id": "A0395/11",
+      "documents": [
+        {
+          "description": "Antrag FDP - Änderung",
+          "file_name": "00079699.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0395/11",
+          "file_name": "00086399.pdf"
+        },
+        {
+          "description": "BK A0395/11 Zwischenbericht v. 2013-06-21",
+          "file_name": "00137028.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag von BürgerBündnis / Freie Bürger Fraktion",
+          "file_name": "00086210.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Evaluierung der Ansiedlungsprojekte großflächiger Einzelhandel in Dresden",
+      "template_id": "A0418/11",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00067610.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0418/11",
+          "file_name": "00081773.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 43",
+        "contra": " 23",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Maßnahmen zu höherer Verkehrssicherheit in Striesen/Blasewitz/Johannstadt",
+      "template_id": "A0455/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00074273.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0455/11",
+          "file_name": "00083984.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerinnen- und Einwohnerfragestunde",
+      "template_id": "A0478/11",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00076795.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0478/11",
+          "file_name": "00084161.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Zweckungebundene Rücklagenbildung aus Steuermehreinnahmen",
+      "template_id": "A0481/11",
+      "documents": [
+        {
+          "description": "Antrag BürgerBündnis / Freie Bürger Fraktion",
+          "file_name": "00076779.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0481/11",
+          "file_name": "00084014.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Anzahl der im Schuljahr 2011/2012 zu bildenden Klassen an der 88. Mittelschule in Dresden Hosterwitz - Vorlage eines Konzeptes mit möglichen Varianten zum Fortbestand beider Schulen",
+      "template_id": "V1385/11",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00080258.pdf",
+      "description": "Einladung_SR"
+    },
+    {
+      "file_name": "00083594.pdf",
+      "description": "Niederschrift öffentlich_2011_11_24"
+    },
+    {
+      "file_name": "00082969.pdf",
+      "description": "Beschlussausfertigungen nö"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:16:11Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1220"
+}

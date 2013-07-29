@@ -1,0 +1,159 @@
+{
+  "id": "WF/026/2011",
+  "description": "26. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2011-03-10T14:00:00Z",
+  "ended_at": "2011-03-10T18:05:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr.: 0034/10Abbruch und Neubau einer Dreifeldsporthalle, 101. Mittelschule, Pfotenhauerstr. in DresdenLos 32 - Freianlagen",
+      "template_id": "V0943/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0943_11_WF",
+          "file_name": "00057518.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 5017/11Zeitvertrag für Geländerinstandsetzung und Korrosionsschutz an Ingenieurbauwerken 2011-2013",
+      "template_id": "V0945/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0945_11_WF",
+          "file_name": "00057520.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 8010/11Hochlagenrückbau des Maltengraben 7. BA, Am Lugaer GrabenLos 1 - Gewässerausbau",
+      "template_id": "V0947/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0947_11_WF",
+          "file_name": "00057522.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/163/10Fertigung und Lieferung von FeuerwehrfahrzeugenLos 1 - 2 Stück Hubrettungsfahrzeuge Automatik-Drehleiter mit Rettungskorb (DLA(K) 12-12 L32)",
+      "template_id": "V0948/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0948_11_WF",
+          "file_name": "00057524.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/163/10Fertigung und Lieferung von FeuerwehrfahrzeugenLos 3 - 4 Stück Hilfeleistungslöschfahrzeuge (HLF 20/20)",
+      "template_id": "V0950/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0950_11_WF",
+          "file_name": "00057526.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/197/10Lieferung von IuK-Technik für die kommunalen Schulen der Landeshauptstadt DresdenLos 3 - Notebook",
+      "template_id": "V0952/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0952_11_WF",
+          "file_name": "00057530.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/218/10Unterhaltsreinigung in den Objekten Grunaer Straße 2 und Lingnerallee 3 in 01069 Dresden für den Regiebetrieb Zentrale Technische Dienstleistungen für die Landeshauptstadt Dresden",
+      "template_id": "V0954/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0954_11_WF",
+          "file_name": "00057536.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/229/10Lieferung von Ausstattungsgegenständen für die Kindertageseinrichtungen im Stadtgebiet der Landeshauptstadt DresdenLos 3 - Garderoben aus Holz",
+      "template_id": "V0956/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0956_11_WF",
+          "file_name": "00057538.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00056434.pdf",
+      "description": "Einladung_WF_2011_03_10"
+    },
+    {
+      "file_name": "00058590.pdf",
+      "description": "Niederschrift öffentlich_WF_2011_03_10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:27:40Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1067"
+}

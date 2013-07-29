@@ -1,0 +1,109 @@
+{
+  "id": "OSR GP/024/2011",
+  "description": "24. Sitzung des Ortschaftsrates Gompitz",
+  "committee": "Ortschaftsrat Gompitz",
+  "started_at": "2011-05-09T17:30:00Z",
+  "ended_at": "2011-05-09T20:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Gemeindezentrum Gompitz, Gemeindesaal,Altnossener Straße 46 a, 01156 Dresden, OT Pennrich",
+  "parts": [
+    {
+      "description": "Feststellung ordnungsgemäße Ladung/ Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Information über den Bearbeitungsstand Sanierung Wanderwege im Zschonergrund",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zum Antrag des Seniorenvereins Gompitz e. V. auf finanziellen Zuschuss für Vereinsveranstaltungen",
+      "template_id": "V-GP0093/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Information über das Konzept zur Wiedererrichtung eines Dachreiters auf Scheunendach Dreiseitenhof",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Stellungnahme zur Fortschreibung des Konzeptes aus 2002 zum Bau fehlender und zur Sanierung von stark instandsetzungsbedürftigen Fußwegen",
+      "template_id": "V-GP0096/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur Bereitstellung von Finanzmitteln an das Amt für Stadtgrün und Abfallwirtschaft für Ersatzneubau Brücke 4 im Zschonergrund",
+      "template_id": "V-GP0092/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00061920.pdf",
+      "description": "Einladung_OSR GP"
+    },
+    {
+      "file_name": "00063497.pdf",
+      "description": "Beschlussausfertigung_V-GP0092/11"
+    },
+    {
+      "file_name": "00063503.pdf",
+      "description": "Beschlussausfertigung_V-GP0093/11"
+    },
+    {
+      "file_name": "00063506.pdf",
+      "description": "Beschlussausfertigung_V-GP0094/11"
+    },
+    {
+      "file_name": "00064696.pdf",
+      "description": "Beschlussausfertigung_V-GP0096/11"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:43:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1018"
+}

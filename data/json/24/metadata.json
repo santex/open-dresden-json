@@ -1,0 +1,64 @@
+{
+  "id": "OBR Pl/002/2009",
+  "description": "2. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2009-11-03T16:00:00Z",
+  "ended_at": "2009-11-03T19:15:00Z",
+  "location": null,
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 1. Ortsbeiratssitzung am 6. Oktober 2009",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Überprüfung der Lärmschutzmaßnahmen entlang der Bundesautobahn 17 im Stadtgebiet Dresden",
+      "template_id": "A0026/09",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00003356.pdf"
+        },
+        {
+          "description": "A0026/09 (A0811)",
+          "file_name": "00003360.pdf"
+        },
+        {
+          "description": "zBK_A0026-09 abschl. Info v. 9.11.2010",
+          "file_name": "00048195.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00010973.pdf",
+      "description": "Einladung - OBR Pl"
+    },
+    {
+      "file_name": "00012239.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:44:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=24"
+}

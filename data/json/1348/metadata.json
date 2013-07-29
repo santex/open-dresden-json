@@ -1,0 +1,35 @@
+{
+  "id": "ISF/015/2010",
+  "description": "15. Sitzung des Betriebsausschusses für IT-Dienstleistungen, Stadtentwässerung und Friedhofswesen",
+  "committee": "Betriebsausschuss für IT-Dienstleistungen, Stadtentwässerung und Friedhofswesen",
+  "started_at": "2010-12-08T14:30:00Z",
+  "ended_at": "2010-12-08T15:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Eigenbetrieb Stadtentwässerung der Landeshauptstadt Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00049156.pdf",
+      "description": "Einladung_ISF_2010_12_08"
+    },
+    {
+      "file_name": "00050615.pdf",
+      "description": "Beschlussausfertigung_V0828/10_WF"
+    },
+    {
+      "file_name": "00051834.pdf",
+      "description": "Niederschrift öffentlich_2010_12_08"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:19:14Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1348"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "OBR Alt/009/2010",
+  "description": "9. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2010-05-27T15:30:00Z",
+  "ended_at": "2010-05-27T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 361, Dresden-Friedrichstadt Nr. 11, Schäferstraße/Weißeritzstraßehier:\t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplanes",
+      "template_id": "V0538/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00028118.pdf"
+        },
+        {
+          "description": "a) Anlage1-Geltungsbereich_V0538",
+          "file_name": "00027546.pdf"
+        },
+        {
+          "description": "b) Anlage2_Bp361_georef_Voerentwurf_V538",
+          "file_name": "00027547.pdf"
+        },
+        {
+          "description": "c) Anlage3_Baumassenstruktur_V0538",
+          "file_name": "00027548.pdf"
+        },
+        {
+          "description": "d) Anlage3_Gestaltplan_V0538",
+          "file_name": "00027549.pdf"
+        },
+        {
+          "description": "e) bereits gef. Beschluss 212-13-1990_V0538",
+          "file_name": "00027550.pdf"
+        },
+        {
+          "description": "f) bereits gef. Beschluss 3982-SB-99_V0538",
+          "file_name": "00027551.pdf"
+        },
+        {
+          "description": "g) bereits gef. Beschluss V652-15-2000_V538",
+          "file_name": "00027552.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Straßenreinigungsgebührensatzung (SRGS) 2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00030983.pdf",
+      "description": "Einladung_OBR Alt"
+    },
+    {
+      "file_name": "00033097.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:03:53Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=322"
+}

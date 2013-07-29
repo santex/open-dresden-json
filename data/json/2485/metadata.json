@@ -1,0 +1,154 @@
+{
+  "id": "WF/071/2013",
+  "description": "71. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2013-05-16T14:00:00Z",
+  "ended_at": "2013-05-16T17:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: A0010/12Gymnasium Bürgerwiese - Sanierung des Bestandsgebäudes und der Sporthalle  Gret-Palucca-Straße 1, 01069 Dresden Leistungen der Leistungsphasen 2 bis 9 gemäß § 33 HOAI i. V. m. Anlage 11 für die Sanierung des Bestandsgebäudes und der Sporthalle",
+      "template_id": "V2249/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_WF_V2249/13",
+          "file_name": "00132773.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen zu VOL-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 5006/13 Köpckestraße",
+      "template_id": "V2253/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_WF_V2253/13",
+          "file_name": "00132777.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2013-655-00015 Neubau Kindertageseinrichtung Moritzburger Straße in DresdenLos 02 - Rohbauarbeiten",
+      "template_id": "V2256/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_WF_V2256/13",
+          "file_name": "00132779.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-652-0009581. Grundschule - Sanierung und Erweiterung Robert-Weber-Straße 5, 01187 DresdenElektrotechnik",
+      "template_id": "V2258/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_WF_V2258/13",
+          "file_name": "00132781.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2013-654-00007Neubau einer Vier-Feld-Sporthalle Gymnasium Cotta, Cossebauder Straße 35, 01157 DresdenMetallbauarbeiten Fassade und Dachfenster",
+      "template_id": "V2260/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_WF_V2260/13",
+          "file_name": "00132783.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2013-652-00003Hans-Erlwein-Gymnasium Neubau SporthalleLos 41 - Sanitär- und Heizungstechnik",
+      "template_id": "V2262/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_WF_V2262/13",
+          "file_name": "00132787.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Geschäftsbereich Wirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00131228.pdf",
+      "description": "Einladung_WF_2013_05_16"
+    },
+    {
+      "file_name": "00133774.pdf",
+      "description": "Niederschrift öffentlich_WF_2013_05_16"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:51:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2485"
+}

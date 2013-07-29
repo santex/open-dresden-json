@@ -1,0 +1,56 @@
+{
+  "id": "WF/002/2009",
+  "description": "2. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2009-08-27T14:00:00Z",
+  "ended_at": "2009-08-27T16:35:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Beschlussfassung zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 0015/09 Städtisches Krankenhaus Dresden-Friedrichstadt, Friedrichstraße 41, 01067 Dresden, Teilersatzneubau Haus K, Los: 05-Rohbau",
+      "template_id": "V0138/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00004764.pdf",
+      "description": "Einladung WF 27_08_2009"
+    },
+    {
+      "file_name": "00005063.pdf",
+      "description": "Nachtrag WF 27_08_2009"
+    },
+    {
+      "file_name": "00005968.pdf",
+      "description": "Beschlussausfertigung_V0137/09_WF"
+    },
+    {
+      "file_name": "00005972.pdf",
+      "description": "Beschlussausfertigung_V0138/09_WF"
+    },
+    {
+      "file_name": "00006037.pdf",
+      "description": "Niederschrift öffentlich_WF_2009_08_27"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:40:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=81"
+}

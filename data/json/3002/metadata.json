@@ -1,0 +1,89 @@
+{
+  "id": "OSR LB/051/2013",
+  "description": "51. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2013-04-23T17:00:00Z",
+  "ended_at": "2013-04-23T20:10:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Straßenreinigungsgebührensatzung (SRGS) 2014",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauung von Grundstücken in der Ortschaft Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Neubau des Gehweges Dresdner Straße zwischen Haus Nr. 30 und 48a (Beschluss OR LB 09/2013 vom 15.01.2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00129230.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00131081.pdf",
+      "description": "Beschlussausfertigung_Ello_Traditionsfeuerwehr"
+    },
+    {
+      "file_name": "00134027.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:47:38Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3002"
+}

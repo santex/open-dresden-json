@@ -1,0 +1,136 @@
+{
+  "id": "OBR Pro/005/2010",
+  "description": "5. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2010-04-19T15:00:00Z",
+  "ended_at": "2010-04-19T18:30:00Z",
+  "location": "Ortsamt Prohlis, Prohliser Allee 10, 01239 Dresden, Bürgersaal",
+  "parts": [
+    {
+      "description": "Feststellung der Beschlussfähigkeit und Abstimmung über die Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 74, 1. Änderung, Dresden-Nickern I, Dohnaer Straße Südseite (Gewerbepark)hier:\t1. Abwägungsbeschluss\t2. Satzungsbeschluss sowie Billigung der Begründung",
+      "template_id": "V0502/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00026064.pdf"
+        },
+        {
+          "description": "a)Anlage 1 - Abwägung_V0502",
+          "file_name": "00025582.pdf"
+        },
+        {
+          "description": "c)Anlage 2 - Satzung_V0502",
+          "file_name": "00025584.pdf"
+        },
+        {
+          "description": "d)Anlage 3 - Begründung der Satzung_V0502",
+          "file_name": "00025585.pdf"
+        },
+        {
+          "description": "e)Anlage 4_V0502",
+          "file_name": "00025586.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2010/2011",
+      "template_id": "V0413/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00021931.pdf"
+        },
+        {
+          "description": "1-Beschlussausfertigung V3041-SR83-09",
+          "file_name": "00019503.pdf"
+        },
+        {
+          "description": "2-Zwischenseiten",
+          "file_name": "00019492.pdf"
+        },
+        {
+          "description": "3-Inhaltsverzeichnis",
+          "file_name": "00019493.pdf"
+        },
+        {
+          "description": "4-Teil A Teil1 neu",
+          "file_name": "00021538.pdf"
+        },
+        {
+          "description": "4-Teil A Teil2 neu",
+          "file_name": "00021539.pdf"
+        },
+        {
+          "description": "5-Erläuterungen zu B nach Umlauf",
+          "file_name": "00021543.pdf"
+        },
+        {
+          "description": "6-Teil B Teil1 neu",
+          "file_name": "00021547.pdf"
+        },
+        {
+          "description": "6-Teil B Teil2 neu",
+          "file_name": "00021548.pdf"
+        },
+        {
+          "description": "7-Teil C",
+          "file_name": "00019496.pdf"
+        },
+        {
+          "description": "8-Literaturverzeichnis",
+          "file_name": "00019497.pdf"
+        },
+        {
+          "description": "Anmerkung GLB zu V0413",
+          "file_name": "00020364.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Quartiersmanagement \"Am Koitschgraben\" - Anträge IG-Förderung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00027057.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00027294.pdf",
+      "description": "Nachtrag_OBR Pro"
+    },
+    {
+      "file_name": "00029351.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:00:06Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=440"
+}

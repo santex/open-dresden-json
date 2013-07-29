@@ -1,0 +1,49 @@
+{
+  "id": "OBR Lo/029/2012",
+  "description": "29. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2012-12-12T15:00:00Z",
+  "ended_at": "2012-12-12T18:10:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum, 2. Etage,Grundstraße 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 28. Ortsbeiratssitzung am 14.11.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen der Ortsamtsleiterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgeranfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00117640.pdf",
+      "description": "Einladung_OBR Lo"
+    },
+    {
+      "file_name": "00120677.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:23:18Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2094"
+}

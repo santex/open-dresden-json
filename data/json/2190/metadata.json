@@ -1,0 +1,120 @@
+{
+  "id": "OSR LB/037/2012",
+  "description": "37. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2012-05-22T16:30:00Z",
+  "ended_at": "2012-05-22T20:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlage der Oberbürgermeisterin der LHS Dresden V 1595/12",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Antrag Fraktion Bündnis 90/ Grüne A 0586/12",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "Ablehnung",
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00098524.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00100256.pdf",
+      "description": "Beschlussempfehlung_Antrag_Bürgerinfo_Baumfällungen_Ersatz"
+    },
+    {
+      "file_name": "00100255.pdf",
+      "description": "Beschlussempfehlung_Antrag_Patenschaft_Baumscheiben"
+    },
+    {
+      "file_name": "00100254.pdf",
+      "description": "Beschlussempfehlung Vorlage"
+    },
+    {
+      "file_name": "00100287.pdf",
+      "description": "Beschlussempfehlung Vorlage_Zusammenlegung Bauhöfe WX und LB"
+    },
+    {
+      "file_name": "00100381.pdf",
+      "description": "Beschlussausfertigung_Broschüre_Waldbad_Kulturverein"
+    },
+    {
+      "file_name": "00100375.pdf",
+      "description": "Beschlussausfertigung_Einwohnerversammlung"
+    },
+    {
+      "file_name": "00100388.pdf",
+      "description": "Beschlussausfertigung_Gurt-Schlitten-Anlage_Stadtteilfeuerwehr"
+    },
+    {
+      "file_name": "00100384.pdf",
+      "description": "Beschlussausfertigung_Personalstelle_Kulturverein"
+    },
+    {
+      "file_name": "00100385.pdf",
+      "description": "Beschlussausfertigung_Rechnung_Feriendorf"
+    },
+    {
+      "file_name": "00100387.pdf",
+      "description": "Beschlussausfertigung_Sponsoringvertrag"
+    },
+    {
+      "file_name": "00102219.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:46:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2190"
+}

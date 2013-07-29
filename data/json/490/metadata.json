@@ -1,0 +1,49 @@
+{
+  "id": "OSR WX/005/2010",
+  "description": "5. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2010-01-18T17:00:00Z",
+  "ended_at": "2010-01-18T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht zur Fertigstellung der Erschließung des Wohngebietes \"Weixdorf-Mitte\"BE: STESAD",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsvorstehers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00018031.pdf",
+      "description": "Einladung - OSR WX"
+    },
+    {
+      "file_name": "00019243.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:52:53Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=490"
+}

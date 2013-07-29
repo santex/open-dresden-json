@@ -1,0 +1,31 @@
+{
+  "id": "OSR SB/022/2011",
+  "description": "22. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2011-05-11T16:30:00Z",
+  "ended_at": "2011-05-11T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im ehemaligen Gemeindehaus Schönborn, Beratungsraum,Seifersdorfer Straße 6, 01465 Dresden",
+  "parts": [
+    {
+      "description": "Ortsbegehung (Treff: Ortsausgang Langebrücker Str.)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00062800.pdf",
+      "description": "Einladung_OSR SB"
+    },
+    {
+      "file_name": "00066049.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:43:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1518"
+}

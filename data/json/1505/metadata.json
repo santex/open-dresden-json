@@ -1,0 +1,82 @@
+{
+  "id": "OSR SW/020/2011",
+  "description": "20. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2011-03-29T17:32:00Z",
+  "ended_at": "2011-03-29T18:32:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig zur Traditions- und Heimatpflege",
+      "template_id": "V-SW0110/11",
+      "documents": [
+
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "redaktionelle Änderung Beschluss SW 18/01/2011",
+      "template_id": "A-SW0004/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00058414.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00059251.pdf",
+      "description": "Beschlussausfertigung A-SW005-11"
+    },
+    {
+      "file_name": "00059221.pdf",
+      "description": "Beschlussausfertigung TOP 6 zu 18-01-2010"
+    },
+    {
+      "file_name": "00059212.pdf",
+      "description": "Beschlussausfertigung TOP 7 NÖ"
+    },
+    {
+      "file_name": "00059186.pdf",
+      "description": "Beschlussausfertigung V-SW0109-11"
+    },
+    {
+      "file_name": "00059195.pdf",
+      "description": "Beschlussausfertigung V-SW0110-11 komplett"
+    },
+    {
+      "file_name": "00059726.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:31:26Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1505"
+}

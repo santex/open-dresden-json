@@ -1,0 +1,102 @@
+{
+  "id": "AV/030/2010",
+  "description": "30. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "committee": "Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "started_at": "2010-11-29T14:30:00Z",
+  "ended_at": "2010-11-29T19:55:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Widerspruch der Landeshauptstadt Dresden gegen Verwendung personenbezogener Daten durch \"Google Streetview\"",
+      "template_id": "A0207/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0207_10",
+          "file_name": "00057363.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00033437.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Schulbaufördermittel für Dresden",
+      "template_id": "A0278/10",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00043035.pdf"
+        },
+        {
+          "description": "0929aufgehobene Schulen",
+          "file_name": "00042947.pdf"
+        },
+        {
+          "description": "0929Fördermittel Schulbau_Anhang Bescheid SMK 08",
+          "file_name": "00042946.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00048442.pdf",
+      "description": "Einladung_AV_2010_11_29"
+    },
+    {
+      "file_name": "00048737.pdf",
+      "description": "Nachtrag1_AV_2010_11_29"
+    },
+    {
+      "file_name": "00049036.pdf",
+      "description": "Nachtrag2_AV_2010_11_29"
+    },
+    {
+      "file_name": "00049721.pdf",
+      "description": "Beschlussausfertigung_A0278/10"
+    },
+    {
+      "file_name": "00049714.pdf",
+      "description": "Beschlussausfertigung_A0284/10"
+    },
+    {
+      "file_name": "00049730.pdf",
+      "description": "Beschlussausfertigung_V0780/10"
+    },
+    {
+      "file_name": "00049741.pdf",
+      "description": "Beschlussausfertigung_V0793/10"
+    },
+    {
+      "file_name": "00049765.pdf",
+      "description": "Beschlussausfertigung_V0794/10"
+    },
+    {
+      "file_name": "00049770.pdf",
+      "description": "Beschlussausfertigung_V0795/10"
+    },
+    {
+      "file_name": "00049772.pdf",
+      "description": "Beschlussausfertigung_V0796/10"
+    },
+    {
+      "file_name": "00049774.pdf",
+      "description": "Beschlussausfertigung_V0797/10"
+    },
+    {
+      "file_name": "00049943.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:18:18Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=688"
+}

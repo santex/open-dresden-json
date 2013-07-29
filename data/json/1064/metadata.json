@@ -1,0 +1,146 @@
+{
+  "id": "SB/026/2011",
+  "description": "26. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2011-03-09T14:00:00Z",
+  "ended_at": "2011-03-09T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 373, Dresden-Löbtau Nr. 3, Gewerbe-Park Freiberger Straßehier:\t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplanes",
+      "template_id": "V0887/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00057402.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00051780.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Geltungsbereich",
+          "file_name": "00051663.pdf"
+        },
+        {
+          "description": "b) Anlage 2 Übersichtsplan_ A3",
+          "file_name": "00051664.pdf"
+        },
+        {
+          "description": "c) Anlage 3 städteb_Konzept_ A3",
+          "file_name": "00051665.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verlegung und behindertengerechter Neubau der Straßenbahnhaltestelle \"Friedensstraße\"",
+      "template_id": "A0280/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00057404.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00043041.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Brachfläche gegenüber der Frauenkirche aufwerten - Erscheinungsbild des Quartiers VI am Neumarkt verbessern",
+      "template_id": "A0341/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00057405.pdf"
+        },
+        {
+          "description": "Antrag FDP",
+          "file_name": "00054837.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Rahmenplan Nr. 735.1 Dresden-Altstadt I, Südliche Pirnaische Vorstadt/Lingner-Park-Stadt",
+      "template_id": "V0553/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00057629.pdf"
+        },
+        {
+          "description": "V0553/10",
+          "file_name": "00116200.pdf"
+        },
+        {
+          "description": "a) Anlage 1_V0553",
+          "file_name": "00028766.pdf"
+        },
+        {
+          "description": "b) Anlage 2_V0553",
+          "file_name": "00028767.pdf"
+        },
+        {
+          "description": "c) Anlage 3_V0553",
+          "file_name": "00028768.pdf"
+        },
+        {
+          "description": "d) Anlage 4_geändert091110_V0553",
+          "file_name": "00047843.pdf"
+        },
+        {
+          "description": "e) Anlage 5_geändert091010_V0553",
+          "file_name": "00047844.pdf"
+        },
+        {
+          "description": "f) V0553 bereits gefasste Beschlüsse",
+          "file_name": "00028774.pdf"
+        },
+        {
+          "description": "Stellg.-nahme BMB",
+          "file_name": "00048515.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0553",
+          "file_name": "00030433.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00048149.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00056250.pdf",
+      "description": "Einladung_SB"
+    },
+    {
+      "file_name": "00057807.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:27:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1064"
+}

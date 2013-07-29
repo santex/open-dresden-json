@@ -1,0 +1,101 @@
+{
+  "id": "JHA/002/2010",
+  "description": "2. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2010-01-14T16:00:00Z",
+  "ended_at": "2010-01-14T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Festsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschriften vom 13.11.2009 und Sondersitzung 26.11.2009",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl der Stellvertreterin/des Stellvertreters der Vorsitzenden des Jugendhilfeausschusses",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Unterausschuss \"Kindertagesbetreuung\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl der jeweiligen Vorsitzenden und Stellvertreter der Unterausschüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bildung eines Unterausschusses \"Förderung\"",
+      "template_id": "A0099/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 6",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII in Verbindung mit § 19 LJHG - Jugendinitiative Demokratie e. V.",
+      "template_id": "V0305/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00017422.pdf",
+      "description": "Einladung_JH_2010_01_14"
+    },
+    {
+      "file_name": "00018893.pdf",
+      "description": "Beschlussausfertigung_A0099/10"
+    },
+    {
+      "file_name": "00018906.pdf",
+      "description": "Beschlussausfertigung_V0305/09"
+    },
+    {
+      "file_name": "00019726.pdf",
+      "description": "Niederschrift öffentlich_JH_2010_01_14"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:52:42Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=707"
+}

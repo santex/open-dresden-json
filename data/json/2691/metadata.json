@@ -1,0 +1,77 @@
+{
+  "id": "OBR Pro/033/2013",
+  "description": "33. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2013-05-13T15:00:00Z",
+  "ended_at": "2013-05-13T17:20:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Prohlis, Bürgersaal,Prohliser Allee 10, 01239 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellung der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift zur 32. Ortsbeiratssitzung am 08.04.2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Gründung des Gymnasiums Dresden-Prohlis",
+      "template_id": "V2197/13",
+      "documents": [
+        {
+          "description": "V2197/13",
+          "file_name": "00131359.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00130607.pdf"
+        },
+        {
+          "description": "Anlage V2197/13",
+          "file_name": "00128093.pdf"
+        },
+        {
+          "description": "Beschluss",
+          "file_name": "00128092.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 19",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Mitwirkung bei der Erstellung der Straßenreinigungsgebührensatzung (SRGS) 2014",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters zum Geschehen im Ortsamtsgebiet / Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00130839.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00131234.pdf",
+      "description": "Nachtrag_OBR Pro"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:49:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2691"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "WF/044/2012",
+  "description": "44. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-01-26T14:00:00Z",
+  "ended_at": "2012-01-26T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/134/11 Unterhaltsreinigung und Wäscheverwaltung für die Kindertageseinrichtungen im Ortsamtsbereich Plauen des Eigenbetriebes Kindertageseinrichtungen Dresden",
+      "template_id": "V1453/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1453_12_WF",
+          "file_name": "00087290.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 5020/11 Hochwasser 2002 - Gompitzer Straße, 5. BA von Bebauungsende bis Ockerwitzer Allee",
+      "template_id": "V1456/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1456_12_WF",
+          "file_name": "00087306.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 0191/11 Rahmenzeitvertrag für Bauleistungen 2012 RZV - Los 11 (Bodenbelagsarbeiten - LB 665) vom 01.04.2012 bis 31.03.2013, Verlängerungsoption bis 31.03.2014",
+      "template_id": "V1458/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1458_12_WF",
+          "file_name": "00087308.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 0212/11 4. GS; Gym_Klotzsche; 59. GS; 103. GS; Bau 003; MS_Cossebaude, Brandschutzertüchtigung Schultyp \"Dresden\" - Paket 5, Los 02/03 Flurtrennungen Los 2; Zusatzmaßnahmen KG - Los 3",
+      "template_id": "V1460/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1460_12_WF",
+          "file_name": "00087312.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00085832.pdf",
+      "description": "Einladung_WF_2012_01_26"
+    },
+    {
+      "file_name": "00086261.pdf",
+      "description": "Nachtrag_1_WF_2012_01_26"
+    },
+    {
+      "file_name": "00086262.pdf",
+      "description": "Nachtrag_2_WF_2012_01_26"
+    },
+    {
+      "file_name": "00087349.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_01_26"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:25:27Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1770"
+}

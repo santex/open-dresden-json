@@ -1,0 +1,99 @@
+{
+  "id": "OSR LB/001/2009",
+  "description": "1. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2009-08-24T17:00:00Z",
+  "ended_at": "2009-08-24T17:37:00Z",
+  "location": null,
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Grußwort der Oberbürgermeisterin der Landeshauptstadt Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verpflichtung der gewählten Ortschaftsräte nach § 35 Abs. 1 i.V.m. § 69 SächsGemO",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Feststellung über das Nachrücken in den Ortschaftsrat nach § 34 Abs. 2 i.V.m. § 69 SächsGemO, hier: Herr van Rennings (SPD)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl eines Ortschaftsratsmitgliedes zur Vereidigung und Verpflichtung des Ortsvorstehers und seines Stellvertreters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verpflichtung und Vereidigung des Ortsvorstehers nach § 51 Abs. 6 i.V.m. § 69 SächsGemO",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verpflichtung und Vereidigung des stellvertretenden Ortsvorstehers nach § 51 Abs. 6 i.V.m. § 69 SächsGemO",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl eines stellvertretenden Streitvertreters nach § 16 Abs. 1 der Vereinbarung über die Eingliederung der Ge-meinde Langebrück in die Landeshauptstadt Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00007577.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:40:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=33"
+}

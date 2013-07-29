@@ -1,0 +1,40 @@
+{
+  "id": "OBR Pl/016/2011",
+  "description": "16. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2011-10-04T15:30:00Z",
+  "ended_at": "2011-10-04T18:00:00Z",
+  "location": "Ratssaal des Ortsamtes Plauen, Nöthnitzer Straße 2",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsamtes",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00075331.pdf",
+      "description": "Einladung_OBR Pl"
+    },
+    {
+      "file_name": "00077038.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:09:55Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1358"
+}

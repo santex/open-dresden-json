@@ -1,0 +1,272 @@
+{
+  "id": "OBR Alt/032/2012",
+  "description": "32. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2012-05-23T15:30:00Z",
+  "ended_at": "2012-05-23T19:20:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Altstadt, 1. Etage, Raum 100,Theaterstraße 11, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Vorplanung Fetscherstraße zwischen Stübelallee und Fiedlerstraße",
+      "template_id": "V1535/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1535/12",
+          "file_name": "00111075.pdf"
+        },
+        {
+          "description": "BK V1535/12 Zwischenbericht v. 2013-03-22",
+          "file_name": "00127889.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00097916.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00108833.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Übersichtsplan",
+          "file_name": "00089716.pdf"
+        },
+        {
+          "description": "b) Anlage 2 Lageplan Blatt 1",
+          "file_name": "00089717.pdf"
+        },
+        {
+          "description": "c) Anlage 2 Lageplan Blatt 2",
+          "file_name": "00089718.pdf"
+        },
+        {
+          "description": "d) Anlage 3 Regelquerschnitt",
+          "file_name": "00089719.pdf"
+        },
+        {
+          "description": "e) Anlage 4 Gestaltungskonzept Comeniusplatz",
+          "file_name": "00089720.pdf"
+        },
+        {
+          "description": "f) Anlage 5 Verkehrsbelastung (IST-Prognose 2025)",
+          "file_name": "00089721.pdf"
+        },
+        {
+          "description": "g) Anlage 6.1 DB KP Fetscherstr.-Blasewitzer Str. VA",
+          "file_name": "00089722.pdf"
+        },
+        {
+          "description": "h) Anlage 6.2 DB KP Fetscherstr.-Blasewitzer Str. VB",
+          "file_name": "00089723.pdf"
+        },
+        {
+          "description": "i) Anlage 7.1 DB KP Comeniusplatz VA",
+          "file_name": "00089725.pdf"
+        },
+        {
+          "description": "j) Anlage 7.2 DB KP Comeniusplatz VB",
+          "file_name": "00089726.pdf"
+        },
+        {
+          "description": "k) Anlage 8 DB Tunnel Fetscherplatz",
+          "file_name": "00089727.pdf"
+        },
+        {
+          "description": "l) bereits gefasste Beschlüsse",
+          "file_name": "00089728.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00091038.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - Bündnis 90/Die Grünen",
+          "file_name": "00111018.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE.",
+          "file_name": "00111016.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorhaben- und Erschließungsplan Nr. 563, Dresden-Altstadt I, Prager Straße/Ost, UFA-Kino-Zentrumhier:\t 1. Beschluss zur Durchführung eines Aufhebungsverfahrens zum Vorhaben- und Erschließungsplan 2. Öffentliche Auslegung der Satzung zur Aufhebung des Vorhaben- und Erschließungsplanes",
+      "template_id": "V1657/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1657/12_SB",
+          "file_name": "00100622.pdf"
+        },
+        {
+          "description": "V1657/12 ö",
+          "file_name": "00098050.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00097606.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Satzungstext",
+          "file_name": "00096675.pdf"
+        },
+        {
+          "description": "b) Anlage 1_Geltungsbereich Aufhebungssatzung_A3",
+          "file_name": "00096676.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Begründung zur Aufhebungssatzung",
+          "file_name": "00096677.pdf"
+        },
+        {
+          "description": "d) Anlage 3_rechtskräftiger VE-Plan_A3",
+          "file_name": "00096678.pdf"
+        },
+        {
+          "description": "e) Anlage 4_Begründung",
+          "file_name": "00096683.pdf"
+        },
+        {
+          "description": "g) bereits gefasster Beschluss_V1657",
+          "file_name": "00096686.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Soziokulturelles Zentrum Friedrichstadt im Stadtgebiet Dresden West/Friedrichstadt (EFRE-Förderung)",
+      "template_id": "V1474/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00103314.pdf"
+        },
+        {
+          "description": "V1474/12 ö",
+          "file_name": "00098170.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00097903.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00092902.pdf"
+        },
+        {
+          "description": "b) Anlage 2_neu",
+          "file_name": "00096688.pdf"
+        },
+        {
+          "description": "c) Anlage 3",
+          "file_name": "00092904.pdf"
+        },
+        {
+          "description": "d) Anlage 4",
+          "file_name": "00092905.pdf"
+        },
+        {
+          "description": "e) Anlage 5",
+          "file_name": "00092906.pdf"
+        },
+        {
+          "description": "h) bereits gefasste Beschlüsse",
+          "file_name": "00092909.pdf"
+        },
+        {
+          "description": "V1474_12_Stellungnahme BMB",
+          "file_name": "00093879.pdf"
+        },
+        {
+          "description": "BK V1474-12 Zw.-Bericht 18.02.2013",
+          "file_name": "00124281.pdf"
+        },
+        {
+          "description": "BK V1474/12 -Zw.-bericht",
+          "file_name": "00114588.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Polizeidirektion Dresden soll in der Innenstadt bleiben!",
+      "template_id": "A0605/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00095909.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0605/12",
+          "file_name": "00100324.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Anträge und Vorlagen zur Information",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerinformation zu Baumfällungen und Ersatzpflanzungen",
+      "template_id": "A0586/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092885.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0586/12",
+          "file_name": "00108805.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00098347.pdf",
+      "description": "Einladung_OBR Alt"
+    },
+    {
+      "file_name": "00100209.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:47:44Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1983"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "FL/053/2012",
+  "description": "53. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2012-03-05T14:00:00Z",
+  "ended_at": "2012-03-05T16:45:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Verkauf des Grundstückes Liliengasse 19",
+      "template_id": "V1353/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1353/11",
+          "file_name": "00097260.pdf"
+        },
+        {
+          "description": "V1353/11 - ohne nö",
+          "file_name": "00082462.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00090860.pdf"
+        },
+        {
+          "description": "Anlage 1 zur V1353 11",
+          "file_name": "00081259.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": null
+    },
+    {
+      "description": "Bestätigung zur Veranschlagung der bewilligten Fördermittel im Haushaltplan des Stadtplanungsamtes zur Sicherung der Finanzierung der Modernisierung und Instandsetzung des Freibades Cotta im Rahmen des Bund-Länder-Programms \"Stadtumbau Ost - Programmteil Aufwertung\", Fördergebiet: Aufwertung West",
+      "template_id": "V1437/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1437/11",
+          "file_name": "00090889.pdf"
+        },
+        {
+          "description": "V1437/11",
+          "file_name": "00089068.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00088821.pdf"
+        },
+        {
+          "description": "a) Anlage 1_ Darstellung der Veränderungen_geändert",
+          "file_name": "00088098.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Förderrechtliche Zustimmung vom 2.11.2011_Freibad Cotta",
+          "file_name": "00084295.pdf"
+        },
+        {
+          "description": "c) Anlage 3_ Kosten- und Finanzierungsplan",
+          "file_name": "00084296.pdf"
+        },
+        {
+          "description": "d) bereits gefasster Beschluss",
+          "file_name": "00084297.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sanierung und Erweiterung der Mittelschule Weixdorf - Sicherung der Gesamtfinanzierung",
+      "template_id": "V1497/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1497/12",
+          "file_name": "00090914.pdf"
+        },
+        {
+          "description": "V1497/12",
+          "file_name": "00089066.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00088896.pdf"
+        },
+        {
+          "description": "Anlage V1497/12",
+          "file_name": "00088376.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung V0750/10",
+          "file_name": "00088993.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung V1310/11",
+          "file_name": "00088987.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Errichtung öffentlicher Toiletten im Stadtteil Äußere Neustadt und Einrichtung der \"Netten Toiletten\"",
+      "template_id": "A0487/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00079885.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0487/11",
+          "file_name": "00090920.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00089611.pdf",
+      "description": "Einladung_FL_2012_03_05"
+    },
+    {
+      "file_name": "00092457.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:28:53Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1797"
+}

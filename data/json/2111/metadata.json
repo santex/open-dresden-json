@@ -1,0 +1,97 @@
+{
+  "id": "OSR WX/034/2012",
+  "description": "34. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2012-06-18T17:00:00Z",
+  "ended_at": "2012-06-18T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 355, Dresden-Weixdorf Nr. 13, Einkaufszentrum Hohenbuschhier:\t1. Aufstellungsbeschluss des Bebauungsplans 2. Entfallen des frühzeitigen Beteiligungsverfahrenes 3. Billigung des Entwurfs zum Bebauungsplan 4. Billigung der Begründung zum Bebauungsplan-Entwurf5. Öffentliche Auslegung und Beteiligung der Träger öffentlicher Belange zum Entwurf des Bebauungsplanes",
+      "template_id": "V1691/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00105360.pdf"
+        },
+        {
+          "description": "V1691/12",
+          "file_name": "00100702.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00100229.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00099591.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Blatt 1",
+          "file_name": "00099790.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Blatt 2",
+          "file_name": "00099791.pdf"
+        },
+        {
+          "description": "d) Anlage 3",
+          "file_name": "00099597.pdf"
+        },
+        {
+          "description": "BK V1691/12",
+          "file_name": "00121148.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen des Ortsvorstehers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Baumpflanzung Alte Dresdner Straße",
+      "template_id": "V-WX0047/12",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00101041.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00102418.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00102126.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:53:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2111"
+}

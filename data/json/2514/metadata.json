@@ -1,0 +1,43 @@
+{
+  "id": "SB/068/2013",
+  "description": "68. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2013-06-26T14:00:00Z",
+  "ended_at": "2013-06-26T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+
+  ],
+  "documents": [
+    {
+      "file_name": "00135687.pdf",
+      "description": "Einladung_SB_2013_06_26"
+    },
+    {
+      "file_name": "00136968.pdf",
+      "description": "Beschlussempfehlung Antrag ff_A0706/13_SB"
+    },
+    {
+      "file_name": "00136970.pdf",
+      "description": "Beschlussempfehlung Antrag ff_A0715/13_SB"
+    },
+    {
+      "file_name": "00136946.pdf",
+      "description": "Beschlussempfehlung Vorlage ff_V2184/13_SB"
+    },
+    {
+      "file_name": "00136955.pdf",
+      "description": "Beschlussempfehlung Vorlage ff_V2228/13_SB"
+    },
+    {
+      "file_name": "00136944.pdf",
+      "description": "Beschlussempfehlung Vorlage ff_V2237/13_SB"
+    },
+    {
+      "file_name": "00136938.pdf",
+      "description": "Beschlussempfehlung Vorlage ff_V2291/13_SB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:57:25Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2514"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "OSR MB/047/2013",
+  "description": "47. Sitzung des Ortschaftsrates Mobschatz",
+  "committee": "Ortschaftsrat Mobschatz",
+  "started_at": "2013-04-11T17:40:00Z",
+  "ended_at": "2013-04-11T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im \"Dorfklub Mobschatz\", Sitzungssaal,Am Tummelsgrund 7 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des Projektes zur Neugestaltung des Spielplatzes an der Lotzebachstraße/ Rennersdorfer Hauptstraße",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Stellungnahme zu einer Grundstücksangelegenheit im Ortsteil Mobschatz, Am Tummelsgrund",
+      "template_id": "V-MB0096/13",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aktuelle Informationen der Ortschaft Mobschatz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00127926.pdf",
+      "description": "Einladung_OSR MB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:46:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2912"
+}

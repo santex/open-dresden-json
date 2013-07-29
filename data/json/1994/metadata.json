@@ -1,0 +1,128 @@
+{
+  "id": "OBR Neu/029/2012",
+  "description": "29. Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2012-04-16T15:30:00Z",
+  "ended_at": "2012-04-16T19:55:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Dreikönigskirche, 2. Etage, Kleiner SaalHauptstr. 23, 01097 Dresden",
+  "parts": [
+    {
+      "description": "Besichtigung Dreikönigskirche - Turmaufstieg",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 368, Dresden-Neustadt Nr. 35, Quartier Fabricehier:1. Aufstellungsbeschluss Bebauungsplan 2. Grenzen des räumlichen Geltungsbereiches des Bebauungsplanes 3. Billigung des Entwurfs zum Bebauungsplan 4. Billigung der Begründung des Bebauungsplan-Entwurfs5. Durchführung des Beteiligungsverfahrens zum Bebauungsplan-Entwurf",
+      "template_id": "V1598/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1598/12_SB",
+          "file_name": "00095725.pdf"
+        },
+        {
+          "description": "V1598/12",
+          "file_name": "00093948.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00093683.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00093084.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Geltungsbereich",
+          "file_name": "00093085.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Blatt 1_Rechtsplan",
+          "file_name": "00093086.pdf"
+        },
+        {
+          "description": "d) Anlage 3_ Blatt 2_Textliche Festsetzungen",
+          "file_name": "00093087.pdf"
+        },
+        {
+          "description": "e) Anlage 4_Begründung Entwurf",
+          "file_name": "00093088.pdf"
+        },
+        {
+          "description": "f) Anlage 1 zur Begründung_Übersichtsplan",
+          "file_name": "00093089.pdf"
+        },
+        {
+          "description": "g) Anlage 2 zur Begründung_Gestaltungsplan",
+          "file_name": "00093090.pdf"
+        },
+        {
+          "description": "h) Anlage 3 zur Begründung_Erschließungsplan",
+          "file_name": "00093091.pdf"
+        },
+        {
+          "description": "i) Anlage 4 zur Begründung_Erschließungsplan Stadttechnik",
+          "file_name": "00093092.pdf"
+        },
+        {
+          "description": "j) bereits gefasste Beschlüsse",
+          "file_name": "00093093.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Förderung von Hochwassereigenvorsorge",
+      "template_id": "A0571/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00090992.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0571/12",
+          "file_name": "00105040.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - SPD",
+          "file_name": "00104698.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00094061.pdf",
+      "description": "Einladung_OBR Neu_16.04.2012"
+    },
+    {
+      "file_name": "00095589.pdf",
+      "description": "Niederschrift öffentlich_OBR Neu_16.04.2012"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:38:08Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1994"
+}

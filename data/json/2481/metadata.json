@@ -1,0 +1,42 @@
+{
+  "id": "SB/066/2013",
+  "description": "66. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2013-05-15T14:00:00Z",
+  "ended_at": "2013-05-15T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Besserer Winterräumdienst auf Radwegen",
+      "template_id": "A0700/13",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00123473.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00132470.pdf"
+        },
+        {
+          "description": "Schneehaufen_Querung_Albertplatz_Dez_2010",
+          "file_name": "00123451.jpg"
+        }
+      ],
+      "decision": "punktweise Ablehnung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00131259.pdf",
+      "description": "Einladung_SB_2013_05_15"
+    },
+    {
+      "file_name": "00132484.pdf",
+      "description": "Beschlussempfehlung Vorlage ff_V2179/13_SB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:50:12Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2481"
+}

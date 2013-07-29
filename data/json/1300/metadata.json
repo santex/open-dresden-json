@@ -1,0 +1,155 @@
+{
+  "id": "OSR CB/022/2011",
+  "description": "22. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2011-09-12T16:30:00Z",
+  "ended_at": "2011-09-12T18:00:00Z",
+  "location": "im Vereinsraum des Feuerwehr- und Heimatvereins Niederwartha e. V.,Weistropper Straße 6, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung der Planung zum Bauvorhaben nördliche Fahrbahn Weinbergstraße Cossebaude",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel für Planung Sanierungsmaßnahmen Bismarckturm Cossebaude",
+      "template_id": "A-CB0042/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel zum Bau von Stellplätzen am Bergfriedhof Cossebaude",
+      "template_id": "A-CB0045/11",
+      "documents": [
+
+      ],
+      "decision": "erneute Beratung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel für Bibliothek Cossebaude",
+      "template_id": "A-CB0044/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel für Heimat- und Verschönerungsverein Cossebaude e.V. - Erneuerung der Blumenkästen",
+      "template_id": "A-CB0048/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00072793.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00074119.pdf",
+      "description": "Beschlussausfertigung Bibo Cosseb."
+    },
+    {
+      "file_name": "00074123.pdf",
+      "description": "Beschlussausfertigung DRK CB"
+    },
+    {
+      "file_name": "00074127.pdf",
+      "description": "Beschlussausfertigung f. Stellflächen Friedhof"
+    },
+    {
+      "file_name": "00074111.pdf",
+      "description": "Beschlussausfertigung HVV Erneuerg.Blumenkästen"
+    },
+    {
+      "file_name": "00074106.pdf",
+      "description": "Beschlussausfertigung HVV Heimathaus baul.Veränderungen"
+    },
+    {
+      "file_name": "00074115.pdf",
+      "description": "Beschlussausfertigung HVV Tradtitionsfass"
+    },
+    {
+      "file_name": "00074139.pdf",
+      "description": "Beschlussausfertigung Oberfl.entwässg.Albrechtshöhe"
+    },
+    {
+      "file_name": "00074135.pdf",
+      "description": "Beschlussausfertigung Planungskosten Bismarckturm"
+    },
+    {
+      "file_name": "00074131.pdf",
+      "description": "Beschlussausfertigung Spielgerät f. CB Spielplatz"
+    },
+    {
+      "file_name": "00074167.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:07:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1300"
+}

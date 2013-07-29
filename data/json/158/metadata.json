@@ -1,0 +1,58 @@
+{
+  "id": "SP/004/2009",
+  "description": "4. Sitzung des Betriebsausschusses für Sportstätten und Bäder",
+  "committee": "Betriebsausschuss für Sportstätten und Bäder",
+  "started_at": "2009-12-03T14:00:00Z",
+  "ended_at": "2009-12-03T15:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Abschluss des Mietvertrages zwischen der Landeshauptstadt Dresden (Eigenbetrieb Sportstätten- und Bäderbetrieb) und dem Langebrücker Ballsportverein 99 e. V. zur Überlassung der Ballsportanlage Langebrück",
+      "template_id": "V0229/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00013604.pdf"
+        },
+        {
+          "description": "Anlage 1.1 V0229/09",
+          "file_name": "00013245.pdf"
+        },
+        {
+          "description": "Anlage 1.2 V0229/09",
+          "file_name": "00013249.pdf"
+        },
+        {
+          "description": "Anlage 1.3 V0229/09",
+          "file_name": "00009279.pdf"
+        },
+        {
+          "description": "Anlage 2 V0229/09",
+          "file_name": "00013250.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00014565.pdf",
+      "description": "Einladung - SP_2009_12_03"
+    },
+    {
+      "file_name": "00015716.pdf",
+      "description": "Beschlussausfertigung_V0229/09"
+    },
+    {
+      "file_name": "00015786.pdf",
+      "description": "Niederschrift öffentlich_SP_2009_12_03"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:49:52Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=158"
+}

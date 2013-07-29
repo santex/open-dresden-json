@@ -1,0 +1,34 @@
+{
+  "id": "UK/025/2011",
+  "description": "25. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2011-03-07T14:30:00Z",
+  "ended_at": "2011-03-07T17:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Maßnahmen zur Reduktion von Luftschadstoffen in der Königsbrücker Straße",
+      "template_id": "A0292/10",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00044792.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00055937.pdf",
+      "description": "Einladung_UK_2011_03_07"
+    },
+    {
+      "file_name": "00057319.pdf",
+      "description": "Niederschrift öffentlich_UK_2011_03_07"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:26:54Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1060"
+}

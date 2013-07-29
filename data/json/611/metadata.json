@@ -1,0 +1,39 @@
+{
+  "id": "UK/015/2010",
+  "description": "15. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2010-06-07T14:30:00Z",
+  "ended_at": "2010-06-07T17:55:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Durchsetzung und Weiterführung der kommunalen Entsorgung von Altpapier aus Haushalten",
+      "template_id": "V0552/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00031792.pdf",
+      "description": "Einladung_UK_2010_06_07"
+    },
+    {
+      "file_name": "00033053.pdf",
+      "description": "Beschlussausfertigung_V0552/10"
+    },
+    {
+      "file_name": "00033356.pdf",
+      "description": "Niederschrift öffentlich_UK_2010_06_07"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:04:22Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=611"
+}

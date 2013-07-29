@@ -1,0 +1,66 @@
+{
+  "id": "OBR Leu/021/2012",
+  "description": "21. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2012-03-07T17:00:00Z",
+  "ended_at": "2012-03-07T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, Bürgersaal,Hertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift vom 11.01.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ehrenamtsarbeit in Dresden - Koordinierungsstelle Ehrenamt einrichten",
+      "template_id": "A0514/11",
+      "documents": [
+
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 1",
+        "contra": " 10",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Information der DVB zur Erneuerung des Fährplatzes in Kleinzschachwitz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Geschehen im Ortsamtsgebiet/ Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00088824.pdf",
+      "description": "Einladung_OBR Leu_2012_03_07"
+    },
+    {
+      "file_name": "00092125.pdf",
+      "description": "Niederschrift öffentlich"
+    },
+    {
+      "file_name": "00091312.pdf",
+      "description": "Vorschläge, Hinweise u. Anfragen an OB Brücke Niedersedlitzer Flutgraben"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:28:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2005"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "OBR Co/031/2012",
+  "description": "31. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2012-11-15T16:00:00Z",
+  "ended_at": "2012-11-15T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Cotta, kleiner Sitzungssaal, 1. Etage, Raum 103,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Berichterstattung des Quartiersmanagements Gorbitz über die Verwendung des Verfügungsfonds der Sozialen Stadt Dresden - Stellungnahme des Ortsbeirates zum Quartiersmanagement",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00113638.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00116640.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:20:45Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2162"
+}

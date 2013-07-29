@@ -1,0 +1,86 @@
+{
+  "id": "OSR GP/032/2012",
+  "description": "32. Sitzung des Ortschaftsrates Gompitz",
+  "committee": "Ortschaftsrat Gompitz",
+  "started_at": "2012-02-06T17:30:00Z",
+  "ended_at": "2012-02-06T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Gemeindezentrum Gompitz, Gemeindesaal,Altnossener Straße 46 a, 01156 Dresden, OT Pennrich",
+  "parts": [
+    {
+      "description": "Feststellung ordnungsgemäße Ladung/ Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2012/2013",
+      "template_id": "V1389/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00085670.pdf"
+        },
+        {
+          "description": "Fachplan_gesamt",
+          "file_name": "00083758.pdf"
+        },
+        {
+          "description": "Beschluss V0938_11",
+          "file_name": "00080962.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE",
+          "file_name": "00094181.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - SPD",
+          "file_name": "00094183.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur Bereitstellung von Verfügungsmitteln des Ortschaftsrates für Vorhaben im Jahr 2012",
+      "template_id": "V-GP0124/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zum Antrag auf finanzielle Unterstützung für Vortragsveranstaltungen",
+      "template_id": "V-GP0126/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Stellungnahme zum Entwurf des Landesentwicklungsplanes Sachsen 2012",
+      "template_id": "V-GP0129/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00087244.pdf",
+      "description": "Einladung_OSR GP"
+    },
+    {
+      "file_name": "00087579.pdf",
+      "description": "Nachtrag_OSR GP"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:25:50Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2176"
+}

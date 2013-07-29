@@ -1,0 +1,82 @@
+{
+  "id": "OSR CB/006/2010",
+  "description": "6. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2010-02-08T16:30:00Z",
+  "ended_at": "2010-02-08T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel 2010 für Kindertageszentrum Cossebaude",
+      "template_id": "A-CB0001/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel für Ortsvorsteherin Cossebaude",
+      "template_id": "A-CB0003/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00019938.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00021142.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00021171.pdf",
+      "description": "Beschlussausfertigung Finanzmittel AWO Heim CB"
+    },
+    {
+      "file_name": "00021170.pdf",
+      "description": "Beschlussausfertigung Finanzmittel Kiga CB"
+    },
+    {
+      "file_name": "00021169.pdf",
+      "description": "Beschlussausfertigung Finanzmittel OV"
+    },
+    {
+      "file_name": "00021176.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:54:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=308"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "WF/062/2012",
+  "description": "62. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-11-08T14:00:00Z",
+  "ended_at": "2012-11-08T16:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Haus An der Kreuzkirche, 4. Etage, Raum 412,An der Kreuzkirche 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: A0005/12 Kulturpalast, Schloßstraße 2, 01067 DresdenPlanungsleistungen der Technischen AusrüstungLos 1 Heizungs-, Lüftungs-, Sanitär-, Kälte- und Feuerlöschtechnik",
+      "template_id": "V1952/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1952_12_WF",
+          "file_name": "00120317.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen zu VOL-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-171-00003  Einführung eines trägerübergreifenden, internetgestützten Anmelde- und Vergabesystems für die Betreuung in Kindertageseinrichtungen und Kindertagespflege in der Landeshauptstadt Dresden und eines Moduls zur Beitragserhebung",
+      "template_id": "V1955/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1955_12_WF",
+          "file_name": "00114859.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-5540-00025 Arbeitsmedizinische Betreuung von Beschäftigten in der Verwaltung und der Kindertageseinrichtungen des Eigenbetriebes Kindertageseinrichtungen DresdenLos 2",
+      "template_id": "V1957/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1957_12_WF",
+          "file_name": "00114861.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 5071/12 Instandsetzung der Stützmauer i. Z. d. Terrassenufers von Gerichtsstraße bis Sachsenplatz S 0012 und Kasematten B 0176",
+      "template_id": "V1958/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1958_12_WF",
+          "file_name": "00114862.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-654-00122 Umbau und Erweiterung Marie-Curie-GymnasiumZirkusstraße 7, 01069 DresdenDachabdichtungsarbeiten",
+      "template_id": "V1960/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1960_12_WF",
+          "file_name": "00114864.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Offene Beschlussvorlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verlängerung des Thematischen Weihnachtsmarktes \"Advent auf dem Neumarkt\"",
+      "template_id": "V1843/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1843_12_WF",
+          "file_name": "00114865.pdf"
+        },
+        {
+          "description": "BK_zu_V1843_12",
+          "file_name": "00121638.pdf"
+        },
+        {
+          "description": "V1843/12",
+          "file_name": "00113170.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00112825.pdf"
+        },
+        {
+          "description": "Anlage 1 Lageplan Advent auf dem Neumarkt",
+          "file_name": "00107023.pdf"
+        },
+        {
+          "description": "Anlage 2 Bestätigung Gesellschaft Förderung der Frauenkirche e.V.",
+          "file_name": "00107024.pdf"
+        },
+        {
+          "description": "V1489 (WF-045-2012)",
+          "file_name": "00107025.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00113846.pdf",
+      "description": "Einladung_WF_2012_11_08"
+    },
+    {
+      "file_name": "00115173.pdf",
+      "description": "Niederschrift öffentlich_2012_11_08_WF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:19:24Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1780"
+}

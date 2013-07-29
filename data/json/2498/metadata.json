@@ -1,0 +1,107 @@
+{
+  "id": "SB/067/2013",
+  "description": "Sitzung fällt aus!!!67. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2013-06-05T14:00:00Z",
+  "ended_at": null,
+  "location": "Sitzung fällt aus!",
+  "parts": [
+    {
+      "description": "Rahmenplan Nr. 735.1 Dresden-Altstadt I, Südliche Pirnaische Vorstadt/Lingner-Park-Stadt",
+      "template_id": "V0553/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00057629.pdf"
+        },
+        {
+          "description": "V0553/10",
+          "file_name": "00116200.pdf"
+        },
+        {
+          "description": "a) Anlage 1_V0553",
+          "file_name": "00028766.pdf"
+        },
+        {
+          "description": "b) Anlage 2_V0553",
+          "file_name": "00028767.pdf"
+        },
+        {
+          "description": "c) Anlage 3_V0553",
+          "file_name": "00028768.pdf"
+        },
+        {
+          "description": "d) Anlage 4_geändert091110_V0553",
+          "file_name": "00047843.pdf"
+        },
+        {
+          "description": "e) Anlage 5_geändert091010_V0553",
+          "file_name": "00047844.pdf"
+        },
+        {
+          "description": "f) V0553 bereits gefasste Beschlüsse",
+          "file_name": "00028774.pdf"
+        },
+        {
+          "description": "Stellg.-nahme BMB",
+          "file_name": "00048515.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0553",
+          "file_name": "00030433.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00048149.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 6017, Dresden-Klotzsche, Umnutzung Bahnflächen Langebrücker Straßehier: 1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan 2. Grenzen des räumlichen Geltungsbereichs des vorhabenbezogenen Bebauungsplanes",
+      "template_id": "V2217/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00137693.pdf"
+        },
+        {
+          "description": "V2217/13",
+          "file_name": "00130455.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00129655.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00128549.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Aufstellungsbeschluss",
+          "file_name": "00128550.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen/Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00133757.pdf",
+      "description": "Einladung_SB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:53:47Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2498"
+}

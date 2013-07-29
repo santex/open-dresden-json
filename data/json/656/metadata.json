@@ -1,0 +1,27 @@
+{
+  "id": "AV/026/2010",
+  "description": "26. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "committee": "Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "started_at": "2010-10-11T14:30:00Z",
+  "ended_at": "2010-10-11T17:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+
+  ],
+  "documents": [
+    {
+      "file_name": "00042738.pdf",
+      "description": "Einladung_AV_2010_10_11"
+    },
+    {
+      "file_name": "00043570.pdf",
+      "description": "Nachtrag_AV_2010_10_11"
+    },
+    {
+      "file_name": "00044163.pdf",
+      "description": "Beschlussausfertigung_V0734/10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:13:01Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=656"
+}

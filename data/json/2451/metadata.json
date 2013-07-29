@@ -1,0 +1,90 @@
+{
+  "id": "SB/064/2013",
+  "description": "64. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2013-03-27T14:00:00Z",
+  "ended_at": "2013-03-27T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 6016, Dresden-Altstadt I, Herzogin Garten II – Ostra-Allee/Hertha-Lindner-Straße/Am Queckbrunnenhier: 1. Billigung des Entwurfs zum vorhabenbezogenen Bebauungsplan 2. Billigung der Begründung zum vorhabenbezogenen Bebauungsplan-Entwurf3. Durchführung des Beteiligungsverfahrens zum vorhabenbezogenen Bebauungsplan-Entwurf",
+      "template_id": "V2157/13",
+      "documents": [
+        {
+          "description": "V2157/13",
+          "file_name": "00125423.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00124933.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Blatt 1 von 6_Rechtsplan",
+          "file_name": "00124309.pdf"
+        },
+        {
+          "description": "b) Anlage 1_Blatt 2 von 6_Festsetzungen",
+          "file_name": "00124310.pdf"
+        },
+        {
+          "description": "c) Anlage 1_Blatt 3 von 6_Lageplan",
+          "file_name": "00124311.pdf"
+        },
+        {
+          "description": "d) Anlage 1_Blatt 4 von 6_Grundrisse",
+          "file_name": "00124312.pdf"
+        },
+        {
+          "description": "e) Anlage 1_Blatt 5 von 6_Ansichten",
+          "file_name": "00124313.pdf"
+        },
+        {
+          "description": "f) Anlage 1_Blatt 6 von 6_Erschließung",
+          "file_name": "00124314.pdf"
+        },
+        {
+          "description": "g) Anlage 2_Begründung",
+          "file_name": "00124315.pdf"
+        },
+        {
+          "description": "h) bereits gefasster Beschluss",
+          "file_name": "00124316.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Loschwitzer Elbe-Radweg",
+      "template_id": "A0695/13",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00123382.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00126378.pdf",
+      "description": "Einladung_SB"
+    },
+    {
+      "file_name": "00131542.pdf",
+      "description": "Niederschrift öffentlich"
+    },
+    {
+      "file_name": "00127568.pdf",
+      "description": "Festlegungen und Aufträge ö"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:45:41Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2451"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "K/008/2010",
+  "description": "8. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2010-01-12T14:00:00Z",
+  "ended_at": "2010-01-12T17:45:00Z",
+  "location": "Beratungsraum im Stadtarchiv, Elisabeth-Boer-Straße 1 01099 Dresden",
+  "parts": [
+    {
+      "description": "Besetzung der Kunstkommission für Kunst im öffentlichen Raum",
+      "template_id": "V0326/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00016734.pdf"
+        },
+        {
+          "description": "Anlage 1 - bereits gefasste Beschlüsse Nr. V482-14-2000 u. A444",
+          "file_name": "00015848.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB_FB zu V0326",
+          "file_name": "00014633.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB_GLB zu V0326",
+          "file_name": "00014632.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00016766.pdf",
+      "description": "Einladung - K_2010_01_12"
+    },
+    {
+      "file_name": "00018240.pdf",
+      "description": "Beschlussausfertigung_V0326/09"
+    },
+    {
+      "file_name": "00018251.pdf",
+      "description": "Niederschrift öffentlich_K_2010_01_12"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:52:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=351"
+}

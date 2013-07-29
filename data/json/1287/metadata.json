@@ -1,0 +1,100 @@
+{
+  "id": "OBR Pro/015/2011",
+  "description": "15. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2011-05-23T15:00:00Z",
+  "ended_at": "2011-05-23T17:17:00Z",
+  "location": "Ortsamt Prohlis, Prohliser Allee 10, 01239 Dresden, Bürgersaal",
+  "parts": [
+    {
+      "description": "Feststellung der Beschlussfähigkeit und Abstimmung über die weitere Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2011/2012",
+      "template_id": "V0938/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0938/11",
+          "file_name": "00069531.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00057939.pdf"
+        },
+        {
+          "description": "a_Deckblatt",
+          "file_name": "00057541.pdf"
+        },
+        {
+          "description": "b_Inhaltsverzeichnis",
+          "file_name": "00057542.pdf"
+        },
+        {
+          "description": "c_Teil A",
+          "file_name": "00057543.pdf"
+        },
+        {
+          "description": "d_Teil B",
+          "file_name": "00055817.pdf"
+        },
+        {
+          "description": "e_Teil C_1",
+          "file_name": "00055819.pdf"
+        },
+        {
+          "description": "f_Teil C_2",
+          "file_name": "00055820.pdf"
+        },
+        {
+          "description": "g_Teil D",
+          "file_name": "00055821.pdf"
+        },
+        {
+          "description": "h_Literaturverzeichnis",
+          "file_name": "00055822.pdf"
+        },
+        {
+          "description": "i_Beschluss V0413",
+          "file_name": "00055823.pdf"
+        },
+        {
+          "description": "V0938/11",
+          "file_name": "00058114.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschluss des Ausschusses für Stadtentwicklung und Bau vom 13.10.2010 (SB/019/2010)  Beschluss zu A 0197/10; Fortschreibung des Konzeptes aus 2002 zum Bau fehlender und zur Sanierung von stark instandsetzungsbedürftigen Fußwegen  Hier: Einbindung aller Ortsbeiräte und Ortschaftsräte der Landeshauptstadt Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00063244.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00065967.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:48:28Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1287"
+}

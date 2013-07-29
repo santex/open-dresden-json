@@ -1,0 +1,66 @@
+{
+  "id": "FL/002/2009",
+  "description": "2. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2009-09-21T14:00:00Z",
+  "ended_at": "2009-09-21T16:10:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Veränderungen im Verwaltungs- und Vermögenshaushalt für die Teilnahme der Landeshauptstadt Dresden am Programm \"Lernen vor Ort\" - gemeinsame Initiative des Bundesministeriums für Bildung und Forschung mit deutschen Stiftungen",
+      "template_id": "V0161/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00006756.pdf"
+        },
+        {
+          "description": "Anlage 1 - V0161/09",
+          "file_name": "00005860.pdf"
+        },
+        {
+          "description": "Anlage 2 - V0161/09",
+          "file_name": "00006541.pdf"
+        },
+        {
+          "description": "Anlage 3 - V0161/09",
+          "file_name": "00005862.pdf"
+        },
+        {
+          "description": "Anlage 4 - V0161/09",
+          "file_name": "00005890.pdf"
+        },
+        {
+          "description": "Anlage 5 - V0161/09",
+          "file_name": "00006783.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00007094.pdf",
+      "description": "Einladung _ FL_2009_09_21"
+    },
+    {
+      "file_name": "00007241.pdf",
+      "description": "Nachtrag_FL_2009_09_21"
+    },
+    {
+      "file_name": "00008179.pdf",
+      "description": "Beschlussausfertigung_V0107/09"
+    },
+    {
+      "file_name": "00008171.pdf",
+      "description": "Beschlussausfertigung_V0161/09"
+    },
+    {
+      "file_name": "00008832.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:41:15Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=103"
+}

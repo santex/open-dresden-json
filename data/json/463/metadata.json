@@ -1,0 +1,58 @@
+{
+  "id": "OBR Co/008/2010",
+  "description": "8. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2010-06-17T16:00:00Z",
+  "ended_at": "2010-06-17T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Cotta, großer Sitzungssaal, 2. Etage, Raum 201,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Information zum Planungsstand Bienertpark und Arbeitsstand Leutewitzer ParkBerichterstattung: Amt für Stadtgrün und Abfallwirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00033136.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00034320.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:05:46Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=463"
+}

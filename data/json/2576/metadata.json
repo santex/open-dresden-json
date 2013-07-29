@@ -1,0 +1,113 @@
+{
+  "id": "WF/056/2012",
+  "description": "56. Sitzung des Ausschusses für Wirtschaftsförderung (Sondersitzung)",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-08-16T14:00:00Z",
+  "ended_at": "2012-08-16T16:20:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 0002/2011  Errichtung einer Feuer- und Rettungswache mit integriertem Ausbildungszentrum für Brandbekämpfung und technische Hilfeleistung am Standort Fabrice-/Magazinstraße in 01099 Dresden gem. HOAI 2009 §§ 33, 38, 53 LP 2-9, HOAI 2009 § 49 LP 2-6, Objektplanung, Freianlagen, techn. Ausrüstung, Tragwerk",
+      "template_id": "V1817/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1817_12_WF",
+          "file_name": "00107112.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-1042-00005 Kauf von 7 fabrikneuen Schmalspurgeräteträgern mit Dreiseitenkipper und Winterdienstausrüstung und -vorbereitung für die Landeshauptstadt Dresden",
+      "template_id": "V1818/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1818_12_WF",
+          "file_name": "00107119.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00072 Kindertageseinrichtung Dürerstraße 50, 01309 DresdenLos 21 - Freifläche",
+      "template_id": "V1825/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1825_12_WF",
+          "file_name": "00107126.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-6732-00006 Spielplatz, Kinder- und Jugendfreizeitpark Quartier 24, Löbtauer Straße/Roßthaler Straße/Schweriner Straße Spielplatzbau, Garten- und Landschaftsbau",
+      "template_id": "V1827/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1827_12_Wf",
+          "file_name": "00107129.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Geschäftsbereich Wirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00106448.pdf",
+      "description": "Einladung_WF_2012_08_16"
+    },
+    {
+      "file_name": "00109411.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_08_16"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:06:56Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2576"
+}

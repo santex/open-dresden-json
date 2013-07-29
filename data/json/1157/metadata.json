@@ -1,0 +1,126 @@
+{
+  "id": "SB/037/2011",
+  "description": "37. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2011-08-24T14:00:00Z",
+  "ended_at": "2011-08-24T20:05:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Altstadt, 1. Etage, Raum 100,Theaterstraße 11, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 377, Dresden-Pieschen Nr. 6, Heidestraßehier: \t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplanes",
+      "template_id": "V1072/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1072/11_SB",
+          "file_name": "00072138.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00064165.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00063106.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Übersichtsplan_A4",
+          "file_name": "00063107.pdf"
+        },
+        {
+          "description": "V1072/11",
+          "file_name": "00064493.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 689, Dresden-Altstadt I, An der Herzogin Garten - Ostra-Allee/Am Schießhaushier:\t1. Billigung des Entwurfs zum vorhabenbezogenen Bebauungsplan \t2. Billigung der Begründung zum vorhabenbezogenen Bebauungsplan-Entwurf\t3. Durchführung des Beteiligungsverfahrens zum vorhabenbezogenen \t\tBebauungsplan-Entwurf",
+      "template_id": "V1200/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1200/11_SB",
+          "file_name": "00072168.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00070650.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Übersichtsplan",
+          "file_name": "00070512.pdf"
+        },
+        {
+          "description": "b) Anlage 2_1von7_Rechtsplan",
+          "file_name": "00070513.pdf"
+        },
+        {
+          "description": "c) Anlage 2_2von7_Legende-TF",
+          "file_name": "00070514.pdf"
+        },
+        {
+          "description": "d) Anlage 2_3von7_Vorhabenplan Lageplan",
+          "file_name": "00070515.pdf"
+        },
+        {
+          "description": "e) Anlage2_ 4von7_Vorhabenplan Grundriss EG",
+          "file_name": "00070516.pdf"
+        },
+        {
+          "description": "f) Anlage 2_5von7_Vorhabenplan Ansichten",
+          "file_name": "00070517.pdf"
+        },
+        {
+          "description": "g) Anlage 2_6von7_vorhabenplan_parkanlage",
+          "file_name": "00070518.pdf"
+        },
+        {
+          "description": "h) Anlage 2_7von7_Erschließungsplan",
+          "file_name": "00070519.pdf"
+        },
+        {
+          "description": "i) Anlage 3_Begründung_20110725",
+          "file_name": "00070520.pdf"
+        },
+        {
+          "description": "j) BeschlussV3229-SB89-09_10062009",
+          "file_name": "00070521.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Wiedereinrichtung der Fährverbindung zwischen Gohlis und Kaditz",
+      "template_id": "A0312/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00052496.pdf"
+        }
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00071519.pdf",
+      "description": "Einladung_SB_2011_08_24"
+    },
+    {
+      "file_name": "00073618.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:04:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1157"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "OBR Bl/019/2011",
+  "description": "19. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2011-09-28T15:30:00Z",
+  "ended_at": "2011-09-28T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 17. Ortsbeiratssitzung am 24.08.2011 Kontrolle der Niederschrift zur 18. Ortsbeiratssitzung am 13.09.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Parkraumkonzept Blasewitz - Schillerplatz",
+      "template_id": "V1117/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00073455.pdf"
+        },
+        {
+          "description": "a) Endbericht",
+          "file_name": "00065557.pdf"
+        },
+        {
+          "description": "b) Anlage 1",
+          "file_name": "00065558.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Fotodokumentation",
+          "file_name": "00065559.pdf"
+        },
+        {
+          "description": "d) Anlage 03 - Bestand",
+          "file_name": "00065560.pdf"
+        },
+        {
+          "description": "e) Anlage 04 - Gebietsstruktur",
+          "file_name": "00065561.pdf"
+        },
+        {
+          "description": "f) Anlage 05 - Auslastung 10 Uhr",
+          "file_name": "00065562.pdf"
+        },
+        {
+          "description": "g) Anlage 06 - Auslastung 13 Uhr",
+          "file_name": "00065563.pdf"
+        },
+        {
+          "description": "h) Anlage 07 - Auslastung 19 Uhr",
+          "file_name": "00065564.pdf"
+        },
+        {
+          "description": "i) Anlage 08 - Maßnahmenkonzept",
+          "file_name": "00065565.pdf"
+        },
+        {
+          "description": "j) Anlage 09 - ABM Blatt 1",
+          "file_name": "00065566.pdf"
+        },
+        {
+          "description": "k) Anlage 09 - ABM Blatt 2",
+          "file_name": "00076011.pdf"
+        },
+        {
+          "description": "l) Anlage 10 - Übersicht FFH",
+          "file_name": "00065567.pdf"
+        },
+        {
+          "description": "m) bereits gefasster Beschluss",
+          "file_name": "00065568.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00066518.pdf"
+        },
+        {
+          "description": "V1117/11",
+          "file_name": "00071824.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00074278.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00075930.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:08:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1400"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "OBR Neu/037/2012",
+  "description": "37. Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2012-12-10T15:30:00Z",
+  "ended_at": "2012-12-10T18:35:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Aula des Heinrich-Schütz-Konservatorium Dresden e.V.,Glacisstraße 30/32, 01099 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung des Heinrich-Schütz-Konservatorium Dresden e.V.",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des 1. Dresdner Bildungsberichts 2012 bezogen auf den Ortsamtsbereich Neustadt",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Information zur 20jährigen Tätigkeit der \"Stiftung Äussere Neustadt Dresden\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00116227.pdf",
+      "description": "Einladung_OBR Neu_10.12.2012"
+    },
+    {
+      "file_name": "00119794.pdf",
+      "description": "Niederschrift öffentlich_OBR Neu_10.12.2012"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:23:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2001"
+}

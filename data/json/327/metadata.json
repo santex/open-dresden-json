@@ -1,0 +1,153 @@
+{
+  "id": "OBR Alt/015/2010",
+  "description": "15. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2010-12-09T15:30:00Z",
+  "ended_at": "2010-12-09T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  Stadtmuseum Dresden, Festsaal, 3. Etage,Wilsdruffer Straße 2, 01067 Dresden (Eingang Landhausstraße)",
+  "parts": [
+    {
+      "description": "Vorstellung des Stadtmuseums Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Nutzungskonzept zu Märkten auf innerstädtischen Straßen und Plätzen der Landeshauptstadt Dresden während der Adventszeit",
+      "template_id": "V0714/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0714/10",
+          "file_name": "00057251.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00046812.pdf"
+        },
+        {
+          "description": "a) Anlage 1_KarteWeihnmärkte_mitUmgriff_Juni2010",
+          "file_name": "00046133.pdf"
+        },
+        {
+          "description": "b) Anlage2_Matrix_Weihnachtsmärkte_im26erRing",
+          "file_name": "00046134.pdf"
+        },
+        {
+          "description": "c) A0681-SR74-08",
+          "file_name": "00038815.pdf"
+        },
+        {
+          "description": "d) V2037-SR62-08",
+          "file_name": "00038816.pdf"
+        },
+        {
+          "description": "e) V2800-SR75-08",
+          "file_name": "00038817.pdf"
+        },
+        {
+          "description": "f) V3238-SR82-09",
+          "file_name": "00038818.pdf"
+        },
+        {
+          "description": "g) V3272-SR83-09",
+          "file_name": "00038819.pdf"
+        },
+        {
+          "description": "h) V0679-SR19-05",
+          "file_name": "00038820.pdf"
+        },
+        {
+          "description": "i) V2319-SR65-08",
+          "file_name": "00038821.pdf"
+        },
+        {
+          "description": "j) V0261-SR-09",
+          "file_name": "00038822.pdf"
+        },
+        {
+          "description": "Stellungnahme _V0714_10",
+          "file_name": "00040291.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Errichtung einer Denkmalstätte als Ort der Erinnerung an die historische Rede des Bundeskanzlers Dr. Helmut Kohl am 19. Dezember 1989 in Dresden",
+      "template_id": "A0296/10",
+      "documents": [
+
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 9",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Optimierung der Struktur und der Dienstleistungsqualität des Bürgerservice in der Landeshauptstadt Dresden",
+      "template_id": "V0763/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0763/10",
+          "file_name": "00061082.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00048114.pdf"
+        },
+        {
+          "description": "Begründung zur BV",
+          "file_name": "00048107.pdf"
+        },
+        {
+          "description": "Stellungnahme Vorlage Bürgerservice",
+          "file_name": "00042875.pdf"
+        },
+        {
+          "description": "Anlage zur BV",
+          "file_name": "00048106.pdf"
+        },
+        {
+          "description": "Beschlussfertigung A0491 und Pkt.2 V0178-1_09",
+          "file_name": "00045305.pdf"
+        },
+        {
+          "description": "V0763/10",
+          "file_name": "00048695.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00049317.pdf",
+      "description": "Einladung_OBR Alt_09.12.2010"
+    },
+    {
+      "file_name": "00051129.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:20:04Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=327"
+}

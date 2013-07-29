@@ -1,0 +1,111 @@
+{
+  "id": "OBR Pi/035/2013",
+  "description": "35. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2013-03-19T16:00:00Z",
+  "ended_at": "2013-03-19T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 34. Ortsbeiratssitzung am 19.02.2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2013/2014",
+      "template_id": "V2053/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2053/12",
+          "file_name": "00132046.pdf"
+        },
+        {
+          "description": "Anlage Fachplan Teil B 2013-14 Arbeitsstand 08.04.2013",
+          "file_name": "00128904.pdf"
+        },
+        {
+          "description": "V2053/12",
+          "file_name": "00123261.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00123074.pdf"
+        },
+        {
+          "description": "Anlage_Fachplan_Gesamt",
+          "file_name": "00122897.pdf"
+        },
+        {
+          "description": "Beschluss V1040/11",
+          "file_name": "00120288.pdf"
+        },
+        {
+          "description": "Beschluss V1282-01/11",
+          "file_name": "00120287.pdf"
+        },
+        {
+          "description": "Beschluss V1388/11",
+          "file_name": "00120289.pdf"
+        },
+        {
+          "description": "Beschluss V1389/11",
+          "file_name": "00120290.pdf"
+        },
+        {
+          "description": "Beschluss V1587/12",
+          "file_name": "00120291.pdf"
+        },
+        {
+          "description": "Stellungnahme GLB",
+          "file_name": "00121572.pdf"
+        },
+        {
+          "description": "V2053/12 Ergänzungsantrag Herr Krien",
+          "file_name": "00132199.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Einstellung der Planungen zum Bau einer neuen Lkw-Trasse in Dresden Kaditz",
+      "template_id": "A0692/13",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00121569.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0692/13",
+          "file_name": "00134367.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00125062.pdf",
+      "description": "Einladung_OBR Pi"
+    },
+    {
+      "file_name": "00128149.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:42:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2822"
+}

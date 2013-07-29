@@ -1,0 +1,139 @@
+{
+  "id": "OSR CB/011/2010",
+  "description": "11. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2010-08-09T16:30:00Z",
+  "ended_at": "2010-08-09T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Niederschrift der Tagesordnung sowie der Niederschrift der Sitzung vom 07.06.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe von Beschlüssen aus nichtöffentlicher Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Lokales Handlungsprogramm für Ordnung und Sauberkeit in Dresden",
+      "template_id": "A0190/10",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00031143.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Prioritätenliste zum Bau fehlender und zur Sanierung stark instandsetzungsbedürftiger Fußwege",
+      "template_id": "A0195/10",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00033382.pdf"
+        },
+        {
+          "description": "BK A0195/12 Zw.-Bericht 31.01.2013",
+          "file_name": "00123277.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Erhalt und Entwicklung eines strukturreichen Altbaumbestandes auf dem Gebiet der Landeshauptstadt Dresden",
+      "template_id": "A0205/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0205/10",
+          "file_name": "00061090.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00033428.pdf"
+        },
+        {
+          "description": "205_Anlage",
+          "file_name": "00033436.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel für die Durchführung des Oktoberfestes",
+      "template_id": "A-CB0013/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel für Ortsvorsteherin Cossebaude",
+      "template_id": "A-CB0017/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vermessungskosten Wanderweg \"Bierallee\"",
+      "template_id": "A-CB0015/10",
+      "documents": [
+
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00036834.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00037539.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00037713.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:07:27Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=313"
+}

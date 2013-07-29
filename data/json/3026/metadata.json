@@ -1,0 +1,92 @@
+{
+  "id": "OSR SB/050/2013",
+  "description": "50. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2013-06-19T17:30:00Z",
+  "ended_at": "2013-06-19T20:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Beratungsraum im Bürgerhaus Schönborn,Seifersdorfer Str. 6, 01465 Dresden OT Schönborn",
+  "parts": [
+    {
+      "description": "Abriss Anbau Seifersdorfer Straße 1",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Mietvertrag Ein Plan e. V.",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Änderung der Wahlwerbesatzung",
+      "template_id": "A0712/13",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00127963.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bürgerbeteiligung stärken – Einrichtung einer Plattform für E-Petitionen auf der Stadt-Website",
+      "template_id": "A0722/13",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00129669.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00135669.pdf",
+      "description": "Einladung_OSR SB"
+    },
+    {
+      "file_name": "00136510.pdf",
+      "description": "Beschlussempfehlung Antrag_Einrichtung_Plattform_für_E_Petitionen"
+    },
+    {
+      "file_name": "00136509.pdf",
+      "description": "Beschlussempfehlung Antrag_Ergebnisse_und_Konsequenzen_der_Eingemeindungen"
+    },
+    {
+      "file_name": "00136508.pdf",
+      "description": "Beschlussempfehlung Antrag_Wahlwerbesatzung"
+    },
+    {
+      "file_name": "00136538.pdf",
+      "description": "Beschlussausfertigung_Verpachtung_Mittelteich_Schönborn"
+    },
+    {
+      "file_name": "00136540.pdf",
+      "description": "Beschlussausfertigung_Zuwendung_Sportverein"
+    },
+    {
+      "file_name": "00136890.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:56:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3026"
+}

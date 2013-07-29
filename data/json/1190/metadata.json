@@ -1,0 +1,142 @@
+{
+  "id": "JHA/024/2011",
+  "description": "24. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2011-10-06T16:00:00Z",
+  "ended_at": "2011-10-06T18:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschriften vom 30.06.2011 und 07.07.2011 (Sondersitzung)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung der Unterausschüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Unterausschuss \"Kindertagesbetreuung\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Qualitätsentwicklung im Leistungsfeld \"Hilfe zur Erziehung, Eingliederungshilfe und angrenzende Aufgaben\" - hier: Strukturqualität",
+      "template_id": "V1127/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1127/11",
+          "file_name": "00076599.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00071459.pdf"
+        },
+        {
+          "description": "Anlage 1_Darstellung der indirekten finanziellen Auswirkungen",
+          "file_name": "00070193.pdf"
+        },
+        {
+          "description": "Anlage 2_Qualitätsentwicklung",
+          "file_name": "00070194.pdf"
+        },
+        {
+          "description": "Beschluss A0093_09",
+          "file_name": "00066321.pdf"
+        },
+        {
+          "description": "e_V1127-11 - Stellungnahme BMB",
+          "file_name": "00067556.pdf"
+        },
+        {
+          "description": "V1127/11",
+          "file_name": "00071651.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Änderung der Satzung Schülerbeförderungskosten-Erstattung vom 17.07.1997 auf Grund der Umsetzung des Bildungs- und Teilhabepaketes in der Landeshauptstadt Dresden",
+      "template_id": "V1146/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1146/11",
+          "file_name": "00081784.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00071835.pdf"
+        },
+        {
+          "description": "Stellungnahme FB",
+          "file_name": "00068725.pdf"
+        },
+        {
+          "description": "Anlage 1 V1146/11",
+          "file_name": "00070830.pdf"
+        },
+        {
+          "description": "Anlage 2 V1146/11",
+          "file_name": "00070832.pdf"
+        },
+        {
+          "description": "Beschluss V0911-SR26-06",
+          "file_name": "00067383.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00068597.pdf"
+        },
+        {
+          "description": "V1146/11",
+          "file_name": "00072071.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00074993.pdf",
+      "description": "Einladung_JH_2011_10_06"
+    },
+    {
+      "file_name": "00078756.pdf",
+      "description": "Niederschrift öffentlich_JH_2011_10_06"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:11:20Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1190"
+}

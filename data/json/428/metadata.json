@@ -1,0 +1,49 @@
+{
+  "id": "OBR Leu/003/2010",
+  "description": "3. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2010-01-06T17:00:00Z",
+  "ended_at": "2010-01-06T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, Bürgersaal,Hertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen der Ortsbeiräte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vertretung des Ortsbeirates Leuben in der Stadtteilrunde Jugendarbeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00017280.pdf",
+      "description": "Einladung_OBR Leu_2010.01.06"
+    },
+    {
+      "file_name": "00019089.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:52:20Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=428"
+}

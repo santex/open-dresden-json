@@ -1,0 +1,85 @@
+{
+  "id": "OSR LB/026/2011",
+  "description": "26. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2011-08-16T16:30:00Z",
+  "ended_at": "2011-08-16T20:05:00Z",
+  "location": "Beratungsraum der Verwaltungsstelle LangebrückWeißiger Straße 501465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Auswertung der Gewässerschau vom Roten Graben und Forellenbach am 18.05.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sachstand B-Plan Nr. 349, Dresden-Langebrück Nr. 8, Erweiterung Gewerbegebiet …",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht über die in der Zeit vom 01.01.1999 bis zum 31.12.2011 durch das Liegen-schaftsamt veräußerten oder erworbene Grundstücke in der Ortschaft Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00071059.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00076298.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:01:59Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1487"
+}

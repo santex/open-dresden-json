@@ -1,0 +1,100 @@
+{
+  "id": "OBR Leu/011/2010",
+  "description": "11. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2010-12-08T17:00:00Z",
+  "ended_at": "2010-12-08T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, Bürgersaal,Hertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verkehrsberuhigte Zone Altlaubegast",
+      "template_id": "A0297/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0297/10",
+          "file_name": "00063735.pdf"
+        },
+        {
+          "description": "Antrag CDU",
+          "file_name": "00046828.pdf"
+        },
+        {
+          "description": "BK A0297/10 Zwischenbericht v. 2013-06-21",
+          "file_name": "00137027.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Geschehen im Ortsamtsgebiet/ Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Optimierung der Struktur und der Dienstleistungsqualität des Bürgerservice in der Landeshauptstadt Dresden",
+      "template_id": "V0763/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0763/10",
+          "file_name": "00061082.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00048114.pdf"
+        },
+        {
+          "description": "Begründung zur BV",
+          "file_name": "00048107.pdf"
+        },
+        {
+          "description": "Stellungnahme Vorlage Bürgerservice",
+          "file_name": "00042875.pdf"
+        },
+        {
+          "description": "Anlage zur BV",
+          "file_name": "00048106.pdf"
+        },
+        {
+          "description": "Beschlussfertigung A0491 und Pkt.2 V0178-1_09",
+          "file_name": "00045305.pdf"
+        },
+        {
+          "description": "V0763/10",
+          "file_name": "00048695.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00049668.pdf",
+      "description": "Einladung_OBR Leu_2010_12_08"
+    },
+    {
+      "file_name": "00049961.pdf",
+      "description": "Nachtrag_OBR Leu_2010.12.08"
+    },
+    {
+      "file_name": "00051088.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:19:38Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=437"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "OSR SB/041/2012",
+  "description": "41. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2012-10-17T17:30:00Z",
+  "ended_at": "2012-10-17T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Beratungsraum im Bürgerhaus (ehem. Gemeindeamt)Seifersdorfer Straße 6, 01465 Dresden OT Schönborn",
+  "parts": [
+    {
+      "description": "Sachstand Fußwegbau Schönborn",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Haushaltssatzung 2013/2014",
+      "template_id": "V1898/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1898/12",
+          "file_name": "00120306.pdf"
+        },
+        {
+          "description": "BK V1898/12 Abschlussbericht v. 2013-02-08",
+          "file_name": "00123358.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00110668.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag Herr Krien",
+          "file_name": "00120193.pdf"
+        },
+        {
+          "description": "Änderungsantrag Bündnis 90/Die Grünen",
+          "file_name": "00120191.pdf"
+        },
+        {
+          "description": "Änderungsantrag BürgerBündnis / Freie Bürger",
+          "file_name": "00120192.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Vorbereitung Schönborner Advent",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00112288.pdf",
+      "description": "Einladung_OSR SB"
+    },
+    {
+      "file_name": "00113893.pdf",
+      "description": "Beschlussausfertigung_Sommerküche"
+    },
+    {
+      "file_name": "00114184.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:16:37Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2229"
+}

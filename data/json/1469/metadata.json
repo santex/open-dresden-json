@@ -1,0 +1,85 @@
+{
+  "id": "OBR Lo/020/2011",
+  "description": "20. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2011-12-07T15:00:00Z",
+  "ended_at": "2011-12-07T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum 2.Etage, Grundstr. 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 19. Ortsbeiratssitzung am 12.10.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 6009, Dresden-Weißer Hirsch, Lahmann-Sanatoriumhier:\t1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan\t2. Grenzen des räumlichen Geltungsbereiches des vorhabenbezogenen \t \tBebauungsplanes \t3. Entfallen des frühzeitigen Beteiligungsverfahrens",
+      "template_id": "V1363/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1363/11",
+          "file_name": "00085009.pdf"
+        },
+        {
+          "description": "V1363/11",
+          "file_name": "00081274.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00080937.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00079580.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Geltungsbereich",
+          "file_name": "00079581.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Antrag des Vorhabenträgers",
+          "file_name": "00079582.pdf"
+        },
+        {
+          "description": "d) bereits gefasste Beschlüsse",
+          "file_name": "00079583.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Elbeparkplatz Loschwitz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zur Einführung der städtischen blauen Tonne",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00081855.pdf",
+      "description": "Einladung_OBR Lo"
+    },
+    {
+      "file_name": "00085140.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:17:36Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1469"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "OBR Leu/006/2010",
+  "description": "6. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2010-05-26T17:00:00Z",
+  "ended_at": "2010-05-26T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Volkshaus Laubegast, Volkssolidarität Dresden e. V.Laubegaster Ufer 22, 01279 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen der Ortsbeiräte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00030686.pdf",
+      "description": "Einladung_OBR Leu_2010_05_26"
+    },
+    {
+      "file_name": "00032732.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:03:23Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=431"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "OBR Bl/015/2011",
+  "description": "15. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2011-05-18T15:30:00Z",
+  "ended_at": "2011-05-18T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht zum Busnetz 2010 und Linienänderungen 2011",
+      "template_id": "V0940/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0904/11",
+          "file_name": "00069580.pdf"
+        },
+        {
+          "description": "V0940/11",
+          "file_name": "00062080.pdf"
+        },
+        {
+          "description": "BK V0940/11 Abschlussbericht v. 2012-11-29",
+          "file_name": "00118064.pdf"
+        },
+        {
+          "description": "a) Anlagen 1 - 12",
+          "file_name": "00060861.pdf"
+        },
+        {
+          "description": "b) bereits gefasste Beschlüsse",
+          "file_name": "00055909.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 14. Ortsbeiratssitzung am 20.04.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00062817.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00065611.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:47:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1397"
+}

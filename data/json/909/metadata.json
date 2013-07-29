@@ -1,0 +1,266 @@
+{
+  "id": "SR/013/2010",
+  "description": "13. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2010-05-27T14:00:00Z",
+  "ended_at": "2010-05-27T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Plenarsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Einwohnerversammlung zum Thema \"Zentralhaltestelle Kesselsdorfer Straße\"",
+      "template_id": "A0075/09",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00011712.pdf"
+        },
+        {
+          "description": "A0075/09 (A0791)",
+          "file_name": "00011718.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 56",
+        "contra": " 9",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sozialverträgliche Kontoführungsgebühren der Ostsächsischen Sparkasse",
+      "template_id": "A0078/09",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00012734.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 29",
+        "contra": " 33",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ehrenordnung der Landeshauptstadt Dresden",
+      "template_id": "A0092/09",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00015024.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 36",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sanierung und Instandsetzung der Albertbrücke einschließlich der Umgestaltung und des grundhaften Ausbaus des Rosa-Luxemburg-Platzes und des Sachsenplatzes",
+      "template_id": "V0395/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00023278.pdf"
+        },
+        {
+          "description": "BK V0395/10 Zwischenbericht v. 2012-12-18",
+          "file_name": "00120551.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Finanzierung_V0395_neu",
+          "file_name": "00022600.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Ingenieurbauwerke_V0395_neu",
+          "file_name": "00022601.pdf"
+        },
+        {
+          "description": "c) Anlage 3_V0395_neu",
+          "file_name": "00022602.pdf"
+        },
+        {
+          "description": "d) Anlage 4_V0395_neu",
+          "file_name": "00022603.pdf"
+        },
+        {
+          "description": "e) Anlage 5_V0395_neu",
+          "file_name": "00022604.pdf"
+        },
+        {
+          "description": "f) Beschlussausf. V2210-SR65-08_V0395",
+          "file_name": "00017724.pdf"
+        },
+        {
+          "description": "Stellungnahme GLB zu V0395",
+          "file_name": "00019502.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerhaushalt Dresden für den Doppelhaushalt 2011/2012",
+      "template_id": "A0138/10",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00021467.pdf"
+        },
+        {
+          "description": "BK A0138/10 Abschlussbericht v. 2013-06-20",
+          "file_name": "00137042.pdf"
+        },
+        {
+          "description": "BK A0138/10 Zwischenbericht v. 2012-12-10",
+          "file_name": "00119336.pdf"
+        }
+      ],
+      "decision": "Ersetzung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Wiedereinrichtung einer Fährverbindung Pieschen - OstragehegeVerbesserter Anschluss Ostragehege/Friedrichstadt - Pieschen",
+      "template_id": "A0115/10",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00018732.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 42",
+        "contra": " 21",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verbesserter Lärmschutz auf der A 17/Lockwitztalbrücke",
+      "template_id": "A0020/09",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00003315.pdf"
+        },
+        {
+          "description": "A0020/09 (A0806)",
+          "file_name": "00003319.pdf"
+        },
+        {
+          "description": "zzBK_A0020-09 abschl. Info v. 9.11.2010",
+          "file_name": "00048197.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 56",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Regelmäßige Anpassung des jugendhilflichen Förderetats an unabweisbare Kostensteigerungen",
+      "template_id": "A0083/09",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00014334.pdf"
+        },
+        {
+          "description": "BK A0083/09 jährlicher Bericht v. 2012-10-29",
+          "file_name": "00114653.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00030303.pdf",
+      "description": "Einladung_SR_2010_05_27"
+    },
+    {
+      "file_name": "00032140.pdf",
+      "description": "Beschlussausfertigung_A0020/09"
+    },
+    {
+      "file_name": "00032141.pdf",
+      "description": "Beschlussausfertigung_A0026/09"
+    },
+    {
+      "file_name": "00032065.pdf",
+      "description": "Beschlussausfertigung_A0028/09"
+    },
+    {
+      "file_name": "00032067.pdf",
+      "description": "Beschlussausfertigung_A0075/09"
+    },
+    {
+      "file_name": "00032076.pdf",
+      "description": "Beschlussausfertigung_A0078/09"
+    },
+    {
+      "file_name": "00032142.pdf",
+      "description": "Beschlussausfertigung_A0083/09"
+    },
+    {
+      "file_name": "00032080.pdf",
+      "description": "Beschlussausfertigung_A0084/09"
+    },
+    {
+      "file_name": "00032136.pdf",
+      "description": "Beschlussausfertigung_A0087/09"
+    },
+    {
+      "file_name": "00032084.pdf",
+      "description": "Beschlussausfertigung_A0092/09"
+    },
+    {
+      "file_name": "00032138.pdf",
+      "description": "Beschlussausfertigung_A0115/10"
+    },
+    {
+      "file_name": "00032137.pdf",
+      "description": "Beschlussausfertigung_A0138/10"
+    },
+    {
+      "file_name": "00032139.pdf",
+      "description": "Beschlussausfertigung_A0141/10"
+    },
+    {
+      "file_name": "00032090.pdf",
+      "description": "Beschlussausfertigung_V0290/09"
+    },
+    {
+      "file_name": "00032107.pdf",
+      "description": "Beschlussausfertigung_V0355-01/09"
+    },
+    {
+      "file_name": "00032134.pdf",
+      "description": "Beschlussausfertigung_V0395/10"
+    },
+    {
+      "file_name": "00032111.pdf",
+      "description": "Beschlussausfertigung_V0500/10"
+    },
+    {
+      "file_name": "00033031.pdf",
+      "description": "Niederschrift öffentlich_SR_2010_05_27"
+    },
+    {
+      "file_name": "00034208.pdf",
+      "description": "Niederschrift öff. mit namentlicher Abstimmung_SR_2010_05_27"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:03:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=909"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "UK/021/2010",
+  "description": "21. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2010-11-29T14:30:00Z",
+  "ended_at": "2010-11-29T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Weiterführung des Selbstbehaltes der Elektroaltgeräte der Gruppen 1 und 3 (Haushaltsgroßgeräte und Geräte der Informations-, Telekommunikations- und Unterhaltungselektronik) zur Sicherung der Arbeitsplätze der Lebenshilfe Dresden in der Elektroaltgerätezerlegung",
+      "template_id": "V0807/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00048161.pdf",
+      "description": "Einladung_UK_2010_11_29"
+    },
+    {
+      "file_name": "00049092.pdf",
+      "description": "Nachtrag_UK_2010_11_29"
+    },
+    {
+      "file_name": "00049653.pdf",
+      "description": "Beschlussausfertigung_V0807/10"
+    },
+    {
+      "file_name": "00050358.pdf",
+      "description": "Niederschrift öffentlich_UK_2010_11_29"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:18:15Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=687"
+}

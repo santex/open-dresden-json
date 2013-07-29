@@ -1,0 +1,27 @@
+{
+  "id": "SP/003/2009",
+  "description": "3. Sitzung des Betriebsausschusses für Sportstätten und Bäder",
+  "committee": "Betriebsausschuss für Sportstätten und Bäder",
+  "started_at": "2009-11-16T14:00:00Z",
+  "ended_at": "2009-11-16T17:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Antrag des VfB Hellerau-Klotzsche e. V. auf Verlängerung des Mietvertrages vom 14. Januar 1999 zur langfristigen Überlassung der Sportanlage Karl-Liebknecht-Str. 53 auf 25 Jahre",
+      "template_id": "V0033/09",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00012298.pdf",
+      "description": "Einladung - SP_2009_11_16"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:46:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=140"
+}

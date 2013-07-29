@@ -1,0 +1,53 @@
+{
+  "id": "OSR OW/037/2012",
+  "description": "37. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2012-10-18T16:30:00Z",
+  "ended_at": "2012-10-18T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung DRK Cossebaude",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sperrung von Straßen in Oberwartha wegen Kanalbaumaßnahmen",
+      "template_id": "A-OW0043/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00112101.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00113063.pdf",
+      "description": "Beschlussausfertigung Straßensperrung"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:17:46Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2139"
+}

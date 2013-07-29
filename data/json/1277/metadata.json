@@ -1,0 +1,81 @@
+{
+  "id": "OBR Kl/017/2011",
+  "description": "17. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2011-05-16T17:00:00Z",
+  "ended_at": "2011-05-16T20:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Informationen zum Ausbau des Käthe-Kollwitz-Platzes",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht zum Busnetz 2010 und Linienänderungen 2011",
+      "template_id": "V0940/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0904/11",
+          "file_name": "00069580.pdf"
+        },
+        {
+          "description": "V0940/11",
+          "file_name": "00062080.pdf"
+        },
+        {
+          "description": "BK V0940/11 Abschlussbericht v. 2012-11-29",
+          "file_name": "00118064.pdf"
+        },
+        {
+          "description": "a) Anlagen 1 - 12",
+          "file_name": "00060861.pdf"
+        },
+        {
+          "description": "b) bereits gefasste Beschlüsse",
+          "file_name": "00055909.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00062984.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00063970.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:44:52Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1277"
+}

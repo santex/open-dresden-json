@@ -1,0 +1,49 @@
+{
+  "id": "OSR AF/018/2011",
+  "description": "18. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2011-02-14T17:00:00Z",
+  "ended_at": "2011-02-14T18:30:00Z",
+  "location": "im Ortschaftszentrum AltfrankenOtto-Harzer-Straße 2 b, Sitzungssaal, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Stand der Ausgleichsmaßnahmen Altfrankener Park",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ordnung und Sauberkeit auf dem Grundstück Haufes Berg 3",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00055243.pdf",
+      "description": "Einladung_OSR AF"
+    },
+    {
+      "file_name": "00055634.pdf",
+      "description": "Beschlussausfertigung_V-AF0027/11"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:26:10Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1471"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "JHA/010/2010",
+  "description": "10. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2010-09-16T16:00:00Z",
+  "ended_at": "2010-09-16T17:20:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Festsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der öffentlichen und nicht öffentlichen Niederschrift vom 10.06.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Auflösung kommunaler Streetworkbüros in Dresden",
+      "template_id": "A0094/09",
+      "documents": [
+        {
+          "description": "Antrag Mitglieder Jugendhilfeausschuss",
+          "file_name": "00015407.pdf"
+        },
+        {
+          "description": "Original des Antrages",
+          "file_name": "00015416.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragestunde der Mitglieder des Jugendhilfeausschusses",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00039852.pdf",
+      "description": "Einladung_JH_2010_09_16"
+    },
+    {
+      "file_name": "00040525.pdf",
+      "description": "Nachtrag_JH_2010_09_16"
+    },
+    {
+      "file_name": "00042403.pdf",
+      "description": "Niederschrift öffentlich_JH_2010_09_16"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:11:20Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=715"
+}

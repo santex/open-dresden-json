@@ -1,0 +1,158 @@
+{
+  "id": "OSR CB/009/2010",
+  "description": "9. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2010-05-10T16:30:00Z",
+  "ended_at": "2010-05-10T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Plan Hochwasservorsorge Dresden (PHD) - Plan zur Verbesserung der Hochwasservorsorge in der Landeshauptstadt Dresden für die Elbe, die Vereinigte Weißeritz, den Lockwitzbach, die Gewässer zweiter Ordnung, das Grundwasser sowie das abwassertechnischeSystem",
+      "template_id": "V0431/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00027201.pdf"
+        },
+        {
+          "description": "Anlage 2 PHD",
+          "file_name": "00024786.pdf"
+        },
+        {
+          "description": "Anlage 3 PHD",
+          "file_name": "00024787.pdf"
+        },
+        {
+          "description": "Anlage 4 PHD",
+          "file_name": "00024788.pdf"
+        },
+        {
+          "description": "Anlage 5 PHD",
+          "file_name": "00024789.pdf"
+        },
+        {
+          "description": "Anlage 6 PHD",
+          "file_name": "00024790.pdf"
+        },
+        {
+          "description": "Anlage 7 PHD",
+          "file_name": "00024791.pdf"
+        },
+        {
+          "description": "Anlage 8 PHD",
+          "file_name": "00024792.pdf"
+        },
+        {
+          "description": "Anlage 9 PHD",
+          "file_name": "00024793.pdf"
+        },
+        {
+          "description": "V0331-SR09-05",
+          "file_name": "00020594.pdf"
+        },
+        {
+          "description": "V0877-SR21-05",
+          "file_name": "00020595.pdf"
+        },
+        {
+          "description": "V1491-SR43-06",
+          "file_name": "00020596.pdf"
+        },
+        {
+          "description": "V2284-SR69-08",
+          "file_name": "00020597.pdf"
+        },
+        {
+          "description": "V3881-SR77-04",
+          "file_name": "00020599.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel für DRK KV Dresden-Land e.V., Bereitschaft Cossebaude",
+      "template_id": "A-CB0009/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel für Sanierungsmaßnahmen \"Festplatz\" Talstraße Cossebaude",
+      "template_id": "A-CB0011/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00028905.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00029434.pdf",
+      "description": "Nachtrag_OSR CB"
+    },
+    {
+      "file_name": "00030460.pdf",
+      "description": "Beschlussausfertigung Finanzzuschuss Bibliothek Cossebaude"
+    },
+    {
+      "file_name": "00030459.pdf",
+      "description": "Beschlussausfertigung Finnaznzuschuss Blütenfest Cossebaude"
+    },
+    {
+      "file_name": "00030492.pdf",
+      "description": "Beschlussausfertigung Zuschuss Brauergasse"
+    },
+    {
+      "file_name": "00030461.pdf",
+      "description": "Beschlussausfertigung Zuschuss DRK Cossebaude"
+    },
+    {
+      "file_name": "00030462.pdf",
+      "description": "Beschlussausfertigung Zuschuss Sxchulförderverein Cossebaude"
+    },
+    {
+      "file_name": "00030665.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:02:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=311"
+}

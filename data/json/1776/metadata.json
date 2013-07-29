@@ -1,0 +1,204 @@
+{
+  "id": "WF/053/2012",
+  "description": "53. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-06-28T14:00:00Z",
+  "ended_at": "2012-06-28T17:20:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-4012-00017Unterhalts-, Grund- und Glasreinigung Romain-Rolland-Gymnasium, Weintraubenstraße 3, 01099 Dresden",
+      "template_id": "V1733/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1733_12_WF",
+          "file_name": "00103515.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 10/11Sanierung Neues Rathaus, Dr.-Külz-Ring 19, 01067 Dresden, Bauabschnitte 1 + 2a (1. RA) Los 1.35 Heizungstechnik",
+      "template_id": "V1618/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1618_12_WF",
+          "file_name": "00103516.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 10/11 Sanierung Neues Rathaus, Dr.-Külz-Ring 19, 01067 Dresden, Bauabschnitte 1 + 2a (1. RA)Los: 1.37 Elektrotechnik",
+      "template_id": "V1697/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1697_12_WF",
+          "file_name": "00103518.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-56-00021 Eigenbetrieb Krankenhaus Dresden-FriedrichstadtUmbau Sanierung Haus R Los 13 - Trockenbauarbeiten",
+      "template_id": "V1734/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1734_12_WF",
+          "file_name": "00103520.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 5022/12 Schweriner Straße zwischen Hertha-Lindner-Straße und Postplatz Los: 1 - Straßen- und Tiefbau Versorgungsunternehmen",
+      "template_id": "V1736/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1736_12_Wf",
+          "file_name": "00103522.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 5040/12 Grundhafter Ausbau Hohe Leite, Am Zuckerhut, 01326 DresdenLos: 1 - Straßenbau",
+      "template_id": "V1738/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1738_12_WF",
+          "file_name": "00103533.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-652-0001890. Grundschule Kleinlugaer Straße 25, 01259 Dresden,Los 5 - Starkstromanlagen/Elt",
+      "template_id": "V1741/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1741_12_WF",
+          "file_name": "00103535.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00038 Temporäre Kita Standorte (TKS) - Paket 02 - Prohliser Allee 19/Vetschauer Str. 39, 01239 DresdenLos 01 - Gebäude Modulbauweise",
+      "template_id": "V1743/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1743_12_WF",
+          "file_name": "00103736.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00043 Temporäre Kita Standorte (TKS) - Paket 04 - Rudolf-Bergander-Ring 34, 01219 Dresden Los 01 - Gebäude Modulbauweise",
+      "template_id": "V1745/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1745_12_WF",
+          "file_name": "00103740.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-654-0003430. Grundschule, TBM GebäudeabdichtungLos 1 Erweiterter Rohbau",
+      "template_id": "V1754/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1759_12_WF",
+          "file_name": "00103537.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Offene Beschlussvorlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00102217.pdf",
+      "description": "Einladung_WF_2012_06_28"
+    },
+    {
+      "file_name": "00102664.pdf",
+      "description": "Nachtrag_WF_2012_06_28"
+    },
+    {
+      "file_name": "00104291.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_06_28"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:59:17Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1776"
+}

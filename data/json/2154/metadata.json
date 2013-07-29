@@ -1,0 +1,92 @@
+{
+  "id": "OBR Co/022/2012",
+  "description": "22. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2012-01-12T16:00:00Z",
+  "ended_at": "2012-01-12T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Cotta, kleiner Sitzungssaal, 1. Etage, Raum 103,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Entwicklung von Instrumentarien zur frühzeitigen Beteiligung von Bürgern an Bauvorhaben",
+      "template_id": "A0503/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00082335.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0503/11",
+          "file_name": "00104969.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 15",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2012/2013",
+      "template_id": "V1389/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00085670.pdf"
+        },
+        {
+          "description": "Fachplan_gesamt",
+          "file_name": "00083758.pdf"
+        },
+        {
+          "description": "Beschluss V0938_11",
+          "file_name": "00080962.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE",
+          "file_name": "00094181.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - SPD",
+          "file_name": "00094183.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 19",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00084650.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00086272.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:20:55Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2154"
+}

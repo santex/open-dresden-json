@@ -1,0 +1,57 @@
+{
+  "id": "OSR WX/021/2011",
+  "description": "21. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2011-06-16T17:00:00Z",
+  "ended_at": "2011-06-16T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verfügungsmittel des Ortschaftsrates 2011",
+      "template_id": "V-WX0032/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 12",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen des Ortsvorstehers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00066174.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00067344.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00067242.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:52:13Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1366"
+}

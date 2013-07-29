@@ -1,0 +1,76 @@
+{
+  "id": "OBR Alt/027/2011",
+  "description": "27. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2011-12-07T15:30:00Z",
+  "ended_at": "2011-12-07T19:30:00Z",
+  "location": "im Deutschen Hygienemuseum, Marta-Fraenkel-Saal,Lingnerplatz 1, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung des Deutschen Hygiene-Museums",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorbildfunktion der Stadt Dresden erfüllen - Errichtung einer Photovoltaik-Anlage auf dem Rathausdach",
+      "template_id": "A0480/11",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00076797.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0480/11",
+          "file_name": "00104964.pdf"
+        },
+        {
+          "description": "BK A0480/11 Abschlussbericht v. 2013-04-04",
+          "file_name": "00128612.pdf"
+        },
+        {
+          "description": "PhVA-Rathaus_amorphe M",
+          "file_name": "00076710.pdf"
+        },
+        {
+          "description": "PhVA-Rathaus_polykrist. M",
+          "file_name": "00076711.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag - Bündnis 90/Die Grünen",
+          "file_name": "00099401.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 4",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 26. Ortsbeiratssitzung am 10.11.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00081693.pdf",
+      "description": "Einladung_OBR Alt"
+    },
+    {
+      "file_name": "00085050.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:17:38Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1261"
+}

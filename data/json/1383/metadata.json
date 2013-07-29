@@ -1,0 +1,103 @@
+{
+  "id": "OBR Co/016/2011",
+  "description": "16. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2011-05-19T16:00:00Z",
+  "ended_at": "2011-05-19T17:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Cotta, kleiner Sitzungssaal, 1. Etage, Raum 103,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 15. Ortsbeiratssitzung am 07.04.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aufwertung des Grünflächenareals am Gymnasium Dresden-Cotta (Raimundstraße, Altcotta)",
+      "template_id": "A0357/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0357/11_SB",
+          "file_name": "00068915.pdf"
+        },
+        {
+          "description": "Antrag CDU",
+          "file_name": "00058746.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 12",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Aufnahme der Kindertageseinrichtung Am Lehmberg 28 in 01157 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden",
+      "template_id": "V1018/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1018/11",
+          "file_name": "00067749.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00063073.pdf"
+        },
+        {
+          "description": "f_Anlage 2",
+          "file_name": "00060003.pdf"
+        },
+        {
+          "description": "a_Anlage 1",
+          "file_name": "00060006.pdf"
+        },
+        {
+          "description": "b_Anlage 1.1",
+          "file_name": "00060007.pdf"
+        },
+        {
+          "description": "c_Anlage 1.2",
+          "file_name": "00059999.pdf"
+        },
+        {
+          "description": "d_Anlage 1.3",
+          "file_name": "00060000.pdf"
+        },
+        {
+          "description": "e_Anlage 1.4",
+          "file_name": "00060008.pdf"
+        },
+        {
+          "description": "V1018/11",
+          "file_name": "00066326.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00062541.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00063578.pdf",
+      "description": "Nachtrag_OBR Co"
+    },
+    {
+      "file_name": "00064501.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:47:44Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1383"
+}

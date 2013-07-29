@@ -1,0 +1,117 @@
+{
+  "id": "OBR Lo/027/2012",
+  "description": "27. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2012-09-05T15:00:00Z",
+  "ended_at": "2012-09-05T17:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum, 2. Etage,Grundstraße 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 26. Ortsbeiratssitzung am 11.07.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Umsetzung von Stadtratsbeschlüssen: Keine Vollsperrung der Albertbrücke für Kraftfahrzeuge - Verkehrschaos bei der Brückensanierung verhindern",
+      "template_id": "A0461/11",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00074533.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 1",
+        "contra": " 8",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Konzept zur Wohnungslosenhilfe der Landeshauptstadt Dresden - Fortschreibung",
+      "template_id": "V1672/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1672/12",
+          "file_name": "00113103.pdf"
+        },
+        {
+          "description": "BK V1672/12 Abschlussbericht v. 2012-11-20",
+          "file_name": "00117400.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00104307.pdf"
+        },
+        {
+          "description": "Anlage 1_Wohnungslosenkonzept",
+          "file_name": "00104356.pdf"
+        },
+        {
+          "description": "Beschluss V1974-SR61-07",
+          "file_name": "00097947.pdf"
+        },
+        {
+          "description": "Beschluss V0834/10",
+          "file_name": "00097943.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00100247.pdf"
+        },
+        {
+          "description": "V1672_12_Stellungnahme BMB",
+          "file_name": "00100112.pdf"
+        },
+        {
+          "description": "Änderungs-/Ergänzungsantrag DIE LINKE.",
+          "file_name": "00113166.pdf"
+        },
+        {
+          "description": "Änderungsantrag Fraktion Bündnis 90/Die Grünen",
+          "file_name": "00113165.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen der Ortsamtsleiterin (u.a. Benennung besonderer regionaler Ereignisse im Jahr 2013 gemäß §8 Abs. 2 SächsLadÖffG)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgeranfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00107767.pdf",
+      "description": "Einladung_OBR Lo"
+    },
+    {
+      "file_name": "00108515.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:07:27Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2091"
+}

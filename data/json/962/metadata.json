@@ -1,0 +1,50 @@
+{
+  "id": "FL/024/2010",
+  "description": "24. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2010-07-12T14:00:00Z",
+  "ended_at": "2010-07-12T14:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Veränderung von Einnahmen und Umverteilung von Minderausgaben des Vermögenshaushaltes des Schulverwaltungsamtes zur Finanzierung von Sofortmaßnahmen zur Ertüchtigung der 39. Grundschule, Schleiermacherstraße 8, 01187 Dresden",
+      "template_id": "V0633/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00034931.pdf"
+        },
+        {
+          "description": "Anlage zur Vorlage V063310",
+          "file_name": "00034898.pdf"
+        },
+        {
+          "description": "V0633/10",
+          "file_name": "00035780.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00035174.pdf",
+      "description": "Einladung_FL_2010_07_12"
+    },
+    {
+      "file_name": "00035847.pdf",
+      "description": "Beschlussausfertigung_V0633/10_FL"
+    },
+    {
+      "file_name": "00036257.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:07:15Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=962"
+}

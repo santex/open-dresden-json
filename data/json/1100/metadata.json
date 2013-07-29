@@ -1,0 +1,70 @@
+{
+  "id": "FL/040/2011",
+  "description": "40. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2011-05-02T14:00:00Z",
+  "ended_at": "2011-05-02T16:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Veräußerung des Grundstückes Wintergartenstraße 13",
+      "template_id": "V0919/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0919/11",
+          "file_name": "00062485.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00058769.pdf"
+        },
+        {
+          "description": "Lageplan zur V0919 11",
+          "file_name": "00054099.pdf"
+        },
+        {
+          "description": "V0919/11",
+          "file_name": "00059054.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Budgetneutrale Veränderungen im Haushalt 2011 der Dresdner Musikfestspiele",
+      "template_id": "V1003/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00060149.pdf"
+        },
+        {
+          "description": "a)bereits gefasster Beschluss V0750-10",
+          "file_name": "00058737.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00061522.pdf",
+      "description": "Einladung_FL_2011_05_02"
+    },
+    {
+      "file_name": "00062773.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:43:05Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1100"
+}

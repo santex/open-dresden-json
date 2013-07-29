@@ -1,0 +1,54 @@
+{
+  "id": "K/004/2009",
+  "description": "4. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2009-11-03T14:00:00Z",
+  "ended_at": "2009-11-03T17:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Jury Kunst- und Förderpreis der Landeshauptstadt Dresden",
+      "template_id": "V0172/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00010067.pdf"
+        },
+        {
+          "description": "Anlage 1 zu V0172-09 Beschluss V0563-SR13-05",
+          "file_name": "00006319.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB_FB - V0172",
+          "file_name": "00007336.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB_GLB - V0172",
+          "file_name": "00007337.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00011053.pdf",
+      "description": "Einladung_K_2009_11_03"
+    },
+    {
+      "file_name": "00012209.pdf",
+      "description": "Beschlussausfertigung_V0172/09"
+    },
+    {
+      "file_name": "00012255.pdf",
+      "description": "Niederschrift öffentlich - K_2009_11_03"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:44:15Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=129"
+}

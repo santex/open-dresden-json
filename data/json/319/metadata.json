@@ -1,0 +1,76 @@
+{
+  "id": "OBR Alt/006/2010",
+  "description": "6. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2010-02-23T15:30:00Z",
+  "ended_at": "2010-02-23T16:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 5. Ortsbeiratssitzung am 21.01.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 123.4, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platzhier:\t1. Aufstellungsbeschluss zur Änderung des Bebauungsplans Nr. 123, \tDresden-Altstadt Nr. 15, Prager Straße-Süd/Wiener Platz \t2. Grenzen des Änderungsbereiches\t3. Verzicht auf frühzeitige Beteiligung\t4. Billigung des Entwurfs zum Bebauungsplan \t5. Billigung der Begründung zum Bebauungsplan-Entwurf \t6. Öffentliche Auslegung des Entwurfs zum Bebauungsplan Teilnahme: Vertreter Stadtplanungsamt 17:30 U",
+      "template_id": "V0429/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00021365.pdf"
+        },
+        {
+          "description": "a)Anlage1_Geltungsbereich_V0429",
+          "file_name": "00020477.pdf"
+        },
+        {
+          "description": "b)Anlage2_Bl. 1_V0429",
+          "file_name": "00020478.pdf"
+        },
+        {
+          "description": "c)Anlage2_Bl. 2_V0429",
+          "file_name": "00020479.pdf"
+        },
+        {
+          "description": "d)Anlage3_Begründung_V0429",
+          "file_name": "00020480.pdf"
+        },
+        {
+          "description": "e)bereits gefasste Beschlüsse_V0429",
+          "file_name": "00020481.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00021208.pdf",
+      "description": "Einladung_OBR Alt_23.02.2010"
+    },
+    {
+      "file_name": "00023173.pdf",
+      "description": "Niederschrift öffentlich_OBR Alt_23.02.2010"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:55:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=319"
+}

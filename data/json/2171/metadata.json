@@ -1,0 +1,62 @@
+{
+  "id": "OSR AF/036/2012",
+  "description": "36. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2012-09-10T17:00:00Z",
+  "ended_at": "2012-09-10T18:05:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortschaftszentrum Altfranken, Sitzungssaal,Otto-Harzer-Straße 2 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Weitere Anwendung der Gehölzschutzsatzung vom 16. Juni 1995 bei kommunalen Vorhaben",
+      "template_id": "A0628/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00100850.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0628/12",
+          "file_name": "00121603.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aufhebung des Beschlusses V0764/10 (Aufnahme der Kindertageseinrichtung Otto-Harzer-Straße in 01156 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden)",
+      "template_id": "V1731/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1731/12",
+          "file_name": "00113130.pdf"
+        },
+        {
+          "description": "V1731/12",
+          "file_name": "00107152.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00106763.pdf"
+        },
+        {
+          "description": "Anlage 1_Mietvertrag Otto-Harzer-Straße",
+          "file_name": "00101583.pdf"
+        },
+        {
+          "description": "Beschluss V0764",
+          "file_name": "00101584.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00108888.pdf",
+      "description": "Einladung_OSR AF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:08:45Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2171"
+}

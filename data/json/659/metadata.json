@@ -1,0 +1,174 @@
+{
+  "id": "SB/019/2010",
+  "description": "19. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2010-10-13T14:00:00Z",
+  "ended_at": "2010-10-13T20:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im WTC, Beratungsraum 1036 (10. Etage),Ammonstraße 72, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 343, Dresden-Weißig Nr. 19, Erweiterung Gewerbepark Weißighier:\t1. Billigung der Abwägung\t2. Änderungsbeschluss Bebauungsplan \t3. Billigung des Entwurfes zum Bebauungsplan \t4. Billigung der Begründung zum Bebauungsplan-Entwurf\t5. Öffentliche Auslegung des Entwurfes zum Bebauungsplan",
+      "template_id": "V0759/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00042669.pdf"
+        },
+        {
+          "description": "a) Anlage 1_V0759",
+          "file_name": "00042249.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Blatt1_V0759",
+          "file_name": "00042680.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Blatt2_V0759",
+          "file_name": "00042681.pdf"
+        },
+        {
+          "description": "d) Anlage 3_V0759",
+          "file_name": "00042250.pdf"
+        },
+        {
+          "description": "f) bereits gefasster Beschluss_V0759-1",
+          "file_name": "00042252.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 695, Dresden-Altstadt II, Nahversorgungszentrum Straßburger Platzhier: 1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan    2. Grenzen des vorhabenbezogenen Bebauungsplanes",
+      "template_id": "V0658/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00036051.pdf"
+        },
+        {
+          "description": "VB 695_Anlage1-Geltungsbereich",
+          "file_name": "00035577.pdf"
+        },
+        {
+          "description": "VB 695_Anlage2-Geltungsbereich",
+          "file_name": "00035578.pdf"
+        },
+        {
+          "description": "VB 695_Anlage3-Planungskonzept",
+          "file_name": "00035579.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 252, Dresden-Kleinzschachwitz Nr. 1, Kleinzschachwitzer Uferhier:\t1. Billigung der Abwägung\t2. Grenze des Bebauungsplanes \t3. Billigung des Entwurfes zum Bebauungsplan \t4. Billigung der Begründung zum Bebauungsplan-Entwurf\t5. Öffentliche Auslegung des Entwurfes zum Bebauungsplan",
+      "template_id": "V0739/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00040631.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Übersichtsplan_V0739",
+          "file_name": "00040590.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Blatt 1_V0739",
+          "file_name": "00040592.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Blatt 2_V0739",
+          "file_name": "00040593.pdf"
+        },
+        {
+          "description": "e) Anlage 2_Blatt 3_V0739",
+          "file_name": "00040594.pdf"
+        },
+        {
+          "description": "f) Anlage 3_begründung_V0739",
+          "file_name": "00040595.pdf"
+        },
+        {
+          "description": "g) Beschlussausfertigung 1081-SB-2001",
+          "file_name": "00040596.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 0",
+        "contra": " 11",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Prioritätenliste zum Bau fehlender und zur Sanierung stark instandsetzungsbedürftiger Fußwege",
+      "template_id": "A0195/10",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00033382.pdf"
+        },
+        {
+          "description": "BK A0195/12 Zw.-Bericht 31.01.2013",
+          "file_name": "00123277.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00043328.pdf",
+      "description": "Einladung_SB"
+    },
+    {
+      "file_name": "00043696.pdf",
+      "description": "Nachtrag_SB_2010_10_13"
+    },
+    {
+      "file_name": "00044676.pdf",
+      "description": "Beschlussausfertigung_A0195/10"
+    },
+    {
+      "file_name": "00044618.pdf",
+      "description": "Beschlussausfertigung_V0102/09"
+    },
+    {
+      "file_name": "00044619.pdf",
+      "description": "Beschlussausfertigung_V0658/10"
+    },
+    {
+      "file_name": "00044620.pdf",
+      "description": "Beschlussausfertigung_V0739/10"
+    },
+    {
+      "file_name": "00044621.pdf",
+      "description": "Beschlussausfertigung_V0740/10"
+    },
+    {
+      "file_name": "00044617.pdf",
+      "description": "Beschlussausfertigung_V0759/10"
+    },
+    {
+      "file_name": "00045434.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:13:28Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=659"
+}

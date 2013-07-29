@@ -1,0 +1,186 @@
+{
+  "id": "SB/058/2012",
+  "description": "58. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2012-11-28T14:00:00Z",
+  "ended_at": "2012-11-28T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 391, Dresden-Neustadt Nr. 38, DREWAG-Areal Lößnitzstraßehier:\t1. Aufstellungsbeschluss Bebauungsplan2. Grenzen des räumlichen Geltungsbereichs des Bebauungsplanes",
+      "template_id": "V1942/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00117116.pdf"
+        },
+        {
+          "description": "V1942/12",
+          "file_name": "00114438.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00113955.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00113039.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Geltungsbereich",
+          "file_name": "00113040.pdf"
+        },
+        {
+          "description": "BK V1942/12 - Zwischenbericht v. 18.04.13",
+          "file_name": "00130268.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Rahmenkonzept",
+          "file_name": "00113041.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Rahmenplan Nr. 735.1 Dresden-Altstadt I, Südliche Pirnaische Vorstadt/Lingner-Park-Stadt",
+      "template_id": "V0553/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00057629.pdf"
+        },
+        {
+          "description": "V0553/10",
+          "file_name": "00116200.pdf"
+        },
+        {
+          "description": "a) Anlage 1_V0553",
+          "file_name": "00028766.pdf"
+        },
+        {
+          "description": "b) Anlage 2_V0553",
+          "file_name": "00028767.pdf"
+        },
+        {
+          "description": "c) Anlage 3_V0553",
+          "file_name": "00028768.pdf"
+        },
+        {
+          "description": "d) Anlage 4_geändert091110_V0553",
+          "file_name": "00047843.pdf"
+        },
+        {
+          "description": "e) Anlage 5_geändert091010_V0553",
+          "file_name": "00047844.pdf"
+        },
+        {
+          "description": "f) V0553 bereits gefasste Beschlüsse",
+          "file_name": "00028774.pdf"
+        },
+        {
+          "description": "Stellg.-nahme BMB",
+          "file_name": "00048515.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0553",
+          "file_name": "00030433.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00048149.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 394, Dresden-Reick Nr. 4, Gewerbepark Breitscheidstraßehier:1. Aufstellungsbeschluss Bebauungsplan2. Grenzen des räumlichen Geltungsbereiches des Bebauungsplanes",
+      "template_id": "V1974/12",
+      "documents": [
+        {
+          "description": "V1974/12",
+          "file_name": "00115185.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00114390.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00114095.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Grenzen des Geltungsbereiches",
+          "file_name": "00114096.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Leipziger Vorstadt - Neustädter Hafen, Planungsleitlinien für das weitere Vorgehen",
+      "template_id": "V1658/12",
+      "documents": [
+        {
+          "description": "V1658/12",
+          "file_name": "00112090.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00111843.pdf"
+        },
+        {
+          "description": "a) Anlage 1 a",
+          "file_name": "00096788.pdf"
+        },
+        {
+          "description": "b) Anlage 1 b",
+          "file_name": "00096789.pdf"
+        },
+        {
+          "description": "c) Anlage 2",
+          "file_name": "00110978.pdf"
+        },
+        {
+          "description": "d) Anlage 3",
+          "file_name": "00110979.pdf"
+        },
+        {
+          "description": "e) bereits gefasste Beschlüsse",
+          "file_name": "00096793.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00115866.pdf",
+      "description": "Einladung_SB_2012_11_28"
+    },
+    {
+      "file_name": "00116054.pdf",
+      "description": "Nachtrag_SB_2012_11_28"
+    },
+    {
+      "file_name": "00118761.pdf",
+      "description": "Niederschrift öffentlich"
+    },
+    {
+      "file_name": "00117282.pdf",
+      "description": "Festlegungen und Aufträge ö"
+    },
+    {
+      "file_name": "00122760.pdf",
+      "description": "nö Beschlussausfertigung"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:22:44Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1742"
+}

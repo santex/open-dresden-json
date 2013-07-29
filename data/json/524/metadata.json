@@ -1,0 +1,708 @@
+{
+  "id": "SR/010/2010",
+  "description": "10. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2010-03-18T08:30:00Z",
+  "ended_at": "2010-03-18T21:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Plenarsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragestunde der Stadträtinnen und Stadträte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Aufsichtsrat der Cultus gGmbH",
+      "template_id": "A0144/10",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00022785.pdf"
+        }
+      ],
+      "decision": "gewählt",
+      "vote_result": {
+        "pro": " 63",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Besetzung der Stellvertreterin im Ortsbeirat Cotta durch die \"Freie Bürger Dresden e.V.\"",
+      "template_id": "A0153/10",
+      "documents": [
+        {
+          "description": "Antrag BürgerBündnis / Freie Bürger Fraktion",
+          "file_name": "00023782.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 68",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Wahl des Aufsichtsrates der DREWAG - Stadtwerke Dresden GmbH",
+      "template_id": "V0456/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00023294.pdf"
+        },
+        {
+          "description": "DREWAG Anlage 1 zur V0456 10",
+          "file_name": "00024017.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0456",
+          "file_name": "00022397.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Einführen eines Sozialtarifes - Sozialticket",
+      "template_id": "A0023/09",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00003336.pdf"
+        },
+        {
+          "description": "A0023/09 (A0545)",
+          "file_name": "00003340.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Abriss verhindern - Wohngebiet Seidnitz/Tolkewitz erhalten",
+      "template_id": "A0036/09",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00006680.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": null
+    },
+    {
+      "description": "Überprüfung der Stadträte auf MfS-Tätigkeit",
+      "template_id": "A0057/09",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00009821.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 47",
+        "contra": " 12",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Auslegung Bebauungspläne (verbindlicher Bauleitplan)",
+      "template_id": "A0064/09",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00010005.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Kitaplätze schaffen - Investitionsvorhaben bei Kitas beschleunigen",
+      "template_id": "A0019/09",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00003309.pdf"
+        },
+        {
+          "description": "A0019/09 (A0773)",
+          "file_name": "00003313.pdf"
+        },
+        {
+          "description": "zBK_A0019-09 abschl. Info v. 11.11.2010",
+          "file_name": "00048198.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Initiative \"500-Solardächer-Programm\"",
+      "template_id": "A0059/09",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00005957.pdf"
+        },
+        {
+          "description": "Anlage",
+          "file_name": "00006180.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Verwaltungsstandorte mit neuer Perspektive",
+      "template_id": "A0067/09",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00008042.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Verkehrsbaumaßnahme Fetscherstraße zwischen Fiedlerstraße und Pfotenhauerstraße",
+      "template_id": "V0211/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00027664.pdf"
+        },
+        {
+          "description": "BK V0211/09 Abschlussbericht v. 2013-04-18",
+          "file_name": "00129815.pdf"
+        },
+        {
+          "description": "Anlage 1 - Übersichtsplan",
+          "file_name": "00012762.pdf"
+        },
+        {
+          "description": "Anlage 2 - Lageplan",
+          "file_name": "00012763.pdf"
+        },
+        {
+          "description": "Anlage 3 - Regelquerschnitt",
+          "file_name": "00012764.pdf"
+        },
+        {
+          "description": "Hinweis BOB_GLB zu V0211",
+          "file_name": "00009781.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Marketingkonzeption für Dresden",
+      "template_id": "V0361/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00017807.pdf"
+        },
+        {
+          "description": "Anlage1 Marketingkonzeption für Dresden",
+          "file_name": "00017606.pdf"
+        },
+        {
+          "description": "Anlage2 Jahresthemen 2010 bis 2014",
+          "file_name": "00017395.pdf"
+        },
+        {
+          "description": "Anlage3 Maßnahmen- und Finanzplan DMG 2010",
+          "file_name": "00017264.pdf"
+        },
+        {
+          "description": "V2877-SR76-08",
+          "file_name": "00017299.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Freie Zugänglichkeit der Parkanlagen Pillnitz",
+      "template_id": "A0028/09",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00003370.pdf"
+        },
+        {
+          "description": "A0028/09 (A0087)",
+          "file_name": "00003374.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Höhere Bundesbeteiligung an den Kosten für Unterkunft und Heizung (KdU) für ALG II-Beziehende",
+      "template_id": "A0084/09",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00017054.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Aktionsprogramm vorbeugender baulicher Brandschutz an kommunalen Schulen der Landeshauptstadt Dresden",
+      "template_id": "V0348/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00021438.pdf"
+        },
+        {
+          "description": "BK V0348/09 Zwischenbericht v. 2012-10-23 (inkl. BK V1310/11 Zwischenbericht)",
+          "file_name": "00114577.pdf"
+        },
+        {
+          "description": "BK V0348/09 Zwischenbericht v. 2013-05-31",
+          "file_name": "00134685.pdf"
+        },
+        {
+          "description": "BK V0348/09 Zwischenbericht v. 2013-05-31 Gesamtliste Brandschutz",
+          "file_name": "00134737.pdf"
+        },
+        {
+          "description": "Anlage 1 V0348/09",
+          "file_name": "00021278.pdf"
+        },
+        {
+          "description": "Anlage 2 V0348/09",
+          "file_name": "00021305.pdf"
+        },
+        {
+          "description": "Anlage 3 V0348/09",
+          "file_name": "00015684.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 60",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Teilnahme der städtischen Eigengesellschaften am Liquiditätsverbund der Landeshauptstadt Dresden",
+      "template_id": "V0460/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00022731.pdf"
+        },
+        {
+          "description": "Anlage 1 zur V0460 10 Vorgaben zum Liquiditätsverbund",
+          "file_name": "00022238.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V0460 10 Muster Rahmenvereinbarungl",
+          "file_name": "00022239.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 68",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verfahrensergänzung zum Beschluss \"Übergabe von Kindertageseinrichtungen an Träger der freien Jugendhilfe\"",
+      "template_id": "V0079/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00003792.pdf"
+        },
+        {
+          "description": "Anlage",
+          "file_name": "00003008.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung A0688-SR75-08",
+          "file_name": "00003010.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung V1048-SR28-09",
+          "file_name": "00003009.pdf"
+        },
+        {
+          "description": "Stellungnahme der Beauftragten für Menschen mit Behinderungen",
+          "file_name": "00003012.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 65",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sanierungsgebiet Äußere Neustadt - 2. Fortschreibung des Städtebaulichen Erneuerungskonzeptes",
+      "template_id": "V0179/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00007643.pdf"
+        },
+        {
+          "description": "Anlage 1_Teil I",
+          "file_name": "00006706.pdf"
+        },
+        {
+          "description": "Anlage 1_Teil II",
+          "file_name": "00006769.pdf"
+        },
+        {
+          "description": "Anlage 1_Teil III",
+          "file_name": "00006708.pdf"
+        },
+        {
+          "description": "Anlage 2",
+          "file_name": "00006709.pdf"
+        },
+        {
+          "description": "Beschlussausf. Sanierungsgebiet",
+          "file_name": "00006779.pdf"
+        },
+        {
+          "description": "Stellungnahme Behindertenbeauftragte",
+          "file_name": "00006770.pdf"
+        },
+        {
+          "description": "Stellungnahme Frauenbeauftragte",
+          "file_name": "00006771.pdf"
+        },
+        {
+          "description": "Stellungnahme Gleichstellungsbeauftragte",
+          "file_name": "00006772.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 294, Dresden-Klotzsche Nr. 6, Rähnitzsteighier:1. Abwägungsbeschluss2. Satzungsbeschluss sowie Billigung der Begründung und der zusammenfassenden Erklärung nach Erklärung nach § 10 Abs. 4 BauGB zum Bebauungsplan",
+      "template_id": "V0345/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00016378.pdf"
+        },
+        {
+          "description": "Anlage 1_V0345_Abwägungstabelle Entwurf mit behörden",
+          "file_name": "00015762.pdf"
+        },
+        {
+          "description": "Anlage 2_V0345_Lärmplan bl3",
+          "file_name": "00015766.pdf"
+        },
+        {
+          "description": "Anlage 2_V0345_rechtsplan bl1",
+          "file_name": "00015764.pdf"
+        },
+        {
+          "description": "Anlage 2_V0345_rechtsplan bl2",
+          "file_name": "00015765.pdf"
+        },
+        {
+          "description": "Anlage 3_V0345_Planbegründung_1",
+          "file_name": "00016036.pdf"
+        },
+        {
+          "description": "Anlage 4_V0345_Umwelterklärung_§ 10Abs.4",
+          "file_name": "00015767.pdf"
+        },
+        {
+          "description": "V0345 Bereits gefasste Beschlüsse",
+          "file_name": "00015768.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 56",
+        "contra": " 7",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ergänzungssatzung Nr. 432, Dresden-Pappritz Nr. 3, Fernsehturmstraßehier:\t1. Beschluss über Stellungnahmen aus der öffentlichen Auslegung\t2. Satzungsbeschluss sowie Billigung der Begründung zur Ergänzungssatzung",
+      "template_id": "V0386/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00017465.pdf"
+        },
+        {
+          "description": "a)Anlage 1_V0386",
+          "file_name": "00017324.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung zur V0386",
+          "file_name": "00017328.pdf"
+        },
+        {
+          "description": "c)Anlage 2_V386",
+          "file_name": "00017326.pdf"
+        },
+        {
+          "description": "d)Anlage 3_V0386",
+          "file_name": "00017327.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 58",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 677, Dresden-Striesen, Wohn- und Einzelhandelsbebauung Schandauer Straßehier:\t1. Beschluss über Stellungnahmen aus dem frühzeitigen Beteiligungsverfahren \t2. Beschluss über Stellungnahmen aus der öffentlichenAuslegung\t3. Beschluss über Stellungnahmen aus dem vereinfachten Verfahren \t(§ 4 a Abs. 3 Satz 4 BauGB) \t4. Satzungsbeschluss sowie Billigung der Begründung und der zusammenfassenden \tErklärung nach § 10 Abs. 4 BauGB zum vorhabenbezogenen Bebauu",
+      "template_id": "V0438/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00021426.pdf"
+        },
+        {
+          "description": "c)Anlage 1b_liste behörden_V0438",
+          "file_name": "00021214.pdf"
+        },
+        {
+          "description": "d)Anlage 1b_Abwägung Behörden_V0438",
+          "file_name": "00021215.pdf"
+        },
+        {
+          "description": "f)Anlage 2b_liste behörden_V0438",
+          "file_name": "00021217.pdf"
+        },
+        {
+          "description": "g)Anlage 2b_Abwägung Behörden_V0438",
+          "file_name": "00021218.pdf"
+        },
+        {
+          "description": "k)Anlage 3b_liste behörden_V0438",
+          "file_name": "00021289.pdf"
+        },
+        {
+          "description": "l)Anlage 3b_Abwägung Behörden_V0438",
+          "file_name": "00021290.pdf"
+        },
+        {
+          "description": "m)Anlage 4_Rechtsplan Blatt 1_V0438",
+          "file_name": "00021291.pdf"
+        },
+        {
+          "description": "n)Anlage 4_Rechtsplan Blatt 2_V0438",
+          "file_name": "00021292.pdf"
+        },
+        {
+          "description": "o)Anlage 4_vorhabenplan_blatt1_V0438",
+          "file_name": "00021293.pdf"
+        },
+        {
+          "description": "p)Anlage 4_vorhabenplan_blatt2_V0438",
+          "file_name": "00021294.pdf"
+        },
+        {
+          "description": "q)Anlage 4_vorhabenplan_blatt3_V0438",
+          "file_name": "00021295.pdf"
+        },
+        {
+          "description": "r)Anlage 4_Erschließungsplan_V0438",
+          "file_name": "00021297.pdf"
+        },
+        {
+          "description": "s)Anlage 5_begründung",
+          "file_name": "00021298.pdf"
+        },
+        {
+          "description": "t)Anlage 6_Zusfas Erklärung_§ 10Abs.4_V0438",
+          "file_name": "00021299.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 71",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Entgeltordnung der Landeshauptstadt Dresden für die Benutzung des Krematoriums Dresden-Tolkewitz",
+      "template_id": "V0358/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00021361.pdf"
+        },
+        {
+          "description": "Anlage 1 Entgeltordnung Krematorium",
+          "file_name": "00021000.pdf"
+        },
+        {
+          "description": "V2118-49-2002",
+          "file_name": "00016938.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Eilantrag: Bürgerversammlung zum Thema \"Aktueller Stand beim Hochwasserschutz im Dresdner Osten\" unverzüglich durchführen",
+      "template_id": "A0130/10",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00021475.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00023913.pdf",
+      "description": "Einladung_SR_2010_03_18"
+    },
+    {
+      "file_name": "00025316.pdf",
+      "description": "Beschlussausfertigung_A0030/09"
+    },
+    {
+      "file_name": "00025154.pdf",
+      "description": "Beschlussausfertigung_A0036/09"
+    },
+    {
+      "file_name": "00025317.pdf",
+      "description": "Beschlussausfertigung_A0048/09"
+    },
+    {
+      "file_name": "00025328.pdf",
+      "description": "Beschlussausfertigung_A0057/09"
+    },
+    {
+      "file_name": "00025320.pdf",
+      "description": "Beschlussausfertigung_A0063/09"
+    },
+    {
+      "file_name": "00025321.pdf",
+      "description": "Beschlussausfertigung_A0072/09"
+    },
+    {
+      "file_name": "00025315.pdf",
+      "description": "Beschlussausfertigung_A0144/10"
+    },
+    {
+      "file_name": "00025155.pdf",
+      "description": "Beschlussausfertigung_A0153/10"
+    },
+    {
+      "file_name": "00025186.pdf",
+      "description": "Beschlussausfertigung_A0160/10"
+    },
+    {
+      "file_name": "00025160.pdf",
+      "description": "Beschlussausfertigung_V0079/09"
+    },
+    {
+      "file_name": "00025332.pdf",
+      "description": "Beschlussausfertigung_V0093/09"
+    },
+    {
+      "file_name": "00025163.pdf",
+      "description": "Beschlussausfertigung_V0212/09"
+    },
+    {
+      "file_name": "00025161.pdf",
+      "description": "Beschlussausfertigung_V0345/09"
+    },
+    {
+      "file_name": "00025322.pdf",
+      "description": "Beschlussausfertigung_V0348/09"
+    },
+    {
+      "file_name": "00025162.pdf",
+      "description": "Beschlussausfertigung_V0386/09"
+    },
+    {
+      "file_name": "00025158.pdf",
+      "description": "Beschlussausfertigung_V0392/10"
+    },
+    {
+      "file_name": "00025331.pdf",
+      "description": "Beschlussausfertigung_V0423/10"
+    },
+    {
+      "file_name": "00025164.pdf",
+      "description": "Beschlussausfertigung_V0438/10"
+    },
+    {
+      "file_name": "00025171.pdf",
+      "description": "Beschlussausfertigung_V0444/10"
+    },
+    {
+      "file_name": "00025172.pdf",
+      "description": "Beschlussausfertigung_V0455/10"
+    },
+    {
+      "file_name": "00025063.pdf",
+      "description": "Beschlussausfertigung_V0458/10"
+    },
+    {
+      "file_name": "00025292.pdf",
+      "description": "Beschlussausfertigung_V0460/10"
+    },
+    {
+      "file_name": "00025273.pdf",
+      "description": "Beschlussausfertigung_V0461/10"
+    },
+    {
+      "file_name": "00027056.pdf",
+      "description": "Niederschrift öffentlich_SR_2010_03_18"
+    },
+    {
+      "file_name": "00027164.pdf",
+      "description": "TOP 37 Anlage"
+    },
+    {
+      "file_name": "00027649.pdf",
+      "description": "namentliche Abstimmung TOP 8"
+    },
+    {
+      "file_name": "00027650.pdf",
+      "description": "Niederschrift mit namentlicher Abstimmung_SR_2010_03_18"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:56:58Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=524"
+}

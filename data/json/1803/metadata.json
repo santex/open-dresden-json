@@ -1,0 +1,166 @@
+{
+  "id": "FL/064/2012",
+  "description": "64. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2012-08-27T14:00:00Z",
+  "ended_at": "2012-08-27T17:20:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Veräußerung von Teilflächen des Flurstückes 650/1 der Gemarkung Friedrichstadt",
+      "template_id": "V1462/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1462/12",
+          "file_name": "00111922.pdf"
+        },
+        {
+          "description": "Ergänzungen zur Vorlage V1462/12",
+          "file_name": "00116290.pdf"
+        },
+        {
+          "description": "V1462/12 - ohne Anlage 1",
+          "file_name": "00103966.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00103737.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00110483.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1462 12",
+          "file_name": "00085703.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB_V1462_12",
+          "file_name": "00086282.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bereitstellung außerplanmäßiger Mittel für die brandschutztechnische Ertüchtigung sowie teilweise Sanierung des Bestandsgebäudes \"Fanhaus\" auf der Löbtauer Straße 17",
+      "template_id": "V1526/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1526/12",
+          "file_name": "00107835.pdf"
+        },
+        {
+          "description": "BK-V1526-12 (2. ZwB)",
+          "file_name": "00134973.pdf"
+        },
+        {
+          "description": "V1526/12",
+          "file_name": "00107001.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00106752.pdf"
+        },
+        {
+          "description": "V_1526_12_Stellungnahme BMB",
+          "file_name": "00101271.pdf"
+        },
+        {
+          "description": "Beschluss Nr. A0741-SR79-09",
+          "file_name": "00089327.pdf"
+        },
+        {
+          "description": "Beschluss V1091 11 FL 043 2011",
+          "file_name": "00100521.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Veränderung im Ergebnishaushalt 2012 des Straßen- und Tiefbauamtes - Verwendung von Fördermitteln zur Beseitigung von Winterschäden",
+      "template_id": "V1777/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1777/12",
+          "file_name": "00107854.pdf"
+        },
+        {
+          "description": "V1777/12",
+          "file_name": "00107264.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00106770.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00104401.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Zuwendungsbescheid",
+          "file_name": "00104402.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verkauf einer Teilfläche des Flurstücks 230/83 im kommunalen Gewerbegebiet Coschütz-Gittersee",
+      "template_id": "V1762/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1762/12",
+          "file_name": "00107831.pdf"
+        },
+        {
+          "description": "V1762/12 ö",
+          "file_name": "00107510.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00107324.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1762 12",
+          "file_name": "00105793.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00106997.pdf",
+      "description": "Einladung_FL_2012_08_27"
+    },
+    {
+      "file_name": "00107414.pdf",
+      "description": "Nachtrag_FL_2012_08_27"
+    },
+    {
+      "file_name": "00108631.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:07:18Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1803"
+}

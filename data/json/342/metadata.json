@@ -1,0 +1,76 @@
+{
+  "id": "OSR LB/011/2010",
+  "description": "11. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2010-05-11T16:32:00Z",
+  "ended_at": "2010-05-11T18:52:00Z",
+  "location": "Beratungsraum der Verwaltungsstelle Langebrück, Weißiger Str. 5, 01465 Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlage d. Oberbürgermeisterin d. Landeshauptstadt Dresden V 0510/10 v. 01.04.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "P & R- Platz Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Termine",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00029810.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00037550.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:02:10Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=342"
+}

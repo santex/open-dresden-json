@@ -1,0 +1,92 @@
+{
+  "id": "OSR OW/033/2012",
+  "description": "33. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2012-05-24T16:30:00Z",
+  "ended_at": "2012-05-24T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ratsinformationssystem für Bürgerinnen und Bürger",
+      "template_id": "A0591/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092888.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0591/12",
+          "file_name": "00102864.pdf"
+        },
+        {
+          "description": "BK_A0591/12",
+          "file_name": "00112253.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerinformation zu Baumfällungen und Ersatzpflanzungen",
+      "template_id": "A0586/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092885.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0586/12",
+          "file_name": "00108805.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00098418.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00099819.pdf",
+      "description": "Beschlussausfertigung Finanzmittel FGU"
+    },
+    {
+      "file_name": "00099566.pdf",
+      "description": "Beschlussausfertigung Finanzmittel Rep.Wandertafel"
+    },
+    {
+      "file_name": "00099963.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:48:53Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2135"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "AV/041/2011",
+  "description": "41. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "committee": "Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "started_at": "2011-09-12T14:30:00Z",
+  "ended_at": "2011-09-12T16:20:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Stadtratsbeschlüsse umzusetzen - Teilsanierung von Schulen endlich angehen",
+      "template_id": "A0432/11",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00068368.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0432/11",
+          "file_name": "00074002.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 1",
+        "contra": " 9",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00072231.pdf",
+      "description": "Einladung_AV_2011_09_12"
+    },
+    {
+      "file_name": "00073081.pdf",
+      "description": "Nachtrag_AV_2011_09_12"
+    },
+    {
+      "file_name": "00075358.pdf",
+      "description": "Niederschrift öffentlich_2011_09_12"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:07:00Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1173"
+}

@@ -1,0 +1,412 @@
+{
+  "id": "SR/050/2013",
+  "description": "50. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2013-01-24T14:00:00Z",
+  "ended_at": "2013-01-24T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Kulturrathaus, Clara-Schumann-Saal, 1. Etage,Königstraße 15, 01097 Dresden",
+  "parts": [
+    {
+      "description": "Bericht der Oberbürgermeisterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fassaden-Wiederherstellung der Westseite des Dresdner Neumarktes",
+      "template_id": " mAF0331/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage CDU",
+          "file_name": "00121366.pdf"
+        },
+        {
+          "description": "mAF0331-13",
+          "file_name": "00123381.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Umsetzung Investitionsprojekte",
+      "template_id": " mAF0326/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage Bündnis 90/Die Grünen",
+          "file_name": "00121342.pdf"
+        },
+        {
+          "description": "mAF0326/13",
+          "file_name": "00122926.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Umsetzung von Stadtratsbeschlüssen hier: Stadionverträge, Arbeitsgruppe \"Faire Miete\"",
+      "template_id": " mAF0333/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage FDP",
+          "file_name": "00121377.pdf"
+        },
+        {
+          "description": "mAF0333/13",
+          "file_name": "00122818.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Gesamtkosten für die Sondersitzung des Stadtrates am 10. Januar 2013",
+      "template_id": " mAF0323/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage fraktionslose Stadträte",
+          "file_name": "00121245.pdf"
+        },
+        {
+          "description": "mAF0323/13",
+          "file_name": "00122597.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Verfügbarer Wohnraum für Wohnungslose",
+      "template_id": " mAF0336/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage DIE LINKE.",
+          "file_name": "00121407.pdf"
+        },
+        {
+          "description": "mAF0336/13",
+          "file_name": "00122595.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Solaranlage Rathausdach",
+      "template_id": " mAF0325/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage SPD",
+          "file_name": "00121349.pdf"
+        },
+        {
+          "description": "mAF0325/13",
+          "file_name": "00122928.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Gestaltungssatzung G16 „Stadtensemble Neumarkt\"",
+      "template_id": " mAF0324/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage BürgerBündnis / Freie Bürger",
+          "file_name": "00121297.pdf"
+        },
+        {
+          "description": "mAF0324-13",
+          "file_name": "00123389.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Tagesordnungspunkte ohne Debatte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Klotzsche",
+      "template_id": "A0680/12",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00117317.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0680/12",
+          "file_name": "00121595.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Neubesetzung des Umlegungsausschusses",
+      "template_id": "V2028/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2028/12",
+          "file_name": "00121611.pdf"
+        },
+        {
+          "description": "V2028/12",
+          "file_name": "00120322.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00119805.pdf"
+        },
+        {
+          "description": "a) bereits gef. Beschluss_V0557_10",
+          "file_name": "00117545.pdf"
+        },
+        {
+          "description": "b) bereits gef. Beschluss_V0027_09",
+          "file_name": "00117546.pdf"
+        }
+      ],
+      "decision": "gewählt",
+      "vote_result": null
+    },
+    {
+      "description": "Aufhebung des Beruflichen Schulzentrums für Dienstleistung und Gestaltung, Chemnitzer Straße 83, 01187 Dresden, zum 31. Juli 2013",
+      "template_id": "V1880/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1880/12",
+          "file_name": "00121599.pdf"
+        },
+        {
+          "description": "BK V1880/12 Abschlussbericht v. 2013-03-26",
+          "file_name": "00127956.pdf"
+        },
+        {
+          "description": "V1880/12",
+          "file_name": "00113648.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00113261.pdf"
+        },
+        {
+          "description": "Anlagen V1880/12",
+          "file_name": "00108676.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Planung Königsbrücker Straße",
+      "template_id": "A0675/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00116354.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0675/12",
+          "file_name": "00121696.pdf"
+        },
+        {
+          "description": "BK A0675/12 Zwischenbericht v. 2013-03-22",
+          "file_name": "00127890.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "\"Einberufung einer Einwohnerversammlung zum Thema \"Gleisbauarbeiten auf der Bautzner Landstraße zwischen Elisabethstraße und Grundstraße - Folgen für Anlieger und den Verkehrsfluss\"\"",
+      "template_id": "A0688/13",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00120006.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0688/13",
+          "file_name": "00121697.pdf"
+        },
+        {
+          "description": "BK A0688/13 Abschlussbericht v. 2013-03-27",
+          "file_name": "00127933.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 30",
+        "contra": " 25",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Neubau einer Dreifeldsporthalle am Hans-Erlwein-Gymnasium, Eibenstocker Straße 30 in 01277 Dresden",
+      "template_id": "V1925/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1925/12",
+          "file_name": "00121635.pdf"
+        },
+        {
+          "description": "V1925/12",
+          "file_name": "00117161.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00116846.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00112826.pdf"
+        },
+        {
+          "description": "Anlagen V1925/12",
+          "file_name": "00112067.pdf"
+        },
+        {
+          "description": "Beschlüsse",
+          "file_name": "00112068.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 62",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Neubenennung und Wiederbenennung von Straßen",
+      "template_id": "V1980/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1980/12",
+          "file_name": "00121587.pdf"
+        },
+        {
+          "description": "V1980/12",
+          "file_name": "00117560.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00116882.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Übersichtsplan",
+          "file_name": "00114324.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Straßenordnungsplan Lise-Meitner-Str",
+          "file_name": "00114325.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Beschluss OA Cotta",
+          "file_name": "00114326.pdf"
+        },
+        {
+          "description": "d) Anlage 3_Straßenordnungsplan Berthold-Haupt-Str",
+          "file_name": "00114327.pdf"
+        },
+        {
+          "description": "e) Anlage 3_Beschluss OA Leuben",
+          "file_name": "00114328.pdf"
+        },
+        {
+          "description": "f) Anlage 4_Straßenordnungsplan Schützenplatz",
+          "file_name": "00114329.pdf"
+        },
+        {
+          "description": "g) Anlage 4_Beschlüsse OA Altstadt",
+          "file_name": "00114330.pdf"
+        },
+        {
+          "description": "h) Anlage 4_Historischer Plan",
+          "file_name": "00114331.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 59",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Breitbandstrategie für Dresden",
+      "template_id": "A0661/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00109700.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0661/12",
+          "file_name": "00126966.pdf"
+        },
+        {
+          "description": "Karten_Breitbandverfügbarkeit in Dresden",
+          "file_name": "00109681.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Erweiterung der Beschaffungsformen für Neubau, Sanierung und Betrieb von Schulen zur Umsetzung des Schulnetzplanes 2012",
+      "template_id": "V1989/12",
+      "documents": [
+        {
+          "description": "V1989/12 ö",
+          "file_name": "00120757.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00119897.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00115423.pdf"
+        },
+        {
+          "description": "Beschluss V1282-01/11",
+          "file_name": "00114927.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00120465.pdf",
+      "description": "Einladung_SR"
+    },
+    {
+      "file_name": "00123895.pdf",
+      "description": "Niederschrift öffentlich_SR_2013_01_24"
+    },
+    {
+      "file_name": "00125033.pdf",
+      "description": "Niederschrift öffentlich komplett_SR_2013_01_24"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:30:25Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2411"
+}

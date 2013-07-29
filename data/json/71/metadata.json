@@ -1,0 +1,108 @@
+{
+  "id": "OSR SW/005/2009",
+  "description": "5. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2009-12-07T15:00:00Z",
+  "ended_at": "2009-12-07T16:40:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlich gefasster Beschlüsse der 4. Sitzung vom 16.11.2009",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Flächennutzungsplan Vorentwurf 2009",
+      "template_id": "V-SW0050/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig für die Unterstützung der Weihnachtsfahrt des Feuerwehrvereins und der Seniorengruppe Zaschendorf",
+      "template_id": "V-SW0047/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig für die Unterstützung des Weihnachtstanztee für alle Senioren und Seniorinnen im Schönfelder Hochland, OT Cunnersdorf",
+      "template_id": "V-SW0049/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00014858.pdf",
+      "description": "Einladung - OSR SW"
+    },
+    {
+      "file_name": "00016167.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00016166.pdf",
+      "description": "Beschlussausfertigung V-SW0046-09"
+    },
+    {
+      "file_name": "00016172.pdf",
+      "description": "Beschlussausfertigung V-SW0047-09"
+    },
+    {
+      "file_name": "00016173.pdf",
+      "description": "Beschlussausfertigung V-SW0048-09"
+    },
+    {
+      "file_name": "00016174.pdf",
+      "description": "Beschlussausfertigung V-SW0049-09"
+    },
+    {
+      "file_name": "00017250.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:49:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=71"
+}

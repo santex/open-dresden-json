@@ -1,0 +1,93 @@
+{
+  "id": "OBR Pro/019/2011",
+  "description": "19. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2011-11-07T15:00:00Z",
+  "ended_at": "2011-11-07T18:02:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Prohlis, Bürgersaal,Prohliser Allee 10, 01239 Dresden",
+  "parts": [
+    {
+      "description": "Feststellung der Beschlussfähigkeit und Abstimmung über die weitere Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Gesamtsanierung und Erweiterung der 90. Grundschule, Kleinlugaer Straße 25, 01259 Dresden, mit Neubau einer integrierten Einfeldsporthalle",
+      "template_id": "V1237/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1237/11",
+          "file_name": "00084019.pdf"
+        },
+        {
+          "description": "BK V1237/11 Zwischenbericht v. 2013-02-07",
+          "file_name": "00123310.pdf"
+        },
+        {
+          "description": "V1237/11",
+          "file_name": "00076909.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00076259.pdf"
+        },
+        {
+          "description": "Anlage 1-15 V1237/11",
+          "file_name": "00071378.pdf"
+        },
+        {
+          "description": "Anlage 16 V1237/11",
+          "file_name": "00071379.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Information des Amtes für Stadtgrün und Abfallwirtschaft zur Einführung der städtischen blauen Tonne",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus regionalem Anlass an Sonntagen im Jahr 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00078152.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00078285.pdf",
+      "description": "Nachtrag_OBR Pro"
+    },
+    {
+      "file_name": "00079600.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:13:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1291"
+}

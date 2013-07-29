@@ -1,0 +1,52 @@
+{
+  "id": "OBR Kl/009/2010",
+  "description": "9. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2010-06-07T17:00:00Z",
+  "ended_at": "2010-06-07T18:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung des Betreibers der Kindertageseinrichtung Klotzscher Hauptstraße Omse e. V.",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Betreibung der Kindertageseinrichtung Moritzburger Weg 67 c, 01109 Dresden sowie deren Aufnahme in den Bedarfsplan Kindertageseinrichtungen",
+      "template_id": "V0396/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00030151.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Anfragen und Anregungen aus dem Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00031943.pdf",
+      "description": "Einladung_OBR Kl"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:04:25Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=422"
+}

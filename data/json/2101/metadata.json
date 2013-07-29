@@ -1,0 +1,146 @@
+{
+  "id": "OBR Bl/031/2012",
+  "description": "31. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2012-08-22T15:30:00Z",
+  "ended_at": "2012-08-22T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 29. Ortsbeiratssitzung am 27. JuniKontrolle der Niederschrift zur 30. Ortsbeiratssitzung (Sondersitzung) am 11. Juli",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Konzept zur Wohnungslosenhilfe der Landeshauptstadt Dresden - Fortschreibung",
+      "template_id": "V1672/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1672/12",
+          "file_name": "00113103.pdf"
+        },
+        {
+          "description": "BK V1672/12 Abschlussbericht v. 2012-11-20",
+          "file_name": "00117400.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00104307.pdf"
+        },
+        {
+          "description": "Anlage 1_Wohnungslosenkonzept",
+          "file_name": "00104356.pdf"
+        },
+        {
+          "description": "Beschluss V1974-SR61-07",
+          "file_name": "00097947.pdf"
+        },
+        {
+          "description": "Beschluss V0834/10",
+          "file_name": "00097943.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00100247.pdf"
+        },
+        {
+          "description": "V1672_12_Stellungnahme BMB",
+          "file_name": "00100112.pdf"
+        },
+        {
+          "description": "Änderungs-/Ergänzungsantrag DIE LINKE.",
+          "file_name": "00113166.pdf"
+        },
+        {
+          "description": "Änderungsantrag Fraktion Bündnis 90/Die Grünen",
+          "file_name": "00113165.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Unverwechselbares Stadtbild erhalten – Denkmalgerechte Anpassung der Straßenbeleuchtung an heutige Bedürfnisse",
+      "template_id": "A0624/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bewahrung des historischen Gebietscharakters in Blasewitz und Striesen",
+      "template_id": "A0632/12",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00102355.pdf"
+        },
+        {
+          "description": "Antrag CDU - Änderung",
+          "file_name": "00112108.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0632/12",
+          "file_name": "00118828.pdf"
+        },
+        {
+          "description": "BK A0632/12 Zwischenbericht v. 2013-03-28",
+          "file_name": "00127949.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorschläge zur Aufnahme von besonderen regionalen Ereignissen in Blasewitz im Jahr 2013 in eine Rechtsverordnung zur Freigabe von Sonntagen für den Verkauf",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Hinweise und Anfragen der Bürger und des Ortsbeirates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00106667.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00107480.pdf",
+      "description": "Nachtrag_OBR Bl_21.08.2012"
+    },
+    {
+      "file_name": "00110778.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:06:59Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2101"
+}

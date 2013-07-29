@@ -1,0 +1,56 @@
+{
+  "id": "K/001/2009",
+  "description": "1. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2009-08-25T13:00:00Z",
+  "ended_at": "2009-08-25T14:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Verleihung der Ehrentitel \"Kammermusikerin/Kammermusiker\" bzw. \"Kammervirtuosin/Kammervirtuose\" an Musiker der Dresdner Philharmonie",
+      "template_id": "V0090/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bericht zum Stand der Planungen zum Kulturkraftwerk Mitte",
+      "template_id": "A0013/09",
+      "documents": [
+
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00004704.pdf",
+      "description": "Einladung"
+    },
+    {
+      "file_name": "00005696.pdf",
+      "description": "Beschlussausfertigung_A0002/09_K"
+    },
+    {
+      "file_name": "00005669.pdf",
+      "description": "Beschlussausfertigung_A0013/09_K"
+    },
+    {
+      "file_name": "00005684.pdf",
+      "description": "Beschlussausfertigung_V0090/09_K"
+    },
+    {
+      "file_name": "00006443.pdf",
+      "description": "Niederschrift öffentlich_K_2009_08_25"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:40:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=77"
+}

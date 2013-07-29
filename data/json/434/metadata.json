@@ -1,0 +1,88 @@
+{
+  "id": "OBR Leu/008/2010",
+  "description": "8. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2010-09-22T17:00:00Z",
+  "ended_at": "2010-09-22T20:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, Bürgersaal,Hertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Lokales Handlungsprogramm für Ordnung und Sauberkeit in Dresden",
+      "template_id": "A0190/10",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00031143.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Geschäftsordnung für die Ortsbeiräte der Landeshauptstadt Dresden (GO-Ortsbeirat); Änderung der Geschäftsordnung des Stadtrates",
+      "template_id": "V0577/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00035729.pdf"
+        },
+        {
+          "description": "Anlage 1_GO-OBR",
+          "file_name": "00035532.pdf"
+        },
+        {
+          "description": "Anlage 2_Synopse",
+          "file_name": "00035531.pdf"
+        },
+        {
+          "description": "Beschluss_V0155_09",
+          "file_name": "00031723.pdf"
+        },
+        {
+          "description": "V2131-57-1997 (GO-Ortsbeirat)",
+          "file_name": "00031715.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen der Ortsbeiräte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00040910.pdf",
+      "description": "Einladung_OBR Leu_2010.09.22"
+    },
+    {
+      "file_name": "00042718.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:11:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=434"
+}

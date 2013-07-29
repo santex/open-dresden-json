@@ -1,0 +1,116 @@
+{
+  "id": "OBR Pi/030/2012",
+  "description": "30. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2012-09-11T16:00:00Z",
+  "ended_at": "2012-09-11T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 29. Ortsbeiratssitzung am 10.07.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Konzept zur Erhaltung der historischen Gaslaternen fortschreiben - Straßen behutsam erneuern - Quartierscharakter bewahren",
+      "template_id": "A0640/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00103444.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00112206.pdf"
+        },
+        {
+          "description": "BK A0640-12 Zw.-Bericht 08.05.13",
+          "file_name": "00133856.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Konzept zur Wohnungslosenhilfe der Landeshauptstadt Dresden - Fortschreibung",
+      "template_id": "V1672/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1672/12",
+          "file_name": "00113103.pdf"
+        },
+        {
+          "description": "BK V1672/12 Abschlussbericht v. 2012-11-20",
+          "file_name": "00117400.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00104307.pdf"
+        },
+        {
+          "description": "Anlage 1_Wohnungslosenkonzept",
+          "file_name": "00104356.pdf"
+        },
+        {
+          "description": "Beschluss V1974-SR61-07",
+          "file_name": "00097947.pdf"
+        },
+        {
+          "description": "Beschluss V0834/10",
+          "file_name": "00097943.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00100247.pdf"
+        },
+        {
+          "description": "V1672_12_Stellungnahme BMB",
+          "file_name": "00100112.pdf"
+        },
+        {
+          "description": "Änderungs-/Ergänzungsantrag DIE LINKE.",
+          "file_name": "00113166.pdf"
+        },
+        {
+          "description": "Änderungsantrag Fraktion Bündnis 90/Die Grünen",
+          "file_name": "00113165.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00108110.pdf",
+      "description": "Einladung_OBR Pi"
+    },
+    {
+      "file_name": "00109519.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:09:09Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2064"
+}

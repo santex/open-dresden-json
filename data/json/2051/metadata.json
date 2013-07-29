@@ -1,0 +1,108 @@
+{
+  "id": "OSR CB/031/2012",
+  "description": "31. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2012-09-10T16:30:00Z",
+  "ended_at": "2012-09-10T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzzuschuss für Bibliothek Cossebaude",
+      "template_id": "V-CB0042/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel zur Sanierung des Bismarckturmes Cossebaude",
+      "template_id": "A-CB0087/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzzuschuss für Reparatur Kunstrasenplatz - TSV Cossebaude e.V.",
+      "template_id": "A-CB0090/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Gesetz über die Ladenöffnungszeiten zu besonderen Anlässen und Ereignissen für 2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00107842.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00109141.pdf",
+      "description": "Beschluss Finanzzuschuss Bibliothek"
+    },
+    {
+      "file_name": "00109187.pdf",
+      "description": "Beschlussausfertigung - Finanzmittel Infoblatt Oktober 2012"
+    },
+    {
+      "file_name": "00109176.pdf",
+      "description": "Beschlussausfertigung Finanzzuschuss Sanierung Bismarckturm"
+    },
+    {
+      "file_name": "00109217.pdf",
+      "description": "Beschlussausfertigung STN Vorg.:-Nr.3243-09"
+    },
+    {
+      "file_name": "00109209.pdf",
+      "description": "Beschlussausfertigung STN z. Vorg.-Nr.:1154-08"
+    },
+    {
+      "file_name": "00109168.pdf",
+      "description": "Beschlussausfertigung Zuschuss an HVV zu Wandertafeln"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:08:42Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2051"
+}

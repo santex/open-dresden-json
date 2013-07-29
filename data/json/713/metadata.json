@@ -1,0 +1,78 @@
+{
+  "id": "JHA/008/2010",
+  "description": "8. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2010-06-10T16:00:00Z",
+  "ended_at": "2010-06-10T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Festsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 22.04.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl Vorsitz und stellvertretender Vorsitz des Unterausschusses",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bildung eines Ausschusses für Kindertagesstätten und Schulen",
+      "template_id": "A0097/09",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00023171.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 6",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht zu Zusatzangeboten",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00031833.pdf",
+      "description": "Einladung_JH_2010_06_10"
+    },
+    {
+      "file_name": "00033323.pdf",
+      "description": "Beschlussausfertigung_A0173/10"
+    },
+    {
+      "file_name": "00039107.pdf",
+      "description": "Niederschrift öffentlich_JH_2010_06_10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:05:15Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=713"
+}

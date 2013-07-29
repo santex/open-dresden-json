@@ -1,0 +1,89 @@
+{
+  "id": "OBR Co/025/2012",
+  "description": "25. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2012-05-10T16:00:00Z",
+  "ended_at": "2012-05-10T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Cotta, kleiner Sitzungssaal, 1. Etage, Raum 103,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beratung und Empfehlung des Ortsbeirates zu einer Straßenneubenennung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Patenschaften für Baumscheiben",
+      "template_id": "A0585/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092834.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0585/12",
+          "file_name": "00108801.pdf"
+        },
+        {
+          "description": "585_Patenschaften für Baumscheiben_Anhang Baumscheibenflyer_januar_2011",
+          "file_name": "00092828.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Ratsinformationssystem für Bürgerinnen und Bürger",
+      "template_id": "A0591/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092888.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0591/12",
+          "file_name": "00102864.pdf"
+        },
+        {
+          "description": "BK_A0591/12",
+          "file_name": "00112253.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00096616.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00099133.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:46:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2157"
+}

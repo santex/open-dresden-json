@@ -1,0 +1,136 @@
+{
+  "id": "OSR MB/034/2012",
+  "description": "34. Sitzung des Ortschaftsrates Mobschatz",
+  "committee": "Ortschaftsrat Mobschatz",
+  "started_at": "2012-03-15T17:30:00Z",
+  "ended_at": "2012-03-15T20:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im \"Dorfklub Mobschatz\", Sitzungssaal,Am Tummelsgrund 7 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Mittelschulen, Gymnasien, berufsbildende Schulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler Trägerschaft",
+      "template_id": "V1282-01/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1282-01/11",
+          "file_name": "00104879.pdf"
+        },
+        {
+          "description": "BK V1282-01/11 Abschlussbericht v. 2012_12_10",
+          "file_name": "00119337.pdf"
+        },
+        {
+          "description": "BK V1282-01/11 Zwischenbericht v. 2013_06_26",
+          "file_name": "00137813.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00090074.pdf"
+        },
+        {
+          "description": "Anlage 1 V1282-01/11",
+          "file_name": "00089428.pdf"
+        },
+        {
+          "description": "Anlage 2 V1282-01/11",
+          "file_name": "00089226.pdf"
+        },
+        {
+          "description": "Anlage 3 V1282-01/11",
+          "file_name": "00089227.pdf"
+        },
+        {
+          "description": "Beschlüsse",
+          "file_name": "00089247.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00089621.pdf"
+        },
+        {
+          "description": "Stellungnahme FB",
+          "file_name": "00089458.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB V1282-01/11",
+          "file_name": "00089520.pdf"
+        },
+        {
+          "description": "Änderungsantrag - Bündnis 90/Die Grünen - 1",
+          "file_name": "00104689.pdf"
+        },
+        {
+          "description": "Änderungsantrag - Bündnis 90/Die Grünen - 2",
+          "file_name": "00104690.pdf"
+        },
+        {
+          "description": "Änderungsanträge - Interfraktionell",
+          "file_name": "00104692.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ehrenamtsarbeit in Dresden - Koordinierungsstelle Ehrenamt einrichten",
+      "template_id": "A0514/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Prioritätenliste für das Liegenschaftsamt (Amt 23) - Beschluss für die Investitionsplanung zum Doppelhaushalt 2013/2014 sowie für den Mittelfristplan bis 2017 des Liegenschaftsamtes der Landeshauptstadt Dresden",
+      "template_id": "V-MB0064/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Prioritätenliste für das Amt für Stadtgrün und Abfallwirtschaft (Amt 67) - Beschluss für die Investitionsplanung zum Doppelhaushalt 2013/2014 sowie für den Mittelfristplan bis 2017 des Amtes für Stadtgrün und Abfallwirtschaft der LHD",
+      "template_id": "V-MB0066/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Errichtung eines Fußweges zwischen Merbitz und der Bushaltestelle Alt-Leuteritz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgeranfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00091336.pdf",
+      "description": "Einladung_OSR MB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:31:14Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2199"
+}
