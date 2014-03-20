@@ -1,0 +1,103 @@
+{
+  "id": "OSR SW/003/2009",
+  "description": "3. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2009-10-26T17:35:00Z",
+  "ended_at": "2009-10-26T19:55:00Z",
+  "location": "Landeshauptstadt Dresden,  in dem Vereinsheim der Rassegeflügelzüchter Weißig und Umgebung e. V., Meinhardtweg 4, 01328 Dresden (\"Alte Turnhalle\", Schönfeld)",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung der Straßenbaumaßnahme Bühlauer Straße im OT SchullwitzBE: Vertreter des Straßen- und Tiefbauamtes",
+      "template_id": "V-SW0028/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sitzungstermine Ortschaftsrat Schönfeld-Weißig 2010BE: Ortsvorsteher",
+      "template_id": "V-SW0031/09",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig für die Unterstützung der Seniorenweihnachtsfeier im OT Schönfeld",
+      "template_id": null,
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00010455.pdf",
+      "description": "Einladung - OSR SW"
+    },
+    {
+      "file_name": "00011496.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00011489.pdf",
+      "description": "Beschlussausfertigung V-SW0028/09"
+    },
+    {
+      "file_name": "00011497.pdf",
+      "description": "Beschlussausfertigung V-SW0031/09"
+    },
+    {
+      "file_name": "00011502.pdf",
+      "description": "Beschlussausfertigung V-SW0035/09"
+    },
+    {
+      "file_name": "00011504.pdf",
+      "description": "Beschlussausfertigung V-SW0036/09"
+    },
+    {
+      "file_name": "00011521.pdf",
+      "description": "Beschlussausfertigung V0203/09"
+    },
+    {
+      "file_name": "00011563.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:43:32Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=53"
+}

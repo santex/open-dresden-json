@@ -1,0 +1,86 @@
+{
+  "id": "OSR OW/013/2010",
+  "description": "13. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2010-09-21T16:30:00Z",
+  "ended_at": "2010-09-21T18:45:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Kulturraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel zur Anschaffung eines Rasenmähers für das Grundstück Max-Schwan-Straße 4",
+      "template_id": "A-OW0007/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel Verfügungsfonds Ortsvorsteher",
+      "template_id": "A-OW0008/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00041260.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00042003.pdf",
+      "description": "Beschlussausfertigung Besetzung Schiedsstelle Cotta"
+    },
+    {
+      "file_name": "00041967.pdf",
+      "description": "Beschlussausfertigung Finanzmittel Freundeskreis Alte Feuerwehr"
+    },
+    {
+      "file_name": "00041987.pdf",
+      "description": "Beschlussausfertigung Finanzmittel Verfügungsfonds Ortsvorsteher"
+    },
+    {
+      "file_name": "00041971.pdf",
+      "description": "Beschlussausfertigung Finanzmittel zur Anschaffung eines Rasenmähers"
+    },
+    {
+      "file_name": "00041982.pdf",
+      "description": "Beschlussausfertigung Finanzmittel zur Durchführung eines Weihnachtsmarktes"
+    },
+    {
+      "file_name": "00043281.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:11:40Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=283"
+}

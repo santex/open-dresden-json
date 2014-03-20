@@ -1,0 +1,49 @@
+{
+  "id": "OBR Lo/018/2011",
+  "description": "18. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2011-09-07T15:00:00Z",
+  "ended_at": "2011-09-07T17:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum, 2. Etage,Grundstraße 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschriften zur 16. Ortsbeiratssitzung am 08.06.2011 und zur 17. Ortsbeiratssitzung (Sondersitzung) am 27.06.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Gemeinsames Lernen fördern - Schulversuch Inklusion",
+      "template_id": "A0429/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerinformation zum Vorhaben \"Kiessand Pirnaer Elbbogen\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00072221.pdf",
+      "description": "Einladung_OBR Lo"
+    },
+    {
+      "file_name": "00075305.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:05:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1466"
+}

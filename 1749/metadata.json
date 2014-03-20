@@ -1,0 +1,131 @@
+{
+  "id": "JHA/032/2012",
+  "description": "32. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2012-06-07T16:00:00Z",
+  "ended_at": "2012-06-07T18:20:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 19. April 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Haushaltsplanung Doppelhaushalt 2013/2014",
+      "template_id": "A0610/12",
+      "documents": [
+        {
+          "description": "Antrag Mitglieder Jugendhilfeausschuss",
+          "file_name": "00097328.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0610/12",
+          "file_name": "00100849.pdf"
+        },
+        {
+          "description": "Anlage zur Beschlussausfertigung_A0610/12",
+          "file_name": "00101215.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Förderung der Träger der freien Jugendhilfe im Haushaltsjahr 2012 - Prioritäten für bauliche Maßnahmen bzw. Erhaltungsmaßnahmen",
+      "template_id": "V1536/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1536/12",
+          "file_name": "00100856.pdf"
+        },
+        {
+          "description": "V1536/12",
+          "file_name": "00095156.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00094888.pdf"
+        },
+        {
+          "description": "Anlage 1_Maßnahmeliste für bauliche Investitionen und Erhaltungsmaßnahmen",
+          "file_name": "00094142.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_V0745_10",
+          "file_name": "00089692.pdf"
+        },
+        {
+          "description": "BK_V1536/12",
+          "file_name": "00121839.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ausschreibung \"Kinderbüro Dresden\"",
+      "template_id": "A0584/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092644.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0584/12",
+          "file_name": "00102654.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 4",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kindertageseinrichtungen Prellerstraße 8",
+      "template_id": "A0572/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00090345.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0572/12",
+          "file_name": "00105036.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00099324.pdf",
+      "description": "Einladung_JH_2012_06_04"
+    },
+    {
+      "file_name": "00102153.pdf",
+      "description": "Niederschrift öffentlich_JH_2012_06_07"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:51:39Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1749"
+}

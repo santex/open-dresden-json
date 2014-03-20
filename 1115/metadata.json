@@ -1,0 +1,63 @@
+{
+  "id": "WF/032/2011",
+  "description": "32. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2011-05-19T14:00:00Z",
+  "ended_at": "2011-05-19T15:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr.: 5011/11, P+R-Anlage Langebrück, Los 1 - Straßenbau",
+      "template_id": "V1066/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1066/11_WF",
+          "file_name": "00064360.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 8/11_GSSHÖ/21/2011, Umbau und Erweiterung Grundschule Schönfeld, Borsbergstr. 12a, 01328 Dresden, Los 21 - Landschaftsbauarbeiten",
+      "template_id": "V1068/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1068_11_WF",
+          "file_name": "00064373.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00062961.pdf",
+      "description": "Einladung_WF_2011_05_19"
+    },
+    {
+      "file_name": "00064589.pdf",
+      "description": "Niederschrift öffentlich_2011_05_19"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:47:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1115"
+}

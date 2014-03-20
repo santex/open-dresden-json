@@ -1,0 +1,110 @@
+{
+  "id": "JHA/013/2010",
+  "description": "13. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2010-12-02T16:00:00Z",
+  "ended_at": "2010-12-02T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Festsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Fotoausstellung \"Frühe Hilfen bieten Perspektiven - Pro Kind in Sachsen\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen/Fragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Planungsbericht Inobhutnahme 2009",
+      "template_id": "V0756/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00045454.pdf"
+        },
+        {
+          "description": "a_Anlage",
+          "file_name": "00043997.pdf"
+        },
+        {
+          "description": "BK_V0756/10",
+          "file_name": "00122830.pdf"
+        },
+        {
+          "description": "b_Beschlussausfertigung V3960-JH70-04",
+          "file_name": "00042161.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Einwendungen gegen den Entwurf der Haushaltssatzung 2011/2012 gemäß § 76 SächsGemO",
+      "template_id": "V0822/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00048469.pdf",
+      "description": "Einladung_JH_2010_12_02"
+    },
+    {
+      "file_name": "00050177.pdf",
+      "description": "Beschlussausfertigung_A0301/10"
+    },
+    {
+      "file_name": "00050176.pdf",
+      "description": "Beschlussausfertigung_V0757/10"
+    },
+    {
+      "file_name": "00051150.pdf",
+      "description": "Niederschrift öffentlich_JH_2010_12_02"
+    },
+    {
+      "file_name": "00050199.pdf",
+      "description": "Anlage 1 zu A0301/10-Förderkonzept"
+    },
+    {
+      "file_name": "00050200.pdf",
+      "description": "Anlage 2 zu A0301/10-Schaubild Ortsämter"
+    },
+    {
+      "file_name": "00050202.pdf",
+      "description": "Anlage 3 zu A0301/10-Schaubild stadtweit"
+    },
+    {
+      "file_name": "00050204.pdf",
+      "description": "Anlage zu V0757/10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:18:42Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=718"
+}

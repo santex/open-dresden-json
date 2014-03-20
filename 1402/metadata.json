@@ -1,0 +1,100 @@
+{
+  "id": "OBR Bl/022/2011",
+  "description": "22. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2011-11-23T15:30:00Z",
+  "ended_at": "2011-11-23T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 20. Ortsbeiratssitzung am 19. Oktober 2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verkehrliche Folgen der Waldschlößchenbrücke bewältigen - Belastungen reduzieren",
+      "template_id": "A0458/11",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00074441.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0458/11",
+          "file_name": "00085842.pdf"
+        },
+        {
+          "description": "BK A0458/11 Zwischenbericht v. 2013-03-22",
+          "file_name": "00127884.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Einrichtung der 107. Mittelschule am Standort Hepkestraße 26, 01309 Dresden, zum 1. August 2012",
+      "template_id": "V1252/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1252/11",
+          "file_name": "00083970.pdf"
+        },
+        {
+          "description": "V1252/11",
+          "file_name": "00077037.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00076912.pdf"
+        },
+        {
+          "description": "Anlage 1 V1252/11",
+          "file_name": "00072527.pdf"
+        },
+        {
+          "description": "Anlage 2 V1252/11",
+          "file_name": "00072528.pdf"
+        },
+        {
+          "description": "Beschluss V1433-SR43-06",
+          "file_name": "00072529.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB V1252/11",
+          "file_name": "00074529.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen der Ortsamtsleiterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00079875.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00082702.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:15:27Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1402"
+}

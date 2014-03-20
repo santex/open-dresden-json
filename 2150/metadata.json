@@ -1,0 +1,111 @@
+{
+  "id": "OBR Pl/025/2012",
+  "description": "25. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2012-09-11T15:30:00Z",
+  "ended_at": "2012-09-11T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Plauen, Ratssaal,Nöthnitzer Straße 2, 01187 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Konzept zur Wohnungslosenhilfe der Landeshauptstadt Dresden - Fortschreibung",
+      "template_id": "V1672/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1672/12",
+          "file_name": "00113103.pdf"
+        },
+        {
+          "description": "BK V1672/12 Abschlussbericht v. 2012-11-20",
+          "file_name": "00117400.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00104307.pdf"
+        },
+        {
+          "description": "Anlage 1_Wohnungslosenkonzept",
+          "file_name": "00104356.pdf"
+        },
+        {
+          "description": "Beschluss V1974-SR61-07",
+          "file_name": "00097947.pdf"
+        },
+        {
+          "description": "Beschluss V0834/10",
+          "file_name": "00097943.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00100247.pdf"
+        },
+        {
+          "description": "V1672_12_Stellungnahme BMB",
+          "file_name": "00100112.pdf"
+        },
+        {
+          "description": "Änderungs-/Ergänzungsantrag DIE LINKE.",
+          "file_name": "00113166.pdf"
+        },
+        {
+          "description": "Änderungsantrag Fraktion Bündnis 90/Die Grünen",
+          "file_name": "00113165.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "ÖPNV-Angebot im Korridor Johannstadt - Zentrum - Plauen: Entwicklungsperspektiven aufzeigen - Buslinie 62 verbessern",
+      "template_id": "A0642/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00103469.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00112199.pdf"
+        },
+        {
+          "description": "BK A0642-12 Zw.-Bericht 18.02.2013",
+          "file_name": "00124277.pdf"
+        },
+        {
+          "description": "Fahrgastzahlen_Linien_2012",
+          "file_name": "00103467.jpg"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00108050.pdf",
+      "description": "Einladung_OBR Pl"
+    },
+    {
+      "file_name": "00109929.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:09:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2150"
+}

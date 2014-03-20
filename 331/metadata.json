@@ -1,0 +1,69 @@
+{
+  "id": "OBR Neu/008/2010",
+  "description": "8. Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2010-04-22T15:30:00Z",
+  "ended_at": "2010-04-22T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtarchiv DresdenElisabeth-Boer-Straße 1, 01099 Dresden(Gebiet der ehemal. Heeresbäckerei)",
+  "parts": [
+    {
+      "description": "Bautzner Straße stadtverträglich planen17:30 Uhr",
+      "template_id": "A0091/09",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00023747.pdf"
+        },
+        {
+          "description": "Varianten_Bautzner",
+          "file_name": "00015016.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Information zur Planfeststellung für das Verkehrsbauvorhaben der DVB \"Bautzner Straße zwischen Fischhaus- und Brockhausstraße\"19:30 Uhr",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 7. Ortsbeiratssitzung am 17.03.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00026663.pdf",
+      "description": "Einladung_OBR Neu"
+    },
+    {
+      "file_name": "00027296.pdf",
+      "description": "Nachtrag_OBR Neu"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:01:00Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=331"
+}

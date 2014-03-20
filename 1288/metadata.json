@@ -1,0 +1,104 @@
+{
+  "id": "OBR Pro/016/2011",
+  "description": "16. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2011-06-20T15:00:00Z",
+  "ended_at": "2011-06-20T16:45:00Z",
+  "location": "im Ortsamt Prohlis, Prohliser Allee 10, 01239 Dresden, Bürgersaal",
+  "parts": [
+    {
+      "description": "Feststellung der Beschlussfähigkeit und Abstimmung über die weitere Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 35.3, Dresden-Nickern Nr. 3, ehemaliges Kasernengeländehier:\t1. Aufstellungsbeschluss zur Änderung des Bebauungsplanes \t2. Grenzen des räumlichen Geltungsbereichs des Bebauungsplanes \t3. Durchführung eines vereinfachten Verfahrens",
+      "template_id": "V1110/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1110/11_SB",
+          "file_name": "00068911.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00065475.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00065311.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00065312.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Blatt 1 von 3",
+          "file_name": "00065313.pdf"
+        },
+        {
+          "description": "d) Anlage 3_Blatt 2 von 3",
+          "file_name": "00065314.pdf"
+        },
+        {
+          "description": "e) Anlage 3_Blatt 3 von 3",
+          "file_name": "00065315.pdf"
+        },
+        {
+          "description": "f) bereits gefasste Beschlüsse",
+          "file_name": "00065316.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beitritt der Landeshauptstadt Dresden zum \"Bündnis für eine soziale Stadt\"",
+      "template_id": "A0388/11",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00062318.pdf"
+        },
+        {
+          "description": "Anlage zu A0388-11",
+          "file_name": "00062183.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00066027.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00068562.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:52:23Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1288"
+}

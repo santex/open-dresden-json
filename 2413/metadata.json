@@ -1,0 +1,43 @@
+{
+  "id": "AV/068/2013",
+  "description": "68. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "committee": "Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "started_at": "2013-01-28T14:30:00Z",
+  "ended_at": "2013-01-28T16:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00120614.pdf",
+      "description": "Einladung_AV_2013_01_28"
+    },
+    {
+      "file_name": "00121899.pdf",
+      "description": "Beschlussempfehlung_V2010/12_AV"
+    },
+    {
+      "file_name": "00121900.pdf",
+      "description": "Beschlussempfehlung_V2011/12_AV"
+    },
+    {
+      "file_name": "00124194.pdf",
+      "description": "Niederschrift öffentlich_AV_2013_01_28"
+    },
+    {
+      "file_name": "00122637.pdf",
+      "description": "nö Beschlussausfertigung"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:30:27Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2413"
+}

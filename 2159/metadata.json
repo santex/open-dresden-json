@@ -1,0 +1,131 @@
+{
+  "id": "OBR Co/027/2012",
+  "description": "27. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2012-07-05T16:00:00Z",
+  "ended_at": "2012-07-05T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Cotta, kleiner Sitzungssaal, 1. Etage, Raum 103,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 573.2, Dresden-Dölzschen, Wohnpark Dölzschener Höhehier:1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan 2. Grenzen des vorhabenbezogenen Bebauungsplanes 3. Durchführung eines vereinfachten Verfahrens4. Entfallen des frühzeitigen Beteiligungsverfahrens 5. Billigung des Entwurfes zum vorhabenbezogenen Bebauungsplan 6. Billigung der Begründung zum vorhabenbezogenen Bebauungsplan-Entwurf 7. Durchführung des Beteiligungsverfahrens zum vorhabenbezogenen Bebauungsplan-Entwurf",
+      "template_id": "V1720/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00105417.pdf"
+        },
+        {
+          "description": "V1720/12 ohne Anlage 5",
+          "file_name": "00102326.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00102006.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Geltungsbereich",
+          "file_name": "00101080.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00101081.pdf"
+        },
+        {
+          "description": "BK V1720/12",
+          "file_name": "00119722.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Blatt 1",
+          "file_name": "00101082.pdf"
+        },
+        {
+          "description": "d) Anlage 3_Blatt 2",
+          "file_name": "00101083.pdf"
+        },
+        {
+          "description": "e) Anlage 3_Blatt 3",
+          "file_name": "00101084.pdf"
+        },
+        {
+          "description": "f) Anlage 4_Begründung",
+          "file_name": "00101085.pdf"
+        },
+        {
+          "description": "g) Anlage 4_Anlage 1 zur Begründung_Bilanzierung",
+          "file_name": "00101086.pdf"
+        },
+        {
+          "description": "h) Anlage 4_Anlage 2 zur Begründung_Flächenbilanz",
+          "file_name": "00101087.pdf"
+        },
+        {
+          "description": "j) bereits gefasste Beschlüsse_V1720_12",
+          "file_name": "00101089.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verkehrsbaumaßnahme Rudolf-Renner-Straße zwischen Emil-Ueberall-Straße und Bramschstraße",
+      "template_id": "V1637/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00105347.pdf"
+        },
+        {
+          "description": "V1637/12",
+          "file_name": "00101058.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00100418.pdf"
+        },
+        {
+          "description": "a) Anlage 1 - Übersichtsplan",
+          "file_name": "00095234.pdf"
+        },
+        {
+          "description": "b) Anlage 2 - Lageplan_neu",
+          "file_name": "00099824.pdf"
+        },
+        {
+          "description": "c) bereits gefasster Beschluss V 2163-51-2002",
+          "file_name": "00095236.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00102567.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00104633.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:00:19Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2159"
+}

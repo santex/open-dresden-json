@@ -1,0 +1,116 @@
+{
+  "id": "OSR CB/003/2009",
+  "description": "3. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2009-10-12T16:30:00Z",
+  "ended_at": "2009-10-12T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle CossebaudeDresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Landeshauptstadt Dresden aus dem Jahr 2003",
+      "template_id": "V0055/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00004632.pdf"
+        },
+        {
+          "description": "Anlage 1 S. 1-5",
+          "file_name": "00003108.pdf"
+        },
+        {
+          "description": "Anlage 1 S. 11-16",
+          "file_name": "00003110.pdf"
+        },
+        {
+          "description": "Anlage 1 S. 6-10",
+          "file_name": "00003109.pdf"
+        },
+        {
+          "description": "Anlage 2 - komplett",
+          "file_name": "00002830.pdf"
+        },
+        {
+          "description": "Anlage 3 - komplett",
+          "file_name": "00002831.pdf"
+        },
+        {
+          "description": "Anlage4",
+          "file_name": "00002763.pdf"
+        },
+        {
+          "description": "Anlage5 - komplett",
+          "file_name": "00002853.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzanträge",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel für DRK - Bereitschaft Cossebaude",
+      "template_id": "V-CB0009/09",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel für Kindergarten der Diakonie Stadtmission Dresden - Gohlis",
+      "template_id": "V-CB0017/09",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Termine der Sitzungen des Ortschaftsrates 2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00008688.pdf",
+      "description": "Einladung - OSR CB"
+    },
+    {
+      "file_name": "00010416.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:42:49Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=47"
+}

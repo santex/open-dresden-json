@@ -1,0 +1,75 @@
+{
+  "id": "OSR LB/035/2012",
+  "description": "35. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2012-03-20T15:33:00Z",
+  "ended_at": "2012-03-20T20:03:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltg.-stelle Langebrück, Beratungsraum,Weißiger Str. 5, 01465 Dresden OT Langebrück(öffentll. Sitzg. v. 17:30 Uhr - ca. 18:00 Uhr Workshop nichtöffentl. Sitzg. v.ca. 18:00 Uhr - ca. 20:00 Uhr nichtöffentl. Sitzg. ab ca. 20:00 Uhr)",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlage der Oberbürgermeisterin der LHS Dresden V 1517/12 v. 20.02.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00091753.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00092894.pdf",
+      "description": "Beschlussausfertigung_Erwerb_Flurstücke"
+    },
+    {
+      "file_name": "00092899.pdf",
+      "description": "Beschlussausfertigung_Spielplatz_Georg_Kühne_Straße"
+    },
+    {
+      "file_name": "00096376.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:32:32Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2188"
+}

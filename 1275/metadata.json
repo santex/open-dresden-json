@@ -1,0 +1,49 @@
+{
+  "id": "OBR Kl/015/2011",
+  "description": "15. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2011-03-14T17:00:00Z",
+  "ended_at": "2011-03-14T18:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Informationen zum Standortwechsel der Stadtteilbibliothek Klotzsche",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung des Konzeptes zum Bau fehlender und zur Sanierung von stark instandsetzungsbedürftigen Fußwegen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anfragen und Anregungen aus dem Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00056591.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00058254.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:28:26Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1275"
+}

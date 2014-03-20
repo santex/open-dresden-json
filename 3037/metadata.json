@@ -1,0 +1,174 @@
+{
+  "id": "SR/049/2013",
+  "description": "49. Sitzung des Stadtrates (Sondersitzung)",
+  "committee": "Stadtrat",
+  "started_at": "2013-01-10T14:00:00Z",
+  "ended_at": "2013-01-10T19:35:00Z",
+  "location": "in der Messe Dresden, Saal Hamburg,Messering 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Besetzung des zeitweiligen Ausschusses für die Dresdner \"Erinnerungskultur\"",
+      "template_id": "V2027/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2027/12",
+          "file_name": "00120577.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00116998.pdf"
+        },
+        {
+          "description": "Anlage 1",
+          "file_name": "00117002.pdf"
+        },
+        {
+          "description": "Anlage 2",
+          "file_name": "00117003.pdf"
+        }
+      ],
+      "decision": "gewählt",
+      "vote_result": null
+    },
+    {
+      "description": "Betreiberkonzeption für den Kulturpalast sowie Schloss Albrechtsberg und MESSE DRESDEN",
+      "template_id": "A0637/12",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00103370.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0637/12",
+          "file_name": "00121620.pdf"
+        },
+        {
+          "description": "BK A0637/12 Abschlussbericht v. 2013-06-04",
+          "file_name": "00135117.pdf"
+        },
+        {
+          "description": "Änderungsantrag BürgerBündnis / Freie Bürger",
+          "file_name": "00116565.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Einführung einer tourismusbezogenen Abgabe in Dresden",
+      "template_id": "V1814/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1814/12",
+          "file_name": "00120266.pdf"
+        },
+        {
+          "description": "BK V1814-12 Zwischenbericht v. 2013-06-18",
+          "file_name": "00137043.pdf"
+        },
+        {
+          "description": "V1814/12",
+          "file_name": "00110468.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00109436.pdf"
+        },
+        {
+          "description": "Anlage Einführung einer tourismusbezogenen Abgabe in Dresden",
+          "file_name": "00106246.pdf"
+        },
+        {
+          "description": "A0161 (SR-028-2011)",
+          "file_name": "00106248.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag DIE LINKE.",
+          "file_name": "00120189.pdf"
+        },
+        {
+          "description": "Änderungsantrag BürgerBündis / Freie Bürger",
+          "file_name": "00120188.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 44",
+        "contra": " 11",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Haushaltssatzung 2013/2014",
+      "template_id": "V1898/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1898/12",
+          "file_name": "00120306.pdf"
+        },
+        {
+          "description": "BK V1898/12 Abschlussbericht v. 2013-02-08",
+          "file_name": "00123358.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00110668.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag Herr Krien",
+          "file_name": "00120193.pdf"
+        },
+        {
+          "description": "Änderungsantrag Bündnis 90/Die Grünen",
+          "file_name": "00120191.pdf"
+        },
+        {
+          "description": "Änderungsantrag BürgerBündnis / Freie Bürger",
+          "file_name": "00120192.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Erste Information über die Umsetzung des Beschlusses zur Schulnetzplanung 2012, besonders über Mehrbedarfe an Schulkapazitäten aufgrund der Streichung des Begriffes „Funktionalprogramm\"",
+      "template_id": "V1977/12",
+      "documents": [
+        {
+          "description": "V1977/12",
+          "file_name": "00118990.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00118238.pdf"
+        },
+        {
+          "description": "Anlage 1 V1977/12",
+          "file_name": "00114081.pdf"
+        },
+        {
+          "description": "Anlage 2 - 5 V1977/12",
+          "file_name": "00114082.pdf"
+        },
+        {
+          "description": "Beschlüsse",
+          "file_name": "00114080.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00118822.pdf",
+      "description": "Einladung_SR"
+    },
+    {
+      "file_name": "00123891.pdf",
+      "description": "Niederschrift öffentlich_SR_2013_01_10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:27:38Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3037"
+}

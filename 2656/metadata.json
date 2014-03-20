@@ -1,0 +1,135 @@
+{
+  "id": "OBR Alt/034/2012",
+  "description": "34. Sitzung des Ortsbeirates Altstadt (Sondersitzung)",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2012-06-21T15:30:00Z",
+  "ended_at": "2012-06-21T18:25:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Altstadt, 1. Etage, Raum 100,Theaterstraße 11, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Vorplanung Straßenbahnverbindung Tiergartenstraße - Oskarstraße",
+      "template_id": "V1541/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1541/12",
+          "file_name": "00105204.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098821.pdf"
+        },
+        {
+          "description": "a) Anlage 1 - Übersichtsplan",
+          "file_name": "00090211.pdf"
+        },
+        {
+          "description": "b) Anlage 2 Blatt 1",
+          "file_name": "00090212.pdf"
+        },
+        {
+          "description": "c) Anlage 2 Blatt 2",
+          "file_name": "00090213.pdf"
+        },
+        {
+          "description": "d) Anlage 2 Blatt 3",
+          "file_name": "00090214.pdf"
+        },
+        {
+          "description": "e) Anlage 3 Blatt 1",
+          "file_name": "00090215.pdf"
+        },
+        {
+          "description": "f) Anlage 3 Blatt 2",
+          "file_name": "00090216.pdf"
+        },
+        {
+          "description": "g) Anlage 3 Blatt 3",
+          "file_name": "00090217.pdf"
+        },
+        {
+          "description": "h) Anlage 4 - Variantenvergleich mit Änderungen Stand 17.04.2012",
+          "file_name": "00096275.pdf"
+        },
+        {
+          "description": "i) Beschluss Prioritätenliste Strab",
+          "file_name": "00090220.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00091075.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bankkonzept für die Innenstadt Dresden",
+      "template_id": "V1532/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1532/12",
+          "file_name": "00114446.pdf"
+        },
+        {
+          "description": "BK_zu_V1532_12_Stand_06_13",
+          "file_name": "00137372.pdf"
+        },
+        {
+          "description": "V1532/12",
+          "file_name": "00101062.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00100479.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00090613.pdf"
+        },
+        {
+          "description": "Stellungnahme FB",
+          "file_name": "00089606.pdf"
+        },
+        {
+          "description": "Bankkonzept TextTeil",
+          "file_name": "00101446.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00101048.pdf",
+      "description": "Einladung_OBR Alt"
+    },
+    {
+      "file_name": "00101614.pdf",
+      "description": "Nachtrag_OBR Alt_21.06.12"
+    },
+    {
+      "file_name": "00105604.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:57:53Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2656"
+}

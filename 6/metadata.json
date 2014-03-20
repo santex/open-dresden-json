@@ -1,0 +1,158 @@
+{
+  "id": "OBR Neu/003/2009",
+  "description": "3. Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2009-11-03T15:30:00Z",
+  "ended_at": "2009-11-03T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Neustadt, BürgersaalHoyerswerdaer Straße 3, 01099 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen / Vorstellungen der Fachämter",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlagen zur Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 357, Dresden-Neustadt Nr. 33, Leipziger Vorstadthier:\t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplans",
+      "template_id": "V0222/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00011067.pdf"
+        },
+        {
+          "description": "Anlage 1_Geltungsbereich",
+          "file_name": "00009048.pdf"
+        },
+        {
+          "description": "Anlage 2_Übersichtsplan",
+          "file_name": "00009049.pdf"
+        },
+        {
+          "description": "Anlage 3_Geltungsbereich",
+          "file_name": "00009050.pdf"
+        },
+        {
+          "description": "Aufstellungsbeschluss 2439-79-94 B_94",
+          "file_name": "00009051.pdf"
+        },
+        {
+          "description": "Beschluss 2810-70-98_R736",
+          "file_name": "00009052.pdf"
+        },
+        {
+          "description": "Beschluss 3870-SB-1999 B_206",
+          "file_name": "00009053.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhaben- und Erschließungsplan Nr.556, Dresden-Neustadt, Büro- und Geschäftszentrum Leipziger Vorstadthier: Aufhebung der nicht rechtskräftigen Satzung und aller dazugehörigen Beschlüsse zum Vorhaben- und Erschließungsplan Nr. 556",
+      "template_id": "V0221/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00011038.pdf"
+        },
+        {
+          "description": "Anlage1_Geltungsbereich",
+          "file_name": "00009015.pdf"
+        },
+        {
+          "description": "Anlage3",
+          "file_name": "00009017.pdf"
+        },
+        {
+          "description": "Anlage4",
+          "file_name": "00009022.pdf"
+        },
+        {
+          "description": "Anlage2_Übersichtsplan",
+          "file_name": "00009016.pdf"
+        },
+        {
+          "description": "Anlage3_Rechtsplan_klein",
+          "file_name": "00009018.pdf"
+        },
+        {
+          "description": "Anlage3_Trassenplan_klein",
+          "file_name": "00009020.pdf"
+        },
+        {
+          "description": "Anlage3_Verkehrsplan",
+          "file_name": "00009021.pdf"
+        },
+        {
+          "description": "Anlage3_zu Rechtsplan",
+          "file_name": "00009019.pdf"
+        },
+        {
+          "description": "Anlage4_Begründung",
+          "file_name": "00009023.pdf"
+        },
+        {
+          "description": "Aufstellungsbeschluss 10-150_93 V+E_556",
+          "file_name": "00009024.pdf"
+        },
+        {
+          "description": "Beschluss A 498-68-97 VE 556",
+          "file_name": "00009025.pdf"
+        },
+        {
+          "description": "Satzungsbeschluss 2931-85-94 V+E_556",
+          "file_name": "00009026.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00010690.pdf",
+      "description": "Einladung _OBR Neu_03.11.2009"
+    },
+    {
+      "file_name": "00011308.pdf",
+      "description": "Nachtrag_OBR Neu_03.11.2009"
+    },
+    {
+      "file_name": "00014047.pdf",
+      "description": "Niederschrift öffentlich_OBR Neu_03.11.2009"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:44:52Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=6"
+}

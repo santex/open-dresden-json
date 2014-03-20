@@ -1,0 +1,118 @@
+{
+  "id": "OSR GP/026/2011",
+  "description": "26. Sitzung des Ortschaftsrates Gompitz",
+  "committee": "Ortschaftsrat Gompitz",
+  "started_at": "2011-08-29T17:30:00Z",
+  "ended_at": "2011-08-29T20:25:00Z",
+  "location": "Landeshauptstadt Dresden,  im Gemeindezentrum Gompitz, Gemeindesaal,Altnossener Straße 46 a, 01156 Dresden, OT Pennrich",
+  "parts": [
+    {
+      "description": "Feststellung ordnungsgemäße Ladung/ Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Information zur Umgestaltung der Außenanlage Grundschule Gompitz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zum Antrag auf finanzielle Unterstützung für die 650-Jahrfeier des Ortsteiles Steinbach am 03.09.2011",
+      "template_id": "V-GP0105/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschluss zur Bereitstellung finanzieller Mittel für die Jugendfeuerwehr Gompitz",
+      "template_id": "V-GP0107/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Antrag zur Aufstellung eines Altkleidercontainers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Reiten im Zschonergrund",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Kapazität Grundschule Gompitz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00071736.pdf",
+      "description": "Einladung_OSR GP"
+    },
+    {
+      "file_name": "00072725.pdf",
+      "description": "Beschlussausfertigung_V-GP0104/11"
+    },
+    {
+      "file_name": "00072728.pdf",
+      "description": "Beschlussausfertigung_V-GP0105/11"
+    },
+    {
+      "file_name": "00072733.pdf",
+      "description": "Beschlussausfertigung_V-GP0106/11"
+    },
+    {
+      "file_name": "00072736.pdf",
+      "description": "Beschlussausfertigung_V-GP0107/11"
+    },
+    {
+      "file_name": "00072740.pdf",
+      "description": "Beschlussausfertigung_V-GP0109/11"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:04:46Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1020"
+}

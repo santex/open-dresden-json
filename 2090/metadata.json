@@ -1,0 +1,113 @@
+{
+  "id": "OBR Lo/026/2012",
+  "description": "26. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2012-07-11T15:00:00Z",
+  "ended_at": "2012-07-11T16:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum, 2. Etage,Grundstraße 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 25. Ortsbeiratssitzung am 20.06.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 6009, Dresden-Weißer Hirsch, Lahmann-Sanatoriumhier:1. Billigung des Entwurfs zum vorhabenbezogenen Bebauungsplan 2. Billigung der Begründung zum vorhabenbezogenen Bebauungsplan-Entwurf 3. Durchführung desBeteiligungsverfahrens zum vorhabenbezogenen Bebauungsplan-Entwurf",
+      "template_id": "V1725/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00105343.pdf"
+        },
+        {
+          "description": "V1725/12",
+          "file_name": "00102325.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00102012.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Rechtsplan Blatt 1",
+          "file_name": "00100755.pdf"
+        },
+        {
+          "description": "b) Anlage 1_Rechtsplan Blatt 2",
+          "file_name": "00100756.pdf"
+        },
+        {
+          "description": "BK V1725/12",
+          "file_name": "00119031.pdf"
+        },
+        {
+          "description": "c) Anlage 1_Gestaltungsplan Blatt 3",
+          "file_name": "00100757.pdf"
+        },
+        {
+          "description": "d) Anlage 1_Gestaltungsplan-EFH Blatt 4",
+          "file_name": "00100758.pdf"
+        },
+        {
+          "description": "e) Anlage 1_Gestaltungsplan-EFH Blatt 5",
+          "file_name": "00100759.pdf"
+        },
+        {
+          "description": "f) Anlage 1_Erschließungsplan Blatt 6",
+          "file_name": "00100760.pdf"
+        },
+        {
+          "description": "g) Anlage 2_Begründung + Anlagen",
+          "file_name": "00100761.pdf"
+        },
+        {
+          "description": "h) Beschlussausfertigung Aufstellung-Offenlage B170",
+          "file_name": "00100762.pdf"
+        },
+        {
+          "description": "i) Beschlussausfertigung Aufstellung VB 6009",
+          "file_name": "00100763.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen der Ortsamtsleiterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgeranfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00103606.pdf",
+      "description": "Einladung_OBR Lo"
+    },
+    {
+      "file_name": "00109968.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:01:14Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2090"
+}

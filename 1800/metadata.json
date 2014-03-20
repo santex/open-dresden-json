@@ -1,0 +1,66 @@
+{
+  "id": "FL/058/2012",
+  "description": "58. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2012-05-14T14:00:00Z",
+  "ended_at": "2012-05-14T15:45:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Veräußerung des Grundstückes Wiener Straße 41",
+      "template_id": "V1463/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1463/12",
+          "file_name": "00098386.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00095850.pdf"
+        },
+        {
+          "description": "Anlage zur V1463 12 Lageplan",
+          "file_name": "00094748.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB_V1463_12",
+          "file_name": "00086106.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 5",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Reserven aufdecken - Haushaltsausgabereste prüfen",
+      "template_id": "A0566/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00089750.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0566/12",
+          "file_name": "00101208.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00097000.pdf",
+      "description": "Einladung_FL_2012_05_14"
+    },
+    {
+      "file_name": "00098719.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:46:11Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1800"
+}

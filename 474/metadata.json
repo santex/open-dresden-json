@@ -1,0 +1,83 @@
+{
+  "id": "OSR AF/012/2010",
+  "description": "12. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2010-08-09T17:00:00Z",
+  "ended_at": "2010-08-09T18:45:00Z",
+  "location": "im Ortschaftszentrum Altfranken, Sitzungssaal, Otto-Harzer-Str. 2 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 172.8, Dresden-Altfranken Nr. 2, Gewerbegebiet Kesselsdorfer Straßehier: 1. Aufstellungsbeschluss zur 8. Änderung 2. Grenze des Bebauungsplanes 3. Billigung des Entwurfes zum Bebauungsplan 4. Billigung der Begründung zum Bebauungsplan-Entwurf5. Durchführung des Beteiligungsverfahrens zum Bebauungsplan-Entwurf",
+      "template_id": "V0675/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00036409.pdf"
+        },
+        {
+          "description": "a)_b172.8 anlage 1a_§13a",
+          "file_name": "00036227.pdf"
+        },
+        {
+          "description": "b)_b172-8_anlage 2_rechtsplan",
+          "file_name": "00036228.pdf"
+        },
+        {
+          "description": "c)_b172-8_anlage 3_begründung",
+          "file_name": "00036229.pdf"
+        },
+        {
+          "description": "d)_b172-8_gestaltplan_anlage zur begründung",
+          "file_name": "00036230.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Wahlvorschlag für die Besetzung der Schiedsstelle Cotta-Bereich Gorbitz (einschließlich Altfranken) mit einer Friedensrichterin",
+      "template_id": "V-AF0016/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Drohender Grundschulnotstand in Dresden",
+      "template_id": "A0191/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00031142.pdf"
+        },
+        {
+          "description": "Anlage zum Antrag A0191/10 - Grundschulen",
+          "file_name": "00031225.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00037431.pdf",
+      "description": "Einladung_OSR AF"
+    },
+    {
+      "file_name": "00037709.pdf",
+      "description": "Beschlussausfertigung_V-AF0016/10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:07:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=474"
+}

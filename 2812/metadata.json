@@ -1,0 +1,49 @@
+{
+  "id": "OBR Kl/036/2013",
+  "description": "36. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2013-04-15T17:00:00Z",
+  "ended_at": "2013-04-15T18:10:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beratung über Ladenöffnungszeiten an Sonntagen im Jahr 2014 aus besonderen regionalen Anlässen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anfragen und Anregungen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00127665.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00129029.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:46:35Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2812"
+}

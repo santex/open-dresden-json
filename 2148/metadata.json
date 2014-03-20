@@ -1,0 +1,127 @@
+{
+  "id": "OBR Pl/023/2012",
+  "description": "23. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2012-06-19T15:30:00Z",
+  "ended_at": "2012-06-19T16:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Plauen, Ratssaal,Nöthnitzer Straße 2, 01187 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 6005, Dresden-Räcknitz, Fraunhofer IVI - Testovalhier:\t1. Abwägungsbeschluss 2. Satzungsbeschluss sowie Billigung der Begründung und der zusammen- fassenden Erklärung nach § 10 Abs. 4 BauGB zum vorhabenbezogenen Bebauungsplan",
+      "template_id": "V1695/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1695/12",
+          "file_name": "00104955.pdf"
+        },
+        {
+          "description": "V1695/12 ö",
+          "file_name": "00100695.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00100233.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Abwägung",
+          "file_name": "00099658.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Plan 1_Rechtsplan_A3",
+          "file_name": "00099662.pdf"
+        },
+        {
+          "description": "e) Anlage 2_Plan 2_Text_A3",
+          "file_name": "00099663.pdf"
+        },
+        {
+          "description": "f) Anlage 2_Plan 3_Erschließungsplan_A3",
+          "file_name": "00099665.pdf"
+        },
+        {
+          "description": "g) Anlage 2_Plan 4_Gestaltungsplan_A3",
+          "file_name": "00099666.pdf"
+        },
+        {
+          "description": "h) Anlage 2_Plan 5_Schnitte_A3",
+          "file_name": "00099669.pdf"
+        },
+        {
+          "description": "i) Anlage 3_Begründung+Anlagen",
+          "file_name": "00099671.pdf"
+        },
+        {
+          "description": "l) bereits gef. Beschlüsse",
+          "file_name": "00099812.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verkehrsentwicklungsplan 2025plus - Szenario für die weitere Bearbeitung",
+      "template_id": "V1630/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00109499.pdf"
+        },
+        {
+          "description": "V1630/12",
+          "file_name": "00098766.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098520.pdf"
+        },
+        {
+          "description": "a) Anlage 1_NEU",
+          "file_name": "00097741.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Runder Tisch",
+          "file_name": "00094805.pdf"
+        },
+        {
+          "description": "c) bereits gefasster Beschluss",
+          "file_name": "00094788.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00096202.pdf"
+        },
+        {
+          "description": "BK V1630/12",
+          "file_name": "00122053.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00100647.pdf",
+      "description": "Einladung_OBR Pl"
+    },
+    {
+      "file_name": "00102399.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:54:53Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2148"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "OSR AF/004/2009",
+  "description": "4. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2009-11-09T17:00:00Z",
+  "ended_at": "2009-11-09T18:45:00Z",
+  "location": null,
+  "parts": [
+    {
+      "description": "Vorentwurf Flächennutzungsplan der LH Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Neufassung \"Satzung Sondernutzung Grünanlagen\" unter dem Gesichtspunkt § 67 SächsGemO",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Spielplatzerneuerung Haufes Berg",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Haltestellenbedienung der Buslinien 70 und 90 im Bereich Altfranken",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00013125.pdf",
+      "description": "Einladung - OSR AF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:45:21Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=55"
+}

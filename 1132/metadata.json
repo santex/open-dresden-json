@@ -1,0 +1,42 @@
+{
+  "id": "FL/042/2011",
+  "description": "42. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2011-06-14T14:00:00Z",
+  "ended_at": "2011-06-14T16:35:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Öffentliche Würdigung der Dresdner Partnerstädte",
+      "template_id": "A0392/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0392/11",
+          "file_name": "00066787.pdf"
+        },
+        {
+          "description": "Antrag BürgerBündnis / Freie Bürger Fraktion",
+          "file_name": "00062329.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00065481.pdf",
+      "description": "Einladung_FL"
+    },
+    {
+      "file_name": "00067069.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:51:43Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1132"
+}

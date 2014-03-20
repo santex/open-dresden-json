@@ -1,0 +1,85 @@
+{
+  "id": "OBR Kl/006/2010",
+  "description": "6. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2010-03-08T17:00:00Z",
+  "ended_at": "2010-03-08T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 126.1, Dresden-Klotzsche Nr. 3, Königsbrücker Straße/Osthier:\t1. Aufstellungsbeschluss zur Änderung des Beabuungsplans\t2. Entfallen des frühzeitigen Beteiligungsverfahrens \t3. Billigung des Entwurfs zum Bebauungsplan \t4. Billigung der Begründung zum Bebauungsplan-Entwurf\t5. Öffentliche Auslegung und Beteiligung der Träger öffentlicher Belange zu Entwurf\tdes Bebauungsplans",
+      "template_id": "V0454/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00022345.pdf"
+        },
+        {
+          "description": "a)Anlage 1_Satzungstext_V0454",
+          "file_name": "00022194.pdf"
+        },
+        {
+          "description": "b)Plan zur Anlage 1_Rechtsplan_V0454",
+          "file_name": "00022195.pdf"
+        },
+        {
+          "description": "c)Anlage 2_Begründung zum B-Plan_V0454",
+          "file_name": "00022196.pdf"
+        },
+        {
+          "description": "d)Anlage 3, Gegenüberstellung_V0454",
+          "file_name": "00022197.pdf"
+        },
+        {
+          "description": "e)bereits gefasster Beschluss_V0454",
+          "file_name": "00022198.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anfragen und Anregungen aus dem Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00022555.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00024080.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:54:19Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=419"
+}

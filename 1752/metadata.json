@@ -1,0 +1,76 @@
+{
+  "id": "JHA/035/2012",
+  "description": "35. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2012-09-13T16:00:00Z",
+  "ended_at": "2012-09-13T17:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Haus An der Kreuzkirche 6, Rudolf-Mauersberger-Saal,An der Kreuzkirche 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 28. Juni 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Auswertung der Hortkinderbefragung BE: EB Kindertageseinrichtungen und Projektschmiede",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Der 1. Dresdner Bildungsbericht 2012. Eine Bestandsaufnahme zum Lebenslangen Lernen in der Landeshauptstadt Dresden.",
+      "template_id": "V1718/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1718/12",
+          "file_name": "00116469.pdf"
+        },
+        {
+          "description": "BK V1718/12 Zwischenbericht v. 2013-03-19",
+          "file_name": "00127291.pdf"
+        },
+        {
+          "description": "V1718/12",
+          "file_name": "00106911.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00111288.pdf"
+        },
+        {
+          "description": "Anlage 1",
+          "file_name": "00104312.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB",
+          "file_name": "00102483.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00107867.pdf",
+      "description": "Einladung_JH_2012_09_13"
+    },
+    {
+      "file_name": "00111492.pdf",
+      "description": "Niederschrift öffentlich_JH_2012_09_13"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:11:14Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1752"
+}

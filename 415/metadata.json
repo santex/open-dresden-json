@@ -1,0 +1,89 @@
+{
+  "id": "OBR Pi/012/2010",
+  "description": "12. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2010-11-30T16:00:00Z",
+  "ended_at": "2010-11-30T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 696, Dresden-Mickten, Lommatzscher Straße - Sconto Möbelmarkthier:\t1. Billigung des Entwurfs zum vorhabenbezogenen Bebauungsplan \t2. Billigung der Begründung zum vorhabenbezogenen Bebauungsplan-Entwurf \t3. Öffentliche Auslegung des Entwurfs zum vorhabenbezogenen Bebauungsplan",
+      "template_id": "V0848/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Weiterführung des Elbradweges von der Böcklinstraße bis Altkaditz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Optimierung der Struktur und der Dienstleistungsqualität des Bürgerservice in der Landeshauptstadt Dresden",
+      "template_id": "V0763/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0763/10",
+          "file_name": "00061082.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00048114.pdf"
+        },
+        {
+          "description": "Begründung zur BV",
+          "file_name": "00048107.pdf"
+        },
+        {
+          "description": "Stellungnahme Vorlage Bürgerservice",
+          "file_name": "00042875.pdf"
+        },
+        {
+          "description": "Anlage zur BV",
+          "file_name": "00048106.pdf"
+        },
+        {
+          "description": "Beschlussfertigung A0491 und Pkt.2 V0178-1_09",
+          "file_name": "00045305.pdf"
+        },
+        {
+          "description": "V0763/10",
+          "file_name": "00048695.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00048532.pdf",
+      "description": "Einladung_OBR Pi"
+    },
+    {
+      "file_name": "00049469.pdf",
+      "description": "Nachtrag_OBR Pi"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:18:22Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=415"
+}

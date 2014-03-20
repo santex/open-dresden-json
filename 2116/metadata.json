@@ -1,0 +1,53 @@
+{
+  "id": "OSR WX/039/2012",
+  "description": "39. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2012-12-18T17:00:00Z",
+  "ended_at": "2012-12-18T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Information zum Entwurf des Landesentwicklungsplanes",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anfragen und Anregungen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00118294.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00119380.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00119398.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:25:39Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2116"
+}

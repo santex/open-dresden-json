@@ -1,0 +1,90 @@
+{
+  "id": "OSR GP/037/2012",
+  "description": "37. Sitzung des Ortschaftsrates Gompitz",
+  "committee": "Ortschaftsrat Gompitz",
+  "started_at": "2012-07-09T17:30:00Z",
+  "ended_at": "2012-07-09T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Kirche Unkersdorf,Am Schreiberbach, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Feststellung ordnungsgemäße Ladung/ Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zum Antrag der Kirchgemeinde Dresden-Briesnitz auf finanzielle Zuwendung für die Anschaffung eines elektrischen Pianos",
+      "template_id": "V-GP0150/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur Bereitstellung von Finanzmitteln für Investitionen auf dem Sport- und Freizeitplatz in Pennrich",
+      "template_id": "V-GP0152/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur Bereitstellung von Finanzmitteln für Investitionen auf den Spielplätzen Zum Schmiedeberg und Neuer Meßweg - hier: Spielplatz Neuer Meßweg",
+      "template_id": "V-GP0153/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ordnung und Sicherheit auf der Ockerwitzer Allee",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zum Antrag der Ortsgruppe Gompitz des Landesvereins Sächsischer Heimatschutz e. V. auf finanzielle Unterstützung für Briefmarken und Fotoarbeiten",
+      "template_id": "V-GP0155/12",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Zweite Anhörung zum Entwurf der Verordnung zur Festsetzung des Landschaftsschutzgebietes Zschonergrund",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00103358.pdf",
+      "description": "Einladung_OSR GP"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:00:48Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2181"
+}

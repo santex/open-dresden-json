@@ -1,0 +1,130 @@
+{
+  "id": "OSR CB/019/2011",
+  "description": "19. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2011-05-09T16:30:00Z",
+  "ended_at": "2011-05-09T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ergänzungssatzung Nr. 437,Dresden-Cossebaude Nr. 2, Eichbergstraßehier: \t1. Aufstellungsbeschluss der Ergänzungssatzung\t2. Grenzen der Ergänzungssatzung",
+      "template_id": "V0984/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0984/11_SB",
+          "file_name": "00064208.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00058595.pdf"
+        },
+        {
+          "description": "a) Anlage 1-Geltungsbereich_V0984",
+          "file_name": "00057999.pdf"
+        },
+        {
+          "description": "b) Anlage 2-Übersichtsplan_V0984",
+          "file_name": "00058000.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzzuschüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzzuschuss für Mittelschule Cossebaude",
+      "template_id": "A-CB0030/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzzuschuss Ersatzpflanzungen Spielplatz und Dorfplatz in Gohlis",
+      "template_id": "A-CB0032/11",
+      "documents": [
+
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Prioritätenliste zum Gehwegprogramm 2011 - 2015",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Stellungnahme zum Verkauf des Flurstückes 1114/3 der Gemarkung Cossebaude",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aussprache zur Finanzplanung 2011/2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00061654.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00063385.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:43:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1297"
+}

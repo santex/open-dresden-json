@@ -1,0 +1,119 @@
+{
+  "id": "OSR LB/039/2012",
+  "description": "39. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2012-06-19T16:32:00Z",
+  "ended_at": "2012-06-19T20:07:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Abrechnung Sanierungsgebiet Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlage V1171/11 Entscheidung über Widmung, Einziehung sowie Veränderungen an gewidmeten Grünanlagen gemäß § 2 der Satzung über Erlaubnisse u. Gebühren für Sondernutzungen d. öffentlichen Grünanlagen d. Landeshauptstadt Dresden (Sondernutzung Grünanlagen)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "Überarbeitung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verkehrsentwicklungsplan 2025plus - Szenario für die weitere Bearbeitung",
+      "template_id": "V1630/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00109499.pdf"
+        },
+        {
+          "description": "V1630/12",
+          "file_name": "00098766.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098520.pdf"
+        },
+        {
+          "description": "a) Anlage 1_NEU",
+          "file_name": "00097741.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Runder Tisch",
+          "file_name": "00094805.pdf"
+        },
+        {
+          "description": "c) bereits gefasster Beschluss",
+          "file_name": "00094788.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00096202.pdf"
+        },
+        {
+          "description": "BK V1630/12",
+          "file_name": "00122053.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Termine",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00101419.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00102390.pdf",
+      "description": "Beschlussempfehlung Vorlage_Bildung und Teilhabe"
+    },
+    {
+      "file_name": "00102374.pdf",
+      "description": "Beschlussempfehlung Vorlage_Sondernutzung_Grünanlagen"
+    },
+    {
+      "file_name": "00105211.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:55:01Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2191"
+}

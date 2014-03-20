@@ -1,0 +1,77 @@
+{
+  "id": "OBR Leu/023/2012",
+  "description": "23. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2012-05-30T17:00:00Z",
+  "ended_at": "2012-05-30T20:17:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, Bürgersaal,Hertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift zur 22. Ortsbeiratssitzung am 25. April 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Erstellung eines stadträumlichen Konzepts zur Aufwertung des Bereiches ab der Fähranlegerstelle bis zum Kurhaus Kleinzschachwitz",
+      "template_id": "A0583/12",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00092645.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0583/12_SB",
+          "file_name": "00100626.pdf"
+        },
+        {
+          "description": "Antwort Widerspruch BK A0583-12",
+          "file_name": "00133852.pdf"
+        },
+        {
+          "description": "BK A0583-12 Zw.-Bericht v. 13.06.13",
+          "file_name": "00136772.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Information über den Vorentwurf zum Hochwasserschutz von Dresden-Laubegast am alten Elbarm",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Geschehen im Ortsamtsgebiet/ Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00098498.pdf",
+      "description": "Einladung_OBR Leu_2012_05_30"
+    },
+    {
+      "file_name": "00100326.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:49:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2007"
+}

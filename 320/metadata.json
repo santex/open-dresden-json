@@ -1,0 +1,97 @@
+{
+  "id": "OBR Alt/007/2010",
+  "description": "7. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2010-03-15T14:00:00Z",
+  "ended_at": "2010-03-15T17:30:00Z",
+  "location": "in der Aula der Sächsischen Bildungsgesellschaft für Umweltschutz und Chemieberufe Dresden mbH,Gutenbergstraße 6, 01307 Dresden",
+  "parts": [
+    {
+      "description": "Führung durch die Sächsische Bildungsgesellschaft für Umweltschutz und Chemieberufe Dresden mbHZuständig: Herr Hübel, Geschäftsführer",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sanierung und Instandsetzung der Albertbrücke einschließlich der Umgestaltung und des grundhaften Ausbaus des Rosa-Luxemburg-Platzes und des Sachsenplatzes",
+      "template_id": "V0395/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00023278.pdf"
+        },
+        {
+          "description": "BK V0395/10 Zwischenbericht v. 2012-12-18",
+          "file_name": "00120551.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Finanzierung_V0395_neu",
+          "file_name": "00022600.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Ingenieurbauwerke_V0395_neu",
+          "file_name": "00022601.pdf"
+        },
+        {
+          "description": "c) Anlage 3_V0395_neu",
+          "file_name": "00022602.pdf"
+        },
+        {
+          "description": "d) Anlage 4_V0395_neu",
+          "file_name": "00022603.pdf"
+        },
+        {
+          "description": "e) Anlage 5_V0395_neu",
+          "file_name": "00022604.pdf"
+        },
+        {
+          "description": "f) Beschlussausf. V2210-SR65-08_V0395",
+          "file_name": "00017724.pdf"
+        },
+        {
+          "description": "Stellungnahme GLB zu V0395",
+          "file_name": "00019502.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 5. Ortsbeiratssitzung am 21.01.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00023694.pdf",
+      "description": "Einladung_OBR Alt_15.03.2010"
+    },
+    {
+      "file_name": "00025989.pdf",
+      "description": "Niederschrift öffentlich_OBR Alt_15.03.2010"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:55:12Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=320"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "OSR OW/046/2013",
+  "description": "46. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2013-07-22T16:30:00Z",
+  "ended_at": null,
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Entwurf zum Flächennutzungsplan der Landeshauptstadt Dresden in den Stadtgrenzen vom 1. Januar 1999hier:\t1. Billigung der Abwägung über die Stellungnahmen aus der frühzeitigen Beteiligung 2. Billigung des Entwurfes des Flächennutzungsplanes 3. Billigung der Begründung mit Umweltbericht zum Entwurf des Flächennutzungsplanes4. Öffentliche Auslegung des Entwurfes des Flächennutzungsplanes",
+      "template_id": "V1829/12",
+      "documents": [
+        {
+          "description": "V1829/12 ö",
+          "file_name": "00133482.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00132554.pdf"
+        },
+        {
+          "description": "b) bereits gefasste Beschlüsse_V1829",
+          "file_name": "00106470.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00109725.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zu weiteren Kanalbaumaßnahmen in der Ortschaft 2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00137871.pdf",
+      "description": "Einladung_OSR OW"
+    }
+  ],
+  "downloaded_at": "2013-07-15T04:03:05Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2867"
+}

@@ -1,0 +1,99 @@
+Anlage1.1: S t üb i ht VAMOS
+A l
+1 1 Systemübersicht
+
+Leitzentrale
+STA
+
+vamosZentrale
+TU Dresden
+
+Tunnelbetriebsstelle
+Autobahnamt Sachsen
+
+Regio RBL
+VVO
+
+Betriebsleitzentrale
+DVB AG
+Quelle: VVO GmbH
+
+Verkehrslage - Visualisierung
+vamosWSB
+
+vamosZentrale-Hintergrundsystem
+(zzt. 3 Datenbanken,8 Server, Firewall, etc.)
+
+Quelle: Henry Ripke, Architekt
+
+vamosÖPNV
+ÖPNV
+vamosDWW
+vamosVIS
+Dynamisches Wegweisungssystem
+
+Online-Verkehrsdaten von zzt. ca.
+• 300 stationären
+Detektoren,
+• 500 T i
+00 Taxi
+
+vamosEBIS
+vamosLSA
+vamosNet
+N t
+
+Verkehrsinformationssystem
+
+vamosTMC
+Datenbanken
+
+neu zu schaffende
+Ansteuerungsmodule:
+g
+vamosÖPNV: Öffentlicher Personennahverkehr
+vamosEBIS:
+Elbe-Brücken-Informations-System
+g
+vamosTMC:
+Traffic Message Chanel
+vamosWSB:
+Verkehrszug Waldschlößchenbrücke
+vamos…
+
+vamos…
+vamosDWW:
+vamosVIS:
+vamosNet:
+vamosLSA:
+
+…
+
+vamosRDB
+RDB
+
+Legende:
+
+Verkehrsdaten-Zentrale
+Navigationsgeräte,
+N i ti
+ät
+Verkehrsfunk
+
+(Rohdatenbasis)
+p
+zu erweiternde Komponenten:
+Dynamische Wegweisung
+Verkehrsinformationssystem
+Verkehrsnetzsteuerung
+Lichtsignalanlagen
+
+vamosDVM
+DVM
+
+Dynamisches
+Verkehrsmodell
+
+Elbe-BrückenInformations-System
+
+

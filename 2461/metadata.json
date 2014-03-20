@@ -1,0 +1,301 @@
+{
+  "id": "SR/053/2013",
+  "description": "53. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2013-04-18T14:00:00Z",
+  "ended_at": "2013-04-18T20:02:00Z",
+  "location": "in der Messe Dresden, Saal Hamburg,Messering 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bericht der Oberbürgermeisterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aktueller Stand bei der Umsetzung von Schulbauten und Schulsanierungen",
+      "template_id": " mAF0372/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage SPD",
+          "file_name": "00129234.pdf"
+        },
+        {
+          "description": "mAF0372-13",
+          "file_name": "00131642.pdf"
+        },
+        {
+          "description": "mAF0372-13 Anlage",
+          "file_name": "00131651.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Namensgebung Haltestellen: Hans-Oster-Straße",
+      "template_id": " mAF0379/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage BürgerBündnis / Freie Bürger",
+          "file_name": "00129272.pdf"
+        },
+        {
+          "description": "mAF0379-13",
+          "file_name": "00131661.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Realisierung Kulturkraftwerk",
+      "template_id": " mAF0374/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage DIE LINKE.",
+          "file_name": "00129244.pdf"
+        },
+        {
+          "description": "mAF0374-13",
+          "file_name": "00130717.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Wohnheim \"Zur Wetterwarte 34\"",
+      "template_id": " mAF0366/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage fraktionslose Stadträte",
+          "file_name": "00129026.pdf"
+        },
+        {
+          "description": "mAF0366-13",
+          "file_name": "00130715.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Sanierung der Borsbergstraße",
+      "template_id": " mAF0371/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage FDP",
+          "file_name": "00129238.pdf"
+        },
+        {
+          "description": "mAF0371-13",
+          "file_name": "00131538.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "60. Jahrestag des 17. Juni 1953",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Verfüllung Kiesseen Zschieren",
+      "template_id": " mAF0370/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage Bündnis 90/Die Grünen",
+          "file_name": "00129227.pdf"
+        },
+        {
+          "description": "mAF0370-13",
+          "file_name": "00131047.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Tagesordnungspunkte ohne Debatte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Plauen",
+      "template_id": "A0713/13",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00127907.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0713/13",
+          "file_name": "00129417.pdf"
+        }
+      ],
+      "decision": "gewählt",
+      "vote_result": null
+    },
+    {
+      "description": "Eventkoordination und -marketing",
+      "template_id": "V2074/13",
+      "documents": [
+        {
+          "description": "V2074/13",
+          "file_name": "00126259.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00125901.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00129397.pdf"
+        },
+        {
+          "description": "Anlage 1",
+          "file_name": "00125834.pdf"
+        },
+        {
+          "description": "Anlage 2",
+          "file_name": "00125836.pdf"
+        },
+        {
+          "description": "Anlage 3_Stellenausschreibung",
+          "file_name": "00124693.pdf"
+        },
+        {
+          "description": "Anlage 3_Stellenbeschreibung",
+          "file_name": "00124692.pdf"
+        },
+        {
+          "description": "Beschluss V0814-10",
+          "file_name": "00126195.pdf"
+        },
+        {
+          "description": "Beschluss V2349-SR70-08",
+          "file_name": "00126196.pdf"
+        },
+        {
+          "description": "Beschluss V3271-SR83-09",
+          "file_name": "00126197.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": null
+    },
+    {
+      "description": "Neuorganisation im Bereich SGB II, hier: Umbesetzung der Trägerversammlung",
+      "template_id": "V2046/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2046/12",
+          "file_name": "00129405.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00123534.pdf"
+        },
+        {
+          "description": "Beschluss V0836_10",
+          "file_name": "00120069.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Erstattung der Mehraufwendungen für das gemeinschaftliche Mittagessen im Hort während der Schulferien an Berechtigte für das Bildungs- und Teilhabepaket",
+      "template_id": "A0708/13",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00127028.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0708/13",
+          "file_name": "00129413.pdf"
+        },
+        {
+          "description": "BK A0708/13 Zwischenbericht v. 2013-06-21",
+          "file_name": "00137050.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 36",
+        "contra": " 29",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Sicherung von Flächen im Ostragehege für den Dresdner Sport",
+      "template_id": "A0716/13",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00129357.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0716/13",
+          "file_name": "00129574.pdf"
+        },
+        {
+          "description": "BK A0716-13 Zwischenbericht v. 2013-06-14 - 1. Anschreiben",
+          "file_name": "00136175.pdf"
+        },
+        {
+          "description": "BK A0716-13 Zwischenbericht v. 2013-06-14 - 2. Anlage Dynamo-Trainingsflächen",
+          "file_name": "00136178.pdf"
+        },
+        {
+          "description": "BK A0716-13 Zwischenbericht v. 2013-06-14 - 3. Lageplan Dynamo",
+          "file_name": "00136179.pdf"
+        },
+        {
+          "description": "A0716 - Lageplan mit Plätzen",
+          "file_name": "00129179.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 33",
+        "contra": " 22",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00128147.pdf",
+      "description": "Einladung_SR"
+    },
+    {
+      "file_name": "00131236.pdf",
+      "description": "Niederschrift öffentlich_SR_2013_04_18"
+    },
+    {
+      "file_name": "00131728.pdf",
+      "description": "Niederschrift öffentlich komplett_SR_2013_04_18"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:47:24Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2461"
+}

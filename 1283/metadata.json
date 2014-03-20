@@ -1,0 +1,81 @@
+{
+  "id": "OBR Kl/023/2011",
+  "description": "23. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2011-12-12T17:00:00Z",
+  "ended_at": "2011-12-12T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 21, Dresden-Wilschdorf Nr. 2, Mühlweg/Viehweghier: \tAufhebung des Aufstellungsbeschlusses zum Bebauungsplan",
+      "template_id": "V1348/11",
+      "documents": [
+        {
+          "description": "V1348/11",
+          "file_name": "00081280.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00080932.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00078703.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Übersichtsplan",
+          "file_name": "00078704.pdf"
+        },
+        {
+          "description": "c) bereits gefasster Beschluss",
+          "file_name": "00078705.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 00",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen zum Stand der Bebauungspläne im Ortsamtsbereich",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00082134.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00083952.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:17:55Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1283"
+}

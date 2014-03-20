@@ -1,0 +1,62 @@
+{
+  "id": "AV/059/2012",
+  "description": "59. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit (Sondersitzung)",
+  "committee": "Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "started_at": "2012-08-13T14:00:00Z",
+  "ended_at": "2012-08-13T14:25:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Überplanmäßige Mittelbereitstellung im Ergebnishaushalt des Schulverwaltungsamtes für die Finanzierung von Lernmitteln in den kommunalen Schulen der Landeshauptstadt Dresden",
+      "template_id": "V1788/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1788/12",
+          "file_name": "00106784.pdf"
+        },
+        {
+          "description": "BK-V1788-12",
+          "file_name": "00111834.pdf"
+        },
+        {
+          "description": "V1788/12",
+          "file_name": "00106616.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00106122.pdf"
+        },
+        {
+          "description": "Anlage 1 V1788/12",
+          "file_name": "00105377.pdf"
+        },
+        {
+          "description": "Anlage 2 V1788/12",
+          "file_name": "00105378.pdf"
+        },
+        {
+          "description": "Beschluss V0750/10",
+          "file_name": "00105379.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00106182.pdf",
+      "description": "Einladung_AV_2012_08_13"
+    },
+    {
+      "file_name": "00111293.pdf",
+      "description": "Niederschrift öffentlich_AV_2012_08_13"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:06:39Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2703"
+}

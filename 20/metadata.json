@@ -1,0 +1,84 @@
+{
+  "id": "OBR Leu/001/2009",
+  "description": "1. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2009-09-30T16:00:00Z",
+  "ended_at": "2009-09-30T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, BürgersaalHertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Verpflichtung der Ortsbeiräte, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Trägerschaftswechsel der Kindertageseinrichtung Johannes-Brahms-Straße 52 in 01259 Dresden vom Träger KILALOMA e. V. zum Träger Kinderladen Lotte & Max e. V.",
+      "template_id": "V0021/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00006923.pdf"
+        },
+        {
+          "description": "a_Anlage Finanzielle Auswirkungen",
+          "file_name": "00002292.pdf"
+        },
+        {
+          "description": "b_Anlage 1 - Vereinbarung",
+          "file_name": "00002293.pdf"
+        },
+        {
+          "description": "c_Anlage zur Vereinbarung zur Betriebsführung und Betriebskostenf",
+          "file_name": "00006295.pdf"
+        },
+        {
+          "description": "d_Anlage 1.1 - Haushaltsplan",
+          "file_name": "00002294.pdf"
+        },
+        {
+          "description": "e_Anlage 1.2 - Pädagogisches Konzept Kinderladen Lotte & Max",
+          "file_name": "00002295.pdf"
+        },
+        {
+          "description": "f_Anlage 1.3 - Qualitätsentwicklung Kinderladen Lotte & Max",
+          "file_name": "00002296.pdf"
+        },
+        {
+          "description": "g_Anlage 1.4 - Mietvertrag",
+          "file_name": "00002297.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen der Ortsbeiräte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00008093.pdf",
+      "description": "Einladung_OBR Leu_2009_09_30"
+    },
+    {
+      "file_name": "00009631.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:41:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=20"
+}

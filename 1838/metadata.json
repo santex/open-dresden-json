@@ -1,0 +1,54 @@
+{
+  "id": "SP/035/2012",
+  "description": "35. Sitzung des Betriebsausschusses für Sportstätten und Bäder",
+  "committee": "Betriebsausschuss für Sportstätten und Bäder",
+  "started_at": "2012-05-31T14:30:00Z",
+  "ended_at": "2012-05-31T17:00:00Z",
+  "location": "in der EnergieVerbund Arena, Beratungsraum 3. Etage, Eingang Sevicepunkt,Magdeburger Straße 10, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Stundungsvereinbarung mit der BG ESCD mbH",
+      "template_id": "V1713/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1713/12_SP",
+          "file_name": "00100089.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00099974.pdf"
+        },
+        {
+          "description": "Anlage 1 V1713/12",
+          "file_name": "00099922.pdf"
+        },
+        {
+          "description": "Anlage 2 V1713/12",
+          "file_name": "00099921.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00098938.pdf",
+      "description": "Einladung_SP_2012_05_31"
+    },
+    {
+      "file_name": "00099995.pdf",
+      "description": "Nachtrag_SP_2012_05_31"
+    },
+    {
+      "file_name": "00100399.pdf",
+      "description": "Niederschrift öffentlich_SP_2012_05_31"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:49:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1838"
+}

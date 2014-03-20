@@ -1,0 +1,132 @@
+{
+  "id": "OSR CB/040/2013",
+  "description": "40. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2013-06-24T16:30:00Z",
+  "ended_at": "2013-06-24T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Hochwasserereignis Juni 2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Übertragung des Stauseebades Cossebaude an die Dresdner Bäder GmbH",
+      "template_id": "V2297/13",
+      "documents": [
+        {
+          "description": "V2297/13",
+          "file_name": "00134143.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00133861.pdf"
+        },
+        {
+          "description": "Anlagen V2297/12",
+          "file_name": "00133168.pdf"
+        },
+        {
+          "description": "Beschluss",
+          "file_name": "00133169.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB V2297/13",
+          "file_name": "00133442.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzzuschüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzzuschuss für Heimat- und Verschönerungsverein Cossebaude - Aufstellen einer Sitzbank im Wohngebiet \"Winkelwiesen\" Cossebaude",
+      "template_id": "A-CB0120/13",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzzuschuss für Feuerwehr- und Heimatverein Niederwartha e.V. zur Grünanlagenpflege",
+      "template_id": "A-CB0123/13",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00133939.pdf",
+      "description": "Einladung_OSR CB"
+    },
+    {
+      "file_name": "00137097.pdf",
+      "description": "Beschlussausfertigung FHV Ndw. Grünanlagenpflege"
+    },
+    {
+      "file_name": "00137093.pdf",
+      "description": "Beschlussausfertigung FHV Ndw.-Anschaffg.Mobiliar Vereinshaus"
+    },
+    {
+      "file_name": "00137089.pdf",
+      "description": "Beschlussausfertigung HVV-Bank Wienkelwiesen"
+    },
+    {
+      "file_name": "00137101.pdf",
+      "description": "Beschlussausfertigung Text Bismarckturm Cossebaude"
+    },
+    {
+      "file_name": "00137085.pdf",
+      "description": "Beschlussausfertigung Zuschuss Jugendfeuerwehr CB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:57:04Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2751"
+}

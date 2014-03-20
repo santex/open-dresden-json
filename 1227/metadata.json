@@ -1,0 +1,73 @@
+{
+  "id": "JHA/026/2011",
+  "description": "26. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2011-12-01T16:00:00Z",
+  "ended_at": "2011-12-01T18:55:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 06.10.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Auswirkungen des neuen Kinderschutzgesetzes",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fachthema: \"Der Aufbau standardisierter Kooperationsbeziehungen innerhalb des Netzwerkes Kinderschutz\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aktionsplan der Landeshauptstadt zur Umsetzung der UN-Behindertenrechtskonvention",
+      "template_id": "A0383/11",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00062306.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_V0383/11",
+          "file_name": "00084184.pdf"
+        },
+        {
+          "description": "BK A0383/11 Zwischenbericht v. 2013-01-28",
+          "file_name": "00122159.pdf"
+        }
+      ],
+      "decision": "Ersetzung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00080091.pdf",
+      "description": "Einladung_JH_2011_12_01"
+    },
+    {
+      "file_name": "00084229.pdf",
+      "description": "Niederschrift öffentlich_JH_2011_12_01"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:16:37Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1227"
+}

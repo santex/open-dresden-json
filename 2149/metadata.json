@@ -1,0 +1,40 @@
+{
+  "id": "OBR Pl/024/2012",
+  "description": "24. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2012-07-10T15:30:00Z",
+  "ended_at": "2012-07-10T16:20:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Plauen, Ratssaal,Nöthnitzer Straße 2, 01187 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00103008.pdf",
+      "description": "Einladung_OBR Pl"
+    },
+    {
+      "file_name": "00104758.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:00:49Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2149"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "WF/035/2011",
+  "description": "35. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2011-06-30T14:00:00Z",
+  "ended_at": "2011-06-30T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr.:5018/11, Tiergartenstraße zwischen Oskarstraße und Karcherallee",
+      "template_id": "V1132/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 5059/11, Herstellung von Dünnen Schichten im Kalteinbau im Stadtgebiet Dresden",
+      "template_id": "V1134/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 44/11, SpP Ostragehege/Eisschnelllaufbahn, Pieschener Allee 1, 01067 Dresden - Austausch Kältemittelverteiler - Los 2 Rohrlegearbeiten",
+      "template_id": "V1148/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/002/11, Verwertung von Bio- und Grünabfällen aus Haushalten für die Landeshauptstadt Dresden, Los 1 Verwertung von ca. 9.000 t/a Bioabfällen aus Haushalten",
+      "template_id": "V1137/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1137/11",
+          "file_name": "00069547.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/007/11, Altpapierentsorgung im gesamten Stadtgebiet der Landeshauptstadt Dresden, Los 1.1 Sammlung und Transport des kommunalen Altpapiers im gesamten rechtselbischen Stadtgebiet",
+      "template_id": "V1139/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/007/11, Altpapierentsorgung im gesamten Stadtgebiet der Landeshauptstadt Dresden, Los 1.3 Sammlung und Transport des kommunalen Altpapiers im linkselbischen Stadtgebiet Südost",
+      "template_id": "V1141/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/007/11, Altpapierentsorgung im gesamten Stadtgebiet der Landeshauptstadt Dresden, Los 2.2 Verwertung des kommunalen Altpapiers aus dem linkselbischen Stadtgebiet Süd und West",
+      "template_id": "V1143/11",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": ".",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00066933.pdf",
+      "description": "Einladung_WF_2011_06_30"
+    },
+    {
+      "file_name": "00067479.pdf",
+      "description": "Nachtrag_WF_2011_06_30"
+    },
+    {
+      "file_name": "00068849.pdf",
+      "description": "Niederschrift öffentlich_WF_2011_06_30"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:56:39Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1146"
+}

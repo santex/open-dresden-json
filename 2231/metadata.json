@@ -1,0 +1,31 @@
+{
+  "id": "OSR SB/043/2012",
+  "description": "43. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2012-12-05T16:30:00Z",
+  "ended_at": "2012-12-05T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Beratungsraum im Bürgerhaus (ehem. Gemeindeamt),Seifersdorfer Straße 6, 01465 Dresden OT Schönborn",
+  "parts": [
+    {
+      "description": "Vorbereitung Schönborner Advent",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00117650.pdf",
+      "description": "Einladung_OSR SB"
+    },
+    {
+      "file_name": "00126034.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:23:03Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2231"
+}

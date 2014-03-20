@@ -1,0 +1,49 @@
+{
+  "id": "OBR Pro/030/2013",
+  "description": "30. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2013-01-14T15:00:00Z",
+  "ended_at": "2013-01-14T17:50:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Prohlis, Bürgersaal,Prohliser Allee 10, 01239 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellung der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift der 29. Sitzung des Ortsbeirates Prohlis",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung Nutzungskonzept für ein Bürgerhaus in Prohlis (Vorlage A0564/12)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen der Ortsbeiräte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00119615.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00121140.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:27:54Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2688"
+}

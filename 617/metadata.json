@@ -1,0 +1,152 @@
+{
+  "id": "WF/013/2010",
+  "description": "13. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2010-06-17T14:00:00Z",
+  "ended_at": "2010-06-17T17:20:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 079/10 CITY/08/2010 Citywache Dresden - Errichtung einer Feuer- und Rettungswache mit Brandschutzerziehungszentrum, Strehlener Straße/Franklinstraße, 01069 Dresden Los 08 - Rohbauarbeiten",
+      "template_id": "V0612/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/016/10 Unterhalts-, Grund- und Glasreinigung Gymnasium Dresden-Bühlau, Quohrener Straße 12, 01324 Dresden",
+      "template_id": "V0613/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. A0004/2008  Vergabe von Planungsleistungen und Leistungen der Bauoberleitung für das Vorhaben \"Denkmalgerechte Instandsetzung der Augustusbrücke über die Elbe\"  Art und Umfang der Leistung: Planungsleistungen und Leistungen der Bauoberleitung gemäß HOAIhier: Leistungsphasen 1 und 2",
+      "template_id": "V0614/10",
+      "documents": [
+
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. A0007/10 Sanierung 56. Mittelschule und Erweiterungsneubau mit integrierter Sporthalle, Cottbuser Straße 34 in 01129 Dresden  Art und Umfang der Leistung: Architektenleistung nach § 49 in Verbindung mit Anlage 13 HOAI, Leistungsphasen2 - 9 hier: Leistungsphase 2",
+      "template_id": "V0615/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. A 0005/10 89. Grundschule - Niedersedlitz, Sosaer Straße 10, 01257 Dresden Art und Umfang der Leistung: Architektenleistungen nach § 33 in Verbindung mit Anlage 11 HOAI - Leistungsphasen 2 - 9 hier: Leistungsphase 2",
+      "template_id": "V0618/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Zuwendungen der Landeshauptstadt Dresden im Jahr 2010 an Veranstalter von Stadtfesten für räumlich große Veranstaltungsformate",
+      "template_id": "V0362/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00025494.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB zu V0362",
+          "file_name": "00017815.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00032871.pdf",
+      "description": "Einladung_WF_2010_06_17"
+    },
+    {
+      "file_name": "00034108.pdf",
+      "description": "1. Nachtrag_WF_2010_06_17"
+    },
+    {
+      "file_name": "00032922.pdf",
+      "description": "2. Nachtrag_WF_2010_06_17"
+    },
+    {
+      "file_name": "00034205.pdf",
+      "description": "Beschlussausfertigung_V0611_10_WF"
+    },
+    {
+      "file_name": "00034206.pdf",
+      "description": "Beschlussausfertigung_V0612_10_WF"
+    },
+    {
+      "file_name": "00034207.pdf",
+      "description": "Beschlussausfertigung_V0613_10_WF"
+    },
+    {
+      "file_name": "00034209.pdf",
+      "description": "Beschlussausfertigung_V0615_10_WF"
+    },
+    {
+      "file_name": "00034210.pdf",
+      "description": "Beschlussausfertigung_V0616_10_WF"
+    },
+    {
+      "file_name": "00034211.pdf",
+      "description": "Beschlussausfertigung_V0617_10_WF"
+    },
+    {
+      "file_name": "00034212.pdf",
+      "description": "Beschlussausfertigung_V0618_10_WF"
+    },
+    {
+      "file_name": "00034652.pdf",
+      "description": "Niederschrift öffentlich_WF_2010_06_17"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:05:40Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=617"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "OBR Pi/009/2010",
+  "description": "9. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2010-08-17T16:00:00Z",
+  "ended_at": "2010-08-17T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Drohender Grundschulnotstand in Dresden",
+      "template_id": "A0191/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00031142.pdf"
+        },
+        {
+          "description": "Anlage zum Antrag A0191/10 - Grundschulen",
+          "file_name": "00031225.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 4",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00037199.pdf",
+      "description": "Einladung_OBR Pi"
+    },
+    {
+      "file_name": "00038155.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:08:17Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=412"
+}

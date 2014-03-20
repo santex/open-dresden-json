@@ -1,0 +1,54 @@
+{
+  "id": "K/052/2013",
+  "description": "52. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2013-01-15T14:00:00Z",
+  "ended_at": "2013-01-15T16:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kommunale Kulturförderung - institutionelle Förderung 2013",
+      "template_id": "V1932/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1932/12_K",
+          "file_name": "00120613.pdf"
+        },
+        {
+          "description": "V1932/12",
+          "file_name": "00117528.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00115169.pdf"
+        },
+        {
+          "description": "bereits gefasster Beschluss V1329-11",
+          "file_name": "00112383.pdf"
+        },
+        {
+          "description": "Anlage zu V1932-12 - Übersichtsliste IF u. Begründung Einzelmaßnahmen",
+          "file_name": "00112384.pdf"
+        },
+        {
+          "description": "Anlage zum Beschluss_K_V1932-12",
+          "file_name": "00120759.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00119340.pdf",
+      "description": "Einladung_K_2013_01_15"
+    },
+    {
+      "file_name": "00122143.pdf",
+      "description": "Niederschrift öffentlich_K_2013_01_15"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:27:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2399"
+}

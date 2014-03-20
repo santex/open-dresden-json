@@ -1,0 +1,99 @@
+{
+  "id": "OBR Alt/017/2011",
+  "description": "17. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2011-02-10T15:30:00Z",
+  "ended_at": "2011-02-10T18:50:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Ausbau des Elberadwegenetzes in Dresden",
+      "template_id": "A0309/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0309/11",
+          "file_name": "00069625.pdf"
+        },
+        {
+          "description": "Antrag SPD",
+          "file_name": "00050112.pdf"
+        },
+        {
+          "description": "BK A0309/10 Zwischenbericht v. 2013-03-05",
+          "file_name": "00125762.pdf"
+        },
+        {
+          "description": "AF_0697_Elberadweg_Johannstadt",
+          "file_name": "00050100.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 8",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 340, Dresden-Altstadt I Nr. 34, Neumarkt, Quartier VIhier:\t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplanes",
+      "template_id": "V0896/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00057403.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00053739.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00054121.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00054122.pdf"
+        },
+        {
+          "description": "c) Anlage 3",
+          "file_name": "00054123.pdf"
+        },
+        {
+          "description": "d) Beschlüsse",
+          "file_name": "00054124.pdf"
+        },
+        {
+          "description": "V0896/11",
+          "file_name": "00054846.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 16. Ortsbeiratssitzung am 13.01.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00054171.pdf",
+      "description": "Einladung_OBR Alt_10.02.2011"
+    },
+    {
+      "file_name": "00055811.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:25:59Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1253"
+}

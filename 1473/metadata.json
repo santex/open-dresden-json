@@ -1,0 +1,116 @@
+{
+  "id": "OSR AF/020/2011",
+  "description": "20. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2011-04-11T16:30:00Z",
+  "ended_at": "2011-04-11T17:45:00Z",
+  "location": "im Ortschaftszentrum Altfranken, Sitzungssaal, Otto-Harzer-Str. 2 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2011/2012",
+      "template_id": "V0938/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0938/11",
+          "file_name": "00069531.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00057939.pdf"
+        },
+        {
+          "description": "a_Deckblatt",
+          "file_name": "00057541.pdf"
+        },
+        {
+          "description": "b_Inhaltsverzeichnis",
+          "file_name": "00057542.pdf"
+        },
+        {
+          "description": "c_Teil A",
+          "file_name": "00057543.pdf"
+        },
+        {
+          "description": "d_Teil B",
+          "file_name": "00055817.pdf"
+        },
+        {
+          "description": "e_Teil C_1",
+          "file_name": "00055819.pdf"
+        },
+        {
+          "description": "f_Teil C_2",
+          "file_name": "00055820.pdf"
+        },
+        {
+          "description": "g_Teil D",
+          "file_name": "00055821.pdf"
+        },
+        {
+          "description": "h_Literaturverzeichnis",
+          "file_name": "00055822.pdf"
+        },
+        {
+          "description": "i_Beschluss V0413",
+          "file_name": "00055823.pdf"
+        },
+        {
+          "description": "V0938/11",
+          "file_name": "00058114.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem regionalen Anlass an Sonntagen im Jahr 2011",
+      "template_id": "V1001/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1001/11",
+          "file_name": "00065610.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00059609.pdf"
+        },
+        {
+          "description": "VO regional",
+          "file_name": "00061563.pdf"
+        },
+        {
+          "description": "V1001/11",
+          "file_name": "00059888.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur Bereitstellung von Finanzmitteln für die 700-Jahr-Feier Altfranken",
+      "template_id": "V-AF0029/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00060439.pdf",
+      "description": "Einladung_OSR AF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:34:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1473"
+}

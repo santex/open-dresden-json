@@ -1,0 +1,584 @@
+{
+  "id": "SR/025/2011",
+  "description": "25. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2011-03-24T14:00:00Z",
+  "ended_at": "2011-03-24T20:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Plenarsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden; Kommunalwahlkreis IV - Mandat BÜNDNIS 90/DIE GRÜNEN (GRÜNE)",
+      "template_id": "V0978/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0978/11",
+          "file_name": "00058947.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00057769.pdf"
+        },
+        {
+          "description": "Anlage_2_Auszug_Wahlergebnis",
+          "file_name": "00057749.pdf"
+        },
+        {
+          "description": "Anlage_3_Annahmererklärung_Daniels",
+          "file_name": "00057750.pdf"
+        },
+        {
+          "description": "V0978/11",
+          "file_name": "00057882.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 68",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aktuelle Stunde zum Thema \"Null-Toleranz gegenüber gewalttätigen Demonstranten - Dresden darf keine Bühne für rechte und linke Chaoten werden\"",
+      "template_id": "A0344/11",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Ausschuss für Wirtschaftsförderung",
+      "template_id": "A0336/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0336/11",
+          "file_name": "00058920.pdf"
+        },
+        {
+          "description": "Antrag CDU",
+          "file_name": "00054430.pdf"
+        }
+      ],
+      "decision": "gewählt",
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung Ortsbeirat Neustadt",
+      "template_id": "A0351/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0351/11",
+          "file_name": "00058940.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00057006.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 68",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Cotta",
+      "template_id": "A0352/11",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00057338.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 65",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Schule zur Lernförderung, Förderzentrum \"A. S. Makarenko\", Leisniger Straße 76, 01127 Dresdenhier: Verlagerung der Außenstelle \"Pestalozzi\", Luboldtstraße 15, 01324 Dresden",
+      "template_id": "V0790/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00058849.pdf"
+        },
+        {
+          "description": "Beschlüsse V0790/10",
+          "file_name": "00043754.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": null
+    },
+    {
+      "description": "Wilsdruffer Vorstadt: Kenntnisnahme VU-Bericht und Auftrag zur Akquirierung von Fördermitteln",
+      "template_id": "V0367/09",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0367/09",
+          "file_name": "00061067.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00027493.pdf"
+        },
+        {
+          "description": "BK V0367/09 Abschlussbericht v. 2012-12-05",
+          "file_name": "00118571.pdf"
+        },
+        {
+          "description": "a)Anlage 1_Beschlussausfertigung_V0367",
+          "file_name": "00017217.pdf"
+        },
+        {
+          "description": "b)Anlage 2_Teil I_V0367",
+          "file_name": "00017269.pdf"
+        },
+        {
+          "description": "c)Anlage 2_Teil II_V0367",
+          "file_name": "00017270.pdf"
+        },
+        {
+          "description": "d)Anlage 2_Teil III_V0367",
+          "file_name": "00017271.pdf"
+        },
+        {
+          "description": "e)Anhang 1 zur Anlage 2_Teil I_V0367",
+          "file_name": "00017272.pdf"
+        },
+        {
+          "description": "f)Anhang 1 zur Anlage 2_Teil II_V0367",
+          "file_name": "00017273.pdf"
+        },
+        {
+          "description": "g)Anhang 2 zur Anlage 2_V0367",
+          "file_name": "00017274.pdf"
+        },
+        {
+          "description": "h)Anhang 3 zur Anlage 2_V0367",
+          "file_name": "00017275.pdf"
+        },
+        {
+          "description": "i)Anlage 3_Teil I_V0367",
+          "file_name": "00017276.pdf"
+        },
+        {
+          "description": "j)Anlage 3_Teil II_V0367",
+          "file_name": "00017277.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB zu V0367",
+          "file_name": "00017813.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Bericht zur Erfüllung des Stadtratsbeschlusses vom 18. März 2010 - Zuschusserhöhung zu Gunsten der Stadion Dresden Projektgesellschaft mbH",
+      "template_id": "A0321/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0321/11",
+          "file_name": "00065675.pdf"
+        },
+        {
+          "description": "BK A0321/11 Abschlussbericht v. 2013-05-29",
+          "file_name": "00134760.pdf"
+        },
+        {
+          "description": "BK A0321/11 Zwischenbericht v. 2013-01-29 (GB 1)",
+          "file_name": "00122520.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Satzung zur Änderung der Jahr- und Spezialmarktsatzung der Landeshauptstadt Dresden vom 10. Dezember 1992, zuletzt geändert am 19. November 2009",
+      "template_id": "V0935/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0935/11",
+          "file_name": "00058823.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00057157.pdf"
+        },
+        {
+          "description": "Anhang 1 bis 3",
+          "file_name": "00055732.pdf"
+        },
+        {
+          "description": "Anlage 1 Satzung zur Änderung der Jahr- und Spezialmarktsatzung",
+          "file_name": "00055675.pdf"
+        },
+        {
+          "description": "Anlage 2 Darstellung der Änderungen",
+          "file_name": "00057064.pdf"
+        },
+        {
+          "description": "V0261",
+          "file_name": "00055733.pdf"
+        },
+        {
+          "description": "V0935-11 - Stellungnahme BMB - Satzung zur Änderung der Jarh- u",
+          "file_name": "00056441.pdf"
+        },
+        {
+          "description": "V0935/11",
+          "file_name": "00057237.pdf"
+        },
+        {
+          "description": "V1826",
+          "file_name": "00055736.pdf"
+        },
+        {
+          "description": "V2319",
+          "file_name": "00055735.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 34",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verkauf des Grundstückes Bautzner Straße 112 bis 116",
+      "template_id": "V0895/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0895/11",
+          "file_name": "00061074.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00057784.pdf"
+        },
+        {
+          "description": "Beschluss zum Antrag A0142",
+          "file_name": "00052594.pdf"
+        },
+        {
+          "description": "Lageplan zur V0895 11",
+          "file_name": "00052593.pdf"
+        },
+        {
+          "description": "V0895/11",
+          "file_name": "00057165.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Einführung einer Gruppenkarte für Schulen und Kindergärten zur kostenlosen Nutzung des öffentlichen Personennahverkehrs im Rahmen des Unterrichts (Unterrichtsfahrkarte)",
+      "template_id": "A0167/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0167/10",
+          "file_name": "00061116.pdf"
+        },
+        {
+          "description": "Antrag FDP",
+          "file_name": "00025895.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Musikalische Bildung",
+      "template_id": "A0204/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0204/10",
+          "file_name": "00063740.pdf"
+        },
+        {
+          "description": "Antrag SPD",
+          "file_name": "00033386.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Unterstützung der Landeshauptstadt Dresden für ein Sanktionsmoratorium",
+      "template_id": "A0281/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0281/10",
+          "file_name": "00063675.pdf"
+        },
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00043273.pdf"
+        },
+        {
+          "description": "A0281-10-Anlage",
+          "file_name": "00043272.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Sicherung der Möglichkeit zur Westerweiterung des Alaunparks",
+      "template_id": "A0286/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0286/10",
+          "file_name": "00063727.pdf"
+        },
+        {
+          "description": "Antrag SPD",
+          "file_name": "00043691.pdf"
+        },
+        {
+          "description": "BK A0286/10 Zwischenbericht v. 2012-12-05",
+          "file_name": "00118564.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Sicherung des Betriebes der Schwimmhalle Klotzsche",
+      "template_id": "A0299/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00063563.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0299/10",
+          "file_name": "00073781.pdf"
+        },
+        {
+          "description": "BK A0299/10 Abschlussbericht v. 2013-05-08",
+          "file_name": "00132541.pdf"
+        },
+        {
+          "description": "AF0347_Schwimmhalle Klotzsche",
+          "file_name": "00047151.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Dresden - Stadt der bewegungsfreudigen und gesunden Kinder: Modellkonzept für fortschrittliche Bewegungs- und damit Gesundheitsförderung im Kindesalter",
+      "template_id": "A0305/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0305/10",
+          "file_name": "00061120.pdf"
+        },
+        {
+          "description": "Antrag CDU",
+          "file_name": "00049874.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Innovationspreis \"Familienfreundlichstes Unternehmen Dresdens\"",
+      "template_id": "V0646/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0646/10",
+          "file_name": "00058893.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00054116.pdf"
+        },
+        {
+          "description": "BK V0646/10 Abschlussbericht v. 2013-05-29 (2012)",
+          "file_name": "00134769.pdf"
+        },
+        {
+          "description": "Anlage 1_Finanzielle Auswirkungen",
+          "file_name": "00052546.pdf"
+        },
+        {
+          "description": "Anlage 2_Konzept",
+          "file_name": "00053641.pdf"
+        },
+        {
+          "description": "b_Beschlussausfertigung A0021",
+          "file_name": "00035539.pdf"
+        },
+        {
+          "description": "d_Stellungnahme GSB",
+          "file_name": "00035740.pdf"
+        },
+        {
+          "description": "V0646/10",
+          "file_name": "00055186.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 66",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Neue Autobahnanschlussstelle an die BAB A 4 in Dresden-Weixdorf zwischen Autobahndreieck Dresden-Nord und Autobahnanschlussstelle Hermsdorf (Arbeitstitel: AS Promigberg)",
+      "template_id": "V0700/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0700/10",
+          "file_name": "00058863.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00046785.pdf"
+        },
+        {
+          "description": "BK V0700/10 Abschlussbericht v. 2013-01-21",
+          "file_name": "00121429.pdf"
+        },
+        {
+          "description": "a) Anlage 1 - pdf-Datei",
+          "file_name": "00062174.pdf"
+        },
+        {
+          "description": "b) Anlage 2 - pdf-Datei",
+          "file_name": "00062175.pdf"
+        },
+        {
+          "description": "c) Anlage 3_AS Promigberg_ Belastungs-Tabelle",
+          "file_name": "00037180.pdf"
+        },
+        {
+          "description": "d) Anlage 4.1_AS Promigberg_Arbeitsberatung_2010_05_25",
+          "file_name": "00037181.pdf"
+        },
+        {
+          "description": "e) Anlage 4.2 - pdf-Datei",
+          "file_name": "00062176.pdf"
+        },
+        {
+          "description": "f) V0700 bereits gefasster Beschluss",
+          "file_name": "00037216.pdf"
+        },
+        {
+          "description": "a) Anlage 1 - zip-Datei",
+          "file_name": "00037178.zip"
+        },
+        {
+          "description": "b) Anlage 2 - zip-Datei",
+          "file_name": "00037179.zip"
+        },
+        {
+          "description": "e) Anlage 4.2_AS Promigberg_VPU - zip-Datei",
+          "file_name": "00037182.zip"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 48",
+        "contra": " 11",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ziele für die künftige Verkehrsentwicklung der Landeshauptstadt Dresden für den Zeithorizont 2025 und darüber hinaus",
+      "template_id": "V0811/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0811/10",
+          "file_name": "00058955.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00049867.pdf"
+        },
+        {
+          "description": "Stellungnahme FB",
+          "file_name": "00046474.pdf"
+        },
+        {
+          "description": "Anlage_Zielpapier_Endfassung",
+          "file_name": "00045524.pdf"
+        },
+        {
+          "description": "bereits gefasste Beschlüsse_V0811",
+          "file_name": "00045525.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00045690.pdf"
+        },
+        {
+          "description": "V0811_10 Ziele Verkehrsentwicklung bis 2025",
+          "file_name": "00046387.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 34",
+        "contra": " 30",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Baustein für ökologischen Stadtumbau - Passivhausstandard für stadteigene und städtisch genutzte Gebäude",
+      "template_id": "A0273/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0273/10",
+          "file_name": "00061112.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00041561.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00057847.pdf",
+      "description": "Einladung_SR_2011_03_24"
+    },
+    {
+      "file_name": "00060443.pdf",
+      "description": "Niederschrift öffentlich_SR_2011_03_24"
+    },
+    {
+      "file_name": "00072206.pdf",
+      "description": "nicht öffentliche Beschlüsse"
+    },
+    {
+      "file_name": "00061051.pdf",
+      "description": "Niederschrift öffentlich mit namentlicher Abstimmung_SR_2011_03_24"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:31:20Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1074"
+}

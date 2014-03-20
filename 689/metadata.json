@@ -1,0 +1,82 @@
+{
+  "id": "K/022/2010",
+  "description": "22. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2010-12-07T14:00:00Z",
+  "ended_at": "2010-12-07T19:50:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Festsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Besetzung des künstlerischen Beirates für Hellerau - Europäisches Zentrum der Künste",
+      "template_id": "V0782/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00045674.pdf"
+        },
+        {
+          "description": "b)Anlage zu V0782-10. Besetzungsvorschläge Beirat EZK",
+          "file_name": "00043215.pdf"
+        },
+        {
+          "description": "a)bereits gefasster Beschluss V1928-SR58-07",
+          "file_name": "00043214.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kommunale Kulturförderung - Projektförderung 2011",
+      "template_id": "V0824/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00048302.pdf"
+        },
+        {
+          "description": "a)bereits gefasster Beschluss zu V0597-10",
+          "file_name": "00046323.pdf"
+        },
+        {
+          "description": "b)Anlage zu V0824-10 - Auflistung Projektförderung 2011",
+          "file_name": "00046325.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00049154.pdf",
+      "description": "Einladung_K_2010_12_07"
+    },
+    {
+      "file_name": "00050473.pdf",
+      "description": "Beschlussausfertigung_V0782/10"
+    },
+    {
+      "file_name": "00050474.pdf",
+      "description": "Beschlussausfertigung_V0791/10"
+    },
+    {
+      "file_name": "00050476.pdf",
+      "description": "Beschlussausfertigung_V0824/10"
+    },
+    {
+      "file_name": "00051837.pdf",
+      "description": "Niederschrift öffentlich_K_2010_12_07"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:18:54Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=689"
+}

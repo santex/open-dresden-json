@@ -1,0 +1,47 @@
+{
+  "id": "OSR SB/018/2011",
+  "description": "18. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2011-01-12T17:30:00Z",
+  "ended_at": "2011-01-12T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  Beratungsraum im Bürgerhaus (ehem. Gemeindeamt),Seifersdorfer Straße 6, 01465 Dresden OT Schönborn",
+  "parts": [
+    {
+      "description": "Absprache Änderung Vorfahrtsregelung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Dauerhafte Sicherung der Raumkapazitäten des Gymnasium Klotzsche und der 82. Mittelschule Klotzsche",
+      "template_id": "A0302/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0302/10",
+          "file_name": "00057345.pdf"
+        },
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00049868.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00052110.pdf",
+      "description": "Einladung_OSR SB"
+    },
+    {
+      "file_name": "00056159.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:23:09Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1514"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "OSR WX/032/2012",
+  "description": "32. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2012-04-23T17:00:00Z",
+  "ended_at": "2012-04-23T18:45:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ratsinformationssystem für Bürgerinnen und Bürger",
+      "template_id": "A0591/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092888.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0591/12",
+          "file_name": "00102864.pdf"
+        },
+        {
+          "description": "BK_A0591/12",
+          "file_name": "00112253.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 0",
+        "contra": " 10",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen des Ortsvorstehers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00095059.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00096549.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00096540.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:43:06Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2109"
+}

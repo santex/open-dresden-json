@@ -1,0 +1,72 @@
+{
+  "id": "OSR SW/011/2010",
+  "description": "11. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2010-06-21T17:30:00Z",
+  "ended_at": "2010-06-21T19:10:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlich gefasster Beschlüsse der 10. Sitzung vom 10.05.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Empfehlung des Ortschaftsrates Schönfeld-Weißig zur Klarstellung der Abgrenzung des im Zusammenhang bebauten Ortsteiles vom Außenbereich im Ortsteil MalschendorfBE: Vertreter des Stadtplanungsamtes",
+      "template_id": "V-SW0082/10",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zur Durchführung der Straßenbaumaßnahmen Hauptstraße im OT Weißig und Bühlauer Straße im OT SchullwitzBE: Vertreter des Straßen- und Tiefbauamtes",
+      "template_id": "V-SW0079/10",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig zur Traditions- und Heimatpflege",
+      "template_id": "V-SW0083/10",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00033016.pdf",
+      "description": "Einladung_OSR SW"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:06:06Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=517"
+}

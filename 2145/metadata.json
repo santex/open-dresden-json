@@ -1,0 +1,85 @@
+{
+  "id": "OBR Pl/020/2012",
+  "description": "20. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2012-02-28T15:30:00Z",
+  "ended_at": "2012-02-28T18:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Plauen, Ratssaal,Nöthnitzer Straße 2, 01187 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2012/2013",
+      "template_id": "V1389/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00085670.pdf"
+        },
+        {
+          "description": "Fachplan_gesamt",
+          "file_name": "00083758.pdf"
+        },
+        {
+          "description": "Beschluss V0938_11",
+          "file_name": "00080962.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE",
+          "file_name": "00094181.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - SPD",
+          "file_name": "00094183.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ehrenamtsarbeit in Dresden - Koordinierungsstelle Ehrenamt einrichten",
+      "template_id": "A0514/11",
+      "documents": [
+
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 7",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00088730.pdf",
+      "description": "Einladung_OBR Pl"
+    },
+    {
+      "file_name": "00090193.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:27:18Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2145"
+}

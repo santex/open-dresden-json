@@ -1,0 +1,126 @@
+{
+  "id": "OSR SW/024/2011",
+  "description": "24. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2011-08-22T17:30:00Z",
+  "ended_at": "2011-08-22T19:24:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlich gefasster Beschlüsse der 23. Sitzung vom 20.06.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Flächennutzungsplan-Änderung Nr. 31, Ortschaft Schönfeld-Weißig, Teilbereich Am Lindenberghier:\t1. Billigung der Abwägung über die Stellungnahmen aus der frühzeitigen Beteiligung \t2. Beschluss zur Änderung des Geltungsbereiches der Flächennutzungsplan-Änder-\tung\t3. Billigung des Entwurfes der Flächennutzungsplan-Änderung\t4. Billigung der Begründung mit Umweltbericht der Flächennutzungsplan-Änderung \t5. Beschluss zur öffentlichen Auslegung des Entwurfes der Flächennutzungsplan-\tÄnderung",
+      "template_id": "V1075/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1075/11_SB",
+          "file_name": "00072144.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00067707.pdf"
+        },
+        {
+          "description": "a) Anlage 1a_keine Öffentlichkeitsbeteiligung",
+          "file_name": "00063405.pdf"
+        },
+        {
+          "description": "b) Anlage 1b_Behandlung der Stellungnahmen",
+          "file_name": "00063406.pdf"
+        },
+        {
+          "description": "c) Anlage 1b_Liste der Zustimmungen",
+          "file_name": "00063407.pdf"
+        },
+        {
+          "description": "d) Anlage 1b_Liste keine Stellungnahme",
+          "file_name": "00063408.pdf"
+        },
+        {
+          "description": "e) Anlage 1b_Liste Stellungnahme abgegeben",
+          "file_name": "00063409.pdf"
+        },
+        {
+          "description": "h) Anlage 2_geänderter Geltungsbereich",
+          "file_name": "00063414.pdf"
+        },
+        {
+          "description": "i) Anlage 3_Entwurf der Änderung",
+          "file_name": "00063415.pdf"
+        },
+        {
+          "description": "j) Anlage 4_Begründung der Änderung",
+          "file_name": "00063416.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig zur Traditions- und Heimatpflege",
+      "template_id": "V-SW0122/11",
+      "documents": [
+
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00071179.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00072085.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00072086.pdf",
+      "description": "Beschlussausfertigung 24/10/2011"
+    },
+    {
+      "file_name": "00072081.pdf",
+      "description": "Beschlussausfertigung V-SW0122/11"
+    },
+    {
+      "file_name": "00072080.pdf",
+      "description": "Beschlussausfertigung V-SW0122/11 komplett"
+    },
+    {
+      "file_name": "00075501.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:02:12Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1509"
+}

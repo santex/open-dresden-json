@@ -1,0 +1,76 @@
+{
+  "id": "OSR LB/009/2010",
+  "description": "9. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2010-03-16T16:30:00Z",
+  "ended_at": "2010-03-16T20:35:00Z",
+  "location": "Verwaltungsstelle Langebrück, Beratungsraum, Weißiger Straße 5, 01465 Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 216, Dresden-Langebrück Nr. 2, Wohngebiet \"An der Heide\", Abstimmung mit den Ämtern",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00023970.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00055848.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:55:35Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=340"
+}

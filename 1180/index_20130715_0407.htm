@@ -1,0 +1,849 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="de"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="description" content="Sitzung 15.09.2011 Ausschuss f&uuml;r Wirtschaftsf&ouml;rderung"><meta http-equiv="content-language" content="de"><meta name="Generator" content="Somacos GmbH & Co. KG, http://www.somacos.de, SessionNet Version 4.4.3 bi"><style media="screen"><!-- /* ******************** layoutrahmen ******************** */
+
+body.smc_body
+{
+	width: auto;
+	margin:0px;
+	padding: 10px;		/* abstand content zum rand */
+
+	font-size:0.8em;
+	font-family: arial;
+}
+
+img
+{
+float: left; 
+margin: 0; 
+padding: 0;
+margin-right: 3px;
+}
+
+/* ******************** contextmenu ******************** */
+
+div#smccontextmenu1
+{
+	margin-top: 10px;
+}
+
+.smccontextmenu ul ul{
+	border: 0px;
+}
+.smccontextmenu ul{
+	margin:0;
+	padding:0px 0px;
+
+list-style-type:none;
+
+white-space: nowrap;
+font-size:95%;
+font-weight:bold;
+
+/*
+	border:1px solid #d9d9d9;
+	background-color: #E6F3FC;
+*/
+
+display: inline;
+}
+.smccontextmenu ul li{
+
+	display: inline;
+	padding:2px 2px;
+	width: auto;
+	float:left;
+text-align: middle;
+}
+
+.smccontextmenu ul li a:hover,.smccontextmenu ul li a.current
+{
+color:#034895;
+background: #D1D9DF;
+}
+
+.smccontextmenu ul li a:hover
+{
+border-right:2px solid #EFF9FF;
+border-bottom:2px solid #EFF9FF;
+border-left:2px solid #CFECFF;
+border-top:2px solid #CFECFF;
+
+background-color: #E6F3FC;
+color:#5F8DBF;
+}
+
+.smccontextmenu ul li a
+{
+border-left:2px solid #EFF9FF;
+border-top:2px solid #EFF9FF;
+border-right:2px solid #CFECFF;
+border-bottom:2px solid #CFECFF;
+	display: block;
+	float:left;
+/* border:1px solid #d9d9d9; */
+
+padding: 2px 8px;
+color:#034895;
+text-decoration:none;
+background-color: #E6F3FC;
+margin:0;
+}
+
+
+/* ******************** standard-elemente ******************** */
+
+h1.smc_h1 
+{
+	margin:0.5em 0em 0em 0em;
+padding: 3px;
+clear: both;
+}
+h2.smc_h2
+{
+	margin:0.5em 0em 1em 0em;
+	font-size:1.2em;
+}
+h3.smc_h3
+{
+	font-size:1em;
+}
+
+a {color: #034895;}
+
+
+
+/* ******************** tabellen ******************** */
+/* *** listen *** */
+
+.smccontenttable  {
+clear:both;
+	font-size: 95%;
+	border-collapse: collapse;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.smccontenttable thead th {
+ 	text-align:center;
+	font-weight: bold;
+	padding: 3px 3px;
+	margin: 0px;
+
+	color:black;
+	background-color: #e6f3fc;
+	border-bottom: 2px solid #D9D9D9; 
+}
+.smccontenttable td
+{
+	padding: 4px;
+}	
+.smccontenttable form
+{
+	margin:1px;
+}
+
+
+
+
+
+
+.smccontenttable  tr {
+ background-color:#fff;
+ border-bottom: 1px solid #D9D9D9;
+}
+.smccontenttable  td {
+ color:black;
+ padding:5px;
+ text-align:left;
+}
+.smccontenttable  th {
+ text-align:left;
+ padding: 2px;
+}
+tbody td a, tbody th a {
+ color:#002084;
+ text-decoration:underline;
+ font-weight:normal; 
+}
+tbody td a:hover, tbody th a:hover {
+ text-decoration:none;
+}
+
+
+
+
+
+
+
+
+/* *** zeilen in datentabellen *** */
+
+
+.smccontenttable tr.smcrowh td       /* zwischenueberschrift */
+{
+	background-color:#E0E9EF;
+	font-weight:bold;
+	text-align:left;
+}
+
+  /* farbiger zeilenwechsel */
+.smccontenttable tr td { background: #EFEFEF; }
+.smccontenttable tr.smcrow1 td      
+{
+background: white;
+
+}
+
+
+
+/* *** dokumentbox *** */
+table.smcdocbox
+{ 
+	float:right;
+	width: 14em; 
+	border:1px solid gray;
+}
+.smccontenttable tr td table.smcdocbox
+{ 
+	float:left;
+	border:0px solid gray;
+}
+table.smcdocbox thead
+{
+	display: none;
+}
+table.smcdocbox tr td
+{
+	padding: 0px;
+	text-align:left;
+	vertical-align:top;
+	font-size:90%;
+}
+table.smcdocbox form
+{
+	margin:1px;
+}
+
+.smcdocfunktionen
+{
+	text-align:right;
+	margin:1px;
+}
+.smcdoctextlarge
+{
+	color:gray;
+}
+
+/* *** vorgangdetails *** */
+table#smctablevorgang
+{
+	border-spacing: 0px;
+	margin: 0px 10px 10px 0px; 
+	float: left;
+	text-align:left;
+}
+
+#smctablevorgang thead
+{
+	display: none;
+}
+#smctablevorgang tr td
+{
+	padding: 2px 15px 2px 8px;
+	vertical-align:top;
+}
+.smctablehead { font-weight: bold; }
+
+.smctablevorgang thead
+{
+	display: none;
+}
+.smctablevorgang tr td
+{
+	padding: 2px 15px 2px 8px;
+	vertical-align:top;
+}
+
+/* *** nachtr%E4ge *** */
+.smcf_tondat
+{
+	color: red;
+	font-size:80%;
+	display: none;
+}
+.smcf_tondat_star
+{
+	font-size:80%;
+}
+
+
+/* version:310 */
+/* layout version 2 und 3 */
+/* steuerung der seitenanzeige im browser */
+/* diese datei darf nicht ver%E4ndert werden ! */
+
+/* *** zeilen in datentabellen *** */
+.smctd1
+{
+	padding-right:2px;
+}
+.smctd1right
+{
+	padding-right:2px;
+	text-align:right;
+}
+td.smctd2
+{
+	padding-right:2px;
+	border-top:2px solid white;
+}
+td.smctd3
+{
+	padding-right:1em;
+	padding-left:2em;
+}
+.smcline2
+{
+	padding-left:10px;
+}
+.smcline3
+{
+	padding-left:20px;
+}
+.smcline4
+{
+	padding-left:30px;
+}
+
+th.smc_th2
+{
+	text-align:left;
+	white-space:nowrap;
+    background-color: #c0c0c0;
+}
+th.smc_th3
+{
+	text-align:left;
+	font-weight:normal;
+	border-bottom:1px solid #000000;
+	white-space:nowrap;
+    background-color: #c0c0c0;
+}
+tr.smc_tr
+{
+	vertical-align:top;
+}
+/* Zelle mit Rahmen unten in Tabelle */
+td.smc_td5
+{
+	text-align:left;
+	font-weight:bold;
+	border-bottom:1px solid #000000;
+}
+
+/* *** textzeilen in datentabellen *** */
+.smctext11
+{
+	font-family:"courier new","times new roman",verdana,arial;
+	font-weight:bold;
+	white-space:nowrap;
+	padding-left:30px;
+}
+.smctext12
+{
+	font-family:"courier new","times new roman",verdana,arial;
+}
+.smctext21
+{
+	font-family:"courier new","times new roman",verdana,arial;
+	font-weight:bold;
+	white-space:nowrap;
+	padding-bottom:5px;
+	padding-left:30px;
+}
+.smctext22
+{
+	font-family:"courier new","times new roman",verdana,arial;
+	padding-bottom:5px;
+}
+
+
+/* *** bilder *** */
+.smcimg
+{
+	border:0px;
+}
+
+.smcimg16
+{
+	border:0px;
+	vertical-align:middle;
+}
+.smcimg18
+{
+	border:0px;
+}
+.smcimgjs
+{
+	cursor:pointer;
+	border:0px;
+}
+.smcpaddingr1
+{
+	padding-right:10px;
+}
+
+/* *** einzelelemente *** */
+
+.smchidden
+{
+	display: none;
+}
+
+.smcclear
+{
+	clear:both;
+}
+
+.smccontenttext /* Einbindung Session-Texte */
+{
+	margin-top:1em;
+	margin-bottom:1em;
+	clear:both;
+}
+
+.smcnowrap
+{
+	white-space:nowrap;
+}
+
+/* *** style definitions for documents *** */
+p.msonormal, li.msonormal, div.msonormal, p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:1em;
+	mso-pagination:widow-orphan;
+	font-family:tahoma,verdana,arial,"times new roman";
+	mso-fareast-font-family:tahoma,verdana,arial,"times new roman";
+}
+ -->
+
+<!-- .smcdocname,.smcdocboxzip {display:none} -->
+
+ --></style><style media="print"><!-- /* Steuerung der Druckausgabe */
+/* Diese Datei darf nicht ver%E4ndert werden ! Anpassungen nehmen Sie in folgender Datei vor: _printstyles.css */
+body
+{
+	background-color:white;
+    font-family:verdana,arial,helvetica;
+	font-size:11px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:5px;
+}
+table
+{
+    font-family: verdana,arial,helvetica;
+}
+tr
+{
+	vertical-align:top;
+}
+td
+{
+	text-align: left;
+	font-size:11px;
+	vertical-align:top;
+	padding: 2px
+}
+p
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+}
+
+.pagebefore
+{
+	page-break-before:auto;
+}
+.pageafter
+{
+	page-break-after:auto;
+}
+		
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+
+th.smc_th
+{
+	border-bottom:1px solid #000000;
+	text-align:left;
+}
+th.smc_th3
+{
+	text-align:left;
+	font-weight:normal;
+}
+tr.smc_tr
+{
+	vertical-align:top;
+}
+h1.smc_h1
+{
+	font-size:1.75em;
+}
+h2.smc_h2
+{
+	font-size:1.5em;
+}
+h3.smc_h3
+{
+	padding-top:14px;
+	padding-bottom:0;
+	font-size:1.25em;
+}
+h4.smc_h4
+{
+	font-size:1.20em;
+}
+
+#smccontextmenu,.smccontextmenu,.smccontextmenutop,.smccontextmenubottom
+{
+	display:none;
+}
+.smctop,.smchead
+{
+	display:none;
+}
+#smcnavigation,.smcnav,.smcnavhist
+{
+	display:none;
+}
+.smcfoot
+{
+	margin-top:20px;
+	border-top:1px solid black;
+}
+
+/* Steuerelemente ausblenden */
+.smcboxheadright,.smcboxheadrightfull
+{
+	display:none;
+}
+
+
+div.smccontenttable
+{
+	margin-bottom:20px;
+}
+
+.smctxtlink,.smcdocbox
+{
+	display:none;
+}
+
+.smcimg,.smcimg16,.smcimgjs
+{
+	display:none;
+}
+.smcform,.smcdocform
+{
+	display:none;
+}
+.smcdocument
+{
+	display:none;
+}
+
+.smcrow2
+{
+	background-color: #e0e0e0;
+}
+.smcrow7
+{
+	background-color: #c0c0c0;
+}
+.smcrowh
+{
+	background-color: #e0e0e0;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	border-bottom:1px solid gray;
+}
+.smcrows
+{
+	background-color:white;
+	border-bottom:1px solid gray;
+}
+
+.smcinvisible
+{
+	display:none;
+}
+.smcnoprint
+{
+	display:none;
+}
+a.smc_small
+{
+	color: black;
+	text-decoration:underline;
+}
+a.smc_small:visited
+{
+	color: black;
+}
+
+/* Filter-Liste */
+.smcfilter
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-left:2px;
+}
+.smcfilter1
+{
+	padding-right:10px;
+	font-weight:bold;
+	font-size:80%;
+}
+.smcfilter2
+{
+	padding-right:10px;
+}
+
+/* Werkzeugleiste */
+#smcworkcontainer,.smcworkfunction,.smcworkfunctiontext,.smcworkyes,.smcworkno
+{
+	display:none;
+}
+
+/* style definitions for documents */
+p.msonormal, li.msonormal, div.msonormal, p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:1em;
+	mso-pagination:widow-orphan;
+	font-family:tahoma,verdana,arial,"times new roman";
+	mso-fareast-font-family:tahoma,verdana,arial,"times new roman";
+}
+.msoDel /* Markierung f%FCr auszublendenden Text */
+{
+	display:none;
+}
+ --></style><style media="screen"><!-- .smcdocname,.smcdocboxzip {display:none} --></style><title>Sitzung 15.09.2011 Ausschuss f&uuml;r Wirtschaftsf&ouml;rderung</title></head><body class="smc_body"><!--SMCNAVIGATION--><br class="smcclear" ><h1 class="smc_h1">Sitzung 15.09.2011 Ausschuss f&uuml;r Wirtschaftsf&ouml;rderung</h1><!--SMCINFO:si.bi.1.4.1.1.8.1.3 --><table summary="Inhalt der Tabelle: Informationen der Sitzung" id="smctablevorgang" cellspacing="0" cellpadding="0"><thead>
+<tr><th>Bezeichnung</th><th>Inhalt</th><th>Bezeichnung</th><th>Inhalt</th></tr></thead><tbody>
+<tr valign="top"><td class="smctablehead">Sitzung:</td><td>WF/039/2011</td><td class="smctablehead">Gremium:</td><td>Ausschuss f&uuml;r Wirtschaftsf&ouml;rderung</td></tr>
+<tr valign="top"><td class="smctablehead">Datum:</td><td>15.09.2011</td><td class="smctablehead">Zeit:</td><td>15:30-18:40</td></tr>
+<tr valign="top"><td class="smctablehead">Raum:</td><td colspan="3">Landeshauptstadt Dresden,  7. Etage, Raum 728,<br >Ferdinandplatz 2, 01067 Dresden</td></tr>
+<tr valign="top"><td class="smctablehead">Bezeichnung:</td><td colspan="3">39. Sitzung des Ausschusses f&uuml;r Wirtschaftsf&ouml;rderung</td></tr></tbody></table><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00073274.pdf" title="Einladung_WF_2011_09_15 " class="smcdoccontrol1" >Einladung_WF_2011_09_15</a>
+</td><td class="smc_doc smcdocname" title="Einladung_WF_2011_09_15&nbsp;Dateigr&ouml;sse: 18&nbsp;KB ">Einladung_WF_2011_09_15 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">18&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00075820.pdf" title="Niederschrift &ouml;ffentlich_2011_09_15_WF " class="smcdoccontrol1" >Niederschrift &ouml;ffentlich_2011_09_15_WF</a>
+</td><td class="smc_doc smcdocname" title="Niederschrift &ouml;ffentlich_2011_09_15_WF&nbsp;Dateigr&ouml;sse: 74&nbsp;KB ">Niederschrift &ouml;ffentlich_2011_09_15_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">74&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr id="smcdocboxsi_1180_2" class="smcdocboxzip"><td><smctag_a href="phpziparchive.php?page=to0040&recall=__ksinr:1180&zip=371625473715292865781244536487343845437793115222636574405961723495154514" title="alle Dokumente zu dieser Sitzung zusammenfassen " ><smctag_img src="im/zip_create.gif" class="smcimg16" alt=" " title="Alle Dokumente zu dieser Sitzung werden in einer zip-Datei zusammengefasst. " border="0" id="smczipcontrol1"></td><td class="smcdocname">alle Dokumente zu dieser Sitzung zusammenfassen</td><td class="smcdocfunktionen">&nbsp;</td></tr></tbody></table><table id="smc_page_to0040_contenttable1" summary="Inhalt der Tabelle: Tagesordnungspunkte der Sitzung" class="smccontenttable smc_page_to0040_contenttable" cellspacing="0" cellpadding="0"><thead>
+<tr><th class="smc_th">TOP&nbsp;</th><th class="smc_th" colspan="4">Inhalt&nbsp;</th><th class="smc_th">&nbsp;</th><th class="smc_th">&nbsp;</th><th class="smc_th">Dokumente</th></tr></thead><tbody>
+<tr class="smcrowh"><td colspan="8"  class="smcrowh">&Ouml;ffentlicher Teil: </td></tr>
+
+<tr id="smc_contol_to_1_22516" valign="top"  class="smcrow1 smc_toph smc_toph0">
+<td  class="smcrow1 smc_toph smc_toph0"></td><td colspan="4"  class="smcrow1 smc_toph smc_toph0">Gesch&auml;ftsbereich Finanzen und Liegenschaften&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph0">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph0">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph0">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22659" valign="top"  class="smcrow2 smc_toph smc_toph0">
+<td  class="smcrow2 smc_toph smc_toph0"></td><td colspan="4"  class="smcrow2 smc_toph smc_toph0">Vergabebeschl&uuml;sse&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph0">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph0">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph0">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22518" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">1</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Beschlussvorlagen zu VOL-Vergaben&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22635" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">1.1</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Vergabe-Nr.: 02.2/077/11<br >Unterhalts-, Grund- und Glasreinigung f&uuml;r das BSZ f&uuml;r Bau und Technik, G&uuml;ntzstr. 3-5, 01069 Dresden&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4765&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 02.2/077/11 Unterhalts-, Grund- und Glasreinigung f&uuml;r das BSZ f&uuml;r Bau und Technik, G&uuml;ntzstr. 3-5, 01069 Dresden " class="smc_doc" >V1257/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074461.pdf" title="Beschlussausfertigung_V1257_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1257_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1257_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1257_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;10, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22658" valign="top"  class="smcrow1 smc_toph smc_toph2">
+<td  class="smcrow1 smc_toph smc_toph2">1.2</td><td colspan="4"  class="smcrow1 smc_toph smc_toph2">Vergabe-Nr.: 02.2/111/11<br >Unterhaltsreinigung und W&auml;scheverwaltung f&uuml;r die Kindertageseinrichtungen im Ortsamtsbereich Leuben des Eigenbetriebes Kindertageseinrichtungen Dresden&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4766&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 02.2/111/11 Unterhaltsreinigung und W&auml;scheverwaltung f&uuml;r die Kindertageseinrichtungen im Ortsamtsbereich Leuben " class="smc_doc" >V1258/11</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074462.pdf" title="Beschlussausfertigung_V1258_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1258_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1258_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1258_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz2"> Ja:&nbsp;10, Nein:&nbsp;0, Enthaltungen:&nbsp;1</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22657" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">1.3</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Vergabe-Nr.: 02.2/113/11<br >Unterhaltsreinigung und W&auml;scheverwaltung f&uuml;r die Kindertageseinrichtungen im Ortsamtsbereich Klotzsche des Eigenbetriebes Kindertageseinrichtungen Dresden&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4767&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 02.2/113/11 Unterhaltsreinigung und W&auml;scheverwaltung f&uuml;r die Kindertageseinrichtungen im Ortsamtsbereich Klotzsche des Eigenbetriebes Kindertageseinrichtungen Dresden " class="smc_doc" >V1259/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074467.pdf" title="Beschlussausfertigung_V1259_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1259_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1259_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1259_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;9, Nein:&nbsp;0, Enthaltungen:&nbsp;2</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22632" valign="top"  class="smcrow1 smc_toph smc_toph2">
+<td  class="smcrow1 smc_toph smc_toph2">1.4</td><td colspan="4"  class="smcrow1 smc_toph smc_toph2">Vergabe-Nr.: 02.2/153/11<br >Ersatzbeschaffung von Komponenten f&uuml;r physiologische Patienten-&Uuml;berwachungsanlagen<br >Lieferung, Installation und Inbetriebnahme f&uuml;r das Krankenhaus Dresden-Friedrichstadt, St&auml;dtisches Klinikum&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4768&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 02.2/153/11 Ersatzbeschaffung von Komponenten f&uuml;r physiologische Patienten-&Uuml;berwachungsanlagen Lieferung, Installation und Inbetriebnahme f&uuml;r das Krankenhaus Dresden-Friedrichstadt, St&auml;dtisches Klinikum " class="smc_doc" >V1260/11</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074473.pdf" title="Beschlussausfertigung_V1260_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1260_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1260_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1260_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22519" valign="top"  class="smcrow2 smc_toph smc_toph1">
+<td  class="smcrow2 smc_toph smc_toph1">2</td><td colspan="4"  class="smcrow2 smc_toph smc_toph1">Beschlussvorlagen zu VOB-Vergaben&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22653" valign="top"  class="smcrow1 smc_toph smc_toph2">
+<td  class="smcrow1 smc_toph smc_toph2">2.1</td><td colspan="4"  class="smcrow1 smc_toph smc_toph2">Vergabe-Nr.: 02/11<br >Mittelschule Weixdorf, Alte Dresdner Stra&szlig;e 22, 01108 Dresden<br >Los 10 - Dachdecker-, Dachabdichtungs- und Dachklempnerarbeiten&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4769&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 02/11 Mittelschule Weixdorf, Alte Dresdner Stra&szlig;e 22, 01108 Dresden, Los 10 - Dachdecker-, Dachabdichtungs- und Dachklempnerarbeiten " class="smc_doc" >V1261/11</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074480.pdf" title="Beschlussausfertigung_V1261_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1261_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1261_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1261_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22631" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">2.2</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Vergabe-Nr.: 10/11<br >Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden BA 1 und 2a<br >Los 1.08 - Rohbau/Tiefbau&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4770&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 10/11 Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden BA 1 und 2a Los 1.08 - Rohbau/Tiefbau " class="smc_doc" >V1262/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074484.pdf" title="Beschlussausfertigung_V1262_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1262_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1262_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1262_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22674" valign="top"  class="smcrow1 smc_toph smc_toph2">
+<td  class="smcrow1 smc_toph smc_toph2">2.3</td><td colspan="4"  class="smcrow1 smc_toph smc_toph2">Vergabe-Nr.: 10/11<br >Sanierung Neues Rathaus Dresden, Dr. K&uuml;lz-Ring 19, 01067 Dresden, BA 1 und 2a <br >Los 1.09 - Stahlbau&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4771&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 10/11 Sanierung Neues Rathaus Dresden, Dr. K&uuml;lz-Ring 19, 01067 Dresden, BA 1 und 2a Los 1.09 - Stahlbau " class="smc_doc" >V1263/11</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074488.pdf" title="Beschlussausfertigung_V1263_11_Wf " class="smcdoccontrol1" >Beschlussausfertigung_V1263_11_Wf</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1263_11_Wf&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1263_11_Wf <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22629" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">2.4</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Vergabe-Nr.: 10/11<br >Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden BA 1 und 2a<br >Los 1.14 - Dachdecker, Zimmerer&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4772&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 10/11 Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden BA 1 und 2a Los 1.14 - Dachdecker, Zimmerer " class="smc_doc" >V1264/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074492.pdf" title="Beschlussausfertigung_V1264_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1264_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1264_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1264_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22675" valign="top"  class="smcrow1 smc_toph smc_toph2">
+<td  class="smcrow1 smc_toph smc_toph2">2.5</td><td colspan="4"  class="smcrow1 smc_toph smc_toph2">Vergabe-Nr.: 10/11<br >Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden, BA 1 und 2a<br >Los 1.17 - Natursteinarbeiten&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4773&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 10/11 Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden, BA 1 und 2a Los 1.17 - Natursteinarbeiten " class="smc_doc" >V1265/11</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074500.pdf" title="Beschlussausfertigung_V1265_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1265_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1265_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1265_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22627" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">2.6</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Vergabe-Nr.:10/11<br >Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden, BA 1 und 2a<br >Los 1.39 - Aufz&uuml;ge&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4774&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.:10/11 Sanierung Neues Rathaus Dresden, Dr.-K&uuml;lz-Ring 19, 01067 Dresden, BA 1 und 2a Los 1.39 - Aufz&uuml;ge " class="smc_doc" >V1266/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074504.pdf" title="Beschlussausfertigung_V1266_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1266_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1266_11_WF&nbsp;Dateigr&ouml;sse: 10&nbsp;KB ">Beschlussausfertigung_V1266_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">10&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22626" valign="top"  class="smcrow1 smc_toph smc_toph2">
+<td  class="smcrow1 smc_toph smc_toph2">2.7</td><td colspan="4"  class="smcrow1 smc_toph smc_toph2">Vergabe-Nr.: 0156/11<br >Komplettsanierung und Umbau, Kita Limbacher Weg 28 + 30, 01169 Dresden<br >Los 04 - Rohbauarbeiten (Neubau Verbinder)&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4775&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 0156/11 Komplettsanierung und Umbau, Kita Limbacher Weg 28 und 30, 01169 Dresden Los 04 - Rohbauarbeiten (Neubau Verbinder) " class="smc_doc" >V1267/11</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074508.pdf" title="Beschlussausfertigung_V1267_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1267_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1267_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1267_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz2"><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22625" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">2.8</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Vergabe-Nr.: 8053/11<br >HWRB Kaitzbach, Errichtung von HW-R&uuml;ckhalteanlagen zwischen Kaitz und Mockritz<br >(PHD I-027)<br >Los 1 - Erd- und Wasserbau&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4776&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: 8053/11 HWRB Kaitzbach, Errichtung von HW-R&uuml;ckhalteanlagen zwischen Kaitz und Mockritz (PHD I-027) Los 1 - Erd- und Wasserbau " class="smc_doc" >V1268/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074512.pdf" title="Beschlussausfertigung_V1268_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1268_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1268_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1268_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22517" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">3</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Beschlussvorlagen zu VOF-Vergaben&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22624" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">3.1</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Vergabe-Nr.: A0001/11 Neubau einer Schwimmhalle, Bautzner Landstra&szlig;e 92, 01324 Dresden, Planungsleistungen f&uuml;r Objektplanung Geb&auml;ude, Fachplanung Tragwerksplanung, Ausr&uuml;stung Technische Ausr&uuml;stung Anlagengruppen 1-5,7,8 und Beratungsleistungen Thermische Bauphysik&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4777&amp;voselect=1180" title="Vorlage anzeigen: Vergabe-Nr.: A0001/11 Neubau einer Schwimmhalle, Bautzner Landstra&szlig;e 92, 01324 Dresden, Planungsleistungen " class="smc_doc" >V1269/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074516.pdf" title="Beschlussausfertigung_V1269_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1269_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1269_11_WF&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V1269_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22661" valign="top"  class="smcrow1 smc_toph smc_toph2">
+<td  class="smcrow1 smc_toph smc_toph2">4.2</td><td colspan="4"  class="smcrow1 smc_toph smc_toph2">Offene Beschlussvorlagen aus 1-3&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22523" valign="top"  class="smcrow2 smc_toph smc_toph0">
+<td  class="smcrow2 smc_toph smc_toph0"></td><td colspan="4"  class="smcrow2 smc_toph smc_toph0">Gesch&auml;ftsbereich Wirtschaft&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph0">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph0">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph0">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22521" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">6</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Antr&auml;ge&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22529" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">6.1</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Transparenz bei st&auml;dtischen Vergaben verbessern - Losverfahren &ouml;ffentlich durchf&uuml;hren&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4433&amp;voselect=1180" title="Vorlage anzeigen: Transparenz bei st&auml;dtischen Vergaben verbessern - Losverfahren &ouml;ffentlich durchf&uuml;hren " class="smc_doc" >A0433/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00068369.pdf" title="Antrag FDP " class="smcdoccontrol1" >Antrag FDP</a>
+</td><td class="smc_doc smcdocname" title="Antrag FDP&nbsp;Dateigr&ouml;sse: 16&nbsp;KB ">Antrag FDP <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">16&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Vertagung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22520" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">7</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Beschlussvorlagen des Gesch&auml;ftsbereiches Wirtschaft&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_22605" valign="top"  class="smcrow2 smc_toph smc_toph2">
+<td  class="smcrow2 smc_toph smc_toph2">7.1</td><td colspan="4"  class="smcrow2 smc_toph smc_toph2">Ausschreibung von Dienstleistungskonzessionen f&uuml;r M&auml;rkte auf innerst&auml;dtischen Stra&szlig;en und Pl&auml;tzen w&auml;hrend der Adventszeit (Thematische Weihnachtsm&auml;rkte)&nbsp;<!--SMCINFO:to.bi.1.12.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph2"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=4460&amp;voselect=1180" title="Vorlage anzeigen: Ausschreibung von Dienstleistungskonzessionen f&uuml;r M&auml;rkte auf innerst&auml;dtischen Stra&szlig;en und Pl&auml;tzen w&auml;hrend der Adventszeit (Thematische Weinachtsm&auml;rkte) " class="smc_doc" >V1166/11</td><td  class="smcrow2 smc_toph smc_toph2">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph2"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00074451.pdf" title="Beschlussausfertigung_V1166_11_WF " class="smcdoccontrol1" >Beschlussausfertigung_V1166_11_WF</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V1166_11_WF&nbsp;Dateigr&ouml;sse: 17&nbsp;KB ">Beschlussausfertigung_V1166_11_WF <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">17&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00072767.pdf" title="Vorlage Gremien " class="smcdoccontrol1" >Vorlage Gremien</a>
+</td><td class="smc_doc smcdocname" title="Vorlage Gremien&nbsp;Dateigr&ouml;sse: 17&nbsp;KB ">Vorlage Gremien <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">17&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00069358.pdf" title="Stellungnahme FB " class="smcdoccontrol1" >Stellungnahme FB</a>
+</td><td class="smc_doc smcdocname" title="Stellungnahme FB&nbsp;Dateigr&ouml;sse: 15&nbsp;KB ">Stellungnahme FB <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">15&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00072517.pdf" title="Anlage 1(a bis g) " class="smcdoccontrol1" >Anlage 1(a bis g)</a>
+</td><td class="smc_doc smcdocname" title="Anlage 1(a bis g)&nbsp;Dateigr&ouml;sse: 2&nbsp;MB ">Anlage 1(a bis g) <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">2&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00071735.pdf" title="Anlage 2 (a bis g) Lagepl&auml;ne " class="smcdoccontrol1" >Anlage 2 (a bis g) Lagepl&auml;ne</a>
+</td><td class="smc_doc smcdocname" title="Anlage 2 (a bis g) Lagepl&auml;ne&nbsp;Dateigr&ouml;sse: 3&nbsp;MB ">Anlage 2 (a bis g) Lagepl&auml;ne <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">3&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00069360.pdf" title="Beschluss A0380 " class="smcdoccontrol1" >Beschluss A0380</a>
+</td><td class="smc_doc smcdocname" title="Beschluss A0380&nbsp;Dateigr&ouml;sse: 29&nbsp;KB ">Beschluss A0380 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">29&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00069361.pdf" title="Beschluss V0714 " class="smcdoccontrol1" >Beschluss V0714</a>
+</td><td class="smc_doc smcdocname" title="Beschluss V0714&nbsp;Dateigr&ouml;sse: 74&nbsp;KB ">Beschluss V0714 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">74&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00069342.pdf" title="Stellungnahme GSB " class="smcdoccontrol1" >Stellungnahme GSB</a>
+</td><td class="smc_doc smcdocname" title="Stellungnahme GSB&nbsp;Dateigr&ouml;sse: 27&nbsp;KB ">Stellungnahme GSB <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">27&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00069743.pdf" title="Stellungnahme_BMB " class="smcdoccontrol1" >Stellungnahme_BMB</a>
+</td><td class="smc_doc smcdocname" title="Stellungnahme_BMB&nbsp;Dateigr&ouml;sse: 53&nbsp;KB ">Stellungnahme_BMB <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">53&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00072916.pdf" title="V1166/11 " class="smcdoccontrol1" >V1166/11</a>
+</td><td class="smc_doc smcdocname" title="V1166/11&nbsp;Dateigr&ouml;sse: 5&nbsp;MB ">V1166/11 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">5&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz2">Zustimmung mit &Auml;nderung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz2"><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz2"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz2">&nbsp;</td></tr></tbody></table></body></html>

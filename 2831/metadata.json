@@ -1,0 +1,53 @@
+{
+  "id": "OSR WX/040/2013",
+  "description": "40. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2013-01-28T17:00:00Z",
+  "ended_at": "2013-01-28T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht zur Umsetzung der Beschlüsse V-WX0032/11 und V-WX0042/12 (Baumpflanzungen)BE: Amt für Stadtgrün und Abfallwirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsvorstehers- Information zum Doppelhaushalt 2013/2014- Information zur Gründung der Bäder GmbH",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00121047.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00122036.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00121981.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:30:30Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2831"
+}

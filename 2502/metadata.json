@@ -1,0 +1,42 @@
+{
+  "id": "FL/079/2013",
+  "description": "79. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2013-06-10T14:00:00Z",
+  "ended_at": null,
+  "location": "Sitzung fällt aus!!!",
+  "parts": [
+    {
+      "description": "Umverteilung von Planansätzen bezüglich des Haushaltsjahres 2013 für das Fördergebiet \"Soziale Stadt Prohlis\" und \"Städtebaulicher Denkmalschutz Hellerau\"",
+      "template_id": "V2225/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2225/13",
+          "file_name": "00137658.pdf"
+        },
+        {
+          "description": "V2225/13",
+          "file_name": "00132536.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00132146.pdf"
+        },
+        {
+          "description": "Anlage_ Darstellung der Veränderungen_NEU",
+          "file_name": "00131507.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00134079.pdf",
+      "description": "Einladung_FL_2013_06_10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:54:28Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2502"
+}

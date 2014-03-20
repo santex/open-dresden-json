@@ -1,0 +1,121 @@
+{
+  "id": "OSR AF/013/2010",
+  "description": "13. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2010-09-13T17:00:00Z",
+  "ended_at": "2010-09-13T18:05:00Z",
+  "location": "Ortschaftszentrum Altfranken, Otto-Harzer-Str. 2 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung der Protokollführerin für die Besetzung der Schiedsstelle Cotta-Bereich Gorbitz (einschl. Altfranken)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Erhalt und Entwicklung eines strukturreichen Altbaumbestandes auf dem Gebiet der Landeshauptstadt Dresden",
+      "template_id": "A0205/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0205/10",
+          "file_name": "00061090.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00033428.pdf"
+        },
+        {
+          "description": "205_Anlage",
+          "file_name": "00033436.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Stellungnahme zur Bestandssicherung des Grundstückes Flurst.-Nr. 1/4 der Gemarkung Altfranken (Ortschaftszentrum)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur Einfriedung des Grundstückes Flurst.-Nr. 1/4 der Gemarkung Altfranken (Ortschaftszentrum)",
+      "template_id": "V-AF0019/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Lokales Handlungsprogramm für Ordnung und Sauberkeit in Dresden",
+      "template_id": "A0190/10",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00031143.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Widerspruch der Landeshauptstadt Dresden gegen Verwendung personenbezogener Daten durch \"Google Streetview\"",
+      "template_id": "A0207/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0207_10",
+          "file_name": "00057363.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00033437.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00040700.pdf",
+      "description": "Einladung_OSR AF"
+    },
+    {
+      "file_name": "00041501.pdf",
+      "description": "Beschlussausfertigung_V-AF0017/10"
+    },
+    {
+      "file_name": "00041548.pdf",
+      "description": "Beschlussausfertigung_V-AF0018/10"
+    },
+    {
+      "file_name": "00041623.pdf",
+      "description": "Beschlussausfertigung_V-AF0019/10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:11:05Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=475"
+}

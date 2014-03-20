@@ -1,0 +1,179 @@
+{
+  "id": "WF/019/2010",
+  "description": "19. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2010-10-14T14:00:00Z",
+  "ended_at": "2010-10-14T18:10:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/061/10 Unterhaltsreinigung und Wäscheverwaltung für die Kindertageseinrichtungen des Eigenbetriebes Kindertageseinrichtungen Dresden, OA Prohlis",
+      "template_id": "V0768/10",
+      "documents": [
+
+      ],
+      "decision": "zurückgestellt",
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/122/10 Rahmenvertrag zur Reinigung der Straßenentwässerungsanlagen der Landeshauptstadt Dresden Los: 1",
+      "template_id": "V0770/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/122/10 Rahmenvertrag zur Reinigung der Straßenentwässerungsanlagen der Landeshauptstadt Dresden Los: 3",
+      "template_id": "V0772/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/122/10 Rahmenvertrag zur Reinigung der Straßenentwässerungsanlagen der Landeshauptstadt Dresden Los: 5",
+      "template_id": "V0774/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/122/10 Rahmenvertrag zur Reinigung der Straßenentwässerungsanlagen der Landeshauptstadt Dresden Los: 7",
+      "template_id": "V0776/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/122/10 Rahmenvertrag zur Reinigung der Straßenentwässerungsanlagen der Landeshauptstadt Dresden Los: 9",
+      "template_id": "V0778/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Anträge in der Zuständigkeit des Geschäftsbereiches Wirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Eröffnung \"Advent auf dem Neumarkt\"",
+      "template_id": "A0276/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00043530.pdf",
+      "description": "Einladung_WF_2010_10_14"
+    },
+    {
+      "file_name": "00043796.pdf",
+      "description": "Nachtrag_WF_2010_10_14"
+    },
+    {
+      "file_name": "00044754.pdf",
+      "description": "Beschlussausfertigung_A0172_10_WF"
+    },
+    {
+      "file_name": "00044778.pdf",
+      "description": "Beschlussausfertigung_A0276_10_WF"
+    },
+    {
+      "file_name": "00044847.pdf",
+      "description": "Beschlussausfertigung_V0770_10_WF"
+    },
+    {
+      "file_name": "00044850.pdf",
+      "description": "Beschlussausfertigung_V0771_10_WF"
+    },
+    {
+      "file_name": "00044852.pdf",
+      "description": "Beschlussausfertigung_V0772_10_WF"
+    },
+    {
+      "file_name": "00044853.pdf",
+      "description": "Beschlussausfertigung_V0773_10_WF"
+    },
+    {
+      "file_name": "00044854.pdf",
+      "description": "Beschlussausfertigung_V0774_10_WF"
+    },
+    {
+      "file_name": "00044855.pdf",
+      "description": "Beschlussausfertigung_V0775_10_WF"
+    },
+    {
+      "file_name": "00044856.pdf",
+      "description": "Beschlussausfertigung_V0776_10_WF"
+    },
+    {
+      "file_name": "00044857.pdf",
+      "description": "Beschlussausfertigung_V0777_10_WF"
+    },
+    {
+      "file_name": "00044858.pdf",
+      "description": "Beschlussausfertigung_V0778_10_WF"
+    },
+    {
+      "file_name": "00045545.pdf",
+      "description": "Beschlussausfertigung_V0779_10_WF"
+    },
+    {
+      "file_name": "00045304.pdf",
+      "description": "Niederschrift öffentlich_WF_2010_10_14"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:13:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=661"
+}

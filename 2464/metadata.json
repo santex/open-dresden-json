@@ -1,0 +1,50 @@
+{
+  "id": "K/055/2013",
+  "description": "55. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2013-04-23T14:00:00Z",
+  "ended_at": "2013-04-23T15:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Mehrjahres-/Leistungsvereinbarungen 2013 - 2015",
+      "template_id": "V2168/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2168/13_K",
+          "file_name": "00129976.pdf"
+        },
+        {
+          "description": "V2168/13 ö",
+          "file_name": "00128514.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00128046.pdf"
+        },
+        {
+          "description": "bereits gefasster Beschlüsse V1329-11 und V1932-12",
+          "file_name": "00125580.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00128257.pdf",
+      "description": "Einladung_K_2013_04_23"
+    },
+    {
+      "file_name": "00130149.pdf",
+      "description": "Niederschrift öffentlich_K_2013_04_23"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:47:37Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2464"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "OBR Co/021/2011",
+  "description": "21. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2011-11-24T16:00:00Z",
+  "ended_at": "2011-11-24T18:15:00Z",
+  "location": "m Ortsamt Cotta, großer Sitzungssaal, 2. Etage, Raum 201,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einrichtung der 38. Grundschule und eines Hortes am Standort Saalhausener Straße 61, 01159 Dresden, zum 1. August 2012",
+      "template_id": "V1251/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1251/11",
+          "file_name": "00084006.pdf"
+        },
+        {
+          "description": "V1251/11",
+          "file_name": "00077036.pdf"
+        },
+        {
+          "description": "V1251/11 - geänderte Beratungsfolge",
+          "file_name": "00078895.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00078446.pdf"
+        },
+        {
+          "description": "Anlage 1 V1251/11",
+          "file_name": "00072532.pdf"
+        },
+        {
+          "description": "Anlage 2 V1251/11",
+          "file_name": "00072533.pdf"
+        },
+        {
+          "description": "Beschlüsse",
+          "file_name": "00073525.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB V1251/11",
+          "file_name": "00075210.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 18",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00079754.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00082941.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:16:14Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1389"
+}

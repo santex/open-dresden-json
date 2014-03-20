@@ -1,0 +1,39 @@
+{
+  "id": "AV/070/2013",
+  "description": "70. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "committee": "Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "started_at": "2013-03-25T14:30:00Z",
+  "ended_at": "2013-03-25T15:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 3, 3. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00126104.pdf",
+      "description": "Einladung_AV_2013_03_25"
+    },
+    {
+      "file_name": "00127181.pdf",
+      "description": "Beschlussempfehlung_V2108/13_AV"
+    },
+    {
+      "file_name": "00127853.pdf",
+      "description": "Niederschrift öffentlich_AV_2013_03_25"
+    },
+    {
+      "file_name": "00127196.pdf",
+      "description": "Festlegungen und Aufträge_AV_2013_03_25"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:45:15Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2448"
+}

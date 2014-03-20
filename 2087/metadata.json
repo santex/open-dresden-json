@@ -1,0 +1,120 @@
+{
+  "id": "OBR Lo/024/2012",
+  "description": "24. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2012-04-18T15:00:00Z",
+  "ended_at": "2012-04-18T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum, 2. Etage,Grundstraße 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 23. Ortsbeiratssitzung am 21.03.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 372, Dresden-Wachwitz Nr. 2, Wachwitzer Bergstraßehier:\t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplanes",
+      "template_id": "V1359/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1359/11_SB",
+          "file_name": "00097886.pdf"
+        },
+        {
+          "description": "V1359/11",
+          "file_name": "00093501.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00080929.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00079325.pdf"
+        },
+        {
+          "description": "b) Geltungsbereich A3",
+          "file_name": "00080353.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Übersichtsplan",
+          "file_name": "00079327.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Förderung von Hochwassereigenvorsorge",
+      "template_id": "A0571/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00090992.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0571/12",
+          "file_name": "00105040.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - SPD",
+          "file_name": "00104698.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ratsinformationssystem für Bürgerinnen und Bürger",
+      "template_id": "A0591/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092888.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0591/12",
+          "file_name": "00102864.pdf"
+        },
+        {
+          "description": "BK_A0591/12",
+          "file_name": "00112253.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Anfragen der Bürger und des Ortsbeirates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00094362.pdf",
+      "description": "Einladung_OBR Lo"
+    },
+    {
+      "file_name": "00096122.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:42:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2087"
+}

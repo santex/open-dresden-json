@@ -1,0 +1,173 @@
+{
+  "id": "OBR Alt/025/2011",
+  "description": "25. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2011-10-06T15:30:00Z",
+  "ended_at": "2011-10-06T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Altstadt, Raum 100,Theaterstraße 11, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 695, Dresden-Altstadt II, Nahversorgungszentrum Straßburger Platzhier:\t1. Billigung des Entwurfs zum vorhabenbezogenen Bebauungsplan\t2. Billigung der Begründung zum vorhabenbezogenen Bebauungsplan-Entwurf\t3. Durchführung des Beteiligungsverfahrens zum vorhabenbezogenen \tBebauungsplan-Entwurf",
+      "template_id": "V1208-1/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1208-1/11_SB",
+          "file_name": "00079666.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00075149.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00075133.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00075134.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Blatt_ 1_Rechtsplan",
+          "file_name": "00075135.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Blatt_2_Grüngestaltungsplan_",
+          "file_name": "00075136.pdf"
+        },
+        {
+          "description": "e) Anlage 2_Blatt_3",
+          "file_name": "00075137.pdf"
+        },
+        {
+          "description": "f) Anlage 2_Blatt_4",
+          "file_name": "00075138.pdf"
+        },
+        {
+          "description": "g) Anlage 2_Blatt_5",
+          "file_name": "00075139.pdf"
+        },
+        {
+          "description": "h) Anlage 2_Blatt_6",
+          "file_name": "00075140.pdf"
+        },
+        {
+          "description": "i) Anlage 2_Blatt_7",
+          "file_name": "00075141.pdf"
+        },
+        {
+          "description": "j) Anlage 2_Blatt_8",
+          "file_name": "00075142.pdf"
+        },
+        {
+          "description": "k) Anlage 2_Blatt_9",
+          "file_name": "00075143.pdf"
+        },
+        {
+          "description": "l) Anlage 2_Blatt_10",
+          "file_name": "00075144.pdf"
+        },
+        {
+          "description": "m) Anlage 2_Blatt_11_V-LTK-01-M1_250_",
+          "file_name": "00075145.pdf"
+        },
+        {
+          "description": "n) Anlage 2_Blatt_12_A100VK17_110408_",
+          "file_name": "00075146.pdf"
+        },
+        {
+          "description": "o) Anlage 3_Begründung",
+          "file_name": "00075147.pdf"
+        },
+        {
+          "description": "p) bereits gefasste Beschlüsse",
+          "file_name": "00075148.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 12",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Information zur städtischen \"Blauen Tonne\"Zuständig: Amt für Stadtgrün und Abfallwirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Standzeitverlängerung für den Informationspavillon der Gesellschaft Historischer Neumarkt",
+      "template_id": "A0457/11",
+      "documents": [
+        {
+          "description": "Antrag BürgerBündnis / Freie Bürger Fraktion",
+          "file_name": "00074382.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0457/11",
+          "file_name": "00080346.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Maßnahmen zu höherer Verkehrssicherheit in Striesen/Blasewitz/Johannstadt",
+      "template_id": "A0455/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00074273.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0455/11",
+          "file_name": "00083984.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kontrolle der Niederschriften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 24. Ortsbeiratssitzung am 13.09.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00075022.pdf",
+      "description": "Einladung_OBR Alt_06.10.2011"
+    },
+    {
+      "file_name": "00078056.pdf",
+      "description": "Niederschrift öffentlich_OBR Alt_06.10.2011"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:10:43Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1259"
+}

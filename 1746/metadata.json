@@ -1,0 +1,129 @@
+{
+  "id": "JHA/029/2012",
+  "description": "29. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2012-03-22T16:00:00Z",
+  "ended_at": "2012-03-22T18:55:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 26.01.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2012/2013",
+      "template_id": "V1389/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00085670.pdf"
+        },
+        {
+          "description": "Fachplan_gesamt",
+          "file_name": "00083758.pdf"
+        },
+        {
+          "description": "Beschluss V0938_11",
+          "file_name": "00080962.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - DIE LINKE",
+          "file_name": "00094181.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag - SPD",
+          "file_name": "00094183.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Schulnetzplanung aller 2 Jahre und mit jährlichem Monitoring",
+      "template_id": "A0529/12",
+      "documents": [
+
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Dresdner Präventionsprogramm gegen Gewalt im Umfeld des Fußballs",
+      "template_id": "A0491/11",
+      "documents": [
+        {
+          "description": "Antrag SPD - Änderung",
+          "file_name": "00095370.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0491/11",
+          "file_name": "00104963.pdf"
+        },
+        {
+          "description": "BK A0491/11 Abschlussbericht v. 2012-12-20",
+          "file_name": "00120559.pdf"
+        },
+        {
+          "description": "Ersetzungssantrag - CDU",
+          "file_name": "00104688.pdf"
+        }
+      ],
+      "decision": "Ersetzung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Zweckgebundene Verwendung von Mitteln aus dem Verkauf der Immobilie \"Haus der Jugend\", Wiener Straße 41",
+      "template_id": "A0580/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0580/12",
+          "file_name": "00093059.pdf"
+        },
+        {
+          "description": "Anlagen",
+          "file_name": "00090782.pdf"
+        },
+        {
+          "description": "Antrag Zweckgebundene Verwendung von Mitteln aus dem Verkauf der Immobilie Haus der Jugend",
+          "file_name": "00090781.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00090960.pdf",
+      "description": "Einladung_JH_2011_03_22"
+    },
+    {
+      "file_name": "00095636.pdf",
+      "description": "Niederschrift öffentlich_JH_2012_03_22"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:33:42Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1746"
+}

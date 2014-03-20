@@ -1,0 +1,98 @@
+{
+  "id": "K/015/2010",
+  "description": "15. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2010-06-08T14:00:00Z",
+  "ended_at": "2010-06-08T20:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kommunale Kulturförderung - Projektförderung 2. Halbjahr 2010",
+      "template_id": "V0597/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00031631.pdf"
+        },
+        {
+          "description": "a) Anlage 1 - Auflistung Projektförderung 2. Halbjahr 2010",
+          "file_name": "00030871.pdf"
+        },
+        {
+          "description": "b) Anlage 2- Kriterien Kommunale Kulturförderung",
+          "file_name": "00030872.pdf"
+        },
+        {
+          "description": "c) Anlage 3 - Beschluss V0233-09",
+          "file_name": "00030950.pdf"
+        },
+        {
+          "description": "d)Anlage 4 - Liste Projektförderung 2010 II. Halbjahr",
+          "file_name": "00031562.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB zu V0597",
+          "file_name": "00031616.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0597",
+          "file_name": "00031617.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Jury zur Verleihung des Dresdner Lyrikpreises 2010",
+      "template_id": "V0517/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00029430.pdf"
+        },
+        {
+          "description": "a) Anlage 1 zu V0517-10 - Besetzungsvorschlag Fachjuroren zur V",
+          "file_name": "00026208.pdf"
+        },
+        {
+          "description": "b) Anlage 2 zu V0517-10 - Statut zur Verleihung Dresdner Lyrikp",
+          "file_name": "00026209.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0517",
+          "file_name": "00027227.pdf"
+        },
+        {
+          "description": "Stgn. GLB zu V0517-10 v. 21.04.2010",
+          "file_name": "00028505.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00031921.pdf",
+      "description": "Einladung_K_2010_06_08"
+    },
+    {
+      "file_name": "00033072.pdf",
+      "description": "Beschlussausfertigung V0507/10"
+    },
+    {
+      "file_name": "00033099.pdf",
+      "description": "Beschlussausfertigung V0597/10"
+    },
+    {
+      "file_name": "00037128.pdf",
+      "description": "Niederschrift öffentlich_K_2010_06_08"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:04:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=613"
+}

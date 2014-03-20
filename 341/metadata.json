@@ -1,0 +1,58 @@
+{
+  "id": "OSR LB/010/2010",
+  "description": "10. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2010-04-13T16:32:00Z",
+  "ended_at": "2010-04-13T19:20:00Z",
+  "location": "Beratungsraum der Verwaltungsstelle LangebrückWeißiger Straße 501465 Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Termine",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00026703.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00055846.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:58:17Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=341"
+}

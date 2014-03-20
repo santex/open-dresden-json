@@ -1,0 +1,155 @@
+{
+  "id": "OSR WX/045/2013",
+  "description": "45. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2013-06-24T17:00:00Z",
+  "ended_at": "2013-06-24T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Übertragung des Waldbades Weixdorf an die Dresdner Bäder GmbH",
+      "template_id": "V2298/13",
+      "documents": [
+        {
+          "description": "V2298/13",
+          "file_name": "00135502.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00135302.pdf"
+        },
+        {
+          "description": "Anlagen V2298/13",
+          "file_name": "00133177.pdf"
+        },
+        {
+          "description": "Beschluss",
+          "file_name": "00133178.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB V2298/13",
+          "file_name": "00133587.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 12",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Entwurf zum Flächennutzungsplan der Landeshauptstadt Dresden in den Stadtgrenzen vom 1. Januar 1999hier:\t1. Billigung der Abwägung über die Stellungnahmen aus der frühzeitigen Beteiligung 2. Billigung des Entwurfes des Flächennutzungsplanes 3. Billigung der Begründung mit Umweltbericht zum Entwurf des Flächennutzungsplanes4. Öffentliche Auslegung des Entwurfes des Flächennutzungsplanes",
+      "template_id": "V1829/12",
+      "documents": [
+        {
+          "description": "V1829/12 ö",
+          "file_name": "00133482.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00132554.pdf"
+        },
+        {
+          "description": "b) bereits gefasste Beschlüsse_V1829",
+          "file_name": "00106470.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00109725.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Prioritätenprogramm zum Bau von Gehwegen im Dresdner Straßennetz",
+      "template_id": "V2224/13",
+      "documents": [
+        {
+          "description": "V2224/13",
+          "file_name": "00135000.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00134543.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00128933.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00128934.pdf"
+        },
+        {
+          "description": "c) Anlage 3",
+          "file_name": "00128935.pdf"
+        },
+        {
+          "description": "d) Anlage 4",
+          "file_name": "00128936.pdf"
+        },
+        {
+          "description": "e) Anlage 5",
+          "file_name": "00128937.pdf"
+        },
+        {
+          "description": "f) Anlage 6",
+          "file_name": "00128938.pdf"
+        },
+        {
+          "description": "g) Anlage 7",
+          "file_name": "00128939.pdf"
+        },
+        {
+          "description": "h) Anlage 8_Umschichtung Erg. Fin.-HH für 2013 2014",
+          "file_name": "00128940.pdf"
+        },
+        {
+          "description": "i) Anlage 9_neu",
+          "file_name": "00134105.pdf"
+        },
+        {
+          "description": "j) bereits gefasste Beschlüsse_V2224",
+          "file_name": "00128941.pdf"
+        },
+        {
+          "description": "k) bereits gefasster Beschluss V1898_zur V2224",
+          "file_name": "00128942.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00135757.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00136780.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00136820.pdf",
+      "description": "Übertragung des Waldbades Weixdorf an die Dresdner Bäder GmbH"
+    },
+    {
+      "file_name": "00136739.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:57:11Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2836"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "OBR Neu/023/2011",
+  "description": "23. Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2011-08-30T15:30:00Z",
+  "ended_at": "2011-08-30T20:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Neustadt, Bürgersaal,Hoyerswerdaer Straße 3, 01099 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Erhalt der Bebauung des Regierungsviertels Albertstraße 1 und 2 prüfen18:00 Uhr",
+      "template_id": "A0417/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00073656.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0417/11",
+          "file_name": "00079170.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ausbau der Königsbrücker Straße - Veränderung der Planfeststellungsunterlagen zur Herstellung der Förderfähigkeit im Abschnitt zwischen dem Albertplatz und der Stauffenbergallee19:00 Uhr",
+      "template_id": "V1152/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1152/11",
+          "file_name": "00077636.pdf"
+        },
+        {
+          "description": "Anlage 1 zum Beschluss V1152/11",
+          "file_name": "00084005.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-10-29",
+          "file_name": "00114687.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 0. Anschreiben",
+          "file_name": "00116645.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 1. Variantenvergleich",
+          "file_name": "00117933.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 2. Verkehrssimulation",
+          "file_name": "00117928.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 3.1.1 Variante 5 Plan 1",
+          "file_name": "00117920.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 3.1.2 Variante 5 Plan 2",
+          "file_name": "00117921.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 3.1.3 Variante 5 Plan 3",
+          "file_name": "00117922.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 3.1.4 Variante 5 Plan 4",
+          "file_name": "00117923.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 4.1.1 Variante 7 Plan 1",
+          "file_name": "00117924.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 4.1.2 Variante 7 Plan 2",
+          "file_name": "00117925.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 4.1.3 Variante 7 Plan 3",
+          "file_name": "00117926.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2012-11-26 4.1.4 Variante 7 Plan 4",
+          "file_name": "00117927.pdf"
+        },
+        {
+          "description": "BK V1152/11 Zwischenbericht v. 2013-06-21",
+          "file_name": "00137040.pdf"
+        },
+        {
+          "description": "V1152/11",
+          "file_name": "00068470.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00068004.pdf"
+        },
+        {
+          "description": "Anlage 1 Lageplan 1-500",
+          "file_name": "00067886.pdf"
+        },
+        {
+          "description": "Anlage 2 Prognosebelegung",
+          "file_name": "00067887.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Kontrolle der Niederschriften zur 20. Ortsbeiratssitzung am 28.06.2011, 21. Ortsbeiratssitzung am 05.07.2011, 22. Ortsbeiratssitzung am 12.07.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00071222.pdf",
+      "description": "Einladung_OBR Neu"
+    },
+    {
+      "file_name": "00072763.pdf",
+      "description": "Niederschrift öffentlich_OBR Neu/23/2011"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:05:13Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1311"
+}

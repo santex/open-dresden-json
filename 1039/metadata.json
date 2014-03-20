@@ -1,0 +1,459 @@
+{
+  "id": "SR/023/2011",
+  "description": "23. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2011-01-27T15:00:00Z",
+  "ended_at": "2011-01-27T20:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Plenarsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden; Kommunalwahlkreis XII - Mandat Christlich Demokratische Union Deutschlands (CDU)",
+      "template_id": "V0912/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00053429.pdf"
+        },
+        {
+          "description": "Anlage_2_Auszug_Wahlergebnis",
+          "file_name": "00053415.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Lokales Handlungsprogramm für Ordnung und Sauberkeit in Dresden",
+      "template_id": "A0190/10",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00031143.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Zentralhaltestelle Kesselsdorfer Straße jetzt bauen",
+      "template_id": "A0017/09",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00003297.pdf"
+        },
+        {
+          "description": "BK A0017/09 Zwischenbericht v. 2012-10-19",
+          "file_name": "00114244.pdf"
+        },
+        {
+          "description": "BK A0017/09 Zwischenbericht v. 2013-02-05",
+          "file_name": "00123308.pdf"
+        },
+        {
+          "description": "BK A0017/09 Zwischenbericht v. 2013-06-21",
+          "file_name": "00137035.pdf"
+        },
+        {
+          "description": "A0017/09 (A0804)",
+          "file_name": "00003301.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 36",
+        "contra": " 32",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verbesserung der Parksituation im Kerngebiet der Äußeren Neustadt Dresden - Zuschuss für das Investitionsvorhaben Park- und Geschäftshaus Bautzner Straße 33 - 35",
+      "template_id": "V0784/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00043949.pdf"
+        },
+        {
+          "description": "Anlage Parkhaus",
+          "file_name": "00043428.pdf"
+        },
+        {
+          "description": "bereits gefasste Beschlüsse V0784",
+          "file_name": "00043431.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 56",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Drohender Grundschulnotstand in Dresden",
+      "template_id": "A0191/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00031142.pdf"
+        },
+        {
+          "description": "Anlage zum Antrag A0191/10 - Grundschulen",
+          "file_name": "00031225.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 32",
+        "contra": " 37",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Grundschulen im Grundschulbezirk Neustadt - Expertengruppe",
+      "template_id": "A0303/10",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00049355.pdf"
+        },
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00049093.pdf"
+        }
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Leuben",
+      "template_id": "A0311/10",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00050338.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 61",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Pieschen",
+      "template_id": "A0314/10",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00051107.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 62",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Strategisches Personalentwicklungskonzept der Stadtverwaltung Dresden",
+      "template_id": "V0424/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0424/10",
+          "file_name": "00056897.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00049444.pdf"
+        },
+        {
+          "description": "Anlage 1 V0424/10",
+          "file_name": "00044971.pdf"
+        },
+        {
+          "description": "Anlage 2 V0424/10",
+          "file_name": "00020238.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB V0424/10",
+          "file_name": "00022340.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Wahl des von der Landeshauptstadt Dresden zu bestellenden Vorstandsmitgliedes im Heinrich-Schütz-Konservatorium Dresden e. V.",
+      "template_id": "V0639/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0639/10",
+          "file_name": "00056936.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00044919.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Beschluss V3191-SR83-09",
+          "file_name": "00034475.pdf"
+        },
+        {
+          "description": "b) Anlage 2 Satzung HSKD e.V.",
+          "file_name": "00034476.pdf"
+        },
+        {
+          "description": "c) Anlage 3 Schreiben des Vorstandsvorsitzenden HSKD e.V",
+          "file_name": "00034477.pdf"
+        },
+        {
+          "description": "d) Anlage 4 - Genehmigung_Landesdirektion",
+          "file_name": "00043927.pdf"
+        }
+      ],
+      "decision": "erneute Beratung",
+      "vote_result": null
+    },
+    {
+      "description": "Neubenennung von Straßen",
+      "template_id": "V0870/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00051779.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Übersichtsplan",
+          "file_name": "00049198.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Bl. 1_Straßenordnungsplan",
+          "file_name": "00049199.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Bl. 2_OA Leuben",
+          "file_name": "00049200.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Bl. 1_Straßenordnungsplan",
+          "file_name": "00049201.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Bl. 2_OA Leuben",
+          "file_name": "00049202.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 63",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Konzept Kleingartenpark Hansastraße",
+      "template_id": "V0717/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00044293.pdf"
+        },
+        {
+          "description": "BK V0717/10 Zwischenbericht v. 2013-01-14",
+          "file_name": "00121015.pdf"
+        },
+        {
+          "description": "BK V0717/10 Zwischenbericht v. 2013-05-27",
+          "file_name": "00134750.pdf"
+        },
+        {
+          "description": "2010_09_03_12_12_19",
+          "file_name": "00040255.pdf"
+        },
+        {
+          "description": "V0746-SR21-05",
+          "file_name": "00038945.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 65",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Satzung der Landeshauptstadt Dresden über die Abfallwirtschaft (Abfallwirtschaftssatzung)",
+      "template_id": "V0818/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00049517.pdf"
+        },
+        {
+          "description": "Anlage Satzung der Landeshauptstadt Dresden über die Abfallwirt",
+          "file_name": "00046100.pdf"
+        },
+        {
+          "description": "Anlage Synopse zur Darstellung der Veränderungen",
+          "file_name": "00046101.pdf"
+        },
+        {
+          "description": "V0194/09",
+          "file_name": "00046104.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 66",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Erhalt und Entwicklung eines strukturreichen Altbaumbestandes auf dem Gebiet der Landeshauptstadt Dresden",
+      "template_id": "A0205/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0205/10",
+          "file_name": "00061090.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00033428.pdf"
+        },
+        {
+          "description": "205_Anlage",
+          "file_name": "00033436.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Baustein für ökologischen Stadtumbau - Passivhausstandard für stadteigene und städtisch genutzte Gebäude",
+      "template_id": "A0273/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0273/10",
+          "file_name": "00061112.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00041561.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00052968.pdf",
+      "description": "Einladung_SR_2011_01_27"
+    },
+    {
+      "file_name": "00054239.pdf",
+      "description": "Beschlussausfertigung_A0017/09"
+    },
+    {
+      "file_name": "00054244.pdf",
+      "description": "Beschlussausfertigung_A0188/10"
+    },
+    {
+      "file_name": "00054229.pdf",
+      "description": "Beschlussausfertigung_A0190/10"
+    },
+    {
+      "file_name": "00054141.pdf",
+      "description": "Beschlussausfertigung_A0191/10"
+    },
+    {
+      "file_name": "00054209.pdf",
+      "description": "Beschlussausfertigung_A0219/10"
+    },
+    {
+      "file_name": "00054231.pdf",
+      "description": "Beschlussausfertigung_A0253/10"
+    },
+    {
+      "file_name": "00054251.pdf",
+      "description": "Beschlussausfertigung_A0272/10"
+    },
+    {
+      "file_name": "00054146.pdf",
+      "description": "Beschlussausfertigung_A0311/10"
+    },
+    {
+      "file_name": "00054245.pdf",
+      "description": "Beschlussausfertigung_A0313/10"
+    },
+    {
+      "file_name": "00054246.pdf",
+      "description": "Beschlussausfertigung_A0314/10"
+    },
+    {
+      "file_name": "00054308.pdf",
+      "description": "Beschlussausfertigung_V0092/09"
+    },
+    {
+      "file_name": "00054285.pdf",
+      "description": "Beschlussausfertigung_V0577/10"
+    },
+    {
+      "file_name": "00054249.pdf",
+      "description": "Beschlussausfertigung_V0717/10"
+    },
+    {
+      "file_name": "00054132.pdf",
+      "description": "Beschlussausfertigung_V0784/10"
+    },
+    {
+      "file_name": "00054250.pdf",
+      "description": "Beschlussausfertigung_V0810/10"
+    },
+    {
+      "file_name": "00054413.pdf",
+      "description": "Beschlussausfertigung_V0818/10"
+    },
+    {
+      "file_name": "00054247.pdf",
+      "description": "Beschlussausfertigung_V0870/10"
+    },
+    {
+      "file_name": "00054248.pdf",
+      "description": "Beschlussausfertigung_V0881/10"
+    },
+    {
+      "file_name": "00054217.pdf",
+      "description": "Beschlussausfertigung_V0912/11"
+    },
+    {
+      "file_name": "00055603.pdf",
+      "description": "Niederschrift öffentlich_2011_01_27"
+    },
+    {
+      "file_name": "00056242.pdf",
+      "description": "NS öffentlich mit namentlicher Abstimmung_SR_2011_01_27"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:24:40Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1039"
+}

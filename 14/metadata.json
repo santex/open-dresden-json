@@ -1,0 +1,113 @@
+{
+  "id": "OBR Lo/001/2009",
+  "description": "1. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2009-10-14T15:00:00Z",
+  "ended_at": "2009-10-14T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum, 2. EtageGrundstraße 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Organisatorisches",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 193, Dresden-Rochwitz Nr. 2, Gönnsdorfer Straße/Rochwitzer Straßehier: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan",
+      "template_id": "V0071/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00003124.pdf"
+        },
+        {
+          "description": "Anlage 1-V0071",
+          "file_name": "00002958.pdf"
+        },
+        {
+          "description": "Anlage 2-V0071",
+          "file_name": "00002959.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung-V0071",
+          "file_name": "00002960.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 25, Dresden-Bühlau Nr. 4, Rochwitzer Straßehier: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan",
+      "template_id": "V0106/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00004088.pdf"
+        },
+        {
+          "description": "Anlage-Geltungsbereich",
+          "file_name": "00003842.pdf"
+        },
+        {
+          "description": "Anlage 2_Übersichtsplan",
+          "file_name": "00003843.pdf"
+        },
+        {
+          "description": "Beschluss_2865-71-1998",
+          "file_name": "00003845.pdf"
+        },
+        {
+          "description": "Beschluss_4031-SB-1999",
+          "file_name": "00003846.pdf"
+        },
+        {
+          "description": "Beschluss_76b-7-90",
+          "file_name": "00003844.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 5",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Anfragen, Hinweise",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00009007.pdf",
+      "description": "Einladung - OBR Lo"
+    },
+    {
+      "file_name": "00011252.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:43:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=14"
+}

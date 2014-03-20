@@ -1,0 +1,134 @@
+{
+  "id": "OBR Alt/012/2010",
+  "description": "12. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2010-09-09T15:30:00Z",
+  "ended_at": "2010-09-09T20:10:00Z",
+  "location": "im Umweltzentrum Dresden,Schützengasse 16-18, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Wahl einer Friedensrichterin / eines Friedensrichters für die Schiedsstelle Altstadt",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Projektvorstellung: Sanierung Nebengebäude des BSZ für Gastgewerbe, Wachsbleichstraße 6",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Geschäftsordnung für die Ortsbeiräte der Landeshauptstadt Dresden (GO-Ortsbeirat); Änderung der Geschäftsordnung des Stadtrates",
+      "template_id": "V0577/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00035729.pdf"
+        },
+        {
+          "description": "Anlage 1_GO-OBR",
+          "file_name": "00035532.pdf"
+        },
+        {
+          "description": "Anlage 2_Synopse",
+          "file_name": "00035531.pdf"
+        },
+        {
+          "description": "Beschluss_V0155_09",
+          "file_name": "00031723.pdf"
+        },
+        {
+          "description": "V2131-57-1997 (GO-Ortsbeirat)",
+          "file_name": "00031715.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 672, Stadtteilzentrum Friedrichstraße/Weißeritzstraßehier:\t1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan\t2. Grenzen des vorhabenbezogenen Bebauungsplanes",
+      "template_id": "V0674/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Lichtmasterplan Dresden Innenstadt",
+      "template_id": "V0188/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00038078.pdf"
+        },
+        {
+          "description": "Beschlussausfertigungen_V0188.pdf",
+          "file_name": "00007186.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Widerspruch der Landeshauptstadt Dresden gegen Verwendung personenbezogener Daten durch \"Google Streetview\"",
+      "template_id": "A0207/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0207_10",
+          "file_name": "00057363.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00033437.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 8",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00038845.pdf",
+      "description": "Einladung_OBR Alt_09.09.10"
+    },
+    {
+      "file_name": "00042610.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:10:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=324"
+}

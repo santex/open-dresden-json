@@ -1,0 +1,130 @@
+{
+  "id": "FL/066/2012",
+  "description": "66. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2012-10-08T14:00:00Z",
+  "ended_at": "2012-10-08T18:55:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Veräußerung von Teilflächen des Flurstückes 650/1 der Gemarkung Friedrichstadt",
+      "template_id": "V1462/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1462/12",
+          "file_name": "00111922.pdf"
+        },
+        {
+          "description": "Ergänzungen zur Vorlage V1462/12",
+          "file_name": "00116290.pdf"
+        },
+        {
+          "description": "V1462/12 - ohne Anlage 1",
+          "file_name": "00103966.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00103737.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00110483.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1462 12",
+          "file_name": "00085703.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB_V1462_12",
+          "file_name": "00086282.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Überplanmäßige Mittelbereitstellung zur Finanzierung von Leistungen und Aufgaben nach dem Kinder- und Jugendhilfegesetz (SGB VIII) im Bereich der erzieherischen Hilfen",
+      "template_id": "V1785/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1785/12",
+          "file_name": "00111926.pdf"
+        },
+        {
+          "description": "V1785/12",
+          "file_name": "00109767.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00109322.pdf"
+        },
+        {
+          "description": "Anlage 1_Berechnung des Mehrbedarfes der Wirtschaftlichen Hilfen im Jahr 2012",
+          "file_name": "00108614.pdf"
+        },
+        {
+          "description": "Anlage 2_Entwicklung der Fallzahlen und Jungeinwohner/-innen (0 bis unter 21 Jahre) in Dresden",
+          "file_name": "00105409.pdf"
+        },
+        {
+          "description": "Anlage 3_Leistungsdichte Hilfen insgesamt 2009 - 2011 (laufende Hilfen)",
+          "file_name": "00105410.pdf"
+        },
+        {
+          "description": "Anlage 4_Kosten erzieherische Hilfen pro Jungeinwohner (0 bis unter 21 Jahren) im Jahr 2011",
+          "file_name": "00105411.pdf"
+        },
+        {
+          "description": "Anlage 5_Deckung der Mehraufwendungen",
+          "file_name": "00108615.pdf"
+        },
+        {
+          "description": "Beschluss V0750/10",
+          "file_name": "00105413.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00111000.pdf",
+      "description": "Einladung_FL_2012_10_08"
+    },
+    {
+      "file_name": "00111938.pdf",
+      "description": "Beschlussempfehlung_A0626/12_FL"
+    },
+    {
+      "file_name": "00111930.pdf",
+      "description": "Beschlussempfehlung_V1672/12_FL"
+    },
+    {
+      "file_name": "00111927.pdf",
+      "description": "Beschlussempfehlung_V1679-01/12_FL"
+    },
+    {
+      "file_name": "00113523.pdf",
+      "description": "Niederschrift öffentlich"
+    },
+    {
+      "file_name": "00116507.pdf",
+      "description": "öff. Niederschrift - Anlage 1"
+    },
+    {
+      "file_name": "00116508.pdf",
+      "description": "öff. Niederschrift - Anlage 2"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:13:42Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1805"
+}

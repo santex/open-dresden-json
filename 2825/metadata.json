@@ -1,0 +1,95 @@
+{
+  "id": "OBR Pi/038/2013",
+  "description": "38. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2013-06-18T16:00:00Z",
+  "ended_at": "2013-06-18T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 37. Ortsbeiratssitzung am 14. Mai 2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 110.6, Dresden-Mickten Nr. 7, Wohnbebauung Sternstraßehier:1. Aufstellungsbeschluss Bebauungsplan2. Grenzen des räumlichen Geltungsbereichs des Bebauungsplanes 3. Verzicht auf frühzeitige Beteiligung der Öffentlichkeit",
+      "template_id": "V2294/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00137522.pdf"
+        },
+        {
+          "description": "V2294/13",
+          "file_name": "00135003.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00134493.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00133988.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Geltungsbereich",
+          "file_name": "00133989.pdf"
+        },
+        {
+          "description": "c) bereits gefasste Beschlüsse",
+          "file_name": "00133990.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Entwurf zum Flächennutzungsplan der Landeshauptstadt Dresden in den Stadtgrenzen vom 1. Januar 1999hier:\t1. Billigung der Abwägung über die Stellungnahmen aus der frühzeitigen Beteiligung 2. Billigung des Entwurfes des Flächennutzungsplanes 3. Billigung der Begründung mit Umweltbericht zum Entwurf des Flächennutzungsplanes4. Öffentliche Auslegung des Entwurfes des Flächennutzungsplanes",
+      "template_id": "V1829/12",
+      "documents": [
+        {
+          "description": "V1829/12 ö",
+          "file_name": "00133482.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00132554.pdf"
+        },
+        {
+          "description": "b) bereits gefasste Beschlüsse_V1829",
+          "file_name": "00106470.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00109725.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerbeteiligung stärken – Einrichtung einer Plattform für E-Petitionen auf der Stadt-Website",
+      "template_id": "A0722/13",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00129669.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00134531.pdf",
+      "description": "Einladung_OBR Pi"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:56:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2825"
+}

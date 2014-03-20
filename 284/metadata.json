@@ -1,0 +1,78 @@
+{
+  "id": "OSR OW/014/2010",
+  "description": "14. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2010-10-21T16:30:00Z",
+  "ended_at": "2010-10-21T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel 2010",
+      "template_id": "A-OW0010/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ausgabe der restlichen Verfügungsmittel 2010",
+      "template_id": "A-OW0012/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Weihnachtsmarkt Oberwartha",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00044506.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00045575.pdf",
+      "description": "Beschlussausfertigung Anfertigung von Schildern"
+    },
+    {
+      "file_name": "00045576.pdf",
+      "description": "Beschlussausfertigung Finanzmittel 2010"
+    },
+    {
+      "file_name": "00045577.pdf",
+      "description": "Beschlussausfertigung Umsetzung Beschluss Gestaltung Friedensplatz"
+    },
+    {
+      "file_name": "00047166.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:14:04Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=284"
+}

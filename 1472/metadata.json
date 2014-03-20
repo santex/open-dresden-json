@@ -1,0 +1,54 @@
+{
+  "id": "OSR AF/019/2011",
+  "description": "19. Sitzung des Ortschaftsrates Altfranken",
+  "committee": "Ortschaftsrat Altfranken",
+  "started_at": "2011-03-14T17:00:00Z",
+  "ended_at": "2011-03-14T19:15:00Z",
+  "location": "Ortschaftszentrum Altfranken, Sitzungssaal, Otto-Harzer-Str. 2 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung der Planung Fußweg Otto-Harzer-Straße, Richtung Pesterwitz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fehlende Pflege der Ausgleichsflächen entlang der Autobahn im Bereich der Altfrankener Höhe",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Abstellen von PKW ohne Kennzeichen auf der Rudolf-Walther-Straße",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00057364.pdf",
+      "description": "Einladung_OSR AF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:28:25Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1472"
+}

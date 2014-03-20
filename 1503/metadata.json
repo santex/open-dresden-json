@@ -1,0 +1,114 @@
+{
+  "id": "OSR SW/017/2011",
+  "description": "17. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2011-01-24T17:30:00Z",
+  "ended_at": "2011-01-24T20:11:00Z",
+  "location": "Landeshauptstadt Dresden,  im Fun Fun - Sport- und Vereinshaus Weißig, 1. Etage, Heinrich-Lange-Straße 37 in 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Flächennutzungsplan-Änderung Nr. 47, Ortschaft Schönfeld-Weißig, Bereich Bautzner Landstraße/Gewerbepark Weißighier:\t1. Billigung der Abwägung über die Stellungnahmen aus der frühzeitigen Beteiligung \t2. Beschluss zur Änderung des Geltungsbereiches der \tFlächennutzungsplan-Änderung \t3. Billigung des Entwurfes der Flächennutzungsplan-Änderung \t4. Billigung der Begründung mit Umweltbericht der Flächennutzungsplan-Änderung \t5. Beschluss zur öffentlichen Auslegung des Entwurfes der Flächennutzungsplan-\t  Änderung",
+      "template_id": "V0863/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00051902.pdf"
+        },
+        {
+          "description": "a) Anlage 1a_V0863",
+          "file_name": "00048617.pdf"
+        },
+        {
+          "description": "b) Anlage 1b_bl. 1_V0863",
+          "file_name": "00048618.pdf"
+        },
+        {
+          "description": "c) Anlage 1b_bl. 2_V0863",
+          "file_name": "00048619.pdf"
+        },
+        {
+          "description": "d) Anlage 1b_bl. 3_V0863",
+          "file_name": "00048620.pdf"
+        },
+        {
+          "description": "e) Anlage 1b_bl. 4_V0863",
+          "file_name": "00048621.pdf"
+        },
+        {
+          "description": "h) Anlage 2 Übersichtsplan_V0863",
+          "file_name": "00048624.pdf"
+        },
+        {
+          "description": "i) Anlage 3 Änd.Entwurf_V0863",
+          "file_name": "00048625.pdf"
+        },
+        {
+          "description": "j) Anlage 4 Begründung_V0863",
+          "file_name": "00048626.pdf"
+        },
+        {
+          "description": "k) bereits gefasster Beschluss_V0863",
+          "file_name": "00048645.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00049325.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ziele für die künftige Verkehrsentwicklung der Landeshauptstadt Dresden für den Zeithorizont 2025 und darüber hinaus (V0811/10)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Konzeptvorstellung des Vereins zur Förderung der Jugend e. V. zur Betreibung der Kindertagesstätte Hauptstraße 4 in Weißig",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00052484.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00054987.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:24:00Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1503"
+}

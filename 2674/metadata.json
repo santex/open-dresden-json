@@ -1,0 +1,72 @@
+{
+  "id": "WF/054/2012",
+  "description": "54. Sitzung des Ausschusses für Wirtschaftsförderung (Sondersitzung)",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-07-03T13:00:00Z",
+  "ended_at": "2012-07-03T13:30:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00037 Temporäre Kita Standorte (TKS) - Paket 01Heinrich-Mann-Str. 32/34, 01257 Dresden Gebäude Modulbauweise",
+      "template_id": "V1742/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1742_12_WF",
+          "file_name": "00103735.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-655-00042 Temporäre Kita Standorte (TKS) Paket 03 - Leutewitzer Ring 137a, 01169 Dresden/ Weidentalstraße, 01157 DresdenLos 01 - Gebäude Modulbauweise",
+      "template_id": "V1744/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1744_12_WF",
+          "file_name": "00103739.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Offene Beschlussvorlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00103425.pdf",
+      "description": "Einladung_WF_2012_07_03"
+    },
+    {
+      "file_name": "00104366.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_07_03"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:59:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2674"
+}

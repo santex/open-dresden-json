@@ -1,0 +1,76 @@
+{
+  "id": "OSR WX/037/2012",
+  "description": "37. Sitzung des Ortschaftsrates Weixdorf",
+  "committee": "Ortschaftsrat Weixdorf",
+  "started_at": "2012-10-15T17:00:00Z",
+  "ended_at": "2012-10-15T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Weixdorf, Sitzungssaal,Weixdorfer Rathausplatz 2, 01108 Dresden",
+  "parts": [
+    {
+      "description": "Bestätigung der Tagesordnung und Niederschrift der letzten Sitzung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Haushaltssatzung 2013/2014",
+      "template_id": "V1898/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1898/12",
+          "file_name": "00120306.pdf"
+        },
+        {
+          "description": "BK V1898/12 Abschlussbericht v. 2013-02-08",
+          "file_name": "00123358.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00110668.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag Herr Krien",
+          "file_name": "00120193.pdf"
+        },
+        {
+          "description": "Änderungsantrag Bündnis 90/Die Grünen",
+          "file_name": "00120191.pdf"
+        },
+        {
+          "description": "Änderungsantrag BürgerBündnis / Freie Bürger",
+          "file_name": "00120192.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsvorstehers",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00111583.pdf",
+      "description": "Einladung_OSR WX"
+    },
+    {
+      "file_name": "00113050.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00112759.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:16:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2114"
+}

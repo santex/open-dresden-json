@@ -1,0 +1,102 @@
+{
+  "id": "SB/010/2010",
+  "description": "10. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2010-03-24T14:00:00Z",
+  "ended_at": "2010-03-24T19:55:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Aufhebung des Bebauungsplans Nr. 28, Dresden-Leuben Nr. 2, Berthold-Haupt-Straßehier: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan",
+      "template_id": "V0406/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00020343.pdf"
+        },
+        {
+          "description": "a)Anlage 1_V0406",
+          "file_name": "00020069.pdf"
+        },
+        {
+          "description": "b)Anlage 2_V0406",
+          "file_name": "00020070.pdf"
+        },
+        {
+          "description": "c)Übersichtsplan A3",
+          "file_name": "00020071.pdf"
+        },
+        {
+          "description": "d)bereits gefasste Beschlüsse_V0406",
+          "file_name": "00020072.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 123.4, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platzhier:\t1. Aufstellungsbeschluss zur Änderung des Bebauungsplans Nr. 123, \tDresden-Altstadt Nr. 15, Prager Straße-Süd/Wiener Platz \t2. Grenzen des Änderungsbereiches\t3. Verzicht auf frühzeitige Beteiligung\t4. Billigung des Entwurfs zum Bebauungsplan\t5. Billigung der Begründung zum Bebauungsplan-Entwurf\t6. Öffentliche Auslegung des Entwurfs zum Bebauungsplan",
+      "template_id": "V0429/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00021365.pdf"
+        },
+        {
+          "description": "a)Anlage1_Geltungsbereich_V0429",
+          "file_name": "00020477.pdf"
+        },
+        {
+          "description": "b)Anlage2_Bl. 1_V0429",
+          "file_name": "00020478.pdf"
+        },
+        {
+          "description": "c)Anlage2_Bl. 2_V0429",
+          "file_name": "00020479.pdf"
+        },
+        {
+          "description": "d)Anlage3_Begründung_V0429",
+          "file_name": "00020480.pdf"
+        },
+        {
+          "description": "e)bereits gefasste Beschlüsse_V0429",
+          "file_name": "00020481.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00024593.pdf",
+      "description": "Einladung_SB_2010_03_24"
+    },
+    {
+      "file_name": "00024978.pdf",
+      "description": "Nachtrag_SB_2010_03_24"
+    },
+    {
+      "file_name": "00025768.pdf",
+      "description": "Beschlussausfertigung_V0406/10"
+    },
+    {
+      "file_name": "00025769.pdf",
+      "description": "Beschlussausfertigung_V0427/10"
+    },
+    {
+      "file_name": "00025770.pdf",
+      "description": "Beschlussausfertigung_V0454/10"
+    },
+    {
+      "file_name": "00025869.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:57:31Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=573"
+}

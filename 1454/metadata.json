@@ -1,0 +1,157 @@
+{
+  "id": "OBR Pi/018/2011",
+  "description": "18. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2011-06-28T16:00:00Z",
+  "ended_at": "2011-06-28T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Ordnung und Sicherheit im Ortsamtsgebiet Pieschen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 682, Dresden-Pieschen, Einkaufszentrum Großenhainer Straßehier:\t1. Grenzen des vorhabenbezogenen Bebauungsplans\t2. Billigung des Entwurfs zum vorhabenbezogenen Bebauungsplan \t3. Billigung der Begründung zumvorhabenbezogenen Bebauungsplan-Entwurf\t4. Durchführung des Beteiligungsverfahrens zum vorhabenbezogenen \tBebauungsplan-Entwurf",
+      "template_id": "V1131/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1131_11_SB",
+          "file_name": "00068181.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00066578.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00066536.pdf"
+        },
+        {
+          "description": "b) Anlage 2_übersichtsplan grenzänderung",
+          "file_name": "00066537.pdf"
+        },
+        {
+          "description": "c) Anlage 3_bl1_ 2011-05-25",
+          "file_name": "00066538.pdf"
+        },
+        {
+          "description": "d) Anlage 3_bl2_ 2011-05-25_legende",
+          "file_name": "00066539.pdf"
+        },
+        {
+          "description": "e) Anlage 3_bl3_2011-05-25_festsetzungen",
+          "file_name": "00066540.pdf"
+        },
+        {
+          "description": "f) Anlage 3_bl4_2011-05-25_freiflaechenplan",
+          "file_name": "00066541.pdf"
+        },
+        {
+          "description": "g) Anlage 3_bl5_2011-05-25_Grundrisse Schnitte",
+          "file_name": "00066542.pdf"
+        },
+        {
+          "description": "h) Anlage 3_bl6_2011-05-25_ansichten",
+          "file_name": "00066543.pdf"
+        },
+        {
+          "description": "i) Anlage 3_bl7_2011-05-25_ansichten",
+          "file_name": "00066544.pdf"
+        },
+        {
+          "description": "j) Anlage 3_bl8_2011-05-25_perspektive",
+          "file_name": "00066545.pdf"
+        },
+        {
+          "description": "k) Anlage 3_bl9_2011-05-25_erschließung",
+          "file_name": "00066546.pdf"
+        },
+        {
+          "description": "l) Anlage 4_ Begründung 2011-05-25",
+          "file_name": "00066547.pdf"
+        },
+        {
+          "description": "m) bereits gef. Beschluss",
+          "file_name": "00066548.pdf"
+        },
+        {
+          "description": "V1131/11",
+          "file_name": "00071792.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 377, Dresden-Pieschen Nr. 6, Heidestraßehier: \t1. Aufstellungsbeschluss Bebauungsplan\t2. Grenzen des Bebauungsplanes",
+      "template_id": "V1072/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1072/11_SB",
+          "file_name": "00072138.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00064165.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00063106.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Übersichtsplan_A4",
+          "file_name": "00063107.pdf"
+        },
+        {
+          "description": "V1072/11",
+          "file_name": "00064493.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 13",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat/Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00067050.pdf",
+      "description": "Einladung_OBR Pi"
+    },
+    {
+      "file_name": "00068057.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:55:56Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1454"
+}

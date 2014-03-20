@@ -1,0 +1,122 @@
+{
+  "id": "SB/003/2009",
+  "description": "3. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2009-10-07T14:00:00Z",
+  "ended_at": "2009-10-07T18:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Technischen Rathaus, Beratungsraum, 4. Etage, Raum 4014Hamburger Straße 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 345, Dresden-Klotzsche Nr. 10, Dörnichtweg/Putbuser Weg,hier: \t1. Aufstellungsbeschluss für den Bebauungsplan\t2. Grenzen des Bebauungsplans",
+      "template_id": "V0002/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00002275.pdf"
+        },
+        {
+          "description": "Anl1_Geltungsbereich",
+          "file_name": "00002056.pdf"
+        },
+        {
+          "description": "Anlage 2 zur vorlage_Übersichtsplan",
+          "file_name": "00002057.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 194 A, Dresden-Friedrichstadt Nr. 9, Ehemaliges Kontorhaushier:\t1. Billigung des Entwurfs zum Bebauungsplan\t2. Billigung der Begründung zum Bebauunsplan-Entwurf\t3. Öffentliche Auslegung des Entwurfs zum Bebauungsplan",
+      "template_id": "V0005/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00002779.pdf"
+        },
+        {
+          "description": "Anlage 2_Begründung 04.04.2009",
+          "file_name": "00002127.pdf"
+        },
+        {
+          "description": "Anlage zur Vorlagenbegründung",
+          "file_name": "00002129.pdf"
+        },
+        {
+          "description": "Anlage1_Blatt 1",
+          "file_name": "00002125.pdf"
+        },
+        {
+          "description": "Anlage1_Blatt 2",
+          "file_name": "00002126.pdf"
+        },
+        {
+          "description": "bereits gefasste Beschlüsse",
+          "file_name": "00002128.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 5",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 1.3, Dresden-Hellerau Nr. 2, Rähnitz, 3. Änderung zum Bebauungsplan Nr. 1hier: Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan",
+      "template_id": "V0054/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00003106.pdf"
+        },
+        {
+          "description": "A.2.3_Anlage_Geltungsbereich",
+          "file_name": "00002736.pdf"
+        },
+        {
+          "description": "A.2.4_Anlage_Übersichtsplan",
+          "file_name": "00002737.pdf"
+        },
+        {
+          "description": "bereits gefasste Beschlüsse",
+          "file_name": "00002738.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00008526.pdf",
+      "description": "Einladung_SB_2009_10_07"
+    },
+    {
+      "file_name": "00009959.pdf",
+      "description": "Beschlussausfertigung_V0002/09"
+    },
+    {
+      "file_name": "00009643.pdf",
+      "description": "Beschlussausfertigung_V0054/09"
+    },
+    {
+      "file_name": "00009644.pdf",
+      "description": "Beschlussausfertigung_V0197/09"
+    },
+    {
+      "file_name": "00009816.pdf",
+      "description": "Niederschrift öffentlich_2009_10_07_SB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:42:29Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=112"
+}

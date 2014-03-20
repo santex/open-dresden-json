@@ -1,0 +1,93 @@
+{
+  "id": "WF/040/2011",
+  "description": "40. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2011-10-06T14:00:00Z",
+  "ended_at": "2011-10-06T17:20:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlussvorlagen zu VOL-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr.: 2011-104-00002, Übergangswohnheim Hubertusstraße 36c, Betreibung eines Übergangswohnheimes",
+      "template_id": "V1292/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1292_11_WF",
+          "file_name": "00076743.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/124/11, Lieferung von Einsatzfahrzeugen für den Rettungsdienst des Brand- und Katastrophenschutzamtes der Landeshauptstadt Dresden, Los 3: 10 Rettungswagen MANV",
+      "template_id": "V1294/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_2011_10_06_WF",
+          "file_name": "00076745.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Geschäftsbereich Wirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Transparenz bei städtischen Vergaben verbessern - Losverfahren öffentlich durchführen",
+      "template_id": "A0433/11",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00068369.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00075376.pdf",
+      "description": "Einladung_WF_2011_10_06"
+    },
+    {
+      "file_name": "00077100.pdf",
+      "description": "Niederschrift öffentlich_WF_2011_10_06"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:10:01Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1192"
+}

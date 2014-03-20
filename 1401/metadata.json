@@ -1,0 +1,69 @@
+{
+  "id": "OBR Bl/020/2011",
+  "description": "20. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2011-10-19T15:30:00Z",
+  "ended_at": "2011-10-19T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 19. Ortsbeiratssitzung am 28.09.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Maßnahmen zu höherer Verkehrssicherheit in Striesen/Blasewitz/Johannstadt",
+      "template_id": "A0455/11",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00074273.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0455/11",
+          "file_name": "00083984.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 9",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Terminplanung für Ortsbeiratssitzungen im Jahr 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00076914.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00079575.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:11:59Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1401"
+}

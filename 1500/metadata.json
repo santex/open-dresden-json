@@ -1,0 +1,72 @@
+{
+  "id": "OSR MB/028/2011",
+  "description": "28. Sitzung des Ortschaftsrates Mobschatz",
+  "committee": "Ortschaftsrat Mobschatz",
+  "started_at": "2011-10-13T17:30:00Z",
+  "ended_at": "2011-10-13T19:05:00Z",
+  "location": "Landeshauptstadt Dresden,  im \"Dorfklub Mobschatz\", Sitzungssaal,Am Tummelsgrund 7 b, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Termine für öffentliche Sitzungen des Ortschaftsrates Mobschatz im Jahr 2012",
+      "template_id": "V-MB0050/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur Ausstattung des Dorfklubs Mobschatz mit Tischen und Stühlen und Bereitstellung der finanziellen Mittel aus den Verfügungsmitteln des Ortschaftsrates Mobschatz",
+      "template_id": "V-MB0052/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Freigabe von finanziellen Mitteln aus den Verfügungsmitteln des Ortschaftsrates Mobschatz für das Vorrichten (Wandanstrich) im Dorfklub Mobschatz",
+      "template_id": "V-MB0054/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Freigabe von finanziellen Mitteln aus der Investitionspauschale Mobschatz für die Anschaffung einer Podestleiter zur Unterstützung der Grünschnittannahme im Bauhof Mobschatz (Lagerplatz)",
+      "template_id": "V-MB0056/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgeranfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00076584.pdf",
+      "description": "Einladung_OSR MB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:11:48Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1500"
+}

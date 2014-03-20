@@ -1,0 +1,76 @@
+{
+  "id": "OSR LB/023/2011",
+  "description": "23. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2011-05-17T16:32:00Z",
+  "ended_at": "2011-05-17T20:00:00Z",
+  "location": "Beratungsraum der Verwaltungsstelle LangebrückWeißiger Str. 501465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Besetzung der Schiedsstelle Klotzsche mit einer Friedensrichterin/ einem Friedensrichter",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht über Bau-, Flächen- und Naturdenkmäler in der Ortschaft Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht über die in der Zeit vom 01.01.1999 bis zum 31.12.2011 durch das Liegenschaftsamt veräußerten oder erworbene Grundstücke in der Ortschaft Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Termine",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00063315.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00069272.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:45:38Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1485"
+}

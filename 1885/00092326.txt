@@ -1,0 +1,1782 @@
+4A
+
+BR
+
+0
+F3
+
+ETre200
+A = pp d
+25 e
+.1
+
+-2.
+4
+
+E2
+Ab 00 a
+A = ste
+37 llen
+.0
+
+m2
+
+F9
+
+RS
+
+>1
+.
+> 2 80
+.25
+
+0A
++M
+
+24
+
+sh. Detail
+D6_FB602-
+
+k
+
+Detailhinweis
+
+T3
+FS 0 RS
+A
+
+TV
+Sc
+ha
+
+ste
+n
+
+t
+
+5H
+
+2
+
+ska
+
+el
+
+lus
+
+ieg
+
+An
+sch
+
+Sp
+
+4
+
+Brandwand
+Gipskarton
+Mauerwerk
+Trockensteigleitung
+Verbundsicherheitsglas
+Sicherheitsverglasung gem. DIN EN 356, durchwurfhemmend
+Widerstandsklasse 3 /2 /1 gem. DIN VENV 1627-30
+Feuerschutzvorhang (F90)
+
+FSA
+KN/KL
+
+4D
+
+WK
+3/
+
+P4
+A
+
+BR
+GK
+MW
+TSL
+VSG
+P4A
+WK3 / WK2 / WK1
+RA
+FSV
+RF
+T30 RS
+T90 RS
+ds
+
+Feststellanlage
+
+WK
+
+3/
+
+P4
+
+E-T1
+Treppe 7
+
+/P
+tz
+
+5F
+11
+
+WK
+
+NA
+
+>2
+> 2 .25
+.25
+
+WK
+
+5E
+
+.25
+
+.25
+
+P4
+
+lat
+
+z
+Ra
+
+Tel. 488 38 20, Fax 488 38 17
+HWG
+HWBEM
+HWBauzeit
+
+20
+
+/20
+
+sp
+
+au
+
+th
+
+A
+
+5D
+
+Ha
+Zu upte
+ga
+ng ingan
+Fe g
+Zu st- u Ost "
+ga
+G
+ng nd P old
+Ra lena ene
+tha rs
+P
+us aal fort
+tur be e"
+rei
+m
+ch
+
+>2
+
+>2
+
+>2
+> 2 .25
+.25
+
+E-001
+Telefonzentrale
+6
+
+A = 26.8 m 2
+
+A = 48.2 m 2
+
+hli
+tz
+Sc
+
+WK
+Stk
+
+3R
+eih
+en
+
+5C
+
+1b
+
+.5
+72
+
+WK
+
+3/
+
+P4
+
+A=
+
+A
+
+E21
+
+k
+an
+zb
+
+Liegenschaftsamt
+
+un
+erg
+Wi
+Ga eder
+rde ein
+rob bau
+en
+ha Histo
+ke
+n a r.
+us
+B
+
+P4A
+
+Architekten
+
+Tektur 2
+
+06.05.2011
+
+ARGE mspARCHITEKTEN | IB SCHMID Fachplaner
+
+01309 Dresden
+0351/ 31 277 - 0
+0351 / 31 277 - 12
+msp@msp-dresden.de
+
+Tel.:
+Fax:
+E-Mail:
+
+PLANKOORDINATION
+
+PLANFREIGABE HBA
+Eingang:
+
+Ausgang:
+Projl.
+
+HLS
+
+Elt
+
+Plan.koord.
+
+Statik
+
+Haust.
+koord.
+
+Sani
+
+Heizg.
+
+tung
+
+MSR
+
+Elekt.
+
+Freigabe
+durch:
+
+P4A
+
+Freigabe verweigert durch:
+
+D10
+
+5A
+
+ller
+
+Genehmigungsplanung
+
+Tel.:
+Fax:
+E-Mail:
+
+g
+
+P4
+A
+
+P4A
+
+Zugang Ratske
+
+Neues Rathaus Dresden
+
+Nutzer
+
+MA
+
+RF
+
+RF P4A
+
+D9
+
+01001 Dresden
+
+Planungsphase
+
+E-002
+
+F90
+
+F90
+
+3/
+WK
+
+BW
+
+1B
+1A
+
+>2
+> 2 .25
+.25
+
+k
+an
+zb
+Sit
+
+P4
+3/
+
+Sit
+z
+76
+
+BW
+
+Zufahrt Hof C
+
+D8
+
+NA
+
+NA
+A = 26.6 m 2
+
+BW
+
+RF P4A
+
+P4A
+
+EVo 211
+a
+"G rraum
+A =olde
+54 ne
+NA
+.7
+m 2 Pf
+ort 11
+e"
+
+11
+
+A = 22.2 m 2
+
+PF 120020
+
+Projekt
+
+53
+O
+
+BW
+
+E-003
+
+Landeshauptstadt Dresden
+Hochbauamt
+
+AN
+
+A = 21.6 m 2
+
+E-004
+
+Gez.
+
+1000-001_4_AGR10 1O-01
+
+Zeichnungscode
+
+38
+
+A
+
+A = 9.4 m 2
+
+RS
+FS
+A
+
+E
+Ab-202
+G stell
+en
+A = ard
+/
+20 ero
+.9
+m 2 be
+.x
+
+E-005
+
+Datum
+
+P4
+
+E-001 a
+VorraumF90
+
+Ein
+Ga bau
+(sh rdero histo
+r.
+.B
+b
+erg enh
+un ake
+g)
+n
+
+0
+
+T3
+0
+
+Sit
+
+S
+
+T3
+
+0R
+
+zu
+
+BW
+
+S
+
+BW
+
+F9
+
+Mo
+Tis biler
+ch
+
+5B
+
+umlaufend 4 cm
+
+T30 RS
+
+Index
+
+- 2.38=114.12
+
+3/
+
+T30 RS
+WK3 / P4A
+
+(Le
+
+E- nkrolle
+Ab 203 n)
+Ga stell
+en
+A = rd
+/
+26 ero
+.8
+be
+m2
+
+BW
+
+A = 77.2 m 2
+
+06.05.11 RA
+
+WK
+
+Wartebank
+
+GK F90
+
+1C
+
+A = 6.1 m 2
+
+0R
+
+FL 001 a
+Flur
+
+>1
+> 2 .80
+.00
+
+WD
+
+BW
+
+A = 29.3 m 2
+
+FL 001 b
+Treppe
+
+T3
+FS 0 RS
+A
+
+T3
+
+> 1.80
+> 2.25
+
+T90 RS FSA
+
+90
+0. 00
+2.
+>
+
+11 Stg
+16/31
+
+1.66
+
+E-007
+
+ma
+ue
+
+,F
+12
+
+>
+
+BW
+
+01
+
+rn
+
+90
+
+d
+
+W1
+
+1D
+
+Bil
+
+BW
+
+10 Stg
+142 /32
+
+Kraftstoffzuleitung Tagestank NEA
+
+A
+
+nk
+
+0
+
+ba
+
+F9
+
+12
+
+,F
+
+90
+
+SC
+
+W1
+
+NA
+
+55
+
+La
+16 stena F9
+00
+0
+kg ufzug
+F9
+0
+
+m2
+
+45
+
+- 2.23=114.27
+
+m2
+
+2.2
+
+E
+
+-1.99=114.51
+
+11 Stg
+16/31
+
+3
+
+>1
+> 2 .20
+.25
+
+3
+WK
+
+el
+ieg
+
+E
+Vo-205
+A = rra a
+6.2 um
+
+Sc -20
+A = hac 6 a
+5.6 ht R
+m 2 LT
+
+3.5
+83 7
+22
+
+AN 63 C / SK
+11
+
+15
+
+22
+
+m2
+
+1.7
+3
+
+45
+
+18
+
+ne
+
+10
+
+SC
+
+- 1.50=115.0
+
+11
+
+3.1
+
+de 3
+rsc
+hie
+
+1.5 4.74
+4
+21
+
+m2
+
+- 2.25
+
+WK
+3
+
+8
+
+2.7
+
+Bil
+
+5
+
+.0
+
+Sp
+
+t
+
+m2
+
+=3
+.5
+
+> 2 .20
+.25
+
+k
+
+ch
+
+E
+Au-205
+Ka fzu b
+bin g
+e
+3
+A
+EZ.b 206
+A
+.U
+
+an
+
+m2
+
+zb
+
+9.4
+
+ha
+
+>1
+
+Wi
+
+5
+
+Sit
+
+0.3
+
+20
+
+28
+
+Sc
+
+=3
+
+fan
+nd
+
+Sit
+
+CD
+63
+AN
+
+Hof C
+
+g
+
+zb
+
+/S
+
+an
+
+k
+
+K
+
+7
+
+F3
+0
+
+S
+
+A=
+
+hli
+
+P4
+3/
+WK
+3
+
+.2
+m2
+
+7 Stg
+71
+14 /32
+
+E-
+
+A
+
+Sit
+zb
+a
+
+ng
+ellu
+sst
+
+neue
+
+A = 19.6 m 2
+
+-1.42
+
+67
+
+AN
+
+20
+nk
+
+g
+nfeld
+
+E-2
+Fo 11
+y
+A = er
+95 / A
+u
+6
+
+NA
+9
+
+E-T4
+Durchgang
+
+-2.10=114.40
+
+AN
+
+Sc
+
+- 1.50
+
+cke
+s De
+
+0A
+F9
+
+A
+S FS
+
+R
+T30
+
+/20
+
+WK
+3
+
+Sta
+em.
+
+tik
+
+E-T5
+Durchgang
+
++M
+
+0
+> 1.8
+25
+> 2.
+
+5S
+14 7 tg
+/32
+
+s-
+
+4A
+
+0
+
+A = 8.2 m 2
+
+A = 88.8 m 2
+
+A = 3.1 m 2
+
+ion
+
+53
+O
+
+F3
+
+SA
+T3
+
+E-T7
+Gang
+
+vis
+
+SF
+0R
+
+-0.02
+
+Re
+
+BR
+
+>1
+.
+> 2 80
+.25
+
+AN 63 C
+
+E-T3
+Treppe 9
+
+m2
+
+5G
+
+A = 21.8 m 2
+-3.72
+
+72
+.9
+
+A
+
+0
+
+A=
+
+F9
+
+E21
+
+1c
+
+Sit
+
+zb
+a
+
+SA
+
+A = 19.4 m 2
+
+sti
+
+nk
+
+RS F
+
+0
+> 1.8
+5
+> 2.2
+
+Pe
+au rson
+fzu en
+g
+
+T30
+
+E-T6
+Durchgang
+
+Pla
+
+EAb 200
+A = ste
+18 llen
+.3
+m
+
+2.9
+
+0
+
+F3
+
+9
+
+Sit
+
+1.3
+
+4.0
+
+m2
+
+ion
+s-
+
+zb
+a
+
+o
+
+1
+
+11
+
+3
+
+nk
+
+2.3
+
+m2
+
+Notausgang
+
+NA
+
+7=
+
+A
+
+T3
+0
+
+18.27
+
+P4
+
+1.4
+3
+
+gR
+No atsk
+elle
+rd
+r
+
+ch
+
+2.3
+
+Zu
+
+03
+
+0R
+S
+>1
+.80
+>2
+.25
+
+EVo 213
+a
+A = rrau
+m
+4.5
+
+A
+
+4E
+
+0
+
+-0.
+
+m2
+
+24
+24
+
+nk
+zb
+a
+Sit
+
+F3
+
+Inf
+
+7
+
+ds
+
+Bil
+d
+2.7 ersc
+hie
+6
+n
+10 e F3
+0
+1.7
+4
+
+verdeckte Kanten
+vermutete Kanten
+
+P4
+
+ga
+n
+
+T3
+
+m2
+
++s
+s
+
+.8
+
+E
+Au-214
+Ka fzu
+bin g
+e
+
+NA
+
+10
+
+Re
+vis
+
+A=
+
+-1.52
+
+3
+
+WK
+
+3/
+
+2
+
+A=
+
+21
+
+Bogen umgeklappt
+3/
+
+Sc
+RL hach
+t
+EL T/
+T2
+.3
+F9
+m2
+0
+
+Wand/Bauteil abgelotet
+
+7
+
+WK
+
+2
+
+EVo 189
+A = rra
+2.8 um
+m
+
+le
+
+E-
+
+1.0
+
+-2.
+
+ETre 200
+b
+A = pp
+68 enh
+.1
+m 2 aus
+6
+
+Ansicht mit Blickrichtung
+
+E7
+
+WK
+3
+
+0
+
+c
+A=
+FB 4.5
+:F m2
+lies
+en
+
+45
+
+hm
+
+6
+
+SC bzw. SK
+AN ...
+
+F3
+
+SC
+
+r
+
+tna
+
+es
+tel
+
+=6
+
+To
+
+En
+
+.
+
+L/
+
+m2
+
+E6
+
+12
+
+15
+
+1m2
+E18
+Vo 8
+A = rra
+1.5 um
+m
+
+TS
+
+RL
+T
+
+NA
+
+4A
+
+ENe 200
+A = be c
+13 ne
+.1
+i
+m 2 nga
+F9
+ng
+0
+
+90
+
+2.7
+9
+
+EWC188
+A = -D a
+1
+
+7
+
+/S
+K
+
++M
+
+m2
+
+AN
+
+E1
+
+A = 3.0 m 2
+
+Be
+na stand
+ch
+Fre - Alt
+ileg e A
+un uss
+g e en
+inm wa
+es nd G
+se
+n arde
+rob
+e
+
+N
+
+1.2
+
+4.5
+
+FL
+Flu 008
+r
+A
+c
+
+F3
+0
+
+E-T2
+Treppe 8
+
+CD
+
+67
+
+F9
+0A
+
+3/
+P
+
+TV WK3
+/P
+4A
+
+0
+
+Bergung
+WK
+
+F9
+0
+
+A+
+EM
+18
+WC 9
+a
+A = -H
+
+F3
+
+4A
+
+30
+
+m2
+
+BR
+F
+
+63
+
+AN
+
+NA 8
+
+Abbruch
+
+12
+
+E
+Sc -212
+A = hac
+8.5 ht
+
+4.3
+7
+
+64
+D
+AN
+
+64
+D
+0
+
+-0.06
+
+E-1
+31
+
+EVo 187
+A = rrau
+7.0 m
+m2
+
+5.0
+
+-2.15
+
+BR
+
+-1.
+
+Neubau
+
+/P
+
+m2
+
+m2
+
+8m2
+
+Hof D
+
+E5
+
++M
+
+T30
+RS
+
+T3
+RS 0
+
+ETre186
+A = pp
+11 e
+.
+
++M
+
+m2
+
+5m2
+
+-2.
+
+0A
+
+13.
+
+EGe 181
+a
+A = we
+rbe
+22
+.8
+
+r
+0
+
+2/
+3
+
+WK
+3
+
+84
+
+To
+
+F3
+
+Bestand
+
+E-1
+A=
+
+AN
+
+WK
+
+WK T
+1R 30
+D
+WK
+1
+
+6 m2
+
+4A
+
+D
+
+11.
+
+E-1
+Vo 76
+A = rrau
+1.4 m
+
+=1
+.0 m 2
+
+A=
+
+Legende:
+
+3/P
+
+Um
+Ins bau
+tal
+ati Deck
+on
+e
+
+.9 m 2
+
+83
+
+E-1
+WC 76 a
+A
+
+=2
+4.3
+m2
+
+FL
+Flu 008
+a
+r
+A
+
+m2
+
+EVo 175
+A = r r au
+1.9 m
+
+E-1
+
+WK
+
+20
+1 Elt
+A = /U
+T3
+5.1 V
+0
+R
+
+m2
+
+E4
+
+0A
+
+E-1
+Ge 81
+we
+A=
+r
+43 be
+
+E3
+
+E2
+
+44
+
+E-
+
+-2.
+
+F9
+
+EVo 182
+r
+A = raum
+7.8
+
+F9
+
+-Ra
+um
+
+3/P
+
+ht
+
+m2
+
+Ab
+b
+Au ruch
+fzu
+De
+cke g
+
+WK
+
+ac
+
+0
+F3
+
+1.3
+
+=1
+.6 m 2
+
+20.
+4m2
+
+5
+
+A=
+
+E-1
+3
+
+Ho
+Du f E 0
+0
+r
+A = chfa 2
+h
+40
+.8 2 rt
+m
+21.
+4m2
+
+/DV
+
+A=
+
+33
+
+Elt
+
+E-1
+Lag 78
+er
+A
+=1
+
+NA
+
+E-1
+
+9m2
+
+0
+
+1.8
+0
+
+E-1
+WC 75 a
+A
+
+m2
+20
+.8
+
+C7
+
+11.
+
+Sc
+h
+
+F
+
+T9
+0
+RS
+FS
+A
+>1
+.80
+>2
+.25
+
+C6
+
+A=
+
+E-1
+
+36
+
+C5
+
+F3
+
+T3
+RS 0
+
+A =lur
+11.
+4m
+
+A=
+
+Datum
+
+Darstellung
+
+03.06.2010
+
+1:100
+
+Grundriss - Erdgeschoss
+
+Gez.
+
+CAO/ GE / RA
+
+Projekt-Nr.
+
+1227:23 HI. 2310005
+
+Bl.-Nr.
+
+GR10 1O-01
+
+

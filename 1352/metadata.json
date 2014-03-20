@@ -1,0 +1,58 @@
+{
+  "id": "OBR Pl/012/2011",
+  "description": "12. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2011-03-08T15:30:00Z",
+  "ended_at": "2011-03-08T19:20:00Z",
+  "location": null,
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 11. Ortsbeiratssitzung am 7. Dezember 2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00055928.pdf",
+      "description": "Einladung_OBR Pl"
+    },
+    {
+      "file_name": "00057225.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:26:59Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1352"
+}

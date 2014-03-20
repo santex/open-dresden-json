@@ -1,0 +1,129 @@
+{
+  "id": "WF/067/2013",
+  "description": "67. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2013-01-31T14:00:00Z",
+  "ended_at": "2013-01-31T15:35:00Z",
+  "location": "Landeshauptstadt Dresden,  im Haus An der Kreuzkirche, 4. Etage, Raum 412,An der Kreuzkirche 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: A0007/12 Neubau zweizügige Grundschule mit Neubau EinfeldsporthalleLeisniger Straße 78-82, 01127 Dresden Architektenleistungen nach § 33 HOAI in Verbindung mit Anlage 11Leistungsphasen 2 bis 9",
+      "template_id": "V2089/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2089_13_WF",
+          "file_name": "00122355.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-654-00204 Neubau Zweifeld-Sporthalle, Mittelschule WeißigGönnsdorfer Weg 1 in DresdenLos 14 - Sportfreianlagen",
+      "template_id": "V2092/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2092_13_WF",
+          "file_name": "00122362.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-654-00141 Ersatzneubau 3-Feld-Sporthalle, Gymnasium KlotzscheKarl-Marx-Straße 44, 01109 DresdenRohbauarbeiten",
+      "template_id": "V2094/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2094_13_WF",
+          "file_name": "00122364.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-652-00067 Neubau Gymnasium Bürgerwiese mit 3-Feld-SporthalleParkstraße 4, 01069 DresdenLos 61 - Heizungstechnik",
+      "template_id": "V2096/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2096_13_WF",
+          "file_name": "00122366.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabenummer: 2012-654-00168 Neubau Gymnasium Bürgerwiese mit 3-Feld-SporthalleParkstraße 4, 01069 DresdenLos 05 - Fassadenarbeiten Wärmedämmverbundsystem Schulgebäude",
+      "template_id": "V2098/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2098_13_WF",
+          "file_name": "00122368.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Offene Beschlussvorlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00121029.pdf",
+      "description": "Einladung_WF_2013_01_31"
+    },
+    {
+      "file_name": "00122577.pdf",
+      "description": "Niederschrift öffentlich_2013_01_31_WF"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:31:05Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2420"
+}

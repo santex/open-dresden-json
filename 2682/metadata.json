@@ -1,0 +1,64 @@
+{
+  "id": "OBR Leu/032/2013",
+  "description": "32. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2013-06-12T17:00:00Z",
+  "ended_at": null,
+  "location": "Sitzung fällt aus!!! (Nachholung am 25.06.2013, 18 Uhr)",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der frist- und ordnungsgemäßen Ladung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung,Kontrolle der Niederschrift zur 31. Ortsbeiratssitzung am 15. Mai 2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 252, Dresden-Kleinzschachwitz Nr. 2, Kleinzschachwitzer Uferhier:Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan",
+      "template_id": "V2231/13",
+      "documents": [
+        {
+          "description": "V2231/13",
+          "file_name": "00132158.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00131331.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00129534.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Übersichtsplan",
+          "file_name": "00129535.pdf"
+        },
+        {
+          "description": "c) Beschlussausfertigung 1081-SB-2001",
+          "file_name": "00129536.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters zum Geschehen im Ortsamtsgebiet/ Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00134272.pdf",
+      "description": "Einladung_OBR Leu_2013_06_12"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:55:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2682"
+}

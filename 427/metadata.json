@@ -1,0 +1,49 @@
+{
+  "id": "OBR Kl/013/2010",
+  "description": "13. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2010-12-13T17:00:00Z",
+  "ended_at": "2010-12-13T20:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anfragen und Anregungen aus dem Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00049992.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00051247.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:20:15Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=427"
+}

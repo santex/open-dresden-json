@@ -1,0 +1,524 @@
+{
+  "id": "SR/052/2013",
+  "description": "52. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2013-03-21T14:00:00Z",
+  "ended_at": "2013-03-21T19:47:00Z",
+  "location": "Landeshauptstadt Dresden,  im Kulturrathaus, Clara-Schumann-Saal, 1. Etage,Königstraße 15, 01097 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragestunde der Stadträtinnen und Stadträte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sachstand Gründung Dresdner Bäder GmbH",
+      "template_id": " mAF0357/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage SPD",
+          "file_name": "00126660.pdf"
+        },
+        {
+          "description": "mAF0357-13",
+          "file_name": "00127815.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Unterstützung für die Laubegaster Werft",
+      "template_id": " mAF0355/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage BürgerBündnis / Freie Bürger",
+          "file_name": "00126650.pdf"
+        },
+        {
+          "description": "mAF0355-13",
+          "file_name": "00127832.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Erstattung der Mehraufwendungen für das gemeinschaftliche Mittagessen im Hort während der Schulferien an Berechtigte für das Bildungs- und Teilhabepaket",
+      "template_id": " mAF0360/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage DIE LINKE.",
+          "file_name": "00126684.pdf"
+        },
+        {
+          "description": "mAF0360-13",
+          "file_name": "00127833.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Opferschutz",
+      "template_id": " mAF0365/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage Bündnis 90/Die Grünen",
+          "file_name": "00126719.pdf"
+        },
+        {
+          "description": "mAF0365-13",
+          "file_name": "00129429.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Zuschüsse an städtische Gesellschaften",
+      "template_id": " mAF0352/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage FDP",
+          "file_name": "00126592.pdf"
+        },
+        {
+          "description": "mAF0352-13",
+          "file_name": "00128347.pdf"
+        },
+        {
+          "description": "mAF0352/13 Anlage",
+          "file_name": "00128008.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Neubauvorhaben der Kita auf der Hauptstraße 26a",
+      "template_id": " mAF0363/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage CDU",
+          "file_name": "00126696.pdf"
+        },
+        {
+          "description": "mAF0363-13",
+          "file_name": "00127806.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Zuwendungsbericht",
+      "template_id": " mAF0353/13",
+      "documents": [
+        {
+          "description": "mündliche Anfrage fraktionslose Stadträte",
+          "file_name": "00126641.pdf"
+        },
+        {
+          "description": "mAF0353-13",
+          "file_name": "00127831.pdf"
+        }
+      ],
+      "decision": "erledigt",
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Altstadt",
+      "template_id": "A0704/13",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00125437.pdf"
+        }
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": null
+    },
+    {
+      "description": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2013",
+      "template_id": "V2010/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2010/12",
+          "file_name": "00127104.pdf"
+        },
+        {
+          "description": "BK V2010/12 Abschlussbericht v. 2013-06-12",
+          "file_name": "00135991.pdf"
+        },
+        {
+          "description": "V2010/12",
+          "file_name": "00119828.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00118235.pdf"
+        },
+        {
+          "description": "Anlage 1_Verordnung",
+          "file_name": "00117795.pdf"
+        },
+        {
+          "description": "Anlage 2",
+          "file_name": "00117848.pdf"
+        },
+        {
+          "description": "Änderungsantrag CDU-Fraktion",
+          "file_name": "00126877.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 39",
+        "contra": " 12",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 397, Dresden-Blasewitz Nr. 5, Elbeparkplatzhier:1. Aufstellungsbeschluss Bebauungsplan2. Grenzen des räumlichen Geltungsbereiches des Bebauungsplanes",
+      "template_id": "V2050/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2050/12",
+          "file_name": "00126958.pdf"
+        },
+        {
+          "description": "V2050/12",
+          "file_name": "00119348.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00118971.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00118486.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Grenze räumlicher Geltungsbereich",
+          "file_name": "00118487.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Beschlussausfertigung",
+          "file_name": "00118488.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag SPD",
+          "file_name": "00124710.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 35",
+        "contra": " 27",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Breitbandstrategie für Dresden",
+      "template_id": "A0661/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00109700.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0661/12",
+          "file_name": "00126966.pdf"
+        },
+        {
+          "description": "Karten_Breitbandverfügbarkeit in Dresden",
+          "file_name": "00109681.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 58",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bauliche Erweiterung des Gymnasium Dresden-Bühlau, Quohrener Straße 12, 01324 Dresden",
+      "template_id": "V1973/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1973/12",
+          "file_name": "00126970.pdf"
+        },
+        {
+          "description": "Änderungsantrag Bündnis 90/Die Grünen",
+          "file_name": "00126855.pdf"
+        },
+        {
+          "description": "Änderungsantrag DIE LINKE.",
+          "file_name": "00126859.pdf"
+        },
+        {
+          "description": "Änderungsantrag FDP-Fraktion",
+          "file_name": "00126856.pdf"
+        },
+        {
+          "description": "Änderungsantrag Interfraktionell",
+          "file_name": "00126864.pdf"
+        },
+        {
+          "description": "V1973/12",
+          "file_name": "00121680.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00121269.pdf"
+        },
+        {
+          "description": "Anlage 1 V1973/12",
+          "file_name": "00114002.pdf"
+        },
+        {
+          "description": "Anlage 2 V1973/12",
+          "file_name": "00114003.pdf"
+        },
+        {
+          "description": "Anlage 3 V1973/12",
+          "file_name": "00114004.pdf"
+        },
+        {
+          "description": "Anlage 4 V1973/12",
+          "file_name": "00119862.pdf"
+        },
+        {
+          "description": "Anlage 5 V1973/12",
+          "file_name": "00119863.pdf"
+        },
+        {
+          "description": "Beschlüsse",
+          "file_name": "00121536.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 57",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Gesamtsanierung und Erweiterung der 56. Mittelschule \"Am Trachenberg\", Cottbuser Straße 34 in 01129 Dresden",
+      "template_id": "V2072/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2072/13",
+          "file_name": "00126978.pdf"
+        },
+        {
+          "description": "V2072/13",
+          "file_name": "00122856.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00122579.pdf"
+        },
+        {
+          "description": "Anlagen V2072/13",
+          "file_name": "00119690.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag DIE LINKE.",
+          "file_name": "00126879.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 60",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verkauf Neumarkt, Q VI",
+      "template_id": "V2033/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2033/12",
+          "file_name": "00126986.pdf"
+        },
+        {
+          "description": "V2033/12",
+          "file_name": "00121574.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00121134.pdf"
+        },
+        {
+          "description": "Anlage 1 zur V2033 12",
+          "file_name": "00117838.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V2033 12",
+          "file_name": "00117839.pdf"
+        },
+        {
+          "description": "Beschlüsse zur V2033 12",
+          "file_name": "00117840.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Errichtung eines Wohnheimes für besondere Bedarfsgruppen als öffentliche Einrichtung im Objekt \"Zur Wetterwarte 34\" in 01109 Dresden",
+      "template_id": "V2077/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2077/13",
+          "file_name": "00127094.pdf"
+        },
+        {
+          "description": "V2077-13",
+          "file_name": "00121262.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00121132.pdf"
+        },
+        {
+          "description": "Anlage 1_Schreiben des BAMF vom 17. Oktober 2012",
+          "file_name": "00119925.pdf"
+        },
+        {
+          "description": "Anlage 2_grafische Darstellung zur Entwicklung der Asylzahlen",
+          "file_name": "00119926.pdf"
+        },
+        {
+          "description": "Anlage 3_Kostenrahmenermittlung zur Nutzbarmachung des Objektes",
+          "file_name": "00119927.pdf"
+        },
+        {
+          "description": "Anlage 4_Grundrissplanung des Objektes",
+          "file_name": "00119928.pdf"
+        },
+        {
+          "description": "Anlage 5_Finanzierungshinweise",
+          "file_name": "00120026.pdf"
+        },
+        {
+          "description": "V2077-13 - Stellungnahme BMB",
+          "file_name": "00120429.pdf"
+        },
+        {
+          "description": "SN_V2077-13 INAUSLB",
+          "file_name": "00120466.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag SPD-Fraktion",
+          "file_name": "00126870.pdf"
+        },
+        {
+          "description": "Änderungsantrag CDU-Fraktion",
+          "file_name": "00126869.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 224.1, Dresden-Gompitz Nr. 3, Alte Gärtnereienhier:\t1. Abwägungsbeschluss2. Satzungsbeschluss sowie Billigung der Begründung",
+      "template_id": "V2084/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2084/13",
+          "file_name": "00126947.pdf"
+        },
+        {
+          "description": "V2084/13 ö",
+          "file_name": "00121568.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00121139.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Abwägung",
+          "file_name": "00120683.pdf"
+        },
+        {
+          "description": "d) Anlage 2_rechtsplan_A3_lang",
+          "file_name": "00120686.pdf"
+        },
+        {
+          "description": "e) Anlage 2_textblatt_A3",
+          "file_name": "00120687.pdf"
+        },
+        {
+          "description": "f) Anlage 3_Begründung",
+          "file_name": "00120688.pdf"
+        },
+        {
+          "description": "g) bereits gefasste Beschlüsse_V2084",
+          "file_name": "00120689.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 59",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Workshop zum Thema „Schulbau“",
+      "template_id": "A0677/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00116966.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0677/12",
+          "file_name": "00127098.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag Bündnis 90/Die Grünen",
+          "file_name": "00126854.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 22",
+        "contra": " 31",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00125935.pdf",
+      "description": "Einladung_SR_2013_03_21"
+    },
+    {
+      "file_name": "00129031.pdf",
+      "description": "Niederschrift öffentlich_SR_2013_03_21"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:45:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2446"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "K/026/2011",
+  "description": "26. Sitzung des Ausschusses für Kultur",
+  "committee": "Ausschuss für Kultur",
+  "started_at": "2011-03-29T14:00:00Z",
+  "ended_at": "2011-03-29T16:45:00Z",
+  "location": "Beratungsraum im Heinrich-Schütz-Konservatorium, Glacisstraße 30/32, 01099 Dresden",
+  "parts": [
+    {
+      "description": "Nachbesetzung Künstlerischer Beirat Hellerau - Europäisches Zentrum der Künste",
+      "template_id": "V0927/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0927/11_K",
+          "file_name": "00059146.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00056410.pdf"
+        },
+        {
+          "description": "a)bereits gefasster Beschluss sowie Festlegung V0782_10",
+          "file_name": "00055213.pdf"
+        },
+        {
+          "description": "V0927/11",
+          "file_name": "00056577.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00058218.pdf",
+      "description": "Einladung_K_2011_03_29"
+    },
+    {
+      "file_name": "00059821.pdf",
+      "description": "Niederschrift öffentlich_K_2011_03_29"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:31:24Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1077"
+}

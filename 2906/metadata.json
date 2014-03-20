@@ -1,0 +1,60 @@
+{
+  "id": "WF/064/2012",
+  "description": "64. Sitzung des Ausschusses für Wirtschaftsförderung (Sondersitzung)",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-12-20T14:00:00Z",
+  "ended_at": null,
+  "location": "Landeshauptstadt Dresden,  im Haus An der Kreuzkirche, 4. Etage, Raum 412,An der Kreuzkirche 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-104-00004 Touristische Serviceleistungen",
+      "template_id": "V2044/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V2044_12_WF",
+          "file_name": "00120316.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: A0005/12 Kulturpalast, Schloßstraße 2, 01067 DresdenPlanungsleistungen der Technischen AusrüstungLos 1 Heizungs-, Lüftungs-, Sanitär-, Kälte- und Feuerlöschtechnik",
+      "template_id": "V1952/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1952_12_WF",
+          "file_name": "00120317.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Offene Beschlussvorlagen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00118074.pdf",
+      "description": "Einladung_WF_2012_12_20"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:26:09Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2906"
+}

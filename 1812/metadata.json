@@ -1,0 +1,46 @@
+{
+  "id": "KK/034/2012",
+  "description": "34. Sitzung des Betriebsausschusses für Städtische Krankenhäuser und Kindertageseinrichtungen",
+  "committee": "Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen",
+  "started_at": "2012-04-25T13:00:00Z",
+  "ended_at": "2012-04-25T17:00:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Neue Kinderbetreuungsplätze schaffen",
+      "template_id": "A0569/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00090991.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0569/12_KK",
+          "file_name": "00096505.pdf"
+        },
+        {
+          "description": "Beschlusskontrolle_A0569_12",
+          "file_name": "00120479.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00094947.pdf",
+      "description": "Einladung_KK"
+    },
+    {
+      "file_name": "00097199.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:43:45Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1812"
+}

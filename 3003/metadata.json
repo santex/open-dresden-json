@@ -1,0 +1,113 @@
+{
+  "id": "OSR LB/052/2013",
+  "description": "52. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2013-05-28T16:45:00Z",
+  "ended_at": "2013-05-28T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Investitionsmaßnahme Renaturierung Roter Graben und Hochwasserschutz",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Grundreinigung des öffentlichen Verkehrsraumes in der Ortschaft Langebrück",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Schutz angrenzender Grundstücke vor Oberflächenwasser aus der Dresdner Heide (Beschluss OR LB 137/2012 vom 18.12.2012)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Änderung der Wahlwerbesatzung",
+      "template_id": "A0712/13",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00127963.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00133258.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00134196.pdf",
+      "description": "Beschlussausfertigung_Verfügungsmittel_Dixiefestival_Dresdner_Straße"
+    },
+    {
+      "file_name": "00134187.pdf",
+      "description": "Beschlussausfertigung_Verfügungsmittel_Koordinierungsstelle"
+    },
+    {
+      "file_name": "00134194.pdf",
+      "description": "Beschlussausfertigung_Verfügungsmittel_Modenschau"
+    },
+    {
+      "file_name": "00134180.pdf",
+      "description": "Beschlussausfertigung_Verfügungsmittel_Turnverein"
+    },
+    {
+      "file_name": "00136144.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:51:36Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3003"
+}

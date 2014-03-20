@@ -1,0 +1,137 @@
+{
+  "id": "OBR Alt/037/2012",
+  "description": "37. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2012-10-17T16:00:00Z",
+  "ended_at": "2012-10-17T18:45:00Z",
+  "location": "im Seniorenzentrum \"Amadeus\" der Volkssolidarität Dresden e. V.,Striesener Straße 2, 01307 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung des Seniorenzentrums \"Amadeus\" der Volkssolidarität Dresden e. V.",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 123.2 A, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platzhier:\t1. Abwägungsbeschluss2. Satzungsbeschluss sowie Billigung der Begründung",
+      "template_id": "V1886/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1886/12",
+          "file_name": "00116445.pdf"
+        },
+        {
+          "description": "V1886/12 ö",
+          "file_name": "00111176.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00110699.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Abwägung",
+          "file_name": "00108865.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Satzungstext",
+          "file_name": "00108868.pdf"
+        },
+        {
+          "description": "e) Anlage 3_Begründung",
+          "file_name": "00108870.pdf"
+        },
+        {
+          "description": "f) Beschluss ASBt V1585-12_18042012",
+          "file_name": "00108871.pdf"
+        },
+        {
+          "description": "g) Beschluss Stadtrat V2232-SR64-08",
+          "file_name": "00108874.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 79.3, Dresden-Altstadt II Nr. 1, Johannstadt Nord/Neubertstraßehier:1. Aufstellungsbeschluss zur Änderung des Bebauungsplanes Nr. 79, Dresden-Altstadt II Nr. 1, Johannstadt Nord 2. Grenzen des Änderungsbereiches 3. Durchführung eines vereinfachten Verfahrens4. Entfallen des frühzeitigen Beteiligungsverfahrens 5. Billigung des Entwurfs zum Bebauungsplan 6. Billigung der Begründung zum Bebauungsplan-Entwurf 7. Durchführung des Beteiligungsverfahrens zum Bebauungsplan-Entwurf",
+      "template_id": "V1897/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00114695.pdf"
+        },
+        {
+          "description": "V1897/12",
+          "file_name": "00111170.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00110680.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00110331.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00110332.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Begründung",
+          "file_name": "00110333.pdf"
+        },
+        {
+          "description": "d) bereits gefasster Beschluss",
+          "file_name": "00110334.pdf"
+        },
+        {
+          "description": "BK V1897-12",
+          "file_name": "00124289.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 16",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 36. Ortsbeiratssitzung am 11.09.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Optimiertes Verwaltungshandeln zur Durchsetzung von Ordnung und Sauberkeit in der Landeshauptstadt Dresden (Lokales Handlungsprogramm zur Durchsetzung von Ordnung und Sauberkeit)",
+      "template_id": "V1784/12",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00111630.pdf",
+      "description": "Einladung_OBR Alt_17.10.2012"
+    },
+    {
+      "file_name": "00113777.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:16:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1987"
+}

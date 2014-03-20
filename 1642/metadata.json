@@ -1,0 +1,59 @@
+{
+  "id": "OSR OW/020/2011",
+  "description": "20. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2011-04-07T16:30:00Z",
+  "ended_at": "2011-04-07T17:30:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststelung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen im Jahr 2011",
+      "template_id": "V1002/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1002/11",
+          "file_name": "00065652.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00059605.pdf"
+        },
+        {
+          "description": "VO stadtweit",
+          "file_name": "00058743.pdf"
+        },
+        {
+          "description": "V1002/11",
+          "file_name": "00059887.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": {
+        "pro": " 3",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00059858.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00060559.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:34:01Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1642"
+}

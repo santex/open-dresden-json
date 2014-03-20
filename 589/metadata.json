@@ -1,0 +1,106 @@
+{
+  "id": "FL/019/2010",
+  "description": "19. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2010-04-26T14:00:00Z",
+  "ended_at": "2010-04-26T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Neubau Rudolf-Harbig-Stadion: Konzessionsvertrag - Finanzierung der Verpflichtungen aus dem Baukonzessionsvertrag vom 04.05.2007 sowie Sicherung des Stellplatzbedarfes außerhalb des Konzessionsgrundstückes",
+      "template_id": "V0234/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00022144.pdf"
+        },
+        {
+          "description": "Anlage 1 V0234/09",
+          "file_name": "00021378.pdf"
+        },
+        {
+          "description": "Anlage 2 V0234/09",
+          "file_name": "00009608.pdf"
+        },
+        {
+          "description": "BK-V0234-09 GB 6 (7. ZwB)",
+          "file_name": "00118257.pdf"
+        },
+        {
+          "description": "BK-V0234-09 GB 6 (8. ZwB)",
+          "file_name": "00130397.pdf"
+        },
+        {
+          "description": "BK-V0234-09 GB 6 (Erg. zum 8. ZwB)",
+          "file_name": "00136734.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB neu V0234/09",
+          "file_name": "00017068.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB V0234/09",
+          "file_name": "00011211.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Veränderung von Einnahmen und Umverteilung von Ausgaben des Vermögenshaushaltes des Schulverwaltungsamtes",
+      "template_id": "V0474/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00027060.pdf"
+        },
+        {
+          "description": "Anlage 1.1 V0474/10",
+          "file_name": "00026882.pdf"
+        },
+        {
+          "description": "Anlage 1.2 V0474/10",
+          "file_name": "00026884.pdf"
+        },
+        {
+          "description": "Anlage 2 V0474/10",
+          "file_name": "00026879.pdf"
+        },
+        {
+          "description": "Beschlüsse V0474/10",
+          "file_name": "00023706.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00027465.pdf",
+      "description": "Einladung_FL_2010_04_26"
+    },
+    {
+      "file_name": "00028859.pdf",
+      "description": "Beschlussausfertigung_V0331/09"
+    },
+    {
+      "file_name": "00028870.pdf",
+      "description": "Beschlussausfertigung_V0433/10"
+    },
+    {
+      "file_name": "00028869.pdf",
+      "description": "Beschlussausfertigung_V0474/10"
+    },
+    {
+      "file_name": "00030202.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:01:11Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=589"
+}

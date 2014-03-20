@@ -1,0 +1,129 @@
+{
+  "id": "OSR CB/042/2013",
+  "description": "42. Sitzung des Ortschaftsrates Cossebaude",
+  "committee": "Ortschaftsrat Cossebaude",
+  "started_at": "2013-07-15T16:30:00Z",
+  "ended_at": null,
+  "location": "Landeshauptstadt Dresden,  im Bürgersaal der Verwaltungsstelle Cossebaude,Dresdner Straße 3, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Entwurf Landschaftsplan Dresden in der Fassung vom April 2013",
+      "template_id": "V1286/11",
+      "documents": [
+        {
+          "description": "V1286/11",
+          "file_name": "00133484.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00132956.pdf"
+        },
+        {
+          "description": "Beschluss V2223-SR77-09",
+          "file_name": "00127793.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00109571.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Auftrag zur Einholung Angebote für Fahrgastunterstand Albertplatz",
+      "template_id": "A-CB0126/13",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Prioritätenprogramm zum Bau von Gehwegen im Dresdner Straßennetz",
+      "template_id": "V2224/13",
+      "documents": [
+        {
+          "description": "V2224/13",
+          "file_name": "00135000.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00134543.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00128933.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00128934.pdf"
+        },
+        {
+          "description": "c) Anlage 3",
+          "file_name": "00128935.pdf"
+        },
+        {
+          "description": "d) Anlage 4",
+          "file_name": "00128936.pdf"
+        },
+        {
+          "description": "e) Anlage 5",
+          "file_name": "00128937.pdf"
+        },
+        {
+          "description": "f) Anlage 6",
+          "file_name": "00128938.pdf"
+        },
+        {
+          "description": "g) Anlage 7",
+          "file_name": "00128939.pdf"
+        },
+        {
+          "description": "h) Anlage 8_Umschichtung Erg. Fin.-HH für 2013 2014",
+          "file_name": "00128940.pdf"
+        },
+        {
+          "description": "i) Anlage 9_neu",
+          "file_name": "00134105.pdf"
+        },
+        {
+          "description": "j) bereits gefasste Beschlüsse_V2224",
+          "file_name": "00128941.pdf"
+        },
+        {
+          "description": "k) bereits gefasster Beschluss V1898_zur V2224",
+          "file_name": "00128942.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00137648.pdf",
+      "description": "Einladung_OSR CB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T04:03:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2752"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "OBR Leu/028/2013",
+  "description": "28. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2013-01-16T17:00:00Z",
+  "ended_at": "2013-01-16T19:10:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, Bürgersaal,Hertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift zur 27. Ortsbeiratssitzung am 14.11.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des 1. Dresdner Bildungsberichts 2012 bezogen auf den Ortsamtsbereich Leuben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Geschehen im Ortsamtsgebiet/ Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00119575.pdf",
+      "description": "Einladung_OBR Leu_2013_01_16"
+    },
+    {
+      "file_name": "00121289.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:28:20Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2678"
+}

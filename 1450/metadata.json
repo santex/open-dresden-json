@@ -1,0 +1,58 @@
+{
+  "id": "OBR Pi/014/2011",
+  "description": "14. Sitzung des Ortsbeirates Pieschen",
+  "committee": "Ortsbeirat Pieschen",
+  "started_at": "2011-02-08T16:00:00Z",
+  "ended_at": "2011-02-08T17:10:00Z",
+  "location": "Landeshauptstadt Dresden,  im Rathaus Pieschen, Bürgersaal,Bürgerstraße 63, 01127 Dresden",
+  "parts": [
+    {
+      "description": "Umbesetzungen im Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 367, Dresden-Neustadt Nr. 34, Fritz-Reuter-Straße Nordhier:\t1.\tAufstellungsbeschluss Bebauungsplan\t2.\tGrenzen des Bebauungsplanes \t3.\tDurchführung eines vereinfachten Verfahrens \t4.\tEntfallen des frühzeitigen Beteiligungsverfahrens\t5.\tBilligung des Entwurfes zum Bebauungsplan\t6.\tBilligung der Begründung zum Bebauungsplan-Entwurf\t7.\tDurchführung des Beteiligungsverfahrens zum Bebauungsplan-Entwurf",
+      "template_id": "V0902/11",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorlagen zur Informationen, Informationen des Ortsamtsleiter, Hinweise und Anregen aus dem Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Hinweise und Anregungen aus dem Ortsbeirat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00053815.pdf",
+      "description": "Einladung_OBR Pi"
+    },
+    {
+      "file_name": "00055122.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:25:53Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1450"
+}

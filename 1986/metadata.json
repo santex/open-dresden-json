@@ -1,0 +1,207 @@
+{
+  "id": "OBR Alt/036/2012",
+  "description": "36. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2012-09-11T15:30:00Z",
+  "ended_at": "2012-09-11T19:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Altstadt, 1. Etage, Raum 100,Theaterstraße 11, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Konzept zur Wohnungslosenhilfe der Landeshauptstadt Dresden - Fortschreibung",
+      "template_id": "V1672/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1672/12",
+          "file_name": "00113103.pdf"
+        },
+        {
+          "description": "BK V1672/12 Abschlussbericht v. 2012-11-20",
+          "file_name": "00117400.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00104307.pdf"
+        },
+        {
+          "description": "Anlage 1_Wohnungslosenkonzept",
+          "file_name": "00104356.pdf"
+        },
+        {
+          "description": "Beschluss V1974-SR61-07",
+          "file_name": "00097947.pdf"
+        },
+        {
+          "description": "Beschluss V0834/10",
+          "file_name": "00097943.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00100247.pdf"
+        },
+        {
+          "description": "V1672_12_Stellungnahme BMB",
+          "file_name": "00100112.pdf"
+        },
+        {
+          "description": "Änderungs-/Ergänzungsantrag DIE LINKE.",
+          "file_name": "00113166.pdf"
+        },
+        {
+          "description": "Änderungsantrag Fraktion Bündnis 90/Die Grünen",
+          "file_name": "00113165.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 1",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 129.2, Dresden-Friedrichstadt Nr. 4, Gewerbegebiet Bremer Straße/Hamburger Straßehier:1. Aufstellungsbeschluss zur 2. Änderung des Bebauungsplanes 2. Durchführung eines vereinfachten Verfahrens 3. Billigung der 2. Änderung des Bebauungsplanes4. Billigung der Begründung zur 2. Änderung des Bebauungsplanes5. Durchführung des Beteiligungsverfahrens",
+      "template_id": "V1821/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00109500.pdf"
+        },
+        {
+          "description": "V1821/12",
+          "file_name": "00107260.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00106790.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00106430.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Entwurf_Rechtsplan",
+          "file_name": "00106431.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Begründung B-Plan 2. Änderung",
+          "file_name": "00106432.pdf"
+        },
+        {
+          "description": "d) bereits gefasste Beschlüsse",
+          "file_name": "00106433.pdf"
+        },
+        {
+          "description": "BK V1821/12",
+          "file_name": "00122051.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 12",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Weitere Anwendung der Gehölzschutzsatzung vom 16. Juni 1995 bei kommunalen Vorhaben",
+      "template_id": "A0628/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00100850.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0628/12",
+          "file_name": "00121603.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 4",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Errichtung eines Mahnmals für die Opfer der Bombenangriffe auf Dresden vom 13. bis 15. Februar 1945 in der Gedenkstätte Busmannkapelle",
+      "template_id": "A0626/12",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00103525.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0626/12",
+          "file_name": "00113150.pdf"
+        },
+        {
+          "description": "BK A0626/12 Zwischenbericht v. 2013-02-04",
+          "file_name": "00123300.pdf"
+        },
+        {
+          "description": "Änderungsantrag BürgerBündnis / Freie Bürger Fraktion",
+          "file_name": "00113167.pdf"
+        },
+        {
+          "description": "Änderungsantrag interfraktionell",
+          "file_name": "00113168.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 7",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "ÖPNV-Angebot im Korridor Johannstadt - Zentrum - Plauen: Entwicklungsperspektiven aufzeigen - Buslinie 62 verbessern",
+      "template_id": "A0642/12",
+      "documents": [
+        {
+          "description": "Antrag SPD",
+          "file_name": "00103469.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00112199.pdf"
+        },
+        {
+          "description": "BK A0642-12 Zw.-Bericht 18.02.2013",
+          "file_name": "00124277.pdf"
+        },
+        {
+          "description": "Fahrgastzahlen_Linien_2012",
+          "file_name": "00103467.jpg"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00107936.pdf",
+      "description": "Einladung_OBR Alt_11.09.2012"
+    },
+    {
+      "file_name": "00110918.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:09:04Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1986"
+}

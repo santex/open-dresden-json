@@ -1,0 +1,40 @@
+{
+  "id": "OSR OW/027/2011",
+  "description": "27. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2011-11-15T16:30:00Z",
+  "ended_at": "2011-11-15T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zur Einführung der städtsichen blauen TonneBericht: MA des Amtes für Stadtgrün und Abfallwirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00078896.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00081549.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:15:19Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1328"
+}

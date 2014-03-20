@@ -1,0 +1,31 @@
+{
+  "id": "AV/063/2012",
+  "description": "63. Sitzung des Ausschusses für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "committee": "Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit",
+  "started_at": "2012-11-05T14:30:00Z",
+  "ended_at": "2012-11-05T16:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00113583.pdf",
+      "description": "Einladung_AV_2012_11_05"
+    },
+    {
+      "file_name": "00123418.pdf",
+      "description": "Niederschrift öffentlich_AV_2012_11_05"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:17:57Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1699"
+}

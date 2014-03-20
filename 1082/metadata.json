@@ -1,0 +1,97 @@
+{
+  "id": "WF/028/2011",
+  "description": "28. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2011-03-31T14:00:00Z",
+  "ended_at": "2011-03-31T15:35:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr.: 02.2/250/10Lieferung, Installation und Inbetriebnahme von Medizinischen Schrankanlagen aus Stahlblech für das Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum",
+      "template_id": "V0986/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung",
+          "file_name": "00059570.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 21/11Citywache Dresden - Errichtung einer Feuer- und Rettungswache mit Brandschutzerziehungszentrum Strehlener Straße / Franklinstraße, 01069 DresdenLos: 16, Garten- und Landschaftsbau",
+      "template_id": "V0987/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0987_11_WF",
+          "file_name": "00059571.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr.: 5006/11Altlockwitz zwischen Dohnaer Straße und Am PlanLos: 1, Straßenbau",
+      "template_id": "V0990/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0990_11_WF",
+          "file_name": "00059574.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen des Geschäftsbereiches Wirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00058718.pdf",
+      "description": "Einladung_WF_2011_03_31"
+    },
+    {
+      "file_name": "00060815.pdf",
+      "description": "Niederschrift öffentlich_2011_03_31"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:31:35Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1082"
+}

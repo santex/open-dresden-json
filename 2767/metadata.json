@@ -1,0 +1,40 @@
+{
+  "id": "OBR Pl/027/2013",
+  "description": "27. Sitzung des Ortsbeirates Plauen",
+  "committee": "Ortsbeirat Plauen",
+  "started_at": "2013-01-15T15:00:00Z",
+  "ended_at": "2013-01-15T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Plauen, Ratssaal,Nöthnitzer Straße 2, 01187 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit und Bestätigung der Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00119676.pdf",
+      "description": "Einladung_OBR Pl"
+    },
+    {
+      "file_name": "00121268.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:27:58Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2767"
+}

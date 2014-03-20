@@ -1,0 +1,88 @@
+{
+  "id": "OBR Leu/024/2012",
+  "description": "24. Sitzung des Ortsbeirates Leuben",
+  "committee": "Ortsbeirat Leuben",
+  "started_at": "2012-07-04T17:00:00Z",
+  "ended_at": "2012-07-04T20:22:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Leuben, Bürgersaal,Hertzstraße 23, 01257 Dresden",
+  "parts": [
+    {
+      "description": "Eröffnung der Sitzung, Feststellen der Beschlussfähigkeit, Bestätigung der Tagesordnung, Kontrolle der Niederschrift zur 23. Ortsbeiratssitzung am 30. Mai 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Hochwasserschutz im linkselbischen Dresdner Osten - Vorschlag zum weiteren Vorgehen zum Hochwasserschutz von Meußlitz-Kleinzschachwitz",
+      "template_id": "V1655/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1655/12",
+          "file_name": "00108982.pdf"
+        },
+        {
+          "description": "BK V1655/12 Zwischenbericht v. 2013-03-05",
+          "file_name": "00125764.pdf"
+        },
+        {
+          "description": "V1655/12",
+          "file_name": "00100725.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00100389.pdf"
+        },
+        {
+          "description": "V0431 (SR-016-2010)",
+          "file_name": "00096736.pdf"
+        },
+        {
+          "description": "V2278-SR68-08",
+          "file_name": "00096733.pdf"
+        },
+        {
+          "description": "V2284-SR69-08",
+          "file_name": "00096734.pdf"
+        },
+        {
+          "description": "Anlage 1 Zusammenfassung Planungsergebnisse M18 M24 Dresdner Osten",
+          "file_name": "00096732.docx"
+        },
+        {
+          "description": "Ergänzungsantrag SPD",
+          "file_name": "00108776.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Termine für die Sitzungen des Ortsbeirates Leuben im Jahr 2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00102689.pdf",
+      "description": "Einladung_OBR Leu_2012_07_04"
+    },
+    {
+      "file_name": "00104391.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:59:54Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2008"
+}

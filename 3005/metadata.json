@@ -1,0 +1,54 @@
+{
+  "id": "OSR LB/055/2013",
+  "description": "55. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2013-07-09T16:30:00Z",
+  "ended_at": "2013-07-09T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fragen an den Ortschaftsrat",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00137739.pdf",
+      "description": "Einladung_OSR LB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:59:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3005"
+}

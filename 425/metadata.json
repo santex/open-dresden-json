@@ -1,0 +1,84 @@
+{
+  "id": "OBR Kl/012/2010",
+  "description": "12. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2010-10-04T17:00:00Z",
+  "ended_at": "2010-10-04T18:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Wahl einer Protokollführerin /eines Protokollführers für die Schiedsstelle Klotzsche",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Änderung der Satzung der Landeshauptstadt Dresden über Erlaubnisse und Gebühren für Sondernutzungen der öffentlichen Straßen in Dresden (Sondernutzungssatzung)",
+      "template_id": "A0198/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0198/10",
+          "file_name": "00058912.pdf"
+        },
+        {
+          "description": "Antrag CDU",
+          "file_name": "00033287.pdf"
+        },
+        {
+          "description": "A0198-Antrag_Sondernutzung_Anlage_1",
+          "file_name": "00033249.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorstellung des Fördervereins Jenaplanschule Dresdner Norden e. V. und des Vorhabens zur Gründung einer freien Grundschule",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Änderung der Satzung der Landeshauptstadt Dresden über die Entschädigung ehrenamtlich Tätiger (Entschädigungssatzung)",
+      "template_id": "V0635/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00040159.pdf"
+        },
+        {
+          "description": "Anlage 1",
+          "file_name": "00040135.pdf"
+        },
+        {
+          "description": "Anlage 2",
+          "file_name": "00040133.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00042179.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00043947.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:12:50Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=425"
+}

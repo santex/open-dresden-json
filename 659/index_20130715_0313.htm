@@ -1,0 +1,812 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="de"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="description" content="Sitzung 13.10.2010 Ausschuss f&uuml;r Stadtentwicklung und Bau"><meta http-equiv="content-language" content="de"><meta name="Generator" content="Somacos GmbH & Co. KG, http://www.somacos.de, SessionNet Version 4.4.3 bi"><style media="screen"><!-- /* ******************** layoutrahmen ******************** */
+
+body.smc_body
+{
+	width: auto;
+	margin:0px;
+	padding: 10px;		/* abstand content zum rand */
+
+	font-size:0.8em;
+	font-family: arial;
+}
+
+img
+{
+float: left; 
+margin: 0; 
+padding: 0;
+margin-right: 3px;
+}
+
+/* ******************** contextmenu ******************** */
+
+div#smccontextmenu1
+{
+	margin-top: 10px;
+}
+
+.smccontextmenu ul ul{
+	border: 0px;
+}
+.smccontextmenu ul{
+	margin:0;
+	padding:0px 0px;
+
+list-style-type:none;
+
+white-space: nowrap;
+font-size:95%;
+font-weight:bold;
+
+/*
+	border:1px solid #d9d9d9;
+	background-color: #E6F3FC;
+*/
+
+display: inline;
+}
+.smccontextmenu ul li{
+
+	display: inline;
+	padding:2px 2px;
+	width: auto;
+	float:left;
+text-align: middle;
+}
+
+.smccontextmenu ul li a:hover,.smccontextmenu ul li a.current
+{
+color:#034895;
+background: #D1D9DF;
+}
+
+.smccontextmenu ul li a:hover
+{
+border-right:2px solid #EFF9FF;
+border-bottom:2px solid #EFF9FF;
+border-left:2px solid #CFECFF;
+border-top:2px solid #CFECFF;
+
+background-color: #E6F3FC;
+color:#5F8DBF;
+}
+
+.smccontextmenu ul li a
+{
+border-left:2px solid #EFF9FF;
+border-top:2px solid #EFF9FF;
+border-right:2px solid #CFECFF;
+border-bottom:2px solid #CFECFF;
+	display: block;
+	float:left;
+/* border:1px solid #d9d9d9; */
+
+padding: 2px 8px;
+color:#034895;
+text-decoration:none;
+background-color: #E6F3FC;
+margin:0;
+}
+
+
+/* ******************** standard-elemente ******************** */
+
+h1.smc_h1 
+{
+	margin:0.5em 0em 0em 0em;
+padding: 3px;
+clear: both;
+}
+h2.smc_h2
+{
+	margin:0.5em 0em 1em 0em;
+	font-size:1.2em;
+}
+h3.smc_h3
+{
+	font-size:1em;
+}
+
+a {color: #034895;}
+
+
+
+/* ******************** tabellen ******************** */
+/* *** listen *** */
+
+.smccontenttable  {
+clear:both;
+	font-size: 95%;
+	border-collapse: collapse;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.smccontenttable thead th {
+ 	text-align:center;
+	font-weight: bold;
+	padding: 3px 3px;
+	margin: 0px;
+
+	color:black;
+	background-color: #e6f3fc;
+	border-bottom: 2px solid #D9D9D9; 
+}
+.smccontenttable td
+{
+	padding: 4px;
+}	
+.smccontenttable form
+{
+	margin:1px;
+}
+
+
+
+
+
+
+.smccontenttable  tr {
+ background-color:#fff;
+ border-bottom: 1px solid #D9D9D9;
+}
+.smccontenttable  td {
+ color:black;
+ padding:5px;
+ text-align:left;
+}
+.smccontenttable  th {
+ text-align:left;
+ padding: 2px;
+}
+tbody td a, tbody th a {
+ color:#002084;
+ text-decoration:underline;
+ font-weight:normal; 
+}
+tbody td a:hover, tbody th a:hover {
+ text-decoration:none;
+}
+
+
+
+
+
+
+
+
+/* *** zeilen in datentabellen *** */
+
+
+.smccontenttable tr.smcrowh td       /* zwischenueberschrift */
+{
+	background-color:#E0E9EF;
+	font-weight:bold;
+	text-align:left;
+}
+
+  /* farbiger zeilenwechsel */
+.smccontenttable tr td { background: #EFEFEF; }
+.smccontenttable tr.smcrow1 td      
+{
+background: white;
+
+}
+
+
+
+/* *** dokumentbox *** */
+table.smcdocbox
+{ 
+	float:right;
+	width: 14em; 
+	border:1px solid gray;
+}
+.smccontenttable tr td table.smcdocbox
+{ 
+	float:left;
+	border:0px solid gray;
+}
+table.smcdocbox thead
+{
+	display: none;
+}
+table.smcdocbox tr td
+{
+	padding: 0px;
+	text-align:left;
+	vertical-align:top;
+	font-size:90%;
+}
+table.smcdocbox form
+{
+	margin:1px;
+}
+
+.smcdocfunktionen
+{
+	text-align:right;
+	margin:1px;
+}
+.smcdoctextlarge
+{
+	color:gray;
+}
+
+/* *** vorgangdetails *** */
+table#smctablevorgang
+{
+	border-spacing: 0px;
+	margin: 0px 10px 10px 0px; 
+	float: left;
+	text-align:left;
+}
+
+#smctablevorgang thead
+{
+	display: none;
+}
+#smctablevorgang tr td
+{
+	padding: 2px 15px 2px 8px;
+	vertical-align:top;
+}
+.smctablehead { font-weight: bold; }
+
+.smctablevorgang thead
+{
+	display: none;
+}
+.smctablevorgang tr td
+{
+	padding: 2px 15px 2px 8px;
+	vertical-align:top;
+}
+
+/* *** nachtr%E4ge *** */
+.smcf_tondat
+{
+	color: red;
+	font-size:80%;
+	display: none;
+}
+.smcf_tondat_star
+{
+	font-size:80%;
+}
+
+
+/* version:310 */
+/* layout version 2 und 3 */
+/* steuerung der seitenanzeige im browser */
+/* diese datei darf nicht ver%E4ndert werden ! */
+
+/* *** zeilen in datentabellen *** */
+.smctd1
+{
+	padding-right:2px;
+}
+.smctd1right
+{
+	padding-right:2px;
+	text-align:right;
+}
+td.smctd2
+{
+	padding-right:2px;
+	border-top:2px solid white;
+}
+td.smctd3
+{
+	padding-right:1em;
+	padding-left:2em;
+}
+.smcline2
+{
+	padding-left:10px;
+}
+.smcline3
+{
+	padding-left:20px;
+}
+.smcline4
+{
+	padding-left:30px;
+}
+
+th.smc_th2
+{
+	text-align:left;
+	white-space:nowrap;
+    background-color: #c0c0c0;
+}
+th.smc_th3
+{
+	text-align:left;
+	font-weight:normal;
+	border-bottom:1px solid #000000;
+	white-space:nowrap;
+    background-color: #c0c0c0;
+}
+tr.smc_tr
+{
+	vertical-align:top;
+}
+/* Zelle mit Rahmen unten in Tabelle */
+td.smc_td5
+{
+	text-align:left;
+	font-weight:bold;
+	border-bottom:1px solid #000000;
+}
+
+/* *** textzeilen in datentabellen *** */
+.smctext11
+{
+	font-family:"courier new","times new roman",verdana,arial;
+	font-weight:bold;
+	white-space:nowrap;
+	padding-left:30px;
+}
+.smctext12
+{
+	font-family:"courier new","times new roman",verdana,arial;
+}
+.smctext21
+{
+	font-family:"courier new","times new roman",verdana,arial;
+	font-weight:bold;
+	white-space:nowrap;
+	padding-bottom:5px;
+	padding-left:30px;
+}
+.smctext22
+{
+	font-family:"courier new","times new roman",verdana,arial;
+	padding-bottom:5px;
+}
+
+
+/* *** bilder *** */
+.smcimg
+{
+	border:0px;
+}
+
+.smcimg16
+{
+	border:0px;
+	vertical-align:middle;
+}
+.smcimg18
+{
+	border:0px;
+}
+.smcimgjs
+{
+	cursor:pointer;
+	border:0px;
+}
+.smcpaddingr1
+{
+	padding-right:10px;
+}
+
+/* *** einzelelemente *** */
+
+.smchidden
+{
+	display: none;
+}
+
+.smcclear
+{
+	clear:both;
+}
+
+.smccontenttext /* Einbindung Session-Texte */
+{
+	margin-top:1em;
+	margin-bottom:1em;
+	clear:both;
+}
+
+.smcnowrap
+{
+	white-space:nowrap;
+}
+
+/* *** style definitions for documents *** */
+p.msonormal, li.msonormal, div.msonormal, p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:1em;
+	mso-pagination:widow-orphan;
+	font-family:tahoma,verdana,arial,"times new roman";
+	mso-fareast-font-family:tahoma,verdana,arial,"times new roman";
+}
+ -->
+
+<!-- .smcdocname,.smcdocboxzip {display:none} -->
+
+ --></style><style media="print"><!-- /* Steuerung der Druckausgabe */
+/* Diese Datei darf nicht ver%E4ndert werden ! Anpassungen nehmen Sie in folgender Datei vor: _printstyles.css */
+body
+{
+	background-color:white;
+    font-family:verdana,arial,helvetica;
+	font-size:11px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:5px;
+}
+table
+{
+    font-family: verdana,arial,helvetica;
+}
+tr
+{
+	vertical-align:top;
+}
+td
+{
+	text-align: left;
+	font-size:11px;
+	vertical-align:top;
+	padding: 2px
+}
+p
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+}
+
+.pagebefore
+{
+	page-break-before:auto;
+}
+.pageafter
+{
+	page-break-after:auto;
+}
+		
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+
+th.smc_th
+{
+	border-bottom:1px solid #000000;
+	text-align:left;
+}
+th.smc_th3
+{
+	text-align:left;
+	font-weight:normal;
+}
+tr.smc_tr
+{
+	vertical-align:top;
+}
+h1.smc_h1
+{
+	font-size:1.75em;
+}
+h2.smc_h2
+{
+	font-size:1.5em;
+}
+h3.smc_h3
+{
+	padding-top:14px;
+	padding-bottom:0;
+	font-size:1.25em;
+}
+h4.smc_h4
+{
+	font-size:1.20em;
+}
+
+#smccontextmenu,.smccontextmenu,.smccontextmenutop,.smccontextmenubottom
+{
+	display:none;
+}
+.smctop,.smchead
+{
+	display:none;
+}
+#smcnavigation,.smcnav,.smcnavhist
+{
+	display:none;
+}
+.smcfoot
+{
+	margin-top:20px;
+	border-top:1px solid black;
+}
+
+/* Steuerelemente ausblenden */
+.smcboxheadright,.smcboxheadrightfull
+{
+	display:none;
+}
+
+
+div.smccontenttable
+{
+	margin-bottom:20px;
+}
+
+.smctxtlink,.smcdocbox
+{
+	display:none;
+}
+
+.smcimg,.smcimg16,.smcimgjs
+{
+	display:none;
+}
+.smcform,.smcdocform
+{
+	display:none;
+}
+.smcdocument
+{
+	display:none;
+}
+
+.smcrow2
+{
+	background-color: #e0e0e0;
+}
+.smcrow7
+{
+	background-color: #c0c0c0;
+}
+.smcrowh
+{
+	background-color: #e0e0e0;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	border-bottom:1px solid gray;
+}
+.smcrows
+{
+	background-color:white;
+	border-bottom:1px solid gray;
+}
+
+.smcinvisible
+{
+	display:none;
+}
+.smcnoprint
+{
+	display:none;
+}
+a.smc_small
+{
+	color: black;
+	text-decoration:underline;
+}
+a.smc_small:visited
+{
+	color: black;
+}
+
+/* Filter-Liste */
+.smcfilter
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-left:2px;
+}
+.smcfilter1
+{
+	padding-right:10px;
+	font-weight:bold;
+	font-size:80%;
+}
+.smcfilter2
+{
+	padding-right:10px;
+}
+
+/* Werkzeugleiste */
+#smcworkcontainer,.smcworkfunction,.smcworkfunctiontext,.smcworkyes,.smcworkno
+{
+	display:none;
+}
+
+/* style definitions for documents */
+p.msonormal, li.msonormal, div.msonormal, p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:1em;
+	mso-pagination:widow-orphan;
+	font-family:tahoma,verdana,arial,"times new roman";
+	mso-fareast-font-family:tahoma,verdana,arial,"times new roman";
+}
+.msoDel /* Markierung f%FCr auszublendenden Text */
+{
+	display:none;
+}
+ --></style><style media="screen"><!-- .smcdocname,.smcdocboxzip {display:none} --></style><title>Sitzung 13.10.2010 Ausschuss f&uuml;r Stadtentwicklung und Bau</title></head><body class="smc_body"><!--SMCNAVIGATION--><br class="smcclear" ><h1 class="smc_h1">Sitzung 13.10.2010 Ausschuss f&uuml;r Stadtentwicklung und Bau</h1><!--SMCINFO:si.bi.1.4.1.1.8.1.3 --><table summary="Inhalt der Tabelle: Informationen der Sitzung" id="smctablevorgang" cellspacing="0" cellpadding="0"><thead>
+<tr><th>Bezeichnung</th><th>Inhalt</th><th>Bezeichnung</th><th>Inhalt</th></tr></thead><tbody>
+<tr valign="top"><td class="smctablehead">Sitzung:</td><td>SB/019/2010</td><td class="smctablehead">Gremium:</td><td>Ausschuss f&uuml;r Stadtentwicklung und Bau</td></tr>
+<tr valign="top"><td class="smctablehead">Datum:</td><td>13.10.2010</td><td class="smctablehead">Zeit:</td><td>16:00-22:30</td></tr>
+<tr valign="top"><td class="smctablehead">Raum:</td><td colspan="3">Landeshauptstadt Dresden,  im WTC, Beratungsraum 1036 (10. Etage),<br >Ammonstra&szlig;e 72, 01067 Dresden</td></tr>
+<tr valign="top"><td class="smctablehead">Bezeichnung:</td><td colspan="3">19. Sitzung des Ausschusses f&uuml;r Stadtentwicklung und Bau</td></tr></tbody></table><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00043328.pdf" title="Einladung_SB " class="smcdoccontrol1" >Einladung_SB</a>
+</td><td class="smc_doc smcdocname" title="Einladung_SB&nbsp;Dateigr&ouml;sse: 21&nbsp;KB ">Einladung_SB <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">21&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00043696.pdf" title="Nachtrag_SB_2010_10_13 " class="smcdoccontrol1" >Nachtrag_SB_2010_10_13</a>
+</td><td class="smc_doc smcdocname" title="Nachtrag_SB_2010_10_13&nbsp;Dateigr&ouml;sse: 14&nbsp;KB ">Nachtrag_SB_2010_10_13 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">14&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00044676.pdf" title="Beschlussausfertigung_A0195/10 " class="smcdoccontrol1" >Beschlussausfertigung_A0195/10</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_A0195/10&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_A0195/10 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00044618.pdf" title="Beschlussausfertigung_V0102/09 " class="smcdoccontrol1" >Beschlussausfertigung_V0102/09</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V0102/09&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V0102/09 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00044619.pdf" title="Beschlussausfertigung_V0658/10 " class="smcdoccontrol1" >Beschlussausfertigung_V0658/10</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V0658/10&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V0658/10 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00044620.pdf" title="Beschlussausfertigung_V0739/10 " class="smcdoccontrol1" >Beschlussausfertigung_V0739/10</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V0739/10&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V0739/10 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00044621.pdf" title="Beschlussausfertigung_V0740/10 " class="smcdoccontrol1" >Beschlussausfertigung_V0740/10</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V0740/10&nbsp;Dateigr&ouml;sse: 12&nbsp;KB ">Beschlussausfertigung_V0740/10 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">12&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00044617.pdf" title="Beschlussausfertigung_V0759/10 " class="smcdoccontrol1" >Beschlussausfertigung_V0759/10</a>
+</td><td class="smc_doc smcdocname" title="Beschlussausfertigung_V0759/10&nbsp;Dateigr&ouml;sse: 11&nbsp;KB ">Beschlussausfertigung_V0759/10 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">11&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00045434.pdf" title="Niederschrift &ouml;ffentlich " class="smcdoccontrol1" >Niederschrift &ouml;ffentlich</a>
+</td><td class="smc_doc smcdocname" title="Niederschrift &ouml;ffentlich&nbsp;Dateigr&ouml;sse: 44&nbsp;KB ">Niederschrift &ouml;ffentlich <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">44&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr id="smcdocboxsi_659_2" class="smcdocboxzip"><td><smctag_a href="phpziparchive.php?page=to0040&recall=__ksinr:659&zip=836372936540445834478711516287392420295224498354656375426268753207245724" title="alle Dokumente zu dieser Sitzung zusammenfassen " ><smctag_img src="im/zip_create.gif" class="smcimg16" alt=" " title="Alle Dokumente zu dieser Sitzung werden in einer zip-Datei zusammengefasst. " border="0" id="smczipcontrol1"></td><td class="smcdocname">alle Dokumente zu dieser Sitzung zusammenfassen</td><td class="smcdocfunktionen">&nbsp;</td></tr></tbody></table><table id="smc_page_to0040_contenttable1" summary="Inhalt der Tabelle: Tagesordnungspunkte der Sitzung" class="smccontenttable smc_page_to0040_contenttable" cellspacing="0" cellpadding="0"><thead>
+<tr><th class="smc_th">TOP&nbsp;</th><th class="smc_th" colspan="4">Inhalt&nbsp;</th><th class="smc_th">&nbsp;</th><th class="smc_th">&nbsp;</th><th class="smc_th">Dokumente</th></tr></thead><tbody>
+<tr class="smcrowh"><td colspan="8"  class="smcrowh">&Ouml;ffentlicher Teil: </td></tr>
+
+<tr id="smc_contol_to_1_13031" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">1</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Bebauungsplan Nr. 343, Dresden-Wei&szlig;ig Nr. 19, Erweiterung Gewerbepark Wei&szlig;ig<br >hier:	1. Billigung der Abw&auml;gung<br >	2. &Auml;nderungsbeschluss Bebauungsplan 	3. Billigung des Entwurfes zum Bebauungsplan 	4. Billigung der Begr&uuml;ndung zum Bebauungsplan-Entwurf<br >	5. &Ouml;ffentliche Auslegung des Entwurfes zum Bebauungsplan&nbsp;<!--SMCINFO:to.bi.1.11.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=2879&amp;voselect=659" title="Vorlage anzeigen: Bebauungsplan Nr. 343, Dresden-Wei&szlig;ig Nr. 19, Erweiterung Gewerbepark Wei&szlig;ig " class="smc_doc" >V0759/10</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00042669.pdf" title="Vorlage Gremien " class="smcdoccontrol1" >Vorlage Gremien</a>
+</td><td class="smc_doc smcdocname" title="Vorlage Gremien&nbsp;Dateigr&ouml;sse: 28&nbsp;KB ">Vorlage Gremien <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">28&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00042249.pdf" title="a) Anlage 1_V0759 " class="smcdoccontrol1" >a) Anlage 1_V0759</a>
+</td><td class="smc_doc smcdocname" title="a) Anlage 1_V0759&nbsp;Dateigr&ouml;sse: 131&nbsp;KB ">a) Anlage 1_V0759 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">131&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00042680.pdf" title="b) Anlage 2_Blatt1_V0759 " class="smcdoccontrol1" >b) Anlage 2_Blatt1_V0759</a>
+</td><td class="smc_doc smcdocname" title="b) Anlage 2_Blatt1_V0759&nbsp;Dateigr&ouml;sse: 861&nbsp;KB ">b) Anlage 2_Blatt1_V0759 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">861&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00042681.pdf" title="c) Anlage 2_Blatt2_V0759 " class="smcdoccontrol1" >c) Anlage 2_Blatt2_V0759</a>
+</td><td class="smc_doc smcdocname" title="c) Anlage 2_Blatt2_V0759&nbsp;Dateigr&ouml;sse: 2&nbsp;MB ">c) Anlage 2_Blatt2_V0759 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">2&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00042250.pdf" title="d) Anlage 3_V0759 " class="smcdoccontrol1" >d) Anlage 3_V0759</a>
+</td><td class="smc_doc smcdocname" title="d) Anlage 3_V0759&nbsp;Dateigr&ouml;sse: 526&nbsp;KB ">d) Anlage 3_V0759 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">526&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00042252.pdf" title="f) bereits gefasster Beschluss_V0759-1 " class="smcdoccontrol1" >f) bereits gefasster Beschluss_V0759-1</a>
+</td><td class="smc_doc smcdocname" title="f) bereits gefasster Beschluss_V0759-1&nbsp;Dateigr&ouml;sse: 27&nbsp;KB ">f) bereits gefasster Beschluss_V0759-1 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">27&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz1">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz1"> Ja:&nbsp;9, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_13075" valign="top"  class="smcrow2 smc_toph smc_toph1">
+<td  class="smcrow2 smc_toph smc_toph1">2</td><td colspan="4"  class="smcrow2 smc_toph smc_toph1">Verkehrsbauma&szlig;nahme Knotenpunkt Klotzscher Stra&szlig;e/Lessingstra&szlig;e in Langebr&uuml;ck&nbsp;<!--SMCINFO:to.bi.1.11.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph1"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=208&amp;voselect=659" title="Vorlage anzeigen: Verkehrsbauma&szlig;nahme Knotenpunkt Klotzscher Stra&szlig;e/Lessingstra&szlig;e in Langebr&uuml;ck " class="smc_doc" >V0102/09</td><td  class="smcrow2 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph1"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00003686.pdf" title="Vorlage Gremien " class="smcdoccontrol1" >Vorlage Gremien</a>
+</td><td class="smc_doc smcdocname" title="Vorlage Gremien&nbsp;Dateigr&ouml;sse: 14&nbsp;KB ">Vorlage Gremien <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">14&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00003687.pdf" title="V0102/09 (V2919) " class="smcdoccontrol1" >V0102/09 (V2919)</a>
+</td><td class="smc_doc smcdocname" title="V0102/09 (V2919)&nbsp;Dateigr&ouml;sse: 606&nbsp;KB ">V0102/09 (V2919) <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">606&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00003688.pdf" title="V0102/09 (V2919)-Anlage 1 " class="smcdoccontrol1" >V0102/09 (V2919)-Anlage 1</a>
+</td><td class="smc_doc smcdocname" title="V0102/09 (V2919)-Anlage 1&nbsp;Dateigr&ouml;sse: 530&nbsp;KB ">V0102/09 (V2919)-Anlage 1 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">530&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00003689.pdf" title="V0102/09 (V2919)-Anlage 2 " class="smcdoccontrol1" >V0102/09 (V2919)-Anlage 2</a>
+</td><td class="smc_doc smcdocname" title="V0102/09 (V2919)-Anlage 2&nbsp;Dateigr&ouml;sse: 462&nbsp;KB ">V0102/09 (V2919)-Anlage 2 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">462&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00003690.pdf" title="V0102/09 (V2919)-Stellungnahme Gleichstellungsbeauftragte " class="smcdoccontrol1" >V0102/09 (V2919)-Stellungnahme Gleichstellungsbeauftragte</a>
+</td><td class="smc_doc smcdocname" title="V0102/09 (V2919)-Stellungnahme Gleichstellungsbeauftragte&nbsp;Dateigr&ouml;sse: 129&nbsp;KB ">V0102/09 (V2919)-Stellungnahme Gleichstellungsbeauftragte <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">129&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz1"><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz1">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz1"><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz1"> Ja:&nbsp;10, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_12887" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">3</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Vorhabenbezogener Bebauungsplan Nr. 695, Dresden-Altstadt II, Nahversorgungszentrum Stra&szlig;burger Platz<br >hier: 1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan<br >    2. Grenzen des vorhabenbezogenen Bebauungsplanes&nbsp;<!--SMCINFO:to.bi.1.11.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=2399&amp;voselect=659" title="Vorlage anzeigen: Vorhabenbezogener Bebauungsplan Nr. 695, Dresden-Altstadt II, Nahversorgungszentrum Stra&szlig;burger Platz " class="smc_doc" >V0658/10</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00036051.pdf" title="Vorlage Gremien " class="smcdoccontrol1" >Vorlage Gremien</a>
+</td><td class="smc_doc smcdocname" title="Vorlage Gremien&nbsp;Dateigr&ouml;sse: 25&nbsp;KB ">Vorlage Gremien <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">25&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00035577.pdf" title="VB 695_Anlage1-Geltungsbereich " class="smcdoccontrol1" >VB 695_Anlage1-Geltungsbereich</a>
+</td><td class="smc_doc smcdocname" title="VB 695_Anlage1-Geltungsbereich&nbsp;Dateigr&ouml;sse: 12&nbsp;KB ">VB 695_Anlage1-Geltungsbereich <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">12&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00035578.pdf" title="VB 695_Anlage2-Geltungsbereich " class="smcdoccontrol1" >VB 695_Anlage2-Geltungsbereich</a>
+</td><td class="smc_doc smcdocname" title="VB 695_Anlage2-Geltungsbereich&nbsp;Dateigr&ouml;sse: 158&nbsp;KB ">VB 695_Anlage2-Geltungsbereich <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">158&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00035579.pdf" title="VB 695_Anlage3-Planungskonzept " class="smcdoccontrol1" >VB 695_Anlage3-Planungskonzept</a>
+</td><td class="smc_doc smcdocname" title="VB 695_Anlage3-Planungskonzept&nbsp;Dateigr&ouml;sse: 874&nbsp;KB ">VB 695_Anlage3-Planungskonzept <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">874&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz1">Zustimmung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz1"> Ja:&nbsp;7, Nein:&nbsp;1, Enthaltungen:&nbsp;3</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_12888" valign="top"  class="smcrow2 smc_toph smc_toph1">
+<td  class="smcrow2 smc_toph smc_toph1">4</td><td colspan="4"  class="smcrow2 smc_toph smc_toph1">Vorhabenbezogener Bebauungsplan Nr. 696, Dresden-Mickten, Lommatzscher Stra&szlig;e - Sconto M&ouml;belmarkt<br >hier:	1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan 	2. Grenzen des vorhabenbezogenen Bebauungsplanes 	3. Verzicht auf fr&uuml;hzeitige Beteiligung&nbsp;<!--SMCINFO:to.bi.1.11.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph1"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=2754&amp;voselect=659" title="Vorlage anzeigen: Vorhabenbezogener Bebauungsplan Nr. 696, Dresden-Mickten, Lommatzscher Stra&szlig;e - Sconto M&ouml;belmarkt " class="smc_doc" >V0737/10</td><td  class="smcrow2 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph1"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00045330.pdf" title="Vorlage Gremien - &Auml;nderung " class="smcdoccontrol1" >Vorlage Gremien - &Auml;nderung</a>
+</td><td class="smc_doc smcdocname" title="Vorlage Gremien - &Auml;nderung&nbsp;Dateigr&ouml;sse: 17&nbsp;KB ">Vorlage Gremien - &Auml;nderung <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">17&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040264.pdf" title="a) Anlage 1_Geltungsbereich " class="smcdoccontrol1" >a) Anlage 1_Geltungsbereich</a>
+</td><td class="smc_doc smcdocname" title="a) Anlage 1_Geltungsbereich&nbsp;Dateigr&ouml;sse: 10&nbsp;KB ">a) Anlage 1_Geltungsbereich <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">10&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040265.pdf" title="b) Anlage 2_&Uuml;bersichtsplan " class="smcdoccontrol1" >b) Anlage 2_&Uuml;bersichtsplan</a>
+</td><td class="smc_doc smcdocname" title="b) Anlage 2_&Uuml;bersichtsplan&nbsp;Dateigr&ouml;sse: 246&nbsp;KB ">b) Anlage 2_&Uuml;bersichtsplan <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">246&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040272.pdf" title="c) bereits gefasste Beschl&uuml;sse " class="smcdoccontrol1" >c) bereits gefasste Beschl&uuml;sse</a>
+</td><td class="smc_doc smcdocname" title="c) bereits gefasste Beschl&uuml;sse&nbsp;Dateigr&ouml;sse: 178&nbsp;KB ">c) bereits gefasste Beschl&uuml;sse <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">178&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz1"><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz1">Zustimmung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz1"><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz1"> Ja:&nbsp;6, Nein:&nbsp;5, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_12889" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">5</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Bebauungsplan Nr. 252, Dresden-Kleinzschachwitz Nr. 1, Kleinzschachwitzer Ufer<br >hier:	1. Billigung der Abw&auml;gung<br >	2. Grenze des Bebauungsplanes 	3. Billigung des Entwurfes zum Bebauungsplan 	4. Billigung der Begr&uuml;ndung zum Bebauungsplan-Entwurf<br >	5. &Ouml;ffentliche Auslegung des Entwurfes zum Bebauungsplan&nbsp;<!--SMCINFO:to.bi.1.11.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=2777&amp;voselect=659" title="Vorlage anzeigen: Bebauungsplan Nr. 252, Dresden-Kleinzschachwitz Nr. 1, Kleinzschachwitzer Ufer " class="smc_doc" >V0739/10</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00040631.pdf" title="Vorlage Gremien " class="smcdoccontrol1" >Vorlage Gremien</a>
+</td><td class="smc_doc smcdocname" title="Vorlage Gremien&nbsp;Dateigr&ouml;sse: 21&nbsp;KB ">Vorlage Gremien <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">21&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040590.pdf" title="a) Anlage 1_&Uuml;bersichtsplan_V0739 " class="smcdoccontrol1" >a) Anlage 1_&Uuml;bersichtsplan_V0739</a>
+</td><td class="smc_doc smcdocname" title="a) Anlage 1_&Uuml;bersichtsplan_V0739&nbsp;Dateigr&ouml;sse: 108&nbsp;KB ">a) Anlage 1_&Uuml;bersichtsplan_V0739 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">108&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040592.pdf" title="c) Anlage 2_Blatt 1_V0739 " class="smcdoccontrol1" >c) Anlage 2_Blatt 1_V0739</a>
+</td><td class="smc_doc smcdocname" title="c) Anlage 2_Blatt 1_V0739&nbsp;Dateigr&ouml;sse: 1&nbsp;MB ">c) Anlage 2_Blatt 1_V0739 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">1&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040593.pdf" title="d) Anlage 2_Blatt 2_V0739 " class="smcdoccontrol1" >d) Anlage 2_Blatt 2_V0739</a>
+</td><td class="smc_doc smcdocname" title="d) Anlage 2_Blatt 2_V0739&nbsp;Dateigr&ouml;sse: 639&nbsp;KB ">d) Anlage 2_Blatt 2_V0739 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">639&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040594.pdf" title="e) Anlage 2_Blatt 3_V0739 " class="smcdoccontrol1" >e) Anlage 2_Blatt 3_V0739</a>
+</td><td class="smc_doc smcdocname" title="e) Anlage 2_Blatt 3_V0739&nbsp;Dateigr&ouml;sse: 1&nbsp;MB ">e) Anlage 2_Blatt 3_V0739 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">1&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040595.pdf" title="f) Anlage 3_begr&uuml;ndung_V0739 " class="smcdoccontrol1" >f) Anlage 3_begr&uuml;ndung_V0739</a>
+</td><td class="smc_doc smcdocname" title="f) Anlage 3_begr&uuml;ndung_V0739&nbsp;Dateigr&ouml;sse: 586&nbsp;KB ">f) Anlage 3_begr&uuml;ndung_V0739 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">586&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040596.pdf" title="g) Beschlussausfertigung 1081-SB-2001 " class="smcdoccontrol1" >g) Beschlussausfertigung 1081-SB-2001</a>
+</td><td class="smc_doc smcdocname" title="g) Beschlussausfertigung 1081-SB-2001&nbsp;Dateigr&ouml;sse: 33&nbsp;KB ">g) Beschlussausfertigung 1081-SB-2001 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">33&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz1">Ablehnung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz1"> Ja:&nbsp;0, Nein:&nbsp;11, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_12890" valign="top"  class="smcrow2 smc_toph smc_toph1">
+<td  class="smcrow2 smc_toph smc_toph1">6</td><td colspan="4"  class="smcrow2 smc_toph smc_toph1">Vorhabenbezogener Bebauungsplan Nr. 691, Dresden-Gruna, Zwinglistra&szlig;e/Rothermundtstra&szlig;e<br >hier:	1. Beschluss zur &Auml;nderung der Grenzen des Geltungsbereichs des 	Vorhabenbezogenen Bebauungsplanes 	2. Billigung des Entwurfs zum Vorhabenbezogenen Bebauungsplan<br >	3. Billigung der Begr&uuml;ndung zum Vorhabenbezogenen Bebauungsplan<br >	4. Durchf&uuml;hrung des Beteiligungsverfahrens zum Entwurf des Vorhabenbezogenen 	Bebauungsplanes&nbsp;<!--SMCINFO:to.bi.1.11.0.1.1.-1 --></td><td  class="smcrow2 smc_toph smc_toph1"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=2785&amp;voselect=659" title="Vorlage anzeigen: Vorhabenbezogener Bebauungsplan Nr. 691, Dresden-Gruna, Zwinglistra&szlig;e/Rothermundtstra&szlig;e " class="smc_doc" >V0740/10</td><td  class="smcrow2 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow2 smc_toph smc_toph1"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00040924.pdf" title="Vorlage Gremien " class="smcdoccontrol1" >Vorlage Gremien</a>
+</td><td class="smc_doc smcdocname" title="Vorlage Gremien&nbsp;Dateigr&ouml;sse: 25&nbsp;KB ">Vorlage Gremien <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">25&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040723.pdf" title="a) Anlage 1_Geltungsbereich_V0740 " class="smcdoccontrol1" >a) Anlage 1_Geltungsbereich_V0740</a>
+</td><td class="smc_doc smcdocname" title="a) Anlage 1_Geltungsbereich_V0740&nbsp;Dateigr&ouml;sse: 10&nbsp;KB ">a) Anlage 1_Geltungsbereich_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">10&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040724.pdf" title="b) Anlage 2_&Uuml;bersichtsplan_V0740 " class="smcdoccontrol1" >b) Anlage 2_&Uuml;bersichtsplan_V0740</a>
+</td><td class="smc_doc smcdocname" title="b) Anlage 2_&Uuml;bersichtsplan_V0740&nbsp;Dateigr&ouml;sse: 288&nbsp;KB ">b) Anlage 2_&Uuml;bersichtsplan_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">288&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040725.pdf" title="c) Anlage 3_Grenz&auml;nderung_V0740 " class="smcdoccontrol1" >c) Anlage 3_Grenz&auml;nderung_V0740</a>
+</td><td class="smc_doc smcdocname" title="c) Anlage 3_Grenz&auml;nderung_V0740&nbsp;Dateigr&ouml;sse: 200&nbsp;KB ">c) Anlage 3_Grenz&auml;nderung_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">200&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040726.pdf" title="d) Anlage 4_Rechtsplan Blatt 1_V0740 " class="smcdoccontrol1" >d) Anlage 4_Rechtsplan Blatt 1_V0740</a>
+</td><td class="smc_doc smcdocname" title="d) Anlage 4_Rechtsplan Blatt 1_V0740&nbsp;Dateigr&ouml;sse: 3&nbsp;MB ">d) Anlage 4_Rechtsplan Blatt 1_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">3&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040727.pdf" title="e) Anlage 5_Planbegr&uuml;ndung_V0740 " class="smcdoccontrol1" >e) Anlage 5_Planbegr&uuml;ndung_V0740</a>
+</td><td class="smc_doc smcdocname" title="e) Anlage 5_Planbegr&uuml;ndung_V0740&nbsp;Dateigr&ouml;sse: 419&nbsp;KB ">e) Anlage 5_Planbegr&uuml;ndung_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">419&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040728.pdf" title="f) Anlage 6_Blatt 1_Gr&uuml;n_Vorhabenplan Blatt 2_A3 " class="smcdoccontrol1" >f) Anlage 6_Blatt 1_Gr&uuml;n_Vorhabenplan Blatt 2_A3</a>
+</td><td class="smc_doc smcdocname" title="f) Anlage 6_Blatt 1_Gr&uuml;n_Vorhabenplan Blatt 2_A3&nbsp;Dateigr&ouml;sse: 885&nbsp;KB ">f) Anlage 6_Blatt 1_Gr&uuml;n_Vorhabenplan Blatt 2_A3 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">885&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040730.pdf" title="g) Anlage 6_Blatt 2_V0740 " class="smcdoccontrol1" >g) Anlage 6_Blatt 2_V0740</a>
+</td><td class="smc_doc smcdocname" title="g) Anlage 6_Blatt 2_V0740&nbsp;Dateigr&ouml;sse: 229&nbsp;KB ">g) Anlage 6_Blatt 2_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">229&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040731.pdf" title="h) Anlage 6_Blatt 3_V0740 " class="smcdoccontrol1" >h) Anlage 6_Blatt 3_V0740</a>
+</td><td class="smc_doc smcdocname" title="h) Anlage 6_Blatt 3_V0740&nbsp;Dateigr&ouml;sse: 161&nbsp;KB ">h) Anlage 6_Blatt 3_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">161&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040732.pdf" title="i) Anlage 6_Blatt 4_V0740 " class="smcdoccontrol1" >i) Anlage 6_Blatt 4_V0740</a>
+</td><td class="smc_doc smcdocname" title="i) Anlage 6_Blatt 4_V0740&nbsp;Dateigr&ouml;sse: 161&nbsp;KB ">i) Anlage 6_Blatt 4_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">161&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040733.pdf" title="j) Anlage 6_Blatt 5_V0740 " class="smcdoccontrol1" >j) Anlage 6_Blatt 5_V0740</a>
+</td><td class="smc_doc smcdocname" title="j) Anlage 6_Blatt 5_V0740&nbsp;Dateigr&ouml;sse: 214&nbsp;KB ">j) Anlage 6_Blatt 5_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">214&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040734.pdf" title="k) Anlage 6_Blatt 6_V0740 " class="smcdoccontrol1" >k) Anlage 6_Blatt 6_V0740</a>
+</td><td class="smc_doc smcdocname" title="k) Anlage 6_Blatt 6_V0740&nbsp;Dateigr&ouml;sse: 453&nbsp;KB ">k) Anlage 6_Blatt 6_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">453&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040735.pdf" title="l) Anlage 6_Blatt 7_V0740 " class="smcdoccontrol1" >l) Anlage 6_Blatt 7_V0740</a>
+</td><td class="smc_doc smcdocname" title="l) Anlage 6_Blatt 7_V0740&nbsp;Dateigr&ouml;sse: 302&nbsp;KB ">l) Anlage 6_Blatt 7_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">302&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040736.pdf" title="m) Anlage 7_V0740 " class="smcdoccontrol1" >m) Anlage 7_V0740</a>
+</td><td class="smc_doc smcdocname" title="m) Anlage 7_V0740&nbsp;Dateigr&ouml;sse: 2&nbsp;MB ">m) Anlage 7_V0740 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">2&nbsp;MB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00040737.pdf" title="n) Beschluss V0259-09 " class="smcdoccontrol1" >n) Beschluss V0259-09</a>
+</td><td class="smc_doc smcdocname" title="n) Beschluss V0259-09&nbsp;Dateigr&ouml;sse: 31&nbsp;KB ">n) Beschluss V0259-09 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">31&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz1"><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">Beschluss: </td><td  class="smcrow2 smc_tophz smc_tophz1">Zustimmung mit &Auml;nderung</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow2 smc_tophz smc_tophz1"><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">Abstimmung: </td><td  class="smcrow2 smc_tophz smc_tophz1"> Ja:&nbsp;7, Nein:&nbsp;4, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow2 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr id="smc_contol_to_1_12883" valign="top"  class="smcrow1 smc_toph smc_toph1">
+<td  class="smcrow1 smc_toph smc_toph1">7</td><td colspan="4"  class="smcrow1 smc_toph smc_toph1">Priorit&auml;tenliste zum Bau fehlender und zur Sanierung stark instandsetzungsbed&uuml;rftiger Fu&szlig;wege&nbsp;<!--SMCINFO:to.bi.1.11.0.1.1.-1 --></td><td  class="smcrow1 smc_toph smc_toph1"><!--SMCINFO:vo.bi.1.1.1.1.0.1.3.-8888.-8888.0.-8888.VORSQL:-8888 VORSQL2:-8888 vVOWWW --><smctag_a href="vo0050.php?__kvonr=2178&amp;voselect=659" title="Vorlage anzeigen: Priorit&auml;tenliste zum Bau fehlender und zur Sanierung stark instandsetzungsbed&uuml;rftiger Fu&szlig;wege " class="smc_doc" >A0195/10</td><td  class="smcrow1 smc_toph smc_toph1">&nbsp;</td><td  class="smcrow1 smc_toph smc_toph1"><table class="smcdocbox smcdocboxright" summary="Tabelle enth&auml;lt zum aufgerufenen Element zugeordnete Dokumente und damit verbundene Aktionen."><thead>
+<tr><th>Dokumenttyp</th><th>Bezeichnung</th><th>Aktionen</th></tr></thead><tbody>
+<tr><td class="smc_doc"><a href="00033382.pdf" title="Antrag FDP " class="smcdoccontrol1" >Antrag FDP</a>
+</td><td class="smc_doc smcdocname" title="Antrag FDP&nbsp;Dateigr&ouml;sse: 16&nbsp;KB ">Antrag FDP <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">16&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr>
+<tr><td class="smc_doc"><a href="00123277.pdf" title="BK A0195/12 Zw.-Bericht 31.01.2013 " class="smcdoccontrol1" >BK A0195/12 Zw.-Bericht 31.01.2013</a>
+</td><td class="smc_doc smcdocname" title="BK A0195/12 Zw.-Bericht 31.01.2013&nbsp;Dateigr&ouml;sse: 160&nbsp;KB ">BK A0195/12 Zw.-Bericht 31.01.2013 <span class="smcwrapsmall smcdosize" title="Dateigr&ouml;&szlig;e">160&nbsp;KB </span></td><td class="smc_doc smcdocfunktionen"></td></tr></tbody></table></td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Beschluss: </td><td  class="smcrow1 smc_tophz smc_tophz1">Zustimmung mit &Auml;nderung</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr>
+
+<tr  valign="top"  class="smcrow1 smc_tophz smc_tophz1"><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">Abstimmung: </td><td  class="smcrow1 smc_tophz smc_tophz1"> Ja:&nbsp;11, Nein:&nbsp;0, Enthaltungen:&nbsp;0</td><td colspan="4"  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td><td  class="smcrow1 smc_tophz smc_tophz1">&nbsp;</td></tr></tbody></table></body></html>

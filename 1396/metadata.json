@@ -1,0 +1,108 @@
+{
+  "id": "OBR Bl/014/2011",
+  "description": "14. Sitzung des Ortsbeirates Blasewitz",
+  "committee": "Ortsbeirat Blasewitz",
+  "started_at": "2011-04-20T15:30:00Z",
+  "ended_at": "2011-04-20T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Blasewitz, Ratssaal,Naumannstraße 5, 01309 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 13. Ortsbeiratssitzung am 23.03.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Erhalt Sportanlage Eibenstocker Straße 1",
+      "template_id": "A0320/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0320/11_SP",
+          "file_name": "00062932.pdf"
+        },
+        {
+          "description": "Antrag SPD",
+          "file_name": "00052604.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 6",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen im Jahr 2011",
+      "template_id": "V1002/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1002/11",
+          "file_name": "00065652.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00059605.pdf"
+        },
+        {
+          "description": "VO stadtweit",
+          "file_name": "00058743.pdf"
+        },
+        {
+          "description": "V1002/11",
+          "file_name": "00059887.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 4",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Ausbau des linkselbischen Elberadwegs",
+      "template_id": "A0346/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0346/11",
+          "file_name": "00069566.pdf"
+        },
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00057589.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 20",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00060296.pdf",
+      "description": "Einladung_OBR Bl"
+    },
+    {
+      "file_name": "00061589.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:42:54Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1396"
+}

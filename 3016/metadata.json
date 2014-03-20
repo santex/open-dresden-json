@@ -1,0 +1,81 @@
+{
+  "id": "OSR SW/046/2013",
+  "description": "46. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2013-07-08T17:31:00Z",
+  "ended_at": "2013-07-08T18:51:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlich gefasster Beschlüsse der 45. Sitzung vom 18.06.2013",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Berichterstattung von Vereinen über die Investitionen aus Fördermitteln der Ortschaft Schönfeld-Weißig",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verwendung von Verfügungsmitteln der Ortschaft Schönfeld-Weißig zur Traditions- und Heimatpflege",
+      "template_id": "V-SW0180/13",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bericht zur Beseitigung der letzten Beton-Wartehäuschen und Programm zur Haltestellenausstattung (V2240/13)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00137107.pdf",
+      "description": "Einladung_OSR SW"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:59:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3016"
+}

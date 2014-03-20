@@ -1,0 +1,23 @@
+{
+  "id": "FL/073/2013",
+  "description": "73. Sitzung des Ausschusses für Finanzen und Liegenschaften (Sondersitzung)",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2013-01-21T14:00:00Z",
+  "ended_at": "2013-01-21T16:05:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+
+  ],
+  "documents": [
+    {
+      "file_name": "00120149.pdf",
+      "description": "Einladung_FL_2013_01_21"
+    },
+    {
+      "file_name": "00121156.pdf",
+      "description": "Beschlussempfehlung Antrag_A0618/12"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:28:38Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3056"
+}

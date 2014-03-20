@@ -1,0 +1,72 @@
+{
+  "id": "OSR SW/009/2010",
+  "description": "9. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2010-04-12T17:35:00Z",
+  "ended_at": "2010-04-12T18:55:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Schönfeld-Weißig, Ratssaal, 2. Etage, Raum 208/209,Bautzner Landstraße 291, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bekanntgabe nicht öffentlich gefasster Beschlüsse der 8. Sitzung vom 15.03.2010",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl eines sachkundigen Bürgers in den Ausschuss Ortschaftsentwicklung und Bauangelegenheiten",
+      "template_id": "V-SW0068/10",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzielle Beteiligung der Ortschaft Schönfeld-Weißig an der Umsetzung und Erweiterung des Spiel- und Bolzplatzes Pappritz",
+      "template_id": "V-SW0070/10",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Antrag auf Überprüfung des Ortschaftsrates Schönfeld-Weißig auf MfS-Tätigkeit",
+      "template_id": "V-SW0072/10",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00026423.pdf",
+      "description": "Einladung_OSR SW"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:58:14Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=515"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "UK/050/2013",
+  "description": "50. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2013-03-04T14:30:00Z",
+  "ended_at": "2013-03-04T19:20:00Z",
+  "location": "Landeshauptstadt Dresden,  im Haus An der Kreuzkirche, 4. Etage, Raum 412,An der Kreuzkirche 6, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Ausgestaltung der Ausschreibung \"Verwertung der Bioabfälle aus Dresdner Haushalten ab 2016\"",
+      "template_id": "V1926/12",
+      "documents": [
+        {
+          "description": "V1926/12",
+          "file_name": "00120754.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00120430.pdf"
+        },
+        {
+          "description": "Anlage 1 - Relevanz der Bioabfallverwertung",
+          "file_name": "00117702.pdf"
+        },
+        {
+          "description": "Anlage 2 - Was kostet Klimaschutz",
+          "file_name": "00117703.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00123778.pdf",
+      "description": "Einladung_UK_2013_03_04"
+    },
+    {
+      "file_name": "00126194.pdf",
+      "description": "Niederschrift öffentlich_UK_2013_03_04"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:40:22Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2432"
+}

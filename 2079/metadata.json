@@ -1,0 +1,118 @@
+{
+  "id": "OBR Kl/028/2012",
+  "description": "28. Sitzung des Ortsbeirates Klotzsche",
+  "committee": "Ortsbeirat Klotzsche",
+  "started_at": "2012-06-04T17:00:00Z",
+  "ended_at": "2012-06-04T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Klotzsche, Bürgersaal,Kieler Straße 52, 01109 Dresden",
+  "parts": [
+    {
+      "description": "Vorstellung Hr. Dr. Jürgen Wilhelm als neuer Friedensrichter",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fernwärmetrasse Dresden-Nord: Beschluss zum Fördergebietsumgriff und zur Maßnahme Fernwärmetrasse Dresden-Nord",
+      "template_id": "V1537/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1537/12",
+          "file_name": "00104824.pdf"
+        },
+        {
+          "description": "V1537/12",
+          "file_name": "00098004.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00097570.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Übersicht Fernwärmenetz",
+          "file_name": "00089766.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Fördergebiet",
+          "file_name": "00094743.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Berechnung",
+          "file_name": "00094744.pdf"
+        },
+        {
+          "description": "d) Anlage 4_Erläuterung",
+          "file_name": "00094745.pdf"
+        },
+        {
+          "description": "e) bereits gefasster Beschluss",
+          "file_name": "00089768.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen des Ortsamtsleiters",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Folgende Unterlagen wurden ausgereicht und zur Kenntnis genommen:",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerinformation zu Baumfällungen und Ersatzpflanzungen",
+      "template_id": "A0586/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00092885.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0586/12",
+          "file_name": "00108805.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00099221.pdf",
+      "description": "Einladung_OBR Kl"
+    },
+    {
+      "file_name": "00100683.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:49:54Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2079"
+}

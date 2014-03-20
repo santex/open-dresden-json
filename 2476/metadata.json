@@ -1,0 +1,40 @@
+{
+  "id": "UK/053/2013",
+  "description": "53. Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+  "committee": "Ausschuss für Umwelt und Kommunalwirtschaft",
+  "started_at": "2013-05-16T16:00:00Z",
+  "ended_at": "2013-05-16T19:18:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Fortsetzung der Sitzung des Ausschusses für Umwelt und Kommunalwirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": ".",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00131222.pdf",
+      "description": "Einladung_UK_2013_05_16"
+    },
+    {
+      "file_name": "00132955.pdf",
+      "description": "Niederschrift öffentlich_2013_05_16_UK"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:51:28Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2476"
+}

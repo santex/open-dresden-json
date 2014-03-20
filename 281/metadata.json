@@ -1,0 +1,61 @@
+{
+  "id": "OSR OW/011/2010",
+  "description": "11. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2010-06-17T16:30:00Z",
+  "ended_at": "2010-06-17T19:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzmittel für Miethütten",
+      "template_id": "A-OW0004/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00032876.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00034981.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00034982.pdf",
+      "description": "Beschlussausfertigung Anschaffg. von Schränken"
+    },
+    {
+      "file_name": "00035329.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:05:47Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=281"
+}

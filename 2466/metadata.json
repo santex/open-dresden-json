@@ -1,0 +1,98 @@
+{
+  "id": "SB/065/2013",
+  "description": "65. Sitzung des Ausschusses für Stadtentwicklung und Bau",
+  "committee": "Ausschuss für Stadtentwicklung und Bau",
+  "started_at": "2013-04-24T14:00:00Z",
+  "ended_at": "2013-04-24T19:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bebauungsplan Nr. 393, Dresden-Räcknitz Nr. 3, Nöthnitzer Straße-Campus Südhier:1. Aufstellungsbeschluss Bebauungsplan2. Grenzen des räumlichen Geltungsbereiches des Bebauungsplanes",
+      "template_id": "V2120/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SB",
+          "file_name": "00130071.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00123531.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00122826.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Geltungsbereich",
+          "file_name": "00122827.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 6",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 375, Dresden-Altstadt I Nr. 38, Neumarkt Quartier VIIhier:1. Billigung des Entwurfs zum Bebauungsplan2. Billigung der Begründung zum Bebauungsplan-Entwurf3. Durchführung des Beteiligungsverfahrens",
+      "template_id": "V1756/12",
+      "documents": [
+        {
+          "description": "V1756/12",
+          "file_name": "00103964.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00103774.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Blatt 1 von 2_rechtsplan_20120606",
+          "file_name": "00103152.pdf"
+        },
+        {
+          "description": "b) Anlage 1_Blatt 2 von 2_Festsetzungsblatt_20120606",
+          "file_name": "00103153.pdf"
+        },
+        {
+          "description": "c) Anlage 2_begründung_20120606",
+          "file_name": "00103154.pdf"
+        },
+        {
+          "description": "d) Anlage 3",
+          "file_name": "00103157.pdf"
+        },
+        {
+          "description": "e) bereits gef. Beschlüsse",
+          "file_name": "00103155.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00128869.pdf",
+      "description": "Einladung_SB"
+    },
+    {
+      "file_name": "00130108.pdf",
+      "description": "Beschlussempfehlung Antrag ff_A0692/13_SB"
+    },
+    {
+      "file_name": "00130107.pdf",
+      "description": "Beschlussempfehlung Vorlage ff_V2101/13_SB"
+    },
+    {
+      "file_name": "00130112.pdf",
+      "description": "Beschlussempfehlung Vorlage ff_V2171/13_SB"
+    },
+    {
+      "file_name": "00130875.pdf",
+      "description": "Festlegungen und Aufträge ö"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:48:04Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2466"
+}

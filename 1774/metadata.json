@@ -1,0 +1,142 @@
+{
+  "id": "WF/050/2012",
+  "description": "50. Sitzung des Ausschusses für Wirtschaftsförderung",
+  "committee": "Ausschuss für Wirtschaftsförderung",
+  "started_at": "2012-05-10T14:00:00Z",
+  "ended_at": "2012-05-10T15:50:00Z",
+  "location": "Landeshauptstadt Dresden,  3. Etage, Raum 333,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Geschäftsbereich Finanzen und Liegenschaften",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabe-Nr. 02.2/179/11 Entsorgung/Verwertung von Sperrmüll und Altholz aus Haushalten für die Landeshauptstadt Dresden Los 1: Entsorgung/Verwertung von ca. 1800 t/a Sperrmüll aus der Hausabholung und ca. 5500 t/a Sperrmüll (entfrachtet) von Wertstoffhöfen",
+      "template_id": "V1648/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1648_12_WF",
+          "file_name": "00098131.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 8",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Beschlussvorlagen zu VOB-Vergaben",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vergabenummer: 2012-52Pl-00003, Komplexe Sanierung des Freibades Cotta, Lieferung und Montage der Edelstahlbecken",
+      "template_id": "V1651/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1651_12_WF",
+          "file_name": "00098125.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vergabe-Nr. 5031/12 Umgestaltung und Neuordnung des Straßenraumes in Dresden-Prohlis 1. und 2. BA: Teile der Niedersedlitzer Straße und Senftenberger Straße Los 1: Straßen- und Tiefbau",
+      "template_id": "V1653/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1653_12_WF",
+          "file_name": "00098123.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Geschäftsbereich Wirtschaft",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Zuwendungen der Landeshauptstadt Dresden im Jahr 2012 an Veranstalter von Großveranstaltungen (Stadtfeste)",
+      "template_id": "V1625/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1625_12_WF",
+          "file_name": "00098122.pdf"
+        },
+        {
+          "description": "BK_zu_V1625_12",
+          "file_name": "00119407.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00096292.pdf"
+        },
+        {
+          "description": "Anlage 1 Übersicht Veranstalter mit Fördersummen 1.Halbjahr 2012",
+          "file_name": "00095774.pdf"
+        },
+        {
+          "description": "V0445 (SR-024-2011)",
+          "file_name": "00094343.pdf"
+        },
+        {
+          "description": "V1129 (WF-037-2011)",
+          "file_name": "00094344.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": ".",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00096617.pdf",
+      "description": "Einladung_WF_2012_05_10"
+    },
+    {
+      "file_name": "00100532.pdf",
+      "description": "Niederschrift öffentlich_WF_2012_05_10"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:45:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1774"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "OSR SW/039/2012",
+  "description": "39. Sitzung des Ortschaftsrates Schönfeld-Weißig",
+  "committee": "Ortschaftsrat Schönfeld-Weißig",
+  "started_at": "2012-12-10T16:10:00Z",
+  "ended_at": "2012-12-10T17:46:00Z",
+  "location": "im Gasthof Weißig,Bautzner Landstraße 280, 01328 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung, Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bürgerfragestunde",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Berichterstattung zum Stand der Umsetzung des Verkehrskonzeptes Schönfelder Hochland unter Einbeziehung einer reibungslosen und vertretbaren Beförderung der Schüler",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00116912.pdf",
+      "description": "Einladung_OSR SW"
+    },
+    {
+      "file_name": "00118395.pdf",
+      "description": "Beschlussausfertigung V-SW0165/12 komplett"
+    },
+    {
+      "file_name": "00119717.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:23:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2219"
+}

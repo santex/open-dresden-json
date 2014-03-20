@@ -1,0 +1,272 @@
+{
+  "id": "SR/014/2010",
+  "description": "14. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2010-06-03T14:00:00Z",
+  "ended_at": "2010-06-03T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Plenarsaal,Rathausplatz 1, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bekanntgabe nicht öffentlicher Beschlüsse",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Aktuelle Stunde zur Realisierung des Vorhabens \"Kulturkraftwerk Mitte\"/Sicherung und Gestaltung der Zukunft der Staatsoperette Dresden und des Theaters Junge Generation",
+      "template_id": "A0170/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00027071.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Prohlis",
+      "template_id": "A0181/10",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00028829.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 69",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Umbesetzung im Ortsbeirat Klotzsche",
+      "template_id": "A0186/10",
+      "documents": [
+
+      ],
+      "decision": "erneute Beratung",
+      "vote_result": null
+    },
+    {
+      "description": "\"Dresdner Sortimentsliste\" zur Feinsteuerung von Einzelhandelsvorhaben",
+      "template_id": "V0010/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00013303.pdf"
+        },
+        {
+          "description": "a)Anlage_1_ Sortimentsliste_Stand Januar 2010_V0010",
+          "file_name": "00020180.pdf"
+        },
+        {
+          "description": "b)Anlage_2_Sortimentsliste_Stand Januar 2010_V0010",
+          "file_name": "00020181.pdf"
+        },
+        {
+          "description": "c)bereits gefasster Beschluss",
+          "file_name": "00020182.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 65",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Neubenennung von Straßen",
+      "template_id": "V0496/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00029029.pdf"
+        },
+        {
+          "description": "BK V0496/10 Abschlussbericht v. 2013-01-21",
+          "file_name": "00121439.pdf"
+        },
+        {
+          "description": "a) Anlage 1_V0496",
+          "file_name": "00025479.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Blatt 1_V0496",
+          "file_name": "00025480.pdf"
+        },
+        {
+          "description": "c) Anlage 2_Blatt 2_V496",
+          "file_name": "00025481.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Blatt 3_V0496",
+          "file_name": "00025482.pdf"
+        },
+        {
+          "description": "e) Anlage 3_Blatt 1_V0496",
+          "file_name": "00025483.pdf"
+        },
+        {
+          "description": "f) Anlage 3_Blatt 2_V096",
+          "file_name": "00025484.pdf"
+        },
+        {
+          "description": "g) Anlage 4_Blatt 1_V0496",
+          "file_name": "00025485.pdf"
+        },
+        {
+          "description": "h) Anlage 4_Blatt 2_V0496",
+          "file_name": "00025486.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 66",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Auswahlverfahren Spezialmärkte",
+      "template_id": "V0574/10",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00030488.pdf"
+        },
+        {
+          "description": "Anlage 1 Richtlinie Spezialmärkte",
+          "file_name": "00030365.pdf"
+        },
+        {
+          "description": "Hinweis GLB zu V0574",
+          "file_name": "00030185.pdf"
+        },
+        {
+          "description": "Stellungnahme BMB zu V0574",
+          "file_name": "00030187.pdf"
+        },
+        {
+          "description": "Stellungnahme FB zu V0574",
+          "file_name": "00030186.pdf"
+        },
+        {
+          "description": "V2753-SR76-08",
+          "file_name": "00029746.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 69",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bautzner Straße stadtverträglich planen",
+      "template_id": "A0091/09",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00023747.pdf"
+        },
+        {
+          "description": "Varianten_Bautzner",
+          "file_name": "00015016.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Förderung von Angeboten der Träger der freien Jugendhilfe 2010 - zur Verfügungstellung fehlender Haushaltsmittel",
+      "template_id": "A0176/10",
+      "documents": [
+        {
+          "description": "Antrag des Jugendhilfeausschusses",
+          "file_name": "00028493.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 33",
+        "contra": " 37",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00031437.pdf",
+      "description": "Einladung_SR_2010_06_03"
+    },
+    {
+      "file_name": "00032669.pdf",
+      "description": "Beschlussausfertigung_A0110/10"
+    },
+    {
+      "file_name": "00032647.pdf",
+      "description": "Beschlussausfertigung_A0176/10"
+    },
+    {
+      "file_name": "00032673.pdf",
+      "description": "Beschlussausfertigung_A0181/10"
+    },
+    {
+      "file_name": "00032672.pdf",
+      "description": "Beschlussausfertigung_A0183/10"
+    },
+    {
+      "file_name": "00032671.pdf",
+      "description": "Beschlussausfertigung_V010/09"
+    },
+    {
+      "file_name": "00032670.pdf",
+      "description": "Beschlussausfertigung_V0496/10"
+    },
+    {
+      "file_name": "00032639.pdf",
+      "description": "Beschlussausfertigung_V0504/10"
+    },
+    {
+      "file_name": "00032654.pdf",
+      "description": "Beschlussausfertigung_V0514/10"
+    },
+    {
+      "file_name": "00032641.pdf",
+      "description": "Beschlussausfertigung_V0523/10"
+    },
+    {
+      "file_name": "00032636.pdf",
+      "description": "Beschlussausfertigung_V0541/10"
+    },
+    {
+      "file_name": "00032642.pdf",
+      "description": "Beschlussausfertigung_V0551/10"
+    },
+    {
+      "file_name": "00032643.pdf",
+      "description": "Beschlussausfertigung_V0565/10"
+    },
+    {
+      "file_name": "00032664.pdf",
+      "description": "Beschlussausfertigung_V0574/10"
+    },
+    {
+      "file_name": "00034455.pdf",
+      "description": "Niederschrift öffentlich_SR_2010_06_03"
+    },
+    {
+      "file_name": "00034776.pdf",
+      "description": "Niederschrift öffentlich mit namentlicher Abstimmung_SR_2010_06_03"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:04:21Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=527"
+}

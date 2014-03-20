@@ -1,0 +1,95 @@
+{
+  "id": "OSR OW/030/2012",
+  "description": "30. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2012-02-16T16:30:00Z",
+  "ended_at": "2012-02-16T18:15:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Bestätigung der Tagesordnung sowie der Niederschrift der Sitzung am 19.01.2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzzuschuss für Seniroenclub Oberwartha 2012",
+      "template_id": "A-OW0029/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Finanzmittel zur Unterhaltung und Pflege der Internetseite Oberwartha",
+      "template_id": "A-OW0031/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 4",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00088130.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00089116.pdf",
+      "description": "Beschlussausfertigung Fam.Haug"
+    },
+    {
+      "file_name": "00089114.pdf",
+      "description": "Beschlussausfertigung Heimatfreunde"
+    },
+    {
+      "file_name": "00089115.pdf",
+      "description": "Beschlussausfertigung Internetseite"
+    },
+    {
+      "file_name": "00089091.pdf",
+      "description": "Beschlussausfertigung LEP"
+    },
+    {
+      "file_name": "00089112.pdf",
+      "description": "Beschlussausfertigung Senioren Obw."
+    },
+    {
+      "file_name": "00089574.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:26:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2132"
+}

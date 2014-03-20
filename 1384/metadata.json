@@ -1,0 +1,115 @@
+{
+  "id": "OBR Co/017/2011",
+  "description": "17. Sitzung des Ortsbeirates Cotta",
+  "committee": "Ortsbeirat Cotta",
+  "started_at": "2011-06-16T16:00:00Z",
+  "ended_at": "2011-06-16T17:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Cotta, kleiner Sitzungssaal, 1. Etage, Raum 103,Lübecker Straße 121, 01157 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift zur 16. Ortsbeiratssitzung am 19.05.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorhabenbezogener Bebauungsplan Nr. 6006, Dresden-Cotta, Einkaufszentrum Am Frosch hier:\t1. Aufstellungsbeschluss vorhabenbezogener Bebauungsplan\t2. Grenzen des räumlichen Geltungsbereichs des vorhabenbezogenen Bebauungs-\tplanes",
+      "template_id": "V1114/11",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00065478.pdf"
+        },
+        {
+          "description": "d) Anlage 4_Begründung",
+          "file_name": "00065406.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Geltungsbereich",
+          "file_name": "00065379.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Grenze_Geltbereich A3",
+          "file_name": "00065380.pdf"
+        },
+        {
+          "description": "c) Anlage 3_Konzept",
+          "file_name": "00065381.pdf"
+        },
+        {
+          "description": "V1114/11",
+          "file_name": "00071797.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 7",
+        "contra": " 6",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Fortführung des Programms \"Soziale Stadt\"",
+      "template_id": "A0397/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0397/11",
+          "file_name": "00069559.pdf"
+        },
+        {
+          "description": "Antrag SPD",
+          "file_name": "00062332.pdf"
+        },
+        {
+          "description": "A0379-11-Anhang 1",
+          "file_name": "00062554.pdf"
+        },
+        {
+          "description": "A0379-11-Anhang 2",
+          "file_name": "00062555.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Erhalt des Freibades Cotta - Betreibung auch nach 2011 sicherstellen",
+      "template_id": "A0389/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0389/11",
+          "file_name": "00067059.pdf"
+        },
+        {
+          "description": "Antrag FDP",
+          "file_name": "00065469.pdf"
+        },
+        {
+          "description": "BK A0389-11",
+          "file_name": "00132005.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00065636.pdf",
+      "description": "Einladung_OBR Co"
+    },
+    {
+      "file_name": "00067832.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:52:12Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1384"
+}

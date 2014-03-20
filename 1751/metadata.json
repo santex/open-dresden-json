@@ -1,0 +1,78 @@
+{
+  "id": "JHA/034/2012",
+  "description": "34. Sitzung des Jugendhilfeausschusses",
+  "committee": "Jugendhilfeausschuss",
+  "started_at": "2012-07-19T16:00:00Z",
+  "ended_at": "2012-07-19T18:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Stadtmuseum, Festsaal, 3. Etage,Wilsdruffer Straße 2 (Eingang: Landhausstraße) , 01067 Dresden",
+  "parts": [
+    {
+      "description": "Kontrolle der Niederschrift vom 7. Juni 2012",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sachstand der Konzeptionsänderungen lt. Förderbeschluss 2012 (JH Interwall und JH Prohlis)",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fachthemen für den Unterausschuss Kindertagesbetreuung und den Jugendhilfeausschuss im Jahr 2012",
+      "template_id": "V1669/12",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Betriebskosten für die Betreuung von Kindern unter 3 Jahren – Weitergabe von Bundesmitteln durch den Freistaat Sachsen",
+      "template_id": "A0563/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00089748.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0563/12",
+          "file_name": "00107858.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Berichte aus den Unterausschüssen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00104234.pdf",
+      "description": "Einladung_JH_2012_07_19"
+    },
+    {
+      "file_name": "00109569.pdf",
+      "description": "Niederschrift öffentlich_JH_2012_07_19"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:06:20Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1751"
+}

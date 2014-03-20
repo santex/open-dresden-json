@@ -1,0 +1,31 @@
+{
+  "id": "FL/056/2012",
+  "description": "56. Sitzung des Ausschusses für Finanzen und Liegenschaften (Sondersitzung)",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2012-04-03T15:00:00Z",
+  "ended_at": "2012-04-03T20:15:00Z",
+  "location": "Landeshauptstadt Dresden,  im Kulturrathaus, Clara-Schumann-Saal, 2. Etage,Königstraße 15, 01097 Dresden",
+  "parts": [
+    {
+      "description": "Stadtratsbeschluss A0554/12 (Sicherung der Zukunft von Kulturpalast und Philharmonie) hier: Öffentliche Anhörung unabhängiger Fachleute gemäß § 21 der Geschäftsordnung des Stadtrates zur Frage: Welche Baumaßnahmen sind bei einer Zielsetzung \"denkmalg",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00092728.pdf",
+      "description": "Einladung_FL_2012_04_03"
+    },
+    {
+      "file_name": "00096278.pdf",
+      "description": "Niederschrift öffentlich_Sosi FL, K, SB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:35:37Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2381"
+}

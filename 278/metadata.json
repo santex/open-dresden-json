@@ -1,0 +1,61 @@
+{
+  "id": "OSR OW/008/2010",
+  "description": "8. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2010-03-18T16:30:00Z",
+  "ended_at": "2010-03-18T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen zum Bauvorhaben Gustav-Voigt-Straße",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Finanzzuschuss für Heimatkundliche Zentralsammlung Oberwartha",
+      "template_id": "A-OW0001/10",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00024437.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00025329.pdf",
+      "description": "Beschlussausfertigung"
+    },
+    {
+      "file_name": "00025330.pdf",
+      "description": "Beschlussausfertigung Finanzmittel HKZS OW"
+    },
+    {
+      "file_name": "00025455.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T00:57:05Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=278"
+}

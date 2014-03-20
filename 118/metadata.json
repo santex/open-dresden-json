@@ -1,0 +1,62 @@
+{
+  "id": "FL/003/2009",
+  "description": "3. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2009-10-12T14:00:00Z",
+  "ended_at": "2009-10-12T16:45:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 2, 2. Etage, Raum 13Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bereitstellung von überplanmäßigen Ausgaben für die Verrechnung der vom Schulverwaltungsamt an den Eigenbetrieb Kindertageseinrichtungen vermieteten Räume für die Hortbetreuung für die Haushaltsjahre 2009 und 2010",
+      "template_id": "V0111/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00006755.pdf"
+        },
+        {
+          "description": "Anlage",
+          "file_name": "00003867.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00008858.pdf",
+      "description": "Einladung_FL_2009_10_12"
+    },
+    {
+      "file_name": "00009152.pdf",
+      "description": "Nachtrag_FL_2009_10_12"
+    },
+    {
+      "file_name": "00010040.pdf",
+      "description": "Beschlussausfertigung_V0111/09"
+    },
+    {
+      "file_name": "00010173.pdf",
+      "description": "Beschlussausfertigung_V0144/09"
+    },
+    {
+      "file_name": "00010071.pdf",
+      "description": "Beschlussausfertigung_V0176/09"
+    },
+    {
+      "file_name": "00010078.pdf",
+      "description": "Beschlussausfertigung_V0205/09"
+    },
+    {
+      "file_name": "00010737.pdf",
+      "description": "Niederschrift öffentlich_FL_2009_10_12_"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:42:39Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=118"
+}

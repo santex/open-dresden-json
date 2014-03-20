@@ -1,0 +1,119 @@
+{
+  "id": "FL/060/2012",
+  "description": "60. Sitzung des Ausschusses für Finanzen und Liegenschaften",
+  "committee": "Ausschuss für Finanzen und Liegenschaften",
+  "started_at": "2012-06-11T14:00:00Z",
+  "ended_at": "2012-06-11T16:50:00Z",
+  "location": "Landeshauptstadt Dresden,  7. Etage, Raum 728,Ferdinandplatz 2, 01069 Dresden",
+  "parts": [
+    {
+      "description": "Veränderungen im Finanzhaushalt 2012 des Umweltamtes - Schönborner Dorfbach",
+      "template_id": "V1414/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1414/11",
+          "file_name": "00101190.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098507.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Weitere Umsetzung des Gesetzes zur Finanzierung des Ausbildungsverkehrs im öffentlichen Personennahverkehr (ÖPNVFinAusG) in der Landeshauptstadt Dresden",
+      "template_id": "V1611/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1611/12",
+          "file_name": "00101199.pdf"
+        },
+        {
+          "description": "V1611/12",
+          "file_name": "00098762.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00098512.pdf"
+        },
+        {
+          "description": "Anlage_neu",
+          "file_name": "00097594.pdf"
+        },
+        {
+          "description": "bereits gefasste Beschlüsse_V1611",
+          "file_name": "00094157.pdf"
+        },
+        {
+          "description": "Stellungnahme GSB",
+          "file_name": "00095912.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Reserven aufdecken - Haushaltsausgabereste prüfen",
+      "template_id": "A0566/12",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00089750.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0566/12",
+          "file_name": "00101208.pdf"
+        }
+      ],
+      "decision": "Ersetzung",
+      "vote_result": null
+    },
+    {
+      "description": "Kosten- und Ablaufcontrolling im Rahmen der Rathaussanierung",
+      "template_id": "A0599/12",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00094672.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Übertragung der investiven Budgetreste vom Haushaltsjahr 2011 nach 2012, Einbindung der investiven Budgetreste des Stadtplanungsamtes in die Bewirtschaftungseinheiten der jeweiligen Fördergebiete",
+      "template_id": "V1688/12",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00099845.pdf",
+      "description": "Einladung_FL_2012_06_11"
+    },
+    {
+      "file_name": "00101963.pdf",
+      "description": "Niederschrift öffentlich"
+    },
+    {
+      "file_name": "00110316.pdf",
+      "description": "nö Beschluss"
+    }
+  ],
+  "downloaded_at": "2013-07-15T02:51:55Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1801"
+}

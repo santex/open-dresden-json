@@ -1,0 +1,39 @@
+{
+  "id": "SG/043/2012",
+  "description": "43. Sitzung des Ausschusses für Soziales, Gesundheit und Wohnen",
+  "committee": "Ausschuss für Soziales, Gesundheit und Wohnen",
+  "started_at": "2012-09-13T14:00:00Z",
+  "ended_at": "2012-09-13T15:30:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 4, 4. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "Bericht Kinder- und Jugendärztlicher Dienst",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00108270.pdf",
+      "description": "Einladung_SG_2012_09_13"
+    },
+    {
+      "file_name": "00108583.pdf",
+      "description": "Nachtrag_SG_2012_09_13"
+    },
+    {
+      "file_name": "00110292.pdf",
+      "description": "Niederschrift öffentlich"
+    },
+    {
+      "file_name": "00109719.pdf",
+      "description": "Anlage 2_NS_ö_psychosoz.Nachsorge-Krisenfall"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:11:05Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1765"
+}

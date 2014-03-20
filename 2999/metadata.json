@@ -1,0 +1,87 @@
+{
+  "id": "OSR LB/046/2013",
+  "description": "46. Sitzung des Ortschaftsrates Langebrück",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2013-01-15T16:30:00Z",
+  "ended_at": "2013-01-15T19:07:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschlusskontrollen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Verkehrsbauvorhaben Hauptstraße Langebrück (Beschluss des Stadtrates der Landeshauptstadt Dresden SR/010/2010 zur Vorlage V 0212/09",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Benennung von Straßen im Wohngebiet „An der Heide“",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Termine",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00119930.pdf",
+      "description": "Einladung_OSR LB"
+    },
+    {
+      "file_name": "00120643.pdf",
+      "description": "Beschlussempfehlung Vorlage_V1987/12 und V1988/12"
+    },
+    {
+      "file_name": "00120644.pdf",
+      "description": "Beschlussausfertigung_Dresdner_Straße"
+    },
+    {
+      "file_name": "00120641.pdf",
+      "description": "Beschlussausfertigung_Hauptstraße"
+    },
+    {
+      "file_name": "00120642.pdf",
+      "description": "Beschlussausfertigung_Klotzscher_Straße"
+    },
+    {
+      "file_name": "00120625.pdf",
+      "description": "Beschlussausfertigung_Straßennamen"
+    },
+    {
+      "file_name": "00124465.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:28:02Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2999"
+}

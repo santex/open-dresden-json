@@ -1,0 +1,88 @@
+{
+  "id": "OBR Lo/016/2011",
+  "description": "16. Sitzung des Ortsbeirates Loschwitz",
+  "committee": "Ortsbeirat Loschwitz",
+  "started_at": "2011-06-08T15:00:00Z",
+  "ended_at": "2011-06-08T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  im Ortsamt Loschwitz, Beratungsraum, 2. Etage,Grundstraße 3, 01326 Dresden",
+  "parts": [
+    {
+      "description": "Bericht zum Busnetz 2010 und Linienänderungen 2011",
+      "template_id": "V0940/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V0904/11",
+          "file_name": "00069580.pdf"
+        },
+        {
+          "description": "V0940/11",
+          "file_name": "00062080.pdf"
+        },
+        {
+          "description": "BK V0940/11 Abschlussbericht v. 2012-11-29",
+          "file_name": "00118064.pdf"
+        },
+        {
+          "description": "a) Anlagen 1 - 12",
+          "file_name": "00060861.pdf"
+        },
+        {
+          "description": "b) bereits gefasste Beschlüsse",
+          "file_name": "00055909.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Ausbau des rechtselbischen Elberadwegs",
+      "template_id": "A0345/11",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00057588.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_A0345/11",
+          "file_name": "00073841.pdf"
+        },
+        {
+          "description": "BK A0345/11 Zwischenbericht v. 2013_07_04",
+          "file_name": "00138690.pdf"
+        }
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00065234.pdf",
+      "description": "Einladung_OBR Lo"
+    },
+    {
+      "file_name": "00067637.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:51:26Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1465"
+}

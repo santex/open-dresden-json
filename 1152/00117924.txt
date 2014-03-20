@@ -1,0 +1,86 @@
+Variante 7
+
+6
+
+8
+7
+4
+
+K1
+
+2
+
+BAU
+A
+NFA
+NG
+Bau
+-k
+
+3
+
+1
+
+K1
+
+00
+
+m0
++0
+
+Baugr
+
+enze
+
+5
+
+Markierung nur zur Information !
+
+BK 4
+BK 5
+
+K2
+
+-0,
+05
+0
+BK 1
+
+KRB F 1
+(DPH)
+
+0,0
+KRB GW 1
+BK 7
+
+0,1
+0,150
+
+OBERMEYER
+
+K1
+
+0,2
+0,250
+
+0,3
+
+0,350
+
+AM5,00
+
+9
+
+K2
+
+Landeshauptstadt Dresden
+Tel. 0351/4880
+
+Baugr
+
+enze
+
+zwischen Albertplatz und Stauffenbergallee
+- Variante 7 -
+
+

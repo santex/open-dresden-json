@@ -1,0 +1,456 @@
+{
+  "id": "SR/055/2013",
+  "description": "55. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2013-05-30T14:00:00Z",
+  "ended_at": "2013-05-30T20:14:00Z",
+  "location": "Landeshauptstadt Dresden,  im Kulturrathaus, Clara-Schumann-Saal, 1. Etage,Königstraße 15, 01097 Dresden",
+  "parts": [
+    {
+      "description": "Bericht der Oberbürgermeisterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Anhörung nach § 21 der Geschäftsordnung des Stadtrats Dresden zum Thema \"Integriertes Energie- und Klimaschutzkonzept Dresden\"",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2014 bis 2018",
+      "template_id": "V2174/13",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00128044.pdf"
+        }
+      ],
+      "decision": "erneute Beratung",
+      "vote_result": null
+    },
+    {
+      "description": "Konzept \"Heiraten in Dresden\" entwickeln - Standesamt stärken, Angebote und Kooperationen erweitern, Dresden als Hochzeitsstadt deutschlandweit profilieren",
+      "template_id": "A0697/13",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00123410.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0697/13",
+          "file_name": "00136332.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Einstellung der Planungen zum Bau einer neuen Lkw-Trasse in Dresden Kaditz",
+      "template_id": "A0692/13",
+      "documents": [
+        {
+          "description": "Antrag CDU",
+          "file_name": "00121569.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0692/13",
+          "file_name": "00134367.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 60",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verlagerung der 88. Grundschule an den Standort Plantagenweg 3 in 01326 Dresden und Sanierung des Bestandsgebäudes mit Ersatzneubau Schulsporthalle",
+      "template_id": "V2110/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2110/13",
+          "file_name": "00134253.pdf"
+        },
+        {
+          "description": "V2110/13",
+          "file_name": "00126510.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00126082.pdf"
+        },
+        {
+          "description": "Anlagen V2110/13",
+          "file_name": "00125055.pdf"
+        },
+        {
+          "description": "Beschlüsse",
+          "file_name": "00121692.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag DIE LINKE.",
+          "file_name": "00134249.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 55",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bildung von Wahlkreisen für die Stadtratswahl 2014",
+      "template_id": "V2183-01/13",
+      "documents": [
+        {
+          "description": "V2183-01/13",
+          "file_name": "00130855.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00130548.pdf"
+        },
+        {
+          "description": "Vorlage Gremien - Änderung",
+          "file_name": "00134344.pdf"
+        },
+        {
+          "description": "Anlage 1 Grobzuordnung der Wahlkreise 2009 zu den neuen Wahlkreisen",
+          "file_name": "00130187.pdf"
+        },
+        {
+          "description": "Anlage 2",
+          "file_name": "00130186.pdf"
+        },
+        {
+          "description": "Anlage 3 Einwohnerzahlen nach Wahlkreisen 2009 und Entwurf für 2014",
+          "file_name": "00130233.pdf"
+        },
+        {
+          "description": "Anlage 4 Stadtratswahlkreise 2009",
+          "file_name": "00130183.pdf"
+        },
+        {
+          "description": "Anlage 5 Stadtratswahlkreise 2014",
+          "file_name": "00130182.pdf"
+        },
+        {
+          "description": "Anlage 6_Übersicht über die Stadtteile",
+          "file_name": "00130155.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag Bündnis 90/Die Grünen_2013_05_29",
+          "file_name": "00134244.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag DIE LINKE._2013_05_29",
+          "file_name": "00134245.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag DIE LINKE._2013_07_11",
+          "file_name": "00138560.pdf"
+        }
+      ],
+      "decision": "Verweisung",
+      "vote_result": null
+    },
+    {
+      "description": "Errichtung eines Wohnheims für Asylsuchende als öffentliche Einrichtung auf der Buchenstraße 15 b in 01097 Dresden",
+      "template_id": "V1985/12",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V1985/12",
+          "file_name": "00134348.pdf"
+        },
+        {
+          "description": "V1985/12",
+          "file_name": "00120768.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00120482.pdf"
+        },
+        {
+          "description": "Anlage 1_Schreiben der Landesdirektion Sachsen vom 9. Oktober 2012",
+          "file_name": "00114612.pdf"
+        },
+        {
+          "description": "Anlage 2_Schreiben des Bundesamtes für Migration und Flüchtlinge vom 17. Oktober 2012",
+          "file_name": "00114614.pdf"
+        },
+        {
+          "description": "Beschluss V1055/11",
+          "file_name": "00115444.pdf"
+        },
+        {
+          "description": "Beschluss V1272/11",
+          "file_name": "00115487.pdf"
+        },
+        {
+          "description": "Beschluss V1642/12",
+          "file_name": "00115445.pdf"
+        },
+        {
+          "description": "SN_Buchenstr.15b",
+          "file_name": "00118406.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 54",
+        "contra": " 2",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Angemessene Leistungen für Unterkunft nach dem Zweiten und Zwölften Buch Sozialgesetzbuch (SGB II und SGB XII) ab 1. Januar 2013",
+      "template_id": "V2195/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2195/13",
+          "file_name": "00134392.pdf"
+        },
+        {
+          "description": "V2195/13",
+          "file_name": "00131063.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00130814.pdf"
+        },
+        {
+          "description": "Anlage 1_Richtwerte für angemessene Kosten der Unterkunft nach SGB II und SGB XII in Dresden",
+          "file_name": "00129775.pdf"
+        },
+        {
+          "description": "Anlage 2_Methodenbericht zur Ermittlung von Richtwerten für angemessene Kosten der Unterkunft nach SGB II und SGB XII in D",
+          "file_name": "00129776.pdf"
+        },
+        {
+          "description": "Anlage 3_Finanzielle Auswirkungen der Einführung neuer Richtwerte für die angemessenen Kosten der Unterkunft in Dresden",
+          "file_name": "00129777.pdf"
+        },
+        {
+          "description": "Beschluss V1307/11",
+          "file_name": "00128003.pdf"
+        },
+        {
+          "description": "Ergänzungsantrag DIE LINKE.",
+          "file_name": "00134247.pdf"
+        },
+        {
+          "description": "Änderungsantrag SPD",
+          "file_name": "00134248.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": null
+    },
+    {
+      "description": "Bebauungsplan Nr. 356, Dresden-Klotzsche Nr. 13, Traubelstraßehier:1. Abwägungsbeschluss2. Satzungsbeschluss sowie Billigung der Begründung",
+      "template_id": "V2187/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2187/13",
+          "file_name": "00134235.pdf"
+        },
+        {
+          "description": "V2187/13 ö",
+          "file_name": "00128513.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00128057.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Abwägung",
+          "file_name": "00127052.pdf"
+        },
+        {
+          "description": "d) Anlage 2_Blatt 1",
+          "file_name": "00127055.pdf"
+        },
+        {
+          "description": "e) Anlage 2_Blatt 2",
+          "file_name": "00127057.pdf"
+        },
+        {
+          "description": "f) Anlage 3",
+          "file_name": "00127058.pdf"
+        },
+        {
+          "description": "h) bereits gefasster Beschluss",
+          "file_name": "00127060.pdf"
+        },
+        {
+          "description": "i) bereits gefasster Beschluss",
+          "file_name": "00127061.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 129, Dresden-Friedrichstadt Nr. 4, Gewerbegebiet Bremer Straße/Hamburger Straßehier:\t 1. Beschluss über Stellungnahmen aus der öffentlichen Auslegung 2. Satzungsbeschluss und Billigung der Begründung zur Teilaufhebung des Be-bauungsplans Nr. 129, Dresden-Friedrichstadt Nr. 4, Gewerbegebiet Bremer Straße/Hamburger Straße in der Fassung der 1. Änderung vom 18. Dezember 2008 (Bebauungsplan Nr. 129.1)",
+      "template_id": "V2222/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2222/13",
+          "file_name": "00134265.pdf"
+        },
+        {
+          "description": "V2222/13 ö",
+          "file_name": "00130458.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00129644.pdf"
+        },
+        {
+          "description": "a) Anlage 1 Gliederung der Abwägung",
+          "file_name": "00129148.pdf"
+        },
+        {
+          "description": "d) Anlage 2 Satzungstext 28.06.2012 korrigiert",
+          "file_name": "00129151.pdf"
+        },
+        {
+          "description": "e) Anlage 3 Begründung Satzung zur Teilaufhebung 10.12.2013",
+          "file_name": "00129152.pdf"
+        },
+        {
+          "description": "f) Bechluss_3211-78-1998",
+          "file_name": "00129153.pdf"
+        },
+        {
+          "description": "g) Bechluss_V1816-12",
+          "file_name": "00129154.pdf"
+        },
+        {
+          "description": "h) Bechluss_V2769-SR75-08",
+          "file_name": "00129155.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 64",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kommunaler Sponsorenbericht der Landeshauptstadt Dresden",
+      "template_id": "A0731/13",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00130387.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0731/13",
+          "file_name": "00136328.pdf"
+        },
+        {
+          "description": "Ersetzungsantrag FDP",
+          "file_name": "00136481.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Konzept einer Unterbringung von AsylbewerberInnen und geduldeten MigrantInnen für die Stadt Dresden",
+      "template_id": "A0689/13",
+      "documents": [
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00120042.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0689/13",
+          "file_name": "00136340.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Einwohnerversammlung zur geplanten Straßenbahnverbindung Tiergartenstraße - Oskarstraße und zur Umgestaltung der Oskarstraße/Wasaplatz",
+      "template_id": "A0711/13",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00127469.pdf"
+        },
+        {
+          "description": "Beschlussausfertigung_SR_A0711/13",
+          "file_name": "00136344.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Vereinbarungen mit der Betriebsgesellschaft ESCD Dresden mbH (BG ESCD mbH) zur Absicherung des Spielbetriebes der Saison 2013/2014",
+      "template_id": "V2324/13",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_SR_V2324/13",
+          "file_name": "00134243.pdf"
+        },
+        {
+          "description": "V2324/13",
+          "file_name": "00134140.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00134139.pdf"
+        },
+        {
+          "description": "Anlagen V2324/13",
+          "file_name": "00133802.pdf"
+        },
+        {
+          "description": "Beschlüsse",
+          "file_name": "00133803.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Ergänzung",
+      "vote_result": {
+        "pro": " 61",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00132646.pdf",
+      "description": "Einladung_SR"
+    },
+    {
+      "file_name": "00136104.pdf",
+      "description": "Niederschrift öffentlich_SR_2013_05_30"
+    },
+    {
+      "file_name": "00136485.pdf",
+      "description": "Niederschrift öffentlich komplett_SR_2013_05_30"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:53:13Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2493"
+}

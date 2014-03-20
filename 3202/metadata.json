@@ -1,0 +1,36 @@
+{
+  "id": "OSR LB/054/2013",
+  "description": "54. Sitzung des Ortschaftsrates Langebrück (Sondersitzung)",
+  "committee": "Ortschaftsrat Langebrück",
+  "started_at": "2013-06-27T15:30:00Z",
+  "ended_at": "2013-06-27T16:25:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Verwaltungsstelle Langebrück, Beratungsraum,Weißiger Straße 5, 01465 Dresden OT Langebrück",
+  "parts": [
+    {
+      "description": "Eröffnung und Begrüßung durch den Ortsvorsteher",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Sonstiges",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00136228.pdf",
+      "description": "Einladung_OSR LB"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:57:33Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=3202"
+}

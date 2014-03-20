@@ -1,0 +1,40 @@
+{
+  "id": "OSR SB/023/2011",
+  "description": "23. Sitzung des Ortschaftsrates Schönborn",
+  "committee": "Ortschaftsrat Schönborn",
+  "started_at": "2011-06-15T16:30:00Z",
+  "ended_at": "2011-06-15T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  18.30 Uhr Ortsbegehung Oberdorf, Treffpunkt: Ortsausgang Schönborn in Richtung MarienmühleanschließendOrtschaftsratssitzung im Bürgerhaus (ehem. Gemeindeamt) Beratungsraum, Seifersdorfer Str. 6, 01465 Dresden OT Schönborn",
+  "parts": [
+    {
+      "description": "Auswertung Ortsbegehung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Allgemeines",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00066258.pdf",
+      "description": "Einladung_OSR SB"
+    },
+    {
+      "file_name": "00069367.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:51:51Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1519"
+}

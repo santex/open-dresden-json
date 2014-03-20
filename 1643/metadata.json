@@ -1,0 +1,95 @@
+{
+  "id": "OBR Alt/021/2011",
+  "description": "21. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2011-06-07T15:30:00Z",
+  "ended_at": "2011-06-07T18:40:00Z",
+  "location": "Landeshauptstadt Dresden,  im Neuen Rathaus, Beratungsraum 1, 1. Etage, Raum 13,Dr.-Külz-Ring 19, 01067 Dresden",
+  "parts": [
+    {
+      "description": "\"Wiener Loch\" beseitigen - Stadtratsbeschluss umsetzen",
+      "template_id": "A0168/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0168/10",
+          "file_name": "00069708.pdf"
+        },
+        {
+          "description": "Antrag SPD",
+          "file_name": "00025929.pdf"
+        },
+        {
+          "description": "BK A0168/10 Abschlussbericht v. 2013-01-17",
+          "file_name": "00121441.pdf"
+        }
+      ],
+      "decision": "punktweise Zustimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Masterplanung \"Historisches Packhofgelände\" zur Entwicklung der Flächen des Dresdner Druck und Verlagshauses in Dresden-Altstadt I, Ostra-Allee/Könneritzstraße/Devrientstraße/Kleine Packhofstraße",
+      "template_id": "V1000/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1000/11_SB",
+          "file_name": "00066214.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00063968.pdf"
+        },
+        {
+          "description": "a) Anlage1_Masterplanung_-_Historisches_Packhofgelände",
+          "file_name": "00059065.pdf"
+        },
+        {
+          "description": "b) zu Anlage 1_AOD Stand 03 11 A3",
+          "file_name": "00059066.pdf"
+        },
+        {
+          "description": "c) Anlage2_Rahmenplan 703-1_A3",
+          "file_name": "00059067.pdf"
+        },
+        {
+          "description": "d) Anlage 3_R 703 Neue Terrasse- Ostra-Allee A3",
+          "file_name": "00062006.pdf"
+        },
+        {
+          "description": "e) Aufstellungsbeschluss B 176D D+V",
+          "file_name": "00059068.pdf"
+        },
+        {
+          "description": "V1000/11",
+          "file_name": "00064489.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 11",
+        "contra": " 3",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Kontrolle der Niederschrift zur 20. Ortsbeiratssitzung am 16.05.2011",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00064543.pdf",
+      "description": "Einladung_OBR Alt"
+    },
+    {
+      "file_name": "00066441.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:50:55Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1643"
+}

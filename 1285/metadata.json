@@ -1,0 +1,49 @@
+{
+  "id": "OBR Pro/013/2011",
+  "description": "13. Sitzung des Ortsbeirates Prohlis",
+  "committee": "Ortsbeirat Prohlis",
+  "started_at": "2011-03-14T15:00:00Z",
+  "ended_at": "2011-03-14T17:08:00Z",
+  "location": "Wohnheim AWO Sonnenstein, Dohnaer Str. 368 b, 01259 Dresden",
+  "parts": [
+    {
+      "description": "Feststellung der Beschlussfähigkeit und Abstimmung über die weitere Tagesordnung",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Vorstellung des Entwässerungskonzeptes durch die Stadtentwässerung Dresden",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00056678.pdf",
+      "description": "Einladung_OBR Pro"
+    },
+    {
+      "file_name": "00059395.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:28:07Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1285"
+}

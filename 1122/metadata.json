@@ -1,0 +1,312 @@
+{
+  "id": "SR/028/2011",
+  "description": "28. Sitzung des Stadtrates",
+  "committee": "Stadtrat",
+  "started_at": "2011-05-31T14:00:00Z",
+  "ended_at": "2011-05-31T20:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Dreikönigskirche, Festsaal,Hauptstraße 23, 01097 Dresden",
+  "parts": [
+    {
+      "description": "Bericht der Oberbürgermeisterin",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Tagesordnungspunkte ohne Debatte",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "\"Dresdner Kulturtaxe\" - Einführung einer Übernachtungsabgabe in Dresden",
+      "template_id": "A0161/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0161/10",
+          "file_name": "00065711.pdf"
+        },
+        {
+          "description": "Antrag SPD - neu!",
+          "file_name": "00040167.pdf"
+        },
+        {
+          "description": "BK A0161/10 Abschlussbericht v. 2013-03-25",
+          "file_name": "00127878.pdf"
+        }
+      ],
+      "decision": "punktweise Abstimmung",
+      "vote_result": null
+    },
+    {
+      "description": "Verschwendung öffentlicher Gelder stoppen - Bauabschnitte am Bonhoefferplatz aussetzen",
+      "template_id": "A0323/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0323/11",
+          "file_name": "00067736.pdf"
+        },
+        {
+          "description": "Antrag FDP",
+          "file_name": "00052780.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Bereitstellung des Fehlbetrages in der Förderung der Jugendhilfe - Haushaltsjahr 2011",
+      "template_id": "A0398/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0398/11",
+          "file_name": "00065648.pdf"
+        },
+        {
+          "description": "Antrag des Jugendhilfeausschuss",
+          "file_name": "00062557.pdf"
+        },
+        {
+          "description": "Anlage",
+          "file_name": "00062437.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 31",
+        "contra": " 36",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen im Jahr 2011",
+      "template_id": "V1002/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1002/11",
+          "file_name": "00065652.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00059605.pdf"
+        },
+        {
+          "description": "VO stadtweit",
+          "file_name": "00058743.pdf"
+        },
+        {
+          "description": "V1002/11",
+          "file_name": "00059887.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 34",
+        "contra": " 33",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Standortuntersuchung für ein neues Verwaltungszentrum in Dresden",
+      "template_id": "V1006/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1006/11",
+          "file_name": "00065709.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00060370.pdf"
+        },
+        {
+          "description": "Anlagenhinweis zu V1006 11",
+          "file_name": "00059025.pdf"
+        },
+        {
+          "description": "Anlage 3 Beschluss V0437 10 vom 25.02.2010",
+          "file_name": "00059022.pdf"
+        },
+        {
+          "description": "Anlage 4 Beschluss zu Antrag A0067 09 vom 06.05.2010",
+          "file_name": "00059023.pdf"
+        },
+        {
+          "description": "Anlage 5 Beschluss V0729 10 vom 28.10.2010",
+          "file_name": "00059024.pdf"
+        },
+        {
+          "description": "V1006/11",
+          "file_name": "00060590.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 66",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Leistungen für Bildung und Teilhabe in der Landeshauptstadt Dresden (Bildungspaket)",
+      "template_id": "V1035/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1035/11",
+          "file_name": "00067675.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00062797.pdf"
+        },
+        {
+          "description": "a_Anlage 1_Richtlinie zur Gewährung des Dresden-Passes",
+          "file_name": "00062444.pdf"
+        },
+        {
+          "description": "b_Anlage_2_Synopse Richtlinie Dresden-Pass",
+          "file_name": "00062446.pdf"
+        },
+        {
+          "description": "d_Beschluss V1262-FL35-06",
+          "file_name": "00060393.pdf"
+        },
+        {
+          "description": "e_Beschluss V2829-SR76-08",
+          "file_name": "00060394.pdf"
+        },
+        {
+          "description": "c (1)_Anlage 3_Finanzielle Auswirkungen (1)",
+          "file_name": "00062447.pdf"
+        },
+        {
+          "description": "c (2)_Beschluss V1833-43-2002",
+          "file_name": "00062441.pdf"
+        },
+        {
+          "description": "f_V0750_10",
+          "file_name": "00061795.pdf"
+        },
+        {
+          "description": "V1035/11",
+          "file_name": "00062896.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Hafencity - Modellprojekt CO2-neutraler Stadtteil",
+      "template_id": "A0163/10",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0163/11",
+          "file_name": "00067836.pdf"
+        },
+        {
+          "description": "Antrag GRÜNE",
+          "file_name": "00052491.pdf"
+        },
+        {
+          "description": "BK A0163/10 Zwischenbericht v. 2013-04-23",
+          "file_name": "00130768.pdf"
+        },
+        {
+          "description": "Anlage A0163-10-methodische Grundlagen",
+          "file_name": "00025727.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Reinigung der Dresdner Schulen als Unterkünfte des Evangelischen Kirchentages 2011",
+      "template_id": "A0359/11",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00059253.pdf"
+        }
+      ],
+      "decision": "zurückgezogen",
+      "vote_result": null
+    },
+    {
+      "description": "Verbleib der Sächsischen Aufbaubank in Dresden",
+      "template_id": "A0360/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_A0360/11",
+          "file_name": "00067754.pdf"
+        },
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00059254.pdf"
+        }
+      ],
+      "decision": "Vertagung",
+      "vote_result": null
+    },
+    {
+      "description": "Finanzielle Neuordnung der Stadionverträge bei einem Spielbetrieb des SG Dynamo Dresden e. V. in der 2. Fußballbundesliga",
+      "template_id": "V1108/11",
+      "documents": [
+        {
+          "description": "Beschlussausfertigung_V1108/11",
+          "file_name": "00067148.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00065252.pdf"
+        },
+        {
+          "description": "Anlage 1 zur V1108 11",
+          "file_name": "00065386.pdf"
+        },
+        {
+          "description": "Anlage 2 zur V1108 11",
+          "file_name": "00065387.pdf"
+        },
+        {
+          "description": "Beschluss zur V1108 11",
+          "file_name": "00065213.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 65",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00064205.pdf",
+      "description": "Einladung_SR_2011_05_31"
+    },
+    {
+      "file_name": "00064569.pdf",
+      "description": "Nachtrag_SR_2011_05_31"
+    },
+    {
+      "file_name": "00067213.pdf",
+      "description": "Niederschrift öffentlich_SR_2011_05_31"
+    },
+    {
+      "file_name": "00072207.pdf",
+      "description": "nicht öffentliche Beschlüsse"
+    },
+    {
+      "file_name": "00067653.pdf",
+      "description": "öffentliche Niederschrift mit namentlicher Abstimmung_SR_2011_05_31"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:50:34Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=1122"
+}

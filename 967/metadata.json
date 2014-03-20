@@ -1,0 +1,92 @@
+{
+  "id": "OBR Alt/011/2010",
+  "description": "11. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2010-08-19T15:30:00Z",
+  "ended_at": "2010-08-19T18:15:00Z",
+  "location": "Ortsamt Altstadt, Theaterstr. 11, 01067 DresdenBürgersaal, 1. Etage/Zimmer 100",
+  "parts": [
+    {
+      "description": "Anträge und Vorlagen zur Beratung und Berichterstattung an die Gremien des Stadtrates",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Drohender Grundschulnotstand in Dresden",
+      "template_id": "A0191/10",
+      "documents": [
+        {
+          "description": "Antrag LINKE.",
+          "file_name": "00031142.pdf"
+        },
+        {
+          "description": "Anlage zum Antrag A0191/10 - Grundschulen",
+          "file_name": "00031225.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 9",
+        "contra": " 8",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Prioritätenliste zum Bau fehlender und zur Sanierung stark instandsetzungsbedürftiger Fußwege",
+      "template_id": "A0195/10",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00033382.pdf"
+        },
+        {
+          "description": "BK A0195/12 Zw.-Bericht 31.01.2013",
+          "file_name": "00123277.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 17",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Helmut-Schön-Ehrung - Namensgebung - Straße",
+      "template_id": "A0212/10",
+      "documents": [
+        {
+          "description": "Antrag Interfraktionell",
+          "file_name": "00037448.pdf"
+        }
+      ],
+      "decision": "zur Kenntnis genommen",
+      "vote_result": null
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00037353.pdf",
+      "description": "Einladung_OBR Alt_19.08.2010"
+    },
+    {
+      "file_name": "00038939.pdf",
+      "description": "Niederschrift öffentlich_OBR Alt_19.08.2010"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:08:40Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=967"
+}

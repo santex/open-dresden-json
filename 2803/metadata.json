@@ -1,0 +1,111 @@
+{
+  "id": "OBR Alt/044/2013",
+  "description": "44. Sitzung des Ortsbeirates Altstadt",
+  "committee": "Ortsbeirat Altstadt",
+  "started_at": "2013-06-12T16:45:00Z",
+  "ended_at": "2013-06-12T18:55:00Z",
+  "location": "Sächsische Verwaltungs- und Wirtschaftsakademie, Kugelhaus, 2. Obergeschoss, Wiener Platz 10, 01069 Dresden (Seminarraum wird vor Ort ausgewiesen)",
+  "parts": [
+    {
+      "description": "Veränderungen im Busnetz Coschütz und Gittersee",
+      "template_id": "V2228/13",
+      "documents": [
+        {
+          "description": "V2228/13",
+          "file_name": "00132519.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00132043.pdf"
+        },
+        {
+          "description": "a) Anlage 1",
+          "file_name": "00129055.pdf"
+        },
+        {
+          "description": "b) Anlage 2",
+          "file_name": "00129056.pdf"
+        },
+        {
+          "description": "c) bereits gefasster Beschluss_V2228",
+          "file_name": "00129060.pdf"
+        },
+        {
+          "description": "V2228-13-Stellungnahme BMB",
+          "file_name": "00129378.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 15",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Bebauungsplan Nr. 388 Dresden-Altstadt I, Nr. 42 Neumarkt Quartier V/1 (neu: Quartier IV-V)hier:Erweiterung des Geltungsbereiches zum Bebauungsplan",
+      "template_id": "V2191/13",
+      "documents": [
+        {
+          "description": "V2191/13",
+          "file_name": "00133846.pdf"
+        },
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00128024.pdf"
+        },
+        {
+          "description": "a) Anlage 1_Änderung Geltungsbereich",
+          "file_name": "00127711.pdf"
+        },
+        {
+          "description": "b) Anlage 2_Grenze des Geltungsbereiches",
+          "file_name": "00127712.pdf"
+        },
+        {
+          "description": "c) bereits gefasste Beschlüsse",
+          "file_name": "00127713.pdf"
+        }
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 10",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Errichtung von Informationstafeln zur Dokumentation der Geschichte und des Baus der Dresdner Waldschlößchenbrücke",
+      "template_id": "A0734/13",
+      "documents": [
+        {
+          "description": "Antrag FDP",
+          "file_name": "00130258.pdf"
+        }
+      ],
+      "decision": "Ablehnung",
+      "vote_result": {
+        "pro": " 0",
+        "contra": " 15",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Informationen, Hinweise und Anfragen",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00134284.pdf",
+      "description": "Einladung_OBR Alt_12.06.2013"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:54:56Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2803"
+}

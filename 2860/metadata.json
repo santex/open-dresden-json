@@ -1,0 +1,65 @@
+{
+  "id": "OSR OW/040/2013",
+  "description": "40. Sitzung des Ortschaftsrates Oberwartha",
+  "committee": "Ortschaftsrat Oberwartha",
+  "started_at": "2013-01-31T16:30:00Z",
+  "ended_at": "2013-01-31T19:00:00Z",
+  "location": "Landeshauptstadt Dresden,  in der Ortschaft Oberwartha, Versammlungsraum,Max-Schwan-Straße 4, 01156 Dresden",
+  "parts": [
+    {
+      "description": "Begrüßung und Feststellung der Beschlussfähigkeit",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Beschluss zur zukünftigen Grundstückspflege im städtischen Grundstück Max-Schwan-Straße 4",
+      "template_id": "A-OW0053/13",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Stellungnahme zum Fahrplan Buslinie 93",
+      "template_id": "A-OW0052/13",
+      "documents": [
+
+      ],
+      "decision": "Zustimmung",
+      "vote_result": {
+        "pro": " 5",
+        "contra": " 0",
+        "abstention": 0
+      }
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00121462.pdf",
+      "description": "Einladung_OSR OW"
+    },
+    {
+      "file_name": "00122567.pdf",
+      "description": "Beschlussausfertigung STN Bus 93"
+    },
+    {
+      "file_name": "00122290.pdf",
+      "description": "Beschlussausfertigung STN Grundstücksverkauf"
+    },
+    {
+      "file_name": "00123252.pdf",
+      "description": "Niederschrift öffentlich"
+    }
+  ],
+  "downloaded_at": "2013-07-15T03:31:47Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=2860"
+}

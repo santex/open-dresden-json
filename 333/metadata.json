@@ -1,0 +1,100 @@
+{
+  "id": "OBR Neu/010/2010",
+  "description": "10. Sitzung des Ortsbeirates Neustadt",
+  "committee": "Ortsbeirat Neustadt",
+  "started_at": "2010-06-23T16:00:00Z",
+  "ended_at": "2010-06-23T18:00:00Z",
+  "location": "Landeshauptstadt Dresden,  Pfarrei der St. Martin Kirche (Neubau links), 1. Etage,Stauffenbergallee / An der St. Martin Kirche, 01099 Dresden",
+  "parts": [
+    {
+      "description": "Information zu Stand und Entwicklung von weiteren ProjektenTeilnahme: Herr Kaiser, Projektentw.-Immobilien GmbH",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    },
+    {
+      "description": "Fahrradfreundliche Innenstadt Dresden - Radverkehrskonzept 26er Ring18:30 Uhr",
+      "template_id": "V0277/09",
+      "documents": [
+        {
+          "description": "Vorlage Gremien",
+          "file_name": "00032463.pdf"
+        },
+        {
+          "description": "BK V0277/09 Zwischenbericht v. 2012-10-19",
+          "file_name": "00114162.pdf"
+        },
+        {
+          "description": "a)Anlage 1_Abschlussbericht_neu_V0277",
+          "file_name": "00027149.pdf"
+        },
+        {
+          "description": "b)Anlagen zur Anlage 1 Teil I_V0277",
+          "file_name": "00025980.pdf"
+        },
+        {
+          "description": "c)Anlagen zur Anlage 1 Teil II_V0277",
+          "file_name": "00025981.pdf"
+        },
+        {
+          "description": "d)Anlagen_zur Anlage 1 Teil III_V0277",
+          "file_name": "00025982.pdf"
+        },
+        {
+          "description": "e)Anlagen_zur Anlage 1 Teil IV_V0277",
+          "file_name": "00025983.pdf"
+        },
+        {
+          "description": "f)Anlagen_zur Anlage 1 Teil V_V0277",
+          "file_name": "00025984.pdf"
+        },
+        {
+          "description": "g)Anlagen_zur Anlage 1 Teil VI_V0277",
+          "file_name": "00025985.pdf"
+        },
+        {
+          "description": "h)Anlage_2_V0277",
+          "file_name": "00025986.pdf"
+        },
+        {
+          "description": "i)Anlage3-Vorlage-Kosten_neu_V0277",
+          "file_name": "00031965.pdf"
+        },
+        {
+          "description": "j)bereitsgefasster Beschluss_V0277",
+          "file_name": "00025988.pdf"
+        },
+        {
+          "description": "Stellungnahme BOB_GLB zu V0277",
+          "file_name": "00013974.pdf"
+        }
+      ],
+      "decision": "Zustimmung mit Änderung",
+      "vote_result": {
+        "pro": " 14",
+        "contra": " 0",
+        "abstention": 0
+      }
+    },
+    {
+      "description": "Vorlagen zur Information an den Ortsbeirat19:45",
+      "template_id": " ",
+      "documents": [
+
+      ],
+      "decision": null,
+      "vote_result": null
+    }
+  ],
+  "documents": [
+    {
+      "file_name": "00032313.pdf",
+      "description": "Einladung_OBR Neu_23.06.2010"
+    }
+  ],
+  "downloaded_at": "2013-07-15T01:06:22Z",
+  "session_url": "http://ratsinfo.dresden.de/to0040.php?__ksinr=333"
+}
